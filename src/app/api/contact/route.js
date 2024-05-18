@@ -5,6 +5,8 @@ import { writeFile } from "fs/promises";
 import { v4 as uuid } from "uuid";
 import nodemailer from "nodemailer";
 import connection from "../../../helper/db";
+import { google } from "googleapis";
+import data from "../../../../apiKey.json";
 export const POST = async (req, res) => {
   const fileData = await req.formData();
   const unique_id = uuid();
@@ -23,8 +25,8 @@ export const POST = async (req, res) => {
   //medical report
   const buffer = Buffer.from(await file.arrayBuffer());
   const buffer2 = Buffer.from(await identityFile.arrayBuffer());
-  const medical = "medical" + file.name.replaceAll(" ", "_");
-  const iden = "identity" + identityFile.name.replaceAll(" ", "_");
+  const medical = unique_id + "medical" + file.name;
+  const iden = unique_id + "identity" + identityFile.name;
   try {
     await writeFile(
       path.join(process.cwd(), `public/documents`, unique_id, medical),
@@ -90,10 +92,88 @@ export const POST = async (req, res) => {
           </body>
           </html>`,
     };
-    transporter.sendMail(mailOptions);
+    // transporter.sendMail(mailOptions);
+
+    //google drive
+    const authClient = await authorize();
+    uploadFile(authClient, unique_id, file, identityFile);
     return NextResponse.json({ Message: "Success", success: true });
   } catch (error) {
     console.log("Error occured ", error);
     return NextResponse.json({ Message: "Failed", success: false });
   }
 };
+const SCOPE = ["https://www.googleapis.com/auth/drive"];
+
+//authorize
+async function authorize() {
+  const jwtclient = new google.auth.JWT(
+    data.client_email,
+    null,
+    data.private_key,
+    SCOPE
+  );
+  await jwtclient.authorize();
+  return jwtclient;
+}
+
+async function uploadFile(authClient, unique_id, file, identityFile) {
+  return new Promise((resolve, rejected) => {
+    // file 1
+    const folderPath = path.join(
+      process.cwd(),
+      "public/documents",
+      unique_id,
+      `${unique_id}medical${file.name}`
+    );
+    const drive = google.drive({ version: "v3", auth: authClient });
+    var fileMetaData = {
+      name: `${unique_id}medical`,
+      parents: ["1vKIN6Xqcn822BZ3rLSRfPhUa-i714D3q"],
+    };
+    drive.files.create(
+      {
+        resource: fileMetaData,
+        media: {
+          body: fs.createReadStream(folderPath),
+          mimeType: "application/pdf",
+        },
+        fields: "id",
+      },
+      function (err, file) {
+        if (err) {
+          return rejected(err);
+        }
+        resolve(file);
+      }
+    );
+
+    //file2
+    const folderPath2 = path.join(
+      process.cwd(),
+      "public/documents",
+      unique_id,
+      `${unique_id}identity${identityFile.name}`
+    );
+    var fileMetaData = {
+      name: `${unique_id}identity`,
+      parents: ["1vKIN6Xqcn822BZ3rLSRfPhUa-i714D3q"],
+    };
+    drive.files.create(
+      {
+        resource: fileMetaData,
+        media: {
+          body: fs.createReadStream(folderPath2),
+          mimeType: "application/pdf",
+        },
+        fields: "id",
+      },
+      function (err, file) {
+        if (err) {
+          return rejected(err);
+        }
+        resolve(file);
+      }
+    );
+  });
+}
