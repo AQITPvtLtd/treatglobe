@@ -5,7 +5,7 @@ const connection = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "",
-  database: "genelab",
+  database: "treatglobe",
 });
 
 export default connection;

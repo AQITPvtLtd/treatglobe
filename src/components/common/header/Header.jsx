@@ -70,7 +70,7 @@ const Header = () => {
         <div className="">
           <div className="relative flex w-screen justify-between">
             {/*logo*/}
-            <div className="lg:w-[180px] w-[340px] lg:px-4 xl:mr-12">
+            <div className="lg:w-[400px] w-[340px] lg:px-4 xl:mr-12">
               <Link
                 href="/"
                 className={`header-logo block w-full ${
@@ -78,11 +78,11 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/logo/logo.png"
+                  src="/logo/logo4.png"
                   alt="logo"
                   width={200}
                   height={200}
-                  className="w-[200px] ml-4 left-0 p-3"
+                  className="ml-4 left-0 p-3"
                 />
               </Link>
             </div>

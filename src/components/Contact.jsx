@@ -4,9 +4,11 @@ import { sendFormData } from "@/services/formData";
 import React, { useState } from "react";
 import { useRouter } from "next/navigation";
 import "animate.css";
+import swal from "sweetalert";
 const ContactForm = () => {
   const router = useRouter();
   const [file, setFile] = useState(null);
+  const [identityFile, setIndentityFile] = useState(null);
   const [formData, setFormData] = useState({
     firstName: "",
     lastName: "",
@@ -18,24 +20,30 @@ const ContactForm = () => {
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
-    if (!file) return;
     const fileData = new FormData();
     fileData.append("myFile", file);
+    fileData.append("identity", identityFile);
+
     // Append other form data fields to fileData
     Object.entries(formData).forEach(([key, value]) => {
       fileData.append(key, value);
     });
     const response = await sendFormData(fileData);
     if (response.success) {
-      toast.success(response.message, {
-        position: "bottom-left",
+      swal({
+        title: "Success",
+        text: "Enquiry Form Sent!",
+        icon: "success",
       });
       router.push("/");
     } else {
-      toast.error(response.message, {
-        position: "bottom-left",
+      swal({
+        title: "Oops!",
+        text: "Can't send enquiry form",
+        icon: "error",
       });
     }
   };
@@ -101,14 +109,14 @@ const ContactForm = () => {
             <div className="relative w-full mb-3">
               <label
                 className="block uppercase text-blueGray-600 text-md font-bold text-white"
-                htmlFor="grid-password"
+                htmlFor="medical"
               >
                 Medical Report
               </label>
               <input
                 type="file"
-                id="myFile"
-                name="prescription"
+                id="medical"
+                name="medical"
                 accept="image/*, .pdf"
                 onChange={({ target }) => {
                   if (target.files) {
@@ -127,20 +135,20 @@ const ContactForm = () => {
             <div className="relative w-full mb-3">
               <label
                 className="block uppercase text-blueGray-600 text-md font-bold text-white"
-                htmlFor="grid-password"
+                htmlFor="identity"
               >
                 Identity Proof
               </label>
               <input
                 type="file"
-                id="myFile"
-                name="prescription"
+                id="identity"
+                name="identity"
                 accept="image/*, .pdf"
                 onChange={({ target }) => {
                   if (target.files) {
                     const file = target.files[0];
 
-                    setFile(file);
+                    setIndentityFile(file);
                   }
                 }}
               />
