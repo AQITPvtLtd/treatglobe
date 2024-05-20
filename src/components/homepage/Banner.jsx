@@ -1,9 +1,12 @@
 "use client";
 
+import { useState } from "react";
 import "animate.css";
 import Image from "next/image";
 import ContactForm from "../Contact";
+import ScrollTrigger from "react-scroll-trigger";
 function Banner() {
+  const [animate, setAnimate] = useState(false);
   return (
     <div className="overflow-x-clip mt-[180px]">
       <div>
@@ -19,10 +22,18 @@ function Banner() {
             <div className="animate__animated animate__pulse animate__infinite animate__slower text-center mt-5 items-center  font-bold text-5xl flex justify-center bg-gradient-to-t from-primary to-secondary text-transparent bg-clip-text">
               <h1>Your Reliable Guide for Treatment Travel</h1>
             </div>
-
-            <div className=" bg-secondary row-span-4 mt-5 mx-20 rounded-2xl bg-opacity-80 col-start-2">
-              <ContactForm />
-            </div>
+            <ScrollTrigger
+              onEnter={() => setAnimate(true)}
+              onExit={() => setAnimate(false)}
+            >
+              <div
+                className={` ${
+                  animate && "animate__animated animate__slideInRight"
+                } bg-secondary row-span-4 mt-5 mx-20 rounded-2xl bg-opacity-80 col-start-2`}
+              >
+                <ContactForm />
+              </div>
+            </ScrollTrigger>
           </div>
 
           {/* {index === currentSlide && (

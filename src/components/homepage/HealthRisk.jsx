@@ -29,14 +29,18 @@ const data = [
 
 const HealthRisk = () => {
   return (
-    <div className="mt-20">
-      <h1 className="text-center font-semibold text-3xl text-secondary">Health Risk</h1>
+    <div className="mt-[220px]">
+      <h1 className="text-center font-semibold text-3xl text-secondary">
+        Health Risk
+      </h1>
       <div className="grid md:grid-cols-3 text-center items-center ">
         {data.map((item) => {
           return (
             <div key={item.id}>
               <div className="text-center items-center p-5">
-                <div className="flex flex-col items-center"> {/* Center items */}
+                <div className="flex flex-col items-center">
+                  {" "}
+                  {/* Center items */}
                   <div className="text-5xl">{item.icon}</div>
                   <div className="text-2xl">{item.title}</div>
                   <div>{item.description}</div>

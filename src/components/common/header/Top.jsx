@@ -9,36 +9,36 @@ import Link from "next/link";
 
 const Top = () => {
   return (
-    <div className="bg-primary md:flex justify-evenly p-3 text-xl text-white">
+    <div className="bg-primary md:flex justify-evenly p-3 text-lg text-white">
       {/* Social Icons */}
-      <div className="flex gap-5">
-        <Link href={"#!"}>
+      <div className="flex gap-5 mt-1">
+        <Link href={"#!"} className="hover:text-secondary">
           <FaFacebook />
         </Link>
-        <Link href={"#!"}>
+        <Link href={"#!"} className="hover:text-secondary">
           <FaInstagram />
         </Link>
-        <Link href={"#!"}>
+        <Link href={"#!"} className="hover:text-secondary">
           <FaLinkedin />
         </Link>
-        <Link href={"#!"}>
+        <Link href={"#!"} className="hover:text-secondary">
           <FaXTwitter />
         </Link>
       </div>
 
       {/* Email and Phone No. */}
       <div className="flex gap-5">
-        <Link href={"#!"}>
+        <Link href="tel:+91 98186 47557" className="hover:text-secondary">
           <div className="flex gap-3">
             <FaPhoneAlt className="mt-1" />
-            <p>+91-11-6524397</p>
+            <p>+91 98186 47557</p>
           </div>
         </Link>
 
-        <Link href={"#!"}>
+        <Link href={"#!"} className="hover:text-secondary">
           <div className="flex gap-3">
             <MdEmail className="mt-1" />
-            <p>info@lorempixel.com</p>
+            <p>info@treatglobe.com</p>
           </div>
         </Link>
       </div>
