@@ -16,10 +16,10 @@ function Banner() {
             height={2000}
             src="/banner/slider3.png"
             alt="slider-image"
-            className="lg:w-full lg:h-[560px] h-[400px]"
+            className="lg:w-full lg:h-[560px] h-[400px] object-cover"
           />
-          <div className="absolute inset-0 grid grid-cols-2 grid-rows-4 mt-20">
-            <div className="animate__animated animate__pulse animate__infinite animate__slower text-center mt-5 items-center  font-bold text-5xl flex justify-center bg-gradient-to-t from-primary to-secondary text-transparent bg-clip-text">
+          <div className="absolute inset-0 lg:grid grid-cols-2 grid-rows-4 lg:mt-20 mt-[300px]">
+            <div className="animate__animated animate__pulse animate__infinite animate__slower text-center mt-5 items-center  font-bold text-5xl flex justify-center bg-gradient-to-t from-primary to-secondary lg:text-transparent bg-clip-text">
               <h1>Your Reliable Guide for Treatment Travel</h1>
             </div>
             <ScrollTrigger
@@ -29,7 +29,7 @@ function Banner() {
               <div
                 className={` ${
                   animate && "animate__animated animate__slideInRight"
-                } bg-secondary row-span-4 mt-5 mx-20 rounded-2xl bg-opacity-80 col-start-2`}
+                } bg-secondary row-span-4 mt-5 lg:mx-20 rounded-2xl bg-opacity-80 col-start-2`}
               >
                 <ContactForm />
               </div>

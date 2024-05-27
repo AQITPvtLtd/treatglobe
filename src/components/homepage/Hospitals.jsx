@@ -30,14 +30,14 @@ const Hospitals = () => {
     ],
   };
   return (
-    <div className="mt-10">
-      <div className="grid grid-cols-2 h-[500px] relative">
+    <div className="lg:mt-10">
+      <div className="lg:grid grid-cols-2 h-[500px] relative">
         <div className="bg-primary">
-          <div className="my-24 border-white border-2 ml-5 py-10">
+          <div className="my-24 border-white lg:border-2 ml-5 py-10">
             <h1 className="text-white font-bold text-4xl font-serif text-center">
               Our Network of Hospitals
             </h1>
-            <p className="text-white mx-20 leading-loose mt-5">
+            <p className="text-white lg:mx-20 mx-3 leading-loose mt-5 ">
               Our network of hospitals spans across multiple regions, bringing
               together a diverse range of world-class healthcare facilities
               under one umbrella. Each hospital in our network is equipped with
@@ -47,7 +47,7 @@ const Hospitals = () => {
             </p>
           </div>
         </div>
-        <div className="relative -ml-16 mt-[140px]">
+        <div className="relative -ml-3 lg:-ml-16 lg:mt-[140px]">
           <div className="absolute inset-0">
             <Slider {...settings} className="overflow-x-clip">
               {hospitals.map((h) => (
@@ -59,7 +59,9 @@ const Hospitals = () => {
                       height={1000}
                       className="w-[320px] h-[220px] mb-5 border-secondary border-4"
                     />
-                    <h1 className="text-center text-lg font-bold">{h.name}</h1>
+                    <h1 className="text-center text-lg font-bold -ml-2">
+                      {h.name}
+                    </h1>
                   </div>
                 </div>
               ))}

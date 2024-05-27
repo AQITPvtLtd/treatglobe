@@ -66,7 +66,7 @@ const ContactForm = () => {
               />
             </div>
           </div>
-          <div className="w-full lg:w-6/12 pl-3">
+          <div className="w-full lg:w-6/12 lg:pl-3">
             <div className="relative w-full mb-3">
               <input
                 name="lastName"
@@ -90,7 +90,7 @@ const ContactForm = () => {
               />
             </div>
           </div>
-          <div className="w-full lg:w-6/12 pl-3">
+          <div className="w-full lg:w-6/12 lg:pl-3">
             <div className="relative w-full mb-3">
               <input
                 name="email"

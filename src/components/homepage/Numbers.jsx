@@ -7,7 +7,7 @@ import ScrollTrigger from "react-scroll-trigger";
 const Numbers = () => {
   const [count, setCount] = useState(false);
   return (
-    <div className="mt-[25px] relative">
+    <div className="lg:mt-[25px] mt-[1000px] relative">
       <Image
         src="/numbers/numbers_banner.png"
         width={1000}

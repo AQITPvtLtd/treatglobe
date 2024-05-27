@@ -2,11 +2,11 @@ import React from "react";
 import Image from "next/image";
 const WhyChooseUs = () => {
   return (
-    <div className="mt-[200px]">
+    <div className="mt-[250px] lg:mt-[200px]">
       <h1 className="font-bold text-5xl mx-10 text-center pt-10 font-serif mb-6">
         Why Choose Us ?
       </h1>
-      <div className="grid grid-cols-4 mx-20">
+      <div className="lg:grid grid-cols-4 lg:mx-20">
         <div className="relative">
           <Image
             src="/why/arrow1.png"

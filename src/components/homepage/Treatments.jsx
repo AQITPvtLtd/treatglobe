@@ -8,24 +8,24 @@ const Treatments = () => {
         src="/services.png"
         width={2000}
         height={1000}
-        className="w-[2000px] h-[1000px] object-cover"
+        className="w-[2000px] lg:h-[1000px] h-[2000px] object-cover"
         alt="treatmentBanner"
       />
       <div className="absolute inset-0">
         <h1 className=" font-bold text-5xl mx-10 text-center pt-10 font-serif mb-4 text-white">
           Our Best Treatments
         </h1>
-        <div className="grid grid-cols-4 ">
+        <div className="grid lg:grid-cols-4 grid-cols-2">
           {treatment.map((t) => (
             <div key={t.id} className="flex justify-center p-5">
               <div>
                 <div className="shadow-xl shadow-primary h-[200px] border-white border-4 rounded-full bg-primary flex justify-center p-10">
                   <Image
                     src={`/treatments/${t.image}`}
-                    width={100}
-                    height={100}
+                    width={500}
+                    height={500}
                     alt="treatment"
-                    className="w-[120px]"
+                    className="lg:w-[120px] h-[80px] lg:h-[100px]"
                   />
                 </div>
                 <div className="text-center text-xl font-semibold mt-4 text-white">

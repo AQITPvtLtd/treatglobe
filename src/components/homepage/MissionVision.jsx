@@ -3,13 +3,13 @@ import Image from "next/image";
 const MissionVision = () => {
   return (
     <div>
-      <div className="mt-5 relative">
+      <div className="lg:mt-5 mt-[750px] relative">
         <div className="bg-primary pb-20">
           <h1 className=" font-bold text-5xl text-white mx-10 text-center pt-10 font-serif">
             Welcome to Treat Globe
           </h1>
-          <div className="grid grid-cols-2 m-10">
-            <div className="text-white border-white border rounded-xl p-8 mr-5 mb-10 shadow-secondary shadow-lg">
+          <div className="lg:grid grid-cols-2 m-10">
+            <div className="text-white border-white border rounded-xl p-8 lg:mr-5 mb-10 shadow-secondary shadow-lg">
               <h1 className="text-center text-2xl font-semibold mb-2">
                 Our Mission
               </h1>
@@ -21,7 +21,7 @@ const MissionVision = () => {
                 care, transparent processes, and exceptional value.
               </p>
             </div>
-            <div className="text-white border-white border rounded-xl p-8 ml-5 mb-10 shadow-secondary shadow-lg">
+            <div className="text-white border-white border rounded-xl p-8 lg:ml-5 mb-10 shadow-secondary shadow-lg">
               <h1 className="text-center text-2xl font-semibold mb-2">
                 Our Vision
               </h1>
@@ -35,13 +35,13 @@ const MissionVision = () => {
             </div>
           </div>
         </div>
-        <div className="absolute inset-0 col-start-1 col-span-3 mt-[400px] flex justify-center">
+        <div className="absolute inset-0 col-start-1 col-span-3 lg:mt-[400px] mt-[1050px] flex justify-center">
           <Image
             src="/missionVision/missionvision.png"
             height={1000}
             width={10000}
             alt="missionvision"
-            className="h-[300px] w-[1200px] rounded-xl"
+            className="h-[300px] w-[1200px] rounded-xl object-fit"
           />
         </div>
       </div>
