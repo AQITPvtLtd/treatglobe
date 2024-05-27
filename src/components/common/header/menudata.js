@@ -9,7 +9,7 @@ export const menuData = [
     id: 2,
     title: "About Us",
     newTab: true,
-    path: "/about-us",
+    path: "/about",
   },
   {
     id: 3,

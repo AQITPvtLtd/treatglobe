@@ -1,6 +1,34 @@
+"use client";
+
 import React from "react";
 import Image from "next/image";
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import { GrPrevious } from "react-icons/gr";
+import { GrNext } from "react-icons/gr";
+import { hospitals } from "../hospitals";
 const Hospitals = () => {
+  var settings = {
+    dots: true,
+    infinite: true,
+    slidesToShow: 2,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    nextArrow: <GrNext color="black" />,
+    prevArrow: <GrPrevious color="white" />,
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          swipeToSlide: true,
+        },
+      },
+    ],
+  };
   return (
     <div className="mt-10">
       <div className="grid grid-cols-2 h-[500px] relative">
@@ -19,36 +47,23 @@ const Hospitals = () => {
             </p>
           </div>
         </div>
-        <div className="relative -ml-20 mt-10">
+        <div className="relative -ml-16 mt-[140px]">
           <div className="absolute inset-0">
-            <div className="grid grid-cols-2 mx-10">
-              <div className="">
-                <Image
-                  src="/hospitals/fortis.png"
-                  width={1000}
-                  height={1000}
-                  className="w-[300px] h-[200px] mb-5 border-secondary border-4"
-                />
-              </div>
-              <Image
-                src="/hospitals/fortis.png"
-                width={1000}
-                height={1000}
-                className="w-[300px] h-[200px] border-secondary border-4"
-              />
-              <Image
-                src="/hospitals/fortis.png"
-                width={1000}
-                height={1000}
-                className="w-[300px] h-[200px] border-secondary border-4"
-              />
-              <Image
-                src="/hospitals/fortis.png"
-                width={1000}
-                height={1000}
-                className="w-[300px] h-[200px] border-secondary border-4"
-              />
-            </div>
+            <Slider {...settings} className="overflow-x-clip">
+              {hospitals.map((h) => (
+                <div className=" mx-10">
+                  <div className="">
+                    <Image
+                      src={`/hospitals/${h.image}`}
+                      width={1000}
+                      height={1000}
+                      className="w-[320px] h-[220px] mb-5 border-secondary border-4"
+                    />
+                    <h1 className="text-center text-lg font-bold">{h.name}</h1>
+                  </div>
+                </div>
+              ))}
+            </Slider>
           </div>
         </div>
       </div>
