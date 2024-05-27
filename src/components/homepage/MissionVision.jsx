@@ -14,10 +14,11 @@ const MissionVision = () => {
                 Our Mission
               </h1>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Provident accusantium consectetur aspernatur consequatur commodi
-                aliquid, quidem esse culpa ab temporibus numquam corrupti odit
-                quas distinctio est nesciunt explicabo reiciendis mollitia?
+                Our mission is to provide accessible, high-quality medical care
+                globally by connecting patients with best healthcare providers
+                and state-of-the-art facilities. We strive to ensure a seamless
+                and supportive medical tourism experience, offering personalized
+                care, transparent processes, and exceptional value.
               </p>
             </div>
             <div className="text-white border-white border rounded-xl p-8 ml-5 mb-10 shadow-secondary shadow-lg">
@@ -25,15 +26,16 @@ const MissionVision = () => {
                 Our Vision
               </h1>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Provident accusantium consectetur aspernatur consequatur commodi
-                aliquid, quidem esse culpa ab temporibus numquam corrupti odit
-                quas distinctio est nesciunt explicabo reiciendis mollitia?
+                Our vision is to be the leading medical tourism facilitator,
+                known for transforming healthcare journeys through innovation
+                and compassion. We aim to bridge the gap between patients and
+                world-class medical services, enhancing health and well-being
+                while promoting global healthcare excellence.
               </p>
             </div>
           </div>
         </div>
-        <div className="absolute inset-0 col-start-1 col-span-3 mt-[350px] flex justify-center">
+        <div className="absolute inset-0 col-start-1 col-span-3 mt-[400px] flex justify-center">
           <Image
             src="/missionVision/missionvision.png"
             height={1000}

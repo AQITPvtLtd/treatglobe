@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 const WhyChooseUs = () => {
   return (
-    <div className="mt-[150px]">
+    <div className="mt-[200px]">
       <h1 className="font-bold text-5xl mx-10 text-center pt-10 font-serif mb-6">
         Why Choose Us ?
       </h1>

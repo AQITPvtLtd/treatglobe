@@ -20,8 +20,9 @@ const Footer = () => {
                 />
               </Link>
               <p className=" leading-normal">
-                At GeneLab, we are dedicated to revolutionizing healthcare
-                through cutting-edge genetic testing solutions.
+                Discover world-class healthcare abroad with Treat Globe.
+                Affordable treatments, top doctors, and seamless travel
+                arrangements await you.
               </p>
             </div>
             <div className="lg:flex justify-center mt-6">
@@ -39,7 +40,7 @@ const Footer = () => {
                       href="/about/who-are-we"
                       className="hover:text-darkgreen"
                     >
-                      Who Are We
+                      About Us
                     </Link>
                   </li>
                   <li>
@@ -47,7 +48,7 @@ const Footer = () => {
                       href="/about/why-choose-us"
                       className="hover:text-darkgreen"
                     >
-                      Why Choose Us
+                      Articles
                     </Link>
                   </li>
                   <li>
@@ -60,27 +61,27 @@ const Footer = () => {
             </div>
             <div className="lg:flex justify-center mt-6">
               <div className="mb-6">
-                <h5 className="mb-2.5 font-bold uppercase">Common Tests</h5>
+                <h5 className="mb-2.5 font-bold uppercase">Treatments</h5>
 
                 <ul className="mb-0 list-none leading-loose">
                   <li>
                     <Link href="/tests/1" className="hover:text-blue">
-                      Comprehensive Cancer Panel Testing
+                      Oncology
                     </Link>
                   </li>
                   <li>
                     <Link href="/tests/2" className="hover:text-blue">
-                      Hereditary Cancer Gene Testing
+                      Orthopedic Surgery
                     </Link>
                   </li>
                   <li>
                     <Link href="/tests/3" className="hover:text-blue">
-                      Tumor Profiling
+                      Spine Surgery
                     </Link>
                   </li>
                   <li>
                     <Link href="/tests/4" className="hover:text-blue">
-                      Liquid Biopsy
+                      Urology
                     </Link>
                   </li>
                 </ul>
@@ -100,7 +101,7 @@ const Footer = () => {
                   <li className="mt-3 leading-normal">
                     <Link href="tel:+91-981 172 4700">
                       <h5 className="mb-2.5 font-bold uppercase">Phone</h5>
-                      <div className="hover:text-blue">+91-981 172 4700</div>
+                      <div className="hover:text-blue">+91 98186 47557</div>
                     </Link>
                   </li>
                 </ul>
