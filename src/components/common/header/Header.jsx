@@ -135,8 +135,8 @@ const Header = () => {
                             }
                             className={`flex py-2 text-lg lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
                               usePathName === menuItem.path
-                                ? "text-primary"
-                                : "text-dark hover:text-primary"
+                                ? "text-secondary"
+                                : "text-dark hover:text-secondary"
                             } ${
                               menuItem.id == 10 &&
                               "lg:text-blue lg:font-bold lg:ml-20 lg:py-0 lg:px-4"
@@ -150,7 +150,7 @@ const Header = () => {
                           <>
                             <p
                               onClick={() => handleSubmenu(menuItem.id)}
-                              className="flex cursor-pointer items-center justify-between py-2 text-lg text-dark group-hover:text-primary lg:mr-0 lg:inline-flex lg:px-0 lg:py-6"
+                              className="flex cursor-pointer items-center justify-between py-2 text-lg text-dark group-hover:text-secondary lg:mr-0 lg:inline-flex lg:px-0 lg:py-6"
                             >
                               {menuItem.title}
                               <span className="">
@@ -178,7 +178,7 @@ const Header = () => {
                                       }
                                       href={submenuItem.path}
                                       key={index}
-                                      className={`block rounded py-2.5 text-sm text-dark hover:text-primary lg:px-3`}
+                                      className={`block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3`}
                                     >
                                       {submenuItem.title}
                                     </Link>
@@ -188,7 +188,7 @@ const Header = () => {
                                         onClick={() =>
                                           handleSubSubmenu(submenuItem.id)
                                         }
-                                        className="rounded py-2.5 text-sm lg:px-3 flex cursor-pointer items-center justify-between text-dark hover:text-primary"
+                                        className="rounded py-2.5 text-sm lg:px-3 flex cursor-pointer items-center justify-between text-dark hover:text-secondary"
                                       >
                                         {submenuItem.title}
                                         <span className="pl-3">
@@ -224,7 +224,7 @@ const Header = () => {
                                               }}
                                               href={subsubmenuItem.path}
                                               key={index}
-                                              className="block rounded py-2.5 text-sm text-dark hover:text-primary lg:px-3"
+                                              className="block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3"
                                             >
                                               {subsubmenuItem.title}
                                             </Link>
