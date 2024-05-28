@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 const WhyChooseUs = () => {
   return (
-    <div className="mt-[250px] lg:mt-[200px]">
+    <div className="mt-[200px]">
       <h1 className="font-bold text-5xl mx-10 text-center pt-10 font-serif mb-6">
         Why Choose Us ?
       </h1>
@@ -13,6 +13,7 @@ const WhyChooseUs = () => {
             width={1000}
             height={1000}
             className="w-[350px] h-[250px]"
+            alt="arrow"
           />
           <div className="items-center absolute inset-0 grid grid-rows-6">
             <div className="flex justify-center row-start-3">
@@ -21,6 +22,7 @@ const WhyChooseUs = () => {
                 className=""
                 height={100}
                 width={100}
+                alt="arrow"
               />
             </div>
             <h2 className="text-white row-start-5 text-center text-lg font-bold">
@@ -57,6 +59,7 @@ const WhyChooseUs = () => {
             width={1000}
             height={1000}
             className="w-[350px] h-[250px]"
+            alt="arrow"
           />
           <div className="items-center absolute inset-0 grid grid-rows-6">
             <div className="flex justify-center row-start-3">
@@ -65,6 +68,7 @@ const WhyChooseUs = () => {
                 className=""
                 height={100}
                 width={100}
+                alt="premium"
               />
             </div>
             <h2 className="text-white row-start-5 text-center text-lg font-bold">
@@ -79,6 +83,7 @@ const WhyChooseUs = () => {
             width={1000}
             height={1000}
             className="w-[350px] h-[250px]"
+            alt="arrow"
           />
           <div className="items-center absolute inset-0 grid grid-rows-6">
             <div className="flex justify-center row-start-3">
@@ -87,6 +92,7 @@ const WhyChooseUs = () => {
                 className=""
                 height={100}
                 width={100}
+                alt="expertise"
               />
             </div>
             <h2 className="text-white row-start-5 text-center text-lg font-bold">

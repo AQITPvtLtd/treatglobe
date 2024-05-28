@@ -51,15 +51,16 @@ const Hospitals = () => {
           <div className="absolute inset-0">
             <Slider {...settings} className="overflow-x-clip">
               {hospitals.map((h) => (
-                <div className=" mx-10">
+                <div className=" mx-10" key={h.id}>
                   <div className="">
                     <Image
                       src={`/hospitals/${h.image}`}
                       width={1000}
                       height={1000}
                       className="w-[320px] h-[220px] mb-5 border-secondary border-4"
+                      alt="hospitals"
                     />
-                    <h1 className="text-center text-lg font-bold -ml-2">
+                    <h1 className="text-center text-lg font-bold mx-10 lg:ml-0 -ml-10">
                       {h.name}
                     </h1>
                   </div>

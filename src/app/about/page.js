@@ -4,7 +4,7 @@ import React from "react";
 
 const page = () => {
   return (
-    <div className="mt-[150px]">
+    <div className="lg:mt-[150px] -mt-[550px]">
       <MissionVision />
       <WhyChooseUs />
     </div>

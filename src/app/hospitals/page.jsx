@@ -7,15 +7,16 @@ const page = () => {
       <h1 className="text-center text-5xl mb-7 font-serif font-bold">
         Our Network of Hospitals
       </h1>
-      <div className="grid grid-cols-3 mx-20">
+      <div className="lg:grid grid-cols-3 lg:mx-20">
         {hospitals.map((d) => (
-          <div key={d.key}>
+          <div key={d.id}>
             <div className="flex justify-center">
               <Image
                 src={`/hospitals/${d.image}`}
                 width={200}
                 height={200}
-                className="w-[300px] h-[200px] border-secondary border-4"
+                className="lg:w-[300px] lg:h-[200px] w-[350px] h-[250px] border-secondary border-4"
+                alt="hospitals"
               />
             </div>
             <h1 className="font-bold text-xl text-center mb-5 mt-2">

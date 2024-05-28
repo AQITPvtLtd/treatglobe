@@ -41,7 +41,7 @@ const MissionVision = () => {
             height={1000}
             width={10000}
             alt="missionvision"
-            className="h-[300px] w-[1200px] rounded-xl object-fit"
+            className="h-[200px] lg:h-[300px] w-[1200px] rounded-xl object-fit"
           />
         </div>
       </div>
