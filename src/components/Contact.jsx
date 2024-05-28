@@ -38,6 +38,15 @@ const ContactForm = () => {
         text: "Enquiry Form Sent!",
         icon: "success",
       });
+      setFormData({
+        firstName: "",
+        lastName: "",
+        phone: "",
+        email: "",
+        message: "",
+      });
+      setFile(null);
+      setIndentityFile(null);
       router.push("/");
     } else {
       swal({
@@ -117,7 +126,7 @@ const ContactForm = () => {
                 type="file"
                 id="medical"
                 name="medical"
-                accept=".pdf"
+                accept=".pdf image/*"
                 onChange={({ target }) => {
                   if (target.files) {
                     const file = target.files[0];
@@ -143,7 +152,7 @@ const ContactForm = () => {
                 type="file"
                 id="identity"
                 name="identity"
-                accept=".pdf"
+                accept=".pdf image/*"
                 onChange={({ target }) => {
                   if (target.files) {
                     const file = target.files[0];
