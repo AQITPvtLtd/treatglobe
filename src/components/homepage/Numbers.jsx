@@ -8,17 +8,18 @@ const Numbers = () => {
   const [count, setCount] = useState(false);
   return (
     <div className="lg:mt-[25px] mt-[450px] relative">
-      <Image
-        src="/numbers/numbers_banner.png"
-        width={1000}
-        height={1000}
-        className="lg:h-[500px] h-[1000px] w-full object-cover"
-        alt="banner"
-      />
       <ScrollTrigger
         onEnter={() => setCount(true)}
         onExit={() => setCount(false)}
       >
+        <Image
+          src="/numbers/numbers_banner.png"
+          width={1000}
+          height={1000}
+          className="lg:h-[500px] h-[1000px] w-full object-cover"
+          alt="banner"
+        />
+
         <div className="absolute inset-0 lg:grid grid-cols-3 m-[20px] lg:m-[130px] text-white font-bold text-2xl">
           <div className="bg-secondary my-5 rounded-l-lg flex justify-center items-center">
             <div className="my-3">
@@ -51,7 +52,12 @@ const Numbers = () => {
           </div>
           <div className="bg-secondary my-5 rounded-r-lg flex justify-center items-center">
             <div>
-              <Image src="/numbers/patients.png" width={150} height={150} alt="doctors"/>
+              <Image
+                src="/numbers/patients.png"
+                width={150}
+                height={150}
+                alt="doctors"
+              />
               <div className="text-7xl text-center">
                 {count && <CountUp start={1} end={50} duration={2} delay={0} />}
                 +

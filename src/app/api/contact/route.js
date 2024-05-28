@@ -7,6 +7,7 @@ import nodemailer from "nodemailer";
 import connection from "../../../helper/db";
 import { google } from "googleapis";
 import data from "../../../../apiKey.json";
+
 export const POST = async (req, res) => {
   const fileData = await req.formData();
   const unique_id = uuid();
@@ -129,14 +130,14 @@ async function uploadFile(authClient, unique_id, file, identityFile) {
     const drive = google.drive({ version: "v3", auth: authClient });
     var fileMetaData = {
       name: `${unique_id}medical`,
-      parents: ["1vKIN6Xqcn822BZ3rLSRfPhUa-i714D3q"],
+      parents: ["1VYv4_cHKzLw_9VtL7G1BnX8Ygf23Tf9H"],
     };
     drive.files.create(
       {
         resource: fileMetaData,
         media: {
           body: fs.createReadStream(folderPath),
-          mimeType: "application/pdf",
+          mimeType: "application/pdf image/*",
         },
         fields: "id",
       },
@@ -157,14 +158,14 @@ async function uploadFile(authClient, unique_id, file, identityFile) {
     );
     var fileMetaData = {
       name: `${unique_id}identity`,
-      parents: ["1vKIN6Xqcn822BZ3rLSRfPhUa-i714D3q"],
+      parents: ["1VYv4_cHKzLw_9VtL7G1BnX8Ygf23Tf9H"],
     };
     drive.files.create(
       {
         resource: fileMetaData,
         media: {
           body: fs.createReadStream(folderPath2),
-          mimeType: "application/pdf",
+          mimeType: "application/pdf image/*",
         },
         fields: "id",
       },
