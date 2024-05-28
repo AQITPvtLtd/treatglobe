@@ -126,7 +126,7 @@ const ContactForm = () => {
                 type="file"
                 id="medical"
                 name="medical"
-                accept=".pdf image/*"
+                accept="image/*, .pdf"
                 onChange={({ target }) => {
                   if (target.files) {
                     const file = target.files[0];
@@ -152,7 +152,7 @@ const ContactForm = () => {
                 type="file"
                 id="identity"
                 name="identity"
-                accept=".pdf image/*"
+                accept="image/*, .pdf"
                 onChange={({ target }) => {
                   if (target.files) {
                     const file = target.files[0];
