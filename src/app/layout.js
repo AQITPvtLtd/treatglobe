@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Treat Globe",
-  description: "Your best travel tourism partner",
+  description: "Your travel tourism partner",
 };
 
 export default function RootLayout({ children }) {

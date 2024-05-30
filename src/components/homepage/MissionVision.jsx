@@ -15,10 +15,10 @@ const MissionVision = () => {
               </h1>
               <p>
                 Our mission is to provide accessible, high-quality medical care
-                globally by connecting patients with best healthcare providers
-                and state-of-the-art facilities. We strive to ensure a seamless
-                and supportive medical tourism experience, offering personalized
-                care, transparent processes, and exceptional value.
+                globally by connecting patients with advanced healthcare
+                providers and state-of-the-art facilities. We strive to ensure a
+                seamless and supportive medical tourism experience, offering
+                personalized care, transparent processes, and exceptional value.
               </p>
             </div>
             <div className="text-white border-white border rounded-xl p-8 lg:ml-5 mb-10 shadow-secondary shadow-lg">
@@ -26,11 +26,13 @@ const MissionVision = () => {
                 Our Vision
               </h1>
               <p>
-                Our vision is to be the leading medical tourism facilitator,
+                {/* Our vision is to be the leading medical tourism facilitator,
                 known for transforming healthcare journeys through innovation
                 and compassion. We aim to bridge the gap between patients and
                 world-class medical services, enhancing health and well-being
-                while promoting global healthcare excellence.
+                while promoting global healthcare excellence. */}
+                A world where high-quality healthcare is accessible and
+                affordable to everyone, regardless of location.
               </p>
             </div>
           </div>
