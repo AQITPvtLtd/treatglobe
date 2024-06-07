@@ -20,7 +20,7 @@ const Treatments = () => {
           {treatment.map((t) => (
             <div key={t.id} className="flex flex-col items-center p-5">
               <div className="">
-                <div className="lg:h-[200px] w-lg:[200px] w-[150px] h-[150px] bg-primary border-4 border-white rounded-full flex items-center justify-center overflow-hidden">
+                <div className="lg:h-[200px] lg:w-[200px] w-[150px] h-[150px] bg-primary border-4 border-white rounded-full flex items-center justify-center overflow-hidden">
                   <Image
                     src={`/treatments/${t.image}`}
                     width={500}
