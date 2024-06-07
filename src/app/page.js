@@ -7,7 +7,7 @@ import Treatments from "@/components/homepage/Treatments";
 import WhyChooseUs from "@/components/homepage/WhyChooseUs";
 export default function Home() {
   return (
-    <div>
+    <div className="overflow-x-clip">
       <Banner />
       <MissionVision />
       <WhyChooseUs />

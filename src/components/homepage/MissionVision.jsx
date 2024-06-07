@@ -37,13 +37,13 @@ const MissionVision = () => {
             </div>
           </div>
         </div>
-        <div className="absolute inset-0 col-start-1 col-span-3 lg:mt-[400px] mt-[1050px] flex justify-center">
+        <div className="absolute inset-0 col-start-1 col-span-3 lg:mt-[400px] mt-[900px] lg:mx-0 mx-[10px] flex justify-center">
           <Image
             src="/missionVision/missionvision.png"
             height={1000}
             width={10000}
             alt="missionvision"
-            className="h-[200px] lg:h-[300px] w-[1200px] rounded-xl object-fit"
+            className="h-[200px] lg:h-[300px] w-[1200px] rounded-xl object-cover"
           />
         </div>
       </div>

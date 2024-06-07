@@ -35,7 +35,7 @@ const Hospitals = () => {
         <div className="bg-primary">
           <div className="my-24 border-white lg:border-2 ml-5 py-10">
             <h1 className="text-white font-bold text-4xl font-serif text-center">
-              Know the top Hospitals
+              Know the Top Hospitals
             </h1>
             <p className="text-white lg:mx-20 mx-3 leading-loose mt-5 ">
               Our network of hospitals spans across multiple regions, bringing
@@ -60,7 +60,7 @@ const Hospitals = () => {
                       className="w-[320px] h-[220px] mb-5 border-secondary border-4"
                       alt="hospitals"
                     />
-                    <h1 className="text-center text-lg font-bold mx-10 lg:ml-0">
+                    <h1 className="text-center text-lg font-bold mx-10 lg:ml-0 -ml-10">
                       {h.name}
                     </h1>
                   </div>

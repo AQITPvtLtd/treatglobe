@@ -3,9 +3,9 @@ import Image from "next/image";
 import { hospitals } from "@/components/hospitals";
 const page = () => {
   return (
-    <div className="mt-[200px]">
+    <div className="mt-[230px]">
       <h1 className="text-center text-5xl mb-7 font-serif font-bold">
-        Our Network of Hospitals
+        Know the Top Hospitals
       </h1>
       <div className="lg:grid grid-cols-3 lg:mx-20">
         {hospitals.map((d) => (
