@@ -3,66 +3,65 @@ export const hospitals = [
     id: 1,
     name: "Artemis Hospital",
     image: "artemis.jpeg",
-    content:
-      "India has achieved remarkable success in cancer treatments, thanks to our embrace of new technology and the evolution of our doctors, who are supported by groundbreaking research. The treatment of any cancer depends on various factors, including the type of cancer, the stage of the disease, the cell type of the cancer cells, and whether the disease has spread to other parts of the body (Metastasis). Based on comprehensive investigative outcomes, treatment options range from surgical excision to chemotherapy, radiation therapy, or a combination of these therapies. Today, cancer treatment in India is equipped with cutting-edge diagnostic technologies and advanced treatment modalities. <br/><br/>Contact us for the best oncology treatment available.",
+    content: `Artemis Hospital, established in 2007, spread across 9 acres, is a 550 plus bed; state-of-the-art multi-speciality hospital located in Gurgaon, India. Artemis Hospital is the first JCI and NABH accredited Hospital in Gurgaon.
+
+<br/>Designed as one of the most advanced hospitals in India, Artemis provides a depth of expertise in the spectrum of advanced medical & surgical interventions, comprehensive mix of inpatient and outpatient services. Artemis has put modern technology in the hands of renowned doctors from across the country and abroad to set new standards in healthcare. The medical practices and procedures followed in the hospital are research oriented and benchmarked against the best in the world. Top-notch services, in a warm, open patient centric environment, clubbed with affordability, has made us one of the most revered hospitals in the country.`,
   },
   {
     id: 2,
     name: "Marengo Asia Hospitals, Gurugram, Haryana,",
     image: "marengo.png",
     content:
-      "India has made significant advancements in orthopedic surgery, driven by our adoption of new technologies and the continuous development of our skilled surgeons, supported by pioneering research. The treatment of orthopedic conditions depends on various factors, including the type of injury or disorder, the severity of the condition, the patient’s overall health, and their response to previous treatments. Based on thorough diagnostic evaluations, treatment options may include minimally invasive surgeries, joint replacements, arthroscopy, and rehabilitation therapies. Today, orthopedic surgery in India is equipped with state-of-the-art diagnostic tools and advanced surgical techniques. <br/><br/>Contact us to receive the best orthopedic care available.",
+      "Marengo Asia Hospitals, Gurugram is a 250 bedded hospital that offers the highest standards in healthcare through a combination of cutting-edge technology, a team of well-qualified, experienced and dedicated doctors with global education and experience, and super-specialized clinicians. It has an experience of 30 years in treating thousands of happy patients across multiple hospitals and clinics in India. An ultra-modern hospital with a comfortable ambience, the facility offers a touch of warmth, the highest regard for patient privacy and transparent billing practices, which has earned us our patients’ trust. We ensure that this quality care comes to you at the most affordable cost in the most easily accessible city in India. A plethora of stay options to suit every pocket, along with all the delights of multi-cultural North India and exotic places to travel to, further makes us the preferred destination for domestic and international patients.",
   },
   {
     id: 3,
     name: "Fortis Hospital",
     image: "fortis2.jpeg",
     content:
-      "India has made groundbreaking strides in neurosurgery, particularly with the integration of advanced technologies such as the CyberKnife system. Our progress is driven by the expertise of our neurosurgeons, backed by pioneering research and a commitment to adopting innovative treatments. The approach to neurosurgery varies based on the specific neurological condition, its severity, the patient's overall health, and previous treatments. Our comprehensive diagnostic evaluations guide the selection of the most effective treatment options, which may include traditional neurosurgery, minimally invasive techniques, or the use of the CyberKnife system for precise, non-invasive treatment of tumors and other conditions. Today, neurosurgery in India is equipped with cutting-edge diagnostic tools and advanced treatment modalities like the CyberKnife. <br/><br/>Contact us to access the best neurosurgical care and the latest in CyberKnife technology.",
+      "Fortis Healthcare Limited – an IHH Healthcare Berhad Company – is a leading integrated healthcare services provider in India. It is one of the largest healthcare organizations in the country with 28 healthcare facilities, 4,500+ operational beds (including O&M facilities), and over 400 diagnostics centers (including JVs). Fortis is present in India, the United Arab Emirates (UAE), Nepal & Sri Lanka. The Company is listed on the BSE Ltd and National Stock Exchange (NSE) of India. It draws strength from its partnership with global major and parent company - IHH, to build upon its culture of world-class patient care and superlative clinical excellence. Fortis employs ~23,000 people (including Agilus Diagnostics Limited) who share its vision of becoming the world’s most trusted healthcare network. Fortis offers a full spectrum of integrated healthcare services ranging from clinics to quaternary care facilities and a wide range of ancillary services.",
   },
   {
     id: 4,
     name: "Fortis Escorts",
     image: "fortis.png",
     content:
-      "India has made remarkable advancements in spine surgery, driven by the integration of cutting-edge technologies and the expertise of our highly skilled surgeons, supported by groundbreaking research. The approach to spine surgery depends on various factors, including the type and severity of the spinal condition, the patient’s overall health, and their response to previous treatments. Based on thorough diagnostic evaluations, treatment options may include minimally invasive spine surgery, spinal fusion, decompression surgery, or advanced procedures like robotic-assisted surgery. Today, spine surgery in India is equipped with state-of-the-art diagnostic tools and advanced surgical techniques. <br/><br/>Contact us to receive the best spine care available.",
+      "Fortis Healthcare Limited – an IHH Healthcare Berhad Company – is a leading integrated healthcare services provider in India. It is one of the largest healthcare organizations in the country with 28 healthcare facilities, 4,500+ operational beds (including O&M facilities), and over 400 diagnostics centers (including JVs). Fortis is present in India, the United Arab Emirates (UAE), Nepal & Sri Lanka. The Company is listed on the BSE Ltd and National Stock Exchange (NSE) of India. It draws strength from its partnership with global major and parent company - IHH, to build upon its culture of world-class patient care and superlative clinical excellence. Fortis employs ~23,000 people (including Agilus Diagnostics Limited) who share its vision of becoming the world’s most trusted healthcare network. Fortis offers a full spectrum of integrated healthcare services ranging from clinics to quaternary care facilities and a wide range of ancillary services.",
   },
   {
     id: 5,
     name: "Jaypee Hospital",
     image: "jaypee.jpeg",
     content:
-      "India has achieved significant milestones in liver transplant surgery, thanks to our adoption of cutting-edge technologies and the expertise of our skilled surgeons, supported by groundbreaking research. The approach to liver transplant surgery depends on various factors, including the type and severity of liver disease, the patient's overall health, and their response to previous treatments. Comprehensive diagnostic evaluations guide the selection of the most appropriate treatment options, which may include living-donor liver transplants, deceased-donor liver transplants, or advanced minimally invasive techniques. Today, liver transplant surgery in India is equipped with state-of-the-art diagnostic tools and advanced surgical methodologies. <br/><br/>Contact us to access the best liver transplant care available.",
+      "Jaypee Hospital at Noida is the flagship hospital of the Jaypee Group, which heralds the group’s noble intention to enter the healthcare space. This hospital has been planned and designed as a 1200 bedded tertiary care multi-speciality facility and has commissioned 504 beds in the first phase. The Jaypee Hospital is constructed across a sprawling twenty-five acre campus in Sector 128, Noida which is easily accessible from Delhi, Noida and the Yamuna Expressway.",
   },
   {
     id: 6,
     name: "Max Super Speciality Hospital",
     image: "max.jpeg",
     content:
-      "India has made significant strides in bone marrow transplant procedures, thanks to the integration of advanced technologies and the expertise of our highly skilled medical professionals, supported by groundbreaking research. The approach to bone marrow transplant depends on various factors, including the type of condition being treated, the patient's overall health, and their compatibility with potential donors. Comprehensive diagnostic assessments guide the selection of the most suitable transplant method, which may include autologous transplantation (using the patient's own cells), allogeneic transplantation (using donor cells), or haploidentical transplantation (using cells from a half-matched donor). Today, bone marrow transplant procedures in India are equipped with state-of-the-art facilities and advanced transplantation techniques. <br/><br/>Contact us to access the best bone marrow transplant care available.",
+      "Located in the heart of south Delhi, the 530+ bed Max Super Speciality Hospital, Saket, is widely considered as one of the best hospitals in the country. Split into two blocks - East Block (a unit of Devki Devi Foundation) and West Block ( a unit of MHIL - Max Healthcare Institute Limited), it has a complete spectrum of diagnostic and therapeutic technologies, including several which are a First in India and Asia.",
   },
   {
     id: 7,
     name: "Indraprastha Apollo Hospitals",
     image: "indraprastha.jpeg",
     content:
-      "India has made significant strides in kidney transplant procedures, thanks to advanced technologies and the expertise of our skilled medical professionals, supported by groundbreaking research. The approach to kidney transplant depends on various factors, including the patient's medical history, the type of kidney disease, and their compatibility with potential donors. Thorough diagnostic assessments guide the selection of the most suitable transplant method, which may include living donor kidney transplant, deceased donor kidney transplant, or paired kidney exchange programs. Today, kidney transplant procedures in India are equipped with state-of-the-art facilities and advanced surgical techniques. <br/><br/>Contact us to access the best kidney transplant care available.",
+      "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 120 million lives from over 120 countries, offering the best clinical outcomes",
   },
   {
     id: 8,
     name: "BLK-Max Super Specialty Hospital",
     image: "blk.jpeg",
-    content:
-      "India has made significant progress in the field of urology, leveraging advanced technologies and the expertise of skilled medical professionals, backed by groundbreaking research. The field of urology encompasses various conditions related to the urinary tract and male reproductive system. Treatment approaches in urology depend on the specific condition, its severity, and the patient's overall health. Comprehensive diagnostic evaluations guide the selection of appropriate treatment options, which may include medications, minimally invasive procedures, endoscopic surgeries, or open surgeries. Today, urology in India is equipped with state-of-the-art diagnostic tools and advanced treatment modalities. <br/><br/>Contact us to access the best urological care available, tailored to your individual needs.",
+    content: `BLK-Max Super Speciality Hospital is part of the largest healthcare network in India. Spread over 6,50,000 sq. ft., the hospital offers a wide range of services, making it a force to reckon within the field of Super Speciality Tertiary Healthcare. The Hospital has a capacity of 650 beds with dedicated 162 critical care beds, 22 modular operation theatres and speciality-specific dedicated OPD blocks. We have more than 1500 healthcare providers, 150 globally renowned super specialists and 300 medical experts.
+
+BLK-Max Super Speciality Hospital is accredited by Joint Commission International (JCI), National Accreditation Board for Hospitals and Healthcare Providers, and National Accreditation Board for Laboratories and Calibration, for its processes and high-quality patient care.
+`,
   },
   {
     id: 9,
     name: "Medanta Hospital",
     image: "medanto.jpeg",
-    content: `India has made significant advancements in the field of Otorhinolaryngology, commonly known as ENT (Ear, Nose, and Throat), owing to the integration of advanced technologies and the expertise of skilled medical professionals, backed by groundbreaking research.
-  
-      ENT deals with a wide range of conditions related to the ears, nose, throat, head, and neck. Treatment approaches in ENT depend on the specific condition, its severity, and the patient's overall health. Comprehensive diagnostic evaluations guide the selection of appropriate treatment options, which may include medications, surgical interventions, hearing aids, or speech therapy.
-      
-      Today, ENT care in India is equipped with state-of-the-art diagnostic tools and advanced treatment modalities. <br/><br/>Contact us to access the best ENT care available, personalized to meet your individual needs.`,
+    content: `Medanta one of the country’s largest multi-speciality tertiary care provider is founded by Dr. Naresh Trehan, a world-renowned cardiovascular and cardiothoracic surgeon, with the mission to deliver advanced but affordable medical services to patients. For four years in a row, Medanta Gurugram ranked the best private hospital in India in 2020, 2021, 2022 and 2023. It also featured in the list of top 250 global hospitals in 2023 by Newsweek.`,
   },
 ];

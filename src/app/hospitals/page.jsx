@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { hospitals } from "@/components/hospitals";
 const page = () => {
   return (
@@ -9,7 +10,11 @@ const page = () => {
       </h1>
       <div className="lg:grid grid-cols-3 lg:mx-20">
         {hospitals.map((d) => (
-          <div key={d.id}>
+          <Link
+            href={`/hospitals/${d.id}`}
+            className="hover:scale-105"
+            key={d.id}
+          >
             <div className="flex justify-center">
               <Image
                 src={`/hospitals/${d.image}`}
@@ -22,7 +27,7 @@ const page = () => {
             <h1 className="font-bold text-xl text-center mb-5 mt-2">
               {d.name}
             </h1>
-          </div>
+          </Link>
         ))}
       </div>
     </div>
