@@ -4,11 +4,11 @@ import Link from "next/link";
 import { hospitals } from "@/components/hospitals";
 const page = () => {
   return (
-    <div className="mt-[170px] overflow-clip">
+    <div className="lg:mt-[170px] mt-[220px] overflow-clip">
       <h1 className="text-center text-5xl mb-5 font-serif font-bold">
         Know Our Doctors
       </h1>
-      <div className="grid grid-cols-3">
+      <div className="lg:grid grid-cols-3">
         {hospitals.map((h) => (
           <div className="mt-14" key={h.id}>
             <div className="mb-10 mx-10 container items-center">

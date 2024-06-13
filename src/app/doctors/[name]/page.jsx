@@ -37,7 +37,7 @@ const page = ({ params }) => {
           </div>
         </div>
       </div>
-      <div className="grid grid-cols-3 gap-10 mx-10">
+      <div className="lg:grid grid-cols-3 gap-10 mx-10">
         {filteredData.map((d) => (
           <Link
             href={`/doctors/${d.hid}/${d.id}`}
