@@ -9,7 +9,16 @@ import i18nConfig from "@/i18nConfig";
 import { dir } from "i18next";
 import initTranslations from "../i18n";
 import TranslationsProvider from "@/components/TranslationsProvider";
-const i18nNamespaces = ["home", "form", "navbar", "about", "choose"];
+const i18nNamespaces = [
+  "home",
+  "form",
+  "navbar",
+  "about",
+  "choose",
+  "treatments",
+  "tophospitals",
+  "numbers",
+];
 
 export const metadata = {
   title: "Treat Globe",

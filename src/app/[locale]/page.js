@@ -6,7 +6,16 @@ import Treatments from "@/components/homepage/Treatments";
 import WhyChooseUs from "@/components/homepage/WhyChooseUs";
 import initTranslations from "../i18n";
 import TranslationsProvider from "@/components/TranslationsProvider";
-const i18nNamespaces = ["home", "form", "navbar", "about", "choose"];
+const i18nNamespaces = [
+  "home",
+  "form",
+  "navbar",
+  "about",
+  "choose",
+  "treatments",
+  "tophospitals",
+  "numbers",
+];
 export default async function Home({ params: { locale } }) {
   const { t, resources } = await initTranslations(locale, i18nNamespaces);
 

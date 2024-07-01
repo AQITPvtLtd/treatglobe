@@ -4,8 +4,10 @@ import React, { useState } from "react";
 import Image from "next/image";
 import CountUp from "react-countup";
 import ScrollTrigger from "react-scroll-trigger";
+import { useTranslation } from "react-i18next";
 const Numbers = () => {
   const [count, setCount] = useState(false);
+  const { t } = useTranslation();
   return (
     <div className="lg:mt-[25px] mt-[450px] relative">
       <ScrollTrigger
@@ -33,7 +35,7 @@ const Numbers = () => {
                 {count && <CountUp start={1} end={10} duration={2} delay={0} />}
                 +
               </div>
-              <div className="text-center">Hospitals</div>
+              <div className="text-center">{t("numbers:hospitals")}</div>
             </div>
           </div>
           <div className="bg-primary rounded-lg flex justify-center items-center">
@@ -47,7 +49,7 @@ const Numbers = () => {
               <div className="text-7xl text-center">
                 {count && <CountUp start={1} end={9} duration={2} delay={0} />}+
               </div>
-              <div className="text-center">Yrs. Experience</div>
+              <div className="text-center">{t("numbers:exp")}</div>
             </div>
           </div>
           <div className="bg-secondary my-5 rounded-r-lg flex justify-center items-center">
@@ -62,7 +64,7 @@ const Numbers = () => {
                 {count && <CountUp start={1} end={50} duration={2} delay={0} />}
                 +
               </div>
-              <div className="text-center">Doctors</div>
+              <div className="text-center">{t("numbers:doctors")}</div>
             </div>
           </div>
         </div>

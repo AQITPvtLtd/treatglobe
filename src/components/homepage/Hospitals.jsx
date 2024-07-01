@@ -8,6 +8,7 @@ import "slick-carousel/slick/slick-theme.css";
 import { GrPrevious } from "react-icons/gr";
 import { GrNext } from "react-icons/gr";
 import { hospitals } from "../hospitals";
+import { useTranslation } from "react-i18next";
 const Hospitals = () => {
   var settings = {
     dots: true,
@@ -29,21 +30,17 @@ const Hospitals = () => {
       },
     ],
   };
+  const { t } = useTranslation();
   return (
     <div className="lg:mt-10">
       <div className="lg:grid grid-cols-2 h-[500px] relative">
         <div className="bg-primary">
           <div className="my-24 border-white lg:border-2 ml-5 py-10">
             <h1 className="text-white font-bold text-4xl font-serif text-center">
-              Know the Top Hospitals
+              {t("tophospitals:header")}
             </h1>
             <p className="text-white lg:mx-20 mx-3 leading-loose mt-5 ">
-              Our network of hospitals spans across multiple regions, bringing
-              together a diverse range of world-class healthcare facilities
-              under one umbrella. Each hospital in our network is equipped with
-              state-of-the-art technology and staffed by experienced,
-              compassionate professionals dedicated to providing the highest
-              standard of care.
+              {t("tophospitals:content")}
             </p>
           </div>
         </div>
