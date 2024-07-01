@@ -1,10 +1,14 @@
+"use client";
+
 import React from "react";
 import Image from "next/image";
+import { useTranslation } from "react-i18next";
 const WhyChooseUs = () => {
+  const { t } = useTranslation();
   return (
     <div className="mt-[200px]">
       <h1 className="font-bold text-5xl mx-10 text-center pt-10 font-serif mb-6">
-        Why Choose Us ?
+        {t("choose:header")}
       </h1>
       <div className="lg:grid grid-cols-4 lg:mx-20">
         <div className="relative">
@@ -26,8 +30,7 @@ const WhyChooseUs = () => {
               />
             </div>
             <h2 className="text-white row-start-5 text-center text-lg font-bold">
-              Quality Healthcare <br />
-              Professionals
+              {t("choose:one")}
             </h2>
           </div>
         </div>
@@ -48,8 +51,7 @@ const WhyChooseUs = () => {
               />
             </div>
             <h2 className="text-white row-start-5 text-center text-lg font-bold">
-              24x7 <br />
-              Customer Support
+              {t("choose:two")}
             </h2>
           </div>
         </div>
@@ -72,8 +74,7 @@ const WhyChooseUs = () => {
               />
             </div>
             <h2 className="text-white row-start-5 text-center text-lg font-bold">
-              Exceptional and <br />
-              top-tier services
+              {t("choose:three")}
             </h2>
           </div>
         </div>
@@ -96,8 +97,7 @@ const WhyChooseUs = () => {
               />
             </div>
             <h2 className="text-white row-start-5 text-center text-lg font-bold">
-              Expertise and <br />
-              Experience
+              {t("choose:four")}
             </h2>
           </div>
         </div>

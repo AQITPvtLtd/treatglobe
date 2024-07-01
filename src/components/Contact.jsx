@@ -5,7 +5,9 @@ import React, { useState } from "react";
 import { useRouter } from "next/navigation";
 import "animate.css";
 import swal from "sweetalert";
+import { useTranslation } from "react-i18next";
 const ContactForm = () => {
+  const { t } = useTranslation();
   const router = useRouter();
   const [file, setFile] = useState(null);
   const [identityFile, setIndentityFile] = useState(null);
@@ -59,7 +61,7 @@ const ContactForm = () => {
   return (
     <div className="p-3">
       <h1 className="text-2xl text-white text-center font-semibold mb-2">
-        Need Help ?
+        {t("form:header")}
       </h1>
       <form className="" onSubmit={handleSubmit}>
         <div className="flex flex-wrap">
@@ -71,7 +73,7 @@ const ContactForm = () => {
                 className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
                 value={formData.firstName}
                 onChange={handleChange}
-                placeholder="First Name"
+                placeholder={t("form:firstName")}
               />
             </div>
           </div>
@@ -82,7 +84,7 @@ const ContactForm = () => {
                 type="text"
                 className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
                 value={formData.lastName}
-                placeholder="Last Name"
+                placeholder={t("form:lastName")}
                 onChange={handleChange}
               />
             </div>
@@ -92,7 +94,7 @@ const ContactForm = () => {
               <input
                 type="text"
                 name="phone"
-                placeholder="Phone Number"
+                placeholder={t("form:phoneNumber")}
                 className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
                 value={formData.phone}
                 onChange={handleChange}
@@ -104,7 +106,7 @@ const ContactForm = () => {
               <input
                 name="email"
                 type="email"
-                placeholder="Email Address"
+                placeholder={t("form:email")}
                 className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
                 value={formData.email}
                 onChange={handleChange}
@@ -120,7 +122,7 @@ const ContactForm = () => {
                 className="block uppercase text-blueGray-600 text-md font-bold text-white"
                 htmlFor="medical"
               >
-                Medical Report
+                {t("form:medicalReport")}
               </label>
               <input
                 type="file"
@@ -146,7 +148,7 @@ const ContactForm = () => {
                 className="block uppercase text-blueGray-600 text-md font-bold text-white"
                 htmlFor="identity"
               >
-                Identity Proof
+                {t("form:identityProof")}
               </label>
               <input
                 type="file"
@@ -174,7 +176,7 @@ const ContactForm = () => {
                 name="message"
                 value={formData.message}
                 onChange={handleChange}
-                placeholder="How can we help ?"
+                placeholder={t("form:message")}
               ></textarea>
             </div>
           </div>
@@ -184,7 +186,7 @@ const ContactForm = () => {
             type="submit"
             className=" text-white font-bold bg-primary hover:bg-primary/90 p-2 rounded-xl"
           >
-            Send
+            {t("form:sendButton")}
           </button>
         </div>
       </form>

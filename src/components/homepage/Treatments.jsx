@@ -20,13 +20,13 @@ const Treatments = () => {
           {treatment.map((t) => (
             <div key={t.id} className="flex flex-col items-center p-5">
               <div className="">
-                <div className="lg:h-[200px] lg:w-[200px] w-[150px] h-[150px] bg-primary border-4 border-white rounded-full flex items-center justify-center overflow-hidden">
+                <div className="hover:scale-105 lg:h-[200px] lg:w-[300px] w-[150px] h-[150px] flex items-center justify-center overflow-hidden">
                   <Image
                     src={`/treatments/${t.image}`}
                     width={500}
                     height={500}
                     alt="treatment"
-                    className="object-cover lg:w-[120px] lg:h-[100px] hover:scale-125"
+                    className="object-fit lg:h-[200px] lg:w-[400px] w-[150px] h-[150px]  rounded-md border-8 border-primary"
                   />
                 </div>
               </div>

@@ -5,8 +5,12 @@ import "animate.css";
 import Image from "next/image";
 import ContactForm from "../Contact";
 import ScrollTrigger from "react-scroll-trigger";
+import { useTranslation } from "react-i18next";
+
 function Banner() {
   const [animate, setAnimate] = useState(false);
+  const { t } = useTranslation();
+
   return (
     <div className="overflow-x-clip mt-[180px]">
       <div>
@@ -20,7 +24,7 @@ function Banner() {
           />
           <div className="absolute inset-0 lg:grid grid-cols-2 grid-rows-4 lg:mt-20 mt-[300px]">
             <div className="animate__animated animate__pulse animate__infinite animate__slower text-center mt-5 items-center  font-bold text-5xl flex justify-center bg-gradient-to-t from-primary to-secondary lg:text-transparent bg-clip-text">
-              <h1>Your Reliable Guide for Treatment Travel</h1>
+              <h1>{t("heading")}</h1>
             </div>
             <ScrollTrigger
               onEnter={() => setAnimate(true)}
@@ -35,7 +39,6 @@ function Banner() {
               </div>
             </ScrollTrigger>
           </div>
-
           {/* {index === currentSlide && (
                 <div
                   className={`absolute top-0 left-0 w-full h-full flex items-center ${
