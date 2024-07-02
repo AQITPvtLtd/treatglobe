@@ -6,7 +6,9 @@ import { doctordata } from "../hospitals/doctordata";
 import Autocomplete from "@/components/common/Autocomplete/Autocomplete";
 import { hospitals } from "@/components/hospitals";
 import { treatment } from "@/components/treatments";
+import { useTranslation } from "react-i18next";
 const Doctors = () => {
+  const { t } = useTranslation();
   const [filteredData, setFilteredData] = useState(doctordata);
 
   const allClicked = () => {
@@ -53,7 +55,7 @@ const Doctors = () => {
   return (
     <div className="lg:mt-[170px] mt-[220px] overflow-clip">
       <h1 className="text-center text-5xl mb-10 font-serif font-bold">
-        Know Our Doctors
+        {t("doctors:header")}
       </h1>
       <div className="w-full mb-10">
         <div className="grid grid-cols-8 gap-x-6 mx-3">
@@ -61,17 +63,17 @@ const Doctors = () => {
             onClick={allClicked}
             className="rounded-lg p-2 bg-primary text-white"
           >
-            All Doctors
+            {t("doctors:filter1")}
           </button>
           <button
             onClick={topClicked}
             className="rounded-lg p-2 bg-primary text-white"
           >
-            Top Doctors
+            {t("doctors:filter2")}
           </button>
           <div className="col-span-2">
             <Autocomplete
-              placeholder={"search doctors by name"}
+              placeholder={t("doctors:filter3")}
               data={names}
               handleOnSelect={handleOnSelectDoctors}
               handleOnClear={handleOnClearDoctors}
@@ -79,14 +81,14 @@ const Doctors = () => {
           </div>
           <div className="col-span-2">
             <Autocomplete
-              placeholder={"search doctors by hospital name"}
+              placeholder={t("doctors:filter4")}
               data={hosp}
               handleOnSelect={handleOnSelectHospitals}
             />
           </div>
           <div className="col-span-2">
             <Autocomplete
-              placeholder={"search doctors by treatment"}
+              placeholder={t("doctors:filter5")}
               data={treat}
               handleOnSelect={handleOnSelectTreatments}
             />

@@ -3,13 +3,14 @@
 import { FaLocationDot } from "react-icons/fa6";
 import { FaPhoneAlt } from "react-icons/fa";
 import { IoMdMail } from "react-icons/io";
-import { FaClock } from "react-icons/fa";
 import Link from "next/link";
+import { useTranslation } from "react-i18next";
 const Office = () => {
+  const { t } = useTranslation();
   return (
     <div className="relative z-10 rounded-sm bg-white p-8 shadow-three dark:bg-gray-dark sm:p-11 lg:p-8 xl:p-11">
       <h3 className="text-center mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
-        Get In Touch
+        {t("contact:header2")}
       </h3>
       {/* <p>
         If you prefer face-to-face interactions, we encourage you to visit our
@@ -25,7 +26,7 @@ const Office = () => {
                 <FaLocationDot className="text-primary w-[20px] h-[20px]" />
                 <div className="ml-3">
                   <p className="mb-2 font-bold dark:text-white">
-                    Company Location
+                    {t("contact:location")}
                   </p>
                   <p className="text-neutral-500 dark:text-neutral-200">
                     8/43, Lower Ground Floor, South Patel Nagar,
@@ -43,7 +44,9 @@ const Office = () => {
               <div className="flex">
                 <FaPhoneAlt className="text-primary w-[20px] h-[20px]" />
                 <div className="ml-3">
-                  <p className="mb-2 font-bold dark:text-white">Phone Number</p>
+                  <p className="mb-2 font-bold dark:text-white">
+                    {t("contact:phone")}
+                  </p>
                   <Link
                     href="tel:9870423754"
                     className="text-neutral-500 dark:text-neutral-200 hover:text-primary"
@@ -61,7 +64,7 @@ const Office = () => {
                 <IoMdMail className="text-primary w-[20px] h-[20px]" />
                 <div className="ml-3">
                   <p className="mb-2 font-bold dark:text-white">
-                    Our Email Address
+                  {t("contact:email")}
                   </p>
                   <Link
                     href="mailto: lexforiindia@gmail.com"

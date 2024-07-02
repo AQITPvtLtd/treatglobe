@@ -18,6 +18,11 @@ const i18nNamespaces = [
   "treatments",
   "tophospitals",
   "numbers",
+  "footer",
+  "contact",
+  "articles",
+  "doctors",
+  "hospitals",
 ];
 
 export const metadata = {

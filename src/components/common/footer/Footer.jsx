@@ -1,7 +1,11 @@
+"use client";
+
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { useTranslation } from "react-i18next";
 const Footer = () => {
+  const { t } = useTranslation();
   return (
     <div>
       <footer className=" items-center text-surface">
@@ -19,11 +23,7 @@ const Footer = () => {
                   className="w-[250px] mb-4"
                 />
               </Link>
-              <p className=" leading-normal">
-                Discover world-class healthcare abroad with Treat Globe.
-                Affordable treatments, top doctors, and seamless travel
-                arrangements await you.
-              </p>
+              <p className=" leading-normal">{t("footer:content")}</p>
             </div>
             <div className="lg:flex justify-center mt-6">
               <div className="mb-6">
@@ -32,7 +32,7 @@ const Footer = () => {
                 <ul className="mb-0 list-none leading-loose">
                   <li>
                     <Link href="/" className="hover:text-darkgreen">
-                      Home
+                      {t("navbar:home")}
                     </Link>
                   </li>
                   <li>
@@ -40,7 +40,7 @@ const Footer = () => {
                       href="/about/who-are-we"
                       className="hover:text-darkgreen"
                     >
-                      About Us
+                      {t("navbar:about")}
                     </Link>
                   </li>
                   <li>
@@ -48,12 +48,12 @@ const Footer = () => {
                       href="/about/why-choose-us"
                       className="hover:text-darkgreen"
                     >
-                      Articles
+                      {t("navbar:articles")}
                     </Link>
                   </li>
                   <li>
                     <Link href="/contact" className="hover:text-darkgreen">
-                      Contact Us
+                      {t("navbar:contact")}
                     </Link>
                   </li>
                 </ul>
@@ -61,27 +61,29 @@ const Footer = () => {
             </div>
             <div className="lg:flex justify-center mt-6">
               <div className="mb-6">
-                <h5 className="mb-2.5 font-bold uppercase">Treatments</h5>
+                <h5 className="mb-2.5 font-bold uppercase">
+                  {t("footer:heading2")}
+                </h5>
 
                 <ul className="mb-0 list-none leading-loose">
                   <li>
                     <Link href="/tests/1" className="hover:text-blue">
-                      Oncology
+                      {t("treatments:one")}
                     </Link>
                   </li>
                   <li>
                     <Link href="/tests/2" className="hover:text-blue">
-                      Orthopedic Surgery
+                      {t("treatments:two")}
                     </Link>
                   </li>
                   <li>
                     <Link href="/tests/3" className="hover:text-blue">
-                      Spine Surgery
+                      {t("treatments:four")}
                     </Link>
                   </li>
                   <li>
                     <Link href="/tests/4" className="hover:text-blue">
-                      Urology
+                      {t("treatments:eight")}
                     </Link>
                   </li>
                 </ul>
@@ -92,7 +94,9 @@ const Footer = () => {
               <div className="mb-6">
                 <ul className="mb-0 list-none leading-loose">
                   <li className="leading-normal">
-                    <h5 className="mb-2.5 font-bold uppercase">Address</h5>
+                    <h5 className="mb-2.5 font-bold uppercase">
+                      {t("footer:heading3")}
+                    </h5>
                     <Link href="/" className="hover:text-blue">
                       G-36, First Floor, Outer circle, Connaught place, New
                       Delhi - 110001
@@ -100,7 +104,9 @@ const Footer = () => {
                   </li>
                   <li className="mt-3 leading-normal">
                     <Link href="tel:+91-981 172 4700">
-                      <h5 className="mb-2.5 font-bold uppercase">Phone</h5>
+                      <h5 className="mb-2.5 font-bold uppercase">
+                        {t("footer:heading4")}
+                      </h5>
                       <div className="hover:text-blue">+91 98186 47557</div>
                     </Link>
                   </li>
