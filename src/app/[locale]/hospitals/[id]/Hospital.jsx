@@ -10,13 +10,13 @@ const Hospital = ({ id }) => {
     {
       id: 1,
       name: "Artemis Hospital",
-      image: "artemis.jpeg",
+      image: "artemis.jpg",
       content: () => t("hospitals:h1"),
     },
     {
       id: 2,
       name: "Marengo Asia Hospitals, Gurugram, Haryana,",
-      image: "marengo.png",
+      image: "marengo.jpg",
       content: () => t("hospitals:h2"),
     },
     {
@@ -34,7 +34,7 @@ const Hospital = ({ id }) => {
     {
       id: 5,
       name: "Jaypee Hospital",
-      image: "jaypee.jpeg",
+      image: "jaypee.jpg",
       content: () => t("hospitals:h5"),
     },
     {

@@ -35,7 +35,7 @@ const Hospitals = () => {
     <div className="lg:mt-10">
       <div className="lg:grid grid-cols-2 h-[500px] relative">
         <div className="bg-primary">
-          <div className="my-24 border-white lg:border-2 ml-5 py-10">
+          <div className="lg:my-24 border-white lg:border-2 ml-5 py-10">
             <h1 className="text-white font-bold text-4xl font-serif text-center">
               {t("tophospitals:header")}
             </h1>

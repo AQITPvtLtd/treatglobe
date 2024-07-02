@@ -6,7 +6,7 @@ import { useTranslation } from "react-i18next";
 const WhyChooseUs = () => {
   const { t } = useTranslation();
   return (
-    <div className="mt-[200px]">
+    <div className="mt-[150px]">
       <h1 className="font-bold text-5xl mx-10 text-center pt-10 font-serif mb-6">
         {t("choose:header")}
       </h1>
@@ -29,7 +29,7 @@ const WhyChooseUs = () => {
                 alt="arrow"
               />
             </div>
-            <h2 className="text-white row-start-5 text-center text-lg font-bold">
+            <h2 className="text-white px-14 row-start-5 text-center text-md font-bold">
               {t("choose:one")}
             </h2>
           </div>
@@ -50,7 +50,7 @@ const WhyChooseUs = () => {
                 width={100}
               />
             </div>
-            <h2 className="text-white row-start-5 text-center text-lg font-bold">
+            <h2 className="text-white px-14 row-start-5 text-center text-md font-bold">
               {t("choose:two")}
             </h2>
           </div>
@@ -73,7 +73,7 @@ const WhyChooseUs = () => {
                 alt="premium"
               />
             </div>
-            <h2 className="text-white row-start-5 text-center text-lg font-bold">
+            <h2 className="text-white px-14 row-start-5 text-center text-md font-bold">
               {t("choose:three")}
             </h2>
           </div>
@@ -96,7 +96,7 @@ const WhyChooseUs = () => {
                 alt="expertise"
               />
             </div>
-            <h2 className="text-white row-start-5 text-center text-lg font-bold">
+            <h2 className="text-white px-3 row-start-5 text-center text-md font-bold">
               {t("choose:four")}
             </h2>
           </div>

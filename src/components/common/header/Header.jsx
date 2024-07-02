@@ -80,174 +80,172 @@ const Header = () => {
       }`}
     >
       <Top />
-      <header className="flex">
-        <div className="relative flex w-screen justify-between">
-          <div className="lg:w-[400px] w-[340px] lg:px-4 xl:mr-12">
-            <Link
-              href="/"
-              className={`header-logo block w-full ${
-                sticky ? "py-5 lg:py-2" : "py-2"
+      <header className="grid grid-cols-7 w-full">
+        <div className="lg:w-[400px] w-[340px] lg:px-4 xl:mr-12 col-span-2">
+          <Link
+            href="/"
+            className={`header-logo block w-full ${
+              sticky ? "py-5 lg:py-2" : "py-2"
+            }`}
+          >
+            <Image
+              src="/logo/logo4.png"
+              alt="logo"
+              width={200}
+              height={200}
+              className="ml-4 left-0 p-3"
+            />
+          </Link>
+        </div>
+        <div className="flex items-center w-screen px-4">
+          <button
+            onClick={() => setNavbarOpen(!navbarOpen)}
+            aria-label="Mobile Menu"
+            className="mt-20 absolute right-4 top-1/2 block translate-y-[-50%] rounded-lg px-3 py-[6px] ring-[#321f05] focus:ring-2 lg:hidden"
+          >
+            <span
+              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                navbarOpen ? " top-[7px] rotate-45" : ""
               }`}
-            >
-              <Image
-                src="/logo/logo4.png"
-                alt="logo"
-                width={200}
-                height={200}
-                className="ml-4 left-0 p-3"
-              />
-            </Link>
-          </div>
-          <div className="flex items-center w-screen px-4 lg:ml-[150px]">
-            <button
-              onClick={() => setNavbarOpen(!navbarOpen)}
-              aria-label="Mobile Menu"
-              className="absolute right-4 top-1/2 block translate-y-[-50%] rounded-lg px-3 py-[6px] ring-[#321f05] focus:ring-2 lg:hidden"
-            >
-              <span
-                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                  navbarOpen ? " top-[7px] rotate-45" : ""
-                }`}
-              />
-              <span
-                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                  navbarOpen ? "opacity-0" : ""
-                }`}
-              />
-              <span
-                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                  navbarOpen ? " top-[-8px] -rotate-45" : ""
-                }`}
-              />
-            </button>
-            <nav
-              className={`navbar absolute right-0 z-30 w-[250px] rounded border-[.5px] border-body-color/50 bg-white px-6 py-4 duration-300 dark:border-body-color/20 lg:visible lg:static lg:w-auto lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
-                navbarOpen
-                  ? "visibility top-full opacity-100"
-                  : "invisible top-[120%] opacity-0"
+            />
+            <span
+              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                navbarOpen ? "opacity-0" : ""
               }`}
-            >
-              <ul className="block lg:flex lg:space-x-4">
-                {menuData.map((menuItem, index) => (
-                  <li key={index} className="group relative">
-                    {menuItem.path ? (
-                      <Link
-                        onClick={() => {
-                          setOpenIndex(menuItem.id);
-                          setSubOpenIndex(menuItem.submenu?.id || -1);
-                        }}
-                        href={
-                          context?.user && menuItem.id === 10
-                            ? "/admin/edit"
-                            : menuItem.path
-                        }
-                        className={`flex py-2 text-lg lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
-                          usePathName === menuItem.path
-                            ? "text-secondary"
-                            : "text-dark hover:text-secondary"
-                        } ${
-                          menuItem.id === 10 &&
-                          "lg:text-blue lg:font-bold lg:ml-20 lg:py-0 lg:px-4"
+            />
+            <span
+              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                navbarOpen ? " top-[-8px] -rotate-45" : ""
+              }`}
+            />
+          </button>
+          <nav
+            className={`navbar absolute right-0 z-30 w-[250px] rounded border-[.5px] border-body-color/50 bg-white px-6 py-4 duration-300 dark:border-body-color/20 lg:visible lg:static lg:w-auto lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
+              navbarOpen
+                ? "visibility top-full opacity-100"
+                : "invisible top-[120%] opacity-0"
+            }`}
+          >
+            <ul className="block lg:flex lg:space-x-4">
+              {menuData.map((menuItem, index) => (
+                <li key={index} className="group relative">
+                  {menuItem.path ? (
+                    <Link
+                      onClick={() => {
+                        setOpenIndex(menuItem.id);
+                        setSubOpenIndex(menuItem.submenu?.id || -1);
+                      }}
+                      href={
+                        context?.user && menuItem.id === 10
+                          ? "/admin/edit"
+                          : menuItem.path
+                      }
+                      className={`flex py-2 text-lg lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
+                        usePathName === menuItem.path
+                          ? "text-secondary"
+                          : "text-dark hover:text-secondary"
+                      } ${
+                        menuItem.id === 10 &&
+                        "lg:text-blue lg:font-bold lg:ml-20 lg:py-0 lg:px-4"
+                      }`}
+                    >
+                      {context?.user && menuItem.id === 10
+                        ? "Edit"
+                        : menuItem.title()}
+                    </Link>
+                  ) : (
+                    <>
+                      <p
+                        onClick={() => setOpenIndex(menuItem.id)}
+                        className="flex cursor-pointer items-center justify-between py-2 text-lg text-dark group-hover:text-secondary lg:mr-0 lg:inline-flex lg:px-0 lg:py-6"
+                      >
+                        {menuItem.title()}
+                        <span>
+                          <svg width="25" height="24" viewBox="0 0 25 24">
+                            <path
+                              fillRule="evenodd"
+                              clipRule="evenodd"
+                              d="M6.29289 8.8427C6.68342 8.45217 7.31658 8.45217 7.70711 8.8427L12 13.1356L16.2929 8.8427C16.6834 8.45217 17.3166 8.45217 17.7071 8.8427C18.0976 9.23322 18.0976 9.86639 17.7071 10.2569L12 15.964L6.29289 10.2569C5.90237 9.86639 5.90237 9.23322 6.29289 8.8427Z"
+                              fill="currentColor"
+                            />
+                          </svg>
+                        </span>
+                      </p>
+                      <div
+                        className={`submenu relative left-0 top-full lg:ml-0 ml-4 rounded-sm bg-white transition-[top] duration-300 lg:absolute lg:top-[110%] lg:w-[250px] lg:p-4 lg:shadow-lg ${
+                          openIndex === menuItem.id ? "block" : "hidden"
                         }`}
                       >
-                        {context?.user && menuItem.id === 10
-                          ? "Edit"
-                          : menuItem.title()}
-                      </Link>
-                    ) : (
-                      <>
-                        <p
-                          onClick={() => setOpenIndex(menuItem.id)}
-                          className="flex cursor-pointer items-center justify-between py-2 text-lg text-dark group-hover:text-secondary lg:mr-0 lg:inline-flex lg:px-0 lg:py-6"
-                        >
-                          {menuItem.title()}
-                          <span>
-                            <svg width="25" height="24" viewBox="0 0 25 24">
-                              <path
-                                fillRule="evenodd"
-                                clipRule="evenodd"
-                                d="M6.29289 8.8427C6.68342 8.45217 7.31658 8.45217 7.70711 8.8427L12 13.1356L16.2929 8.8427C16.6834 8.45217 17.3166 8.45217 17.7071 8.8427C18.0976 9.23322 18.0976 9.86639 17.7071 10.2569L12 15.964L6.29289 10.2569C5.90237 9.86639 5.90237 9.23322 6.29289 8.8427Z"
-                                fill="currentColor"
-                              />
-                            </svg>
-                          </span>
-                        </p>
-                        <div
-                          className={`submenu relative left-0 top-full lg:ml-0 ml-4 rounded-sm bg-white transition-[top] duration-300 lg:absolute lg:top-[110%] lg:w-[250px] lg:p-4 lg:shadow-lg ${
-                            openIndex === menuItem.id ? "block" : "hidden"
-                          }`}
-                        >
-                          {menuItem.submenu?.map((submenuItem, index) => (
-                            <div key={index} className="group relative">
-                              {submenuItem.path ? (
-                                <Link
-                                  onClick={() => setOpenIndex(submenuItem.id)}
-                                  href={submenuItem.path}
-                                  key={index}
-                                  className="block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3"
+                        {menuItem.submenu?.map((submenuItem, index) => (
+                          <div key={index} className="group relative">
+                            {submenuItem.path ? (
+                              <Link
+                                onClick={() => setOpenIndex(submenuItem.id)}
+                                href={submenuItem.path}
+                                key={index}
+                                className="block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3"
+                              >
+                                {submenuItem.title()}
+                              </Link>
+                            ) : (
+                              <>
+                                <p
+                                  onClick={() =>
+                                    setSubOpenIndex(submenuItem.id)
+                                  }
+                                  className="rounded py-2.5 text-sm lg:px-3 flex cursor-pointer items-center justify-between text-dark hover:text-secondary"
                                 >
                                   {submenuItem.title()}
-                                </Link>
-                              ) : (
-                                <>
-                                  <p
-                                    onClick={() =>
-                                      setSubOpenIndex(submenuItem.id)
-                                    }
-                                    className="rounded py-2.5 text-sm lg:px-3 flex cursor-pointer items-center justify-between text-dark hover:text-secondary"
-                                  >
-                                    {submenuItem.title()}
-                                    <span className="pl-3">
-                                      <svg
-                                        width="25"
-                                        height="24"
-                                        viewBox="0 0 25 24"
+                                  <span className="pl-3">
+                                    <svg
+                                      width="25"
+                                      height="24"
+                                      viewBox="0 0 25 24"
+                                    >
+                                      <path
+                                        fillRule="evenodd"
+                                        clipRule="evenodd"
+                                        d="M6.29289 8.8427C6.68342 8.45217 7.31658 8.45217 7.70711 8.8427L12 13.1356L16.2929 8.8427C16.6834 8.45217 17.3166 8.45217 17.7071 8.8427C18.0976 9.23322 18.0976 9.86639 17.7071 10.2569L12 15.964L6.29289 10.2569C5.90237 9.86639 5.90237 9.23322 6.29289 8.8427Z"
+                                        fill="currentColor"
+                                      />
+                                    </svg>
+                                  </span>
+                                </p>
+                                <div
+                                  className={`lg:ml-[240px] lg:-mt-6 rounded-sm ml-4 bg-white transition-[top] duration-300 lg:absolute lg:w-[250px] lg:shadow-lg ${
+                                    openSubIndex === submenuItem.id
+                                      ? "block"
+                                      : "hidden"
+                                  }`}
+                                >
+                                  {submenuItem.submenu?.map(
+                                    (subsubmenuItem, index) => (
+                                      <Link
+                                        onClick={() => {
+                                          setSubOpenIndex(submenuItem.id);
+                                          setOpenIndex(menuItem.id);
+                                        }}
+                                        href={subsubmenuItem.path}
+                                        key={index}
+                                        className="block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3"
                                       >
-                                        <path
-                                          fillRule="evenodd"
-                                          clipRule="evenodd"
-                                          d="M6.29289 8.8427C6.68342 8.45217 7.31658 8.45217 7.70711 8.8427L12 13.1356L16.2929 8.8427C16.6834 8.45217 17.3166 8.45217 17.7071 8.8427C18.0976 9.23322 18.0976 9.86639 17.7071 10.2569L12 15.964L6.29289 10.2569C5.90237 9.86639 5.90237 9.23322 6.29289 8.8427Z"
-                                          fill="currentColor"
-                                        />
-                                      </svg>
-                                    </span>
-                                  </p>
-                                  <div
-                                    className={`lg:ml-[240px] lg:-mt-6 rounded-sm ml-4 bg-white transition-[top] duration-300 lg:absolute lg:w-[250px] lg:shadow-lg ${
-                                      openSubIndex === submenuItem.id
-                                        ? "block"
-                                        : "hidden"
-                                    }`}
-                                  >
-                                    {submenuItem.submenu?.map(
-                                      (subsubmenuItem, index) => (
-                                        <Link
-                                          onClick={() => {
-                                            setSubOpenIndex(submenuItem.id);
-                                            setOpenIndex(menuItem.id);
-                                          }}
-                                          href={subsubmenuItem.path}
-                                          key={index}
-                                          className="block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3"
-                                        >
-                                          {subsubmenuItem.title()}
-                                        </Link>
-                                      )
-                                    )}
-                                  </div>
-                                </>
-                              )}
-                            </div>
-                          ))}
-                        </div>
-                      </>
-                    )}
-                  </li>
-                ))}
-                <LanguageChanger />
-              </ul>
-            </nav>
-          </div>
+                                        {subsubmenuItem.title()}
+                                      </Link>
+                                    )
+                                  )}
+                                </div>
+                              </>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    </>
+                  )}
+                </li>
+              ))}
+              <LanguageChanger />
+            </ul>
+          </nav>
         </div>
       </header>
     </div>
