@@ -6,7 +6,7 @@ import { useTranslation } from "react-i18next";
 const WhyChooseUs = () => {
   const { t } = useTranslation();
   return (
-    <div className="mt-[150px]">
+    <div className="mt-[230px]">
       <h1 className="font-bold text-5xl mx-10 text-center pt-10 font-serif mb-6">
         {t("choose:header")}
       </h1>
