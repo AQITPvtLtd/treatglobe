@@ -10,7 +10,7 @@ export const hospitals = [
   {
     id: 2,
     name: "Marengo Asia Hospitals, Gurugram, Haryana,",
-    image: "marengo.png",
+    image: "marengo.jpg",
     content:
       "Marengo Asia Hospitals, Gurugram is a 250 bedded hospital that offers the highest standards in healthcare through a combination of cutting-edge technology, a team of well-qualified, experienced and dedicated doctors with global education and experience, and super-specialized clinicians. It has an experience of 30 years in treating thousands of happy patients across multiple hospitals and clinics in India. An ultra-modern hospital with a comfortable ambience, the facility offers a touch of warmth, the highest regard for patient privacy and transparent billing practices, which has earned us our patients’ trust. We ensure that this quality care comes to you at the most affordable cost in the most easily accessible city in India. A plethora of stay options to suit every pocket, along with all the delights of multi-cultural North India and exotic places to travel to, further makes us the preferred destination for domestic and international patients.",
   },

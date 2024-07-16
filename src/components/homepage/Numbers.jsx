@@ -24,18 +24,23 @@ const Numbers = () => {
 
         <div className="absolute inset-0 lg:grid grid-cols-3 m-[20px] lg:m-[130px] text-white font-bold text-2xl">
           <div className="bg-secondary my-5 rounded-l-lg flex justify-center items-center">
-            <div className="my-3">
-              <Image
-                src="/numbers/hospitals.png"
-                width={150}
-                height={150}
-                alt="numbers"
-              />
-              <div className="text-7xl text-center">
+            <div className="my-3 ">
+              <div className="flex justify-center mb-4">
+                <Image
+                  src="/numbers/hospitals.png"
+                  width={200}
+                  height={200}
+                  alt="numbers"
+                  className="rounded-lg "
+                />
+              </div>
+              {/* <div className="text-7xl text-center">
                 {count && <CountUp start={1} end={10} duration={2} delay={0} />}
                 +
+              </div> */}
+              <div className="text-center text-4xl">
+                Best {t("numbers:hospitals")}
               </div>
-              <div className="text-center">{t("numbers:hospitals")}</div>
             </div>
           </div>
           <div className="bg-primary rounded-lg flex justify-center items-center">
@@ -45,26 +50,33 @@ const Numbers = () => {
                 width={200}
                 height={200}
                 alt="experience"
+                className="rounded-lg"
               />
               <div className="text-7xl text-center">
-                {count && <CountUp start={1} end={9} duration={2} delay={0} />}+
+                {count && <CountUp start={1} end={15} duration={2} delay={0} />}
+                +
               </div>
               <div className="text-center">{t("numbers:exp")}</div>
             </div>
           </div>
           <div className="bg-secondary my-5 rounded-r-lg flex justify-center items-center">
             <div>
-              <Image
-                src="/numbers/patients.png"
-                width={150}
-                height={150}
-                alt="doctors"
-              />
-              <div className="text-7xl text-center">
+              <div className="flex justify-center mb-4">
+                <Image
+                  src="/numbers/patients.png"
+                  width={200}
+                  height={200}
+                  alt="doctors"
+                  className="rounded-lg"
+                />
+              </div>
+              {/* <div className="text-7xl text-center">
                 {count && <CountUp start={1} end={50} duration={2} delay={0} />}
                 +
+              </div> */}
+              <div className="text-center text-4xl">
+                Best {t("numbers:doctors")}
               </div>
-              <div className="text-center">{t("numbers:doctors")}</div>
             </div>
           </div>
         </div>
