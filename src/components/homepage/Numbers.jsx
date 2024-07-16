@@ -39,14 +39,14 @@ const Numbers = () => {
                 +
               </div> */}
               <div className="text-center text-4xl">
-                Best {t("numbers:hospitals")}
+                {t("numbers:hospitals")}
               </div>
             </div>
           </div>
           <div className="bg-primary rounded-lg flex justify-center items-center">
             <div>
               <Image
-                src="/numbers/experience.png"
+                src="/numbers/experiences.png"
                 width={200}
                 height={200}
                 alt="experience"
@@ -74,9 +74,7 @@ const Numbers = () => {
                 {count && <CountUp start={1} end={50} duration={2} delay={0} />}
                 +
               </div> */}
-              <div className="text-center text-4xl">
-                Best {t("numbers:doctors")}
-              </div>
+              <div className="text-center text-4xl">{t("numbers:doctors")}</div>
             </div>
           </div>
         </div>

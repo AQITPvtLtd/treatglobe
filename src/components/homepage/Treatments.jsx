@@ -17,7 +17,7 @@ const Treatments = () => {
     {
       id: 2,
       name: () => t("treatments:two"),
-      image: "ortho.png",
+      image: "ortho2.png",
       content:
         "India has made significant advancements in orthopedic surgery, driven by our adoption of new technologies and the continuous development of our skilled surgeons, supported by pioneering research. The treatment of orthopedic conditions depends on various factors, including the type of injury or disorder, the severity of the condition, the patient’s overall health, and their response to previous treatments. Based on thorough diagnostic evaluations, treatment options may include minimally invasive surgeries, joint replacements, arthroscopy, and rehabilitation therapies. Today, orthopedic surgery in India is equipped with state-of-the-art diagnostic tools and advanced surgical techniques. <br/><br/>Contact us to receive the best orthopedic care available.",
     },
@@ -66,7 +66,7 @@ const Treatments = () => {
     {
       id: 9,
       name: () => t("treatments:nine"),
-      image: "ent.png",
+      image: "ent2.png",
       content: `India has made significant advancements in the field of Otorhinolaryngology, commonly known as ENT (Ear, Nose, and Throat), owing to the integration of advanced technologies and the expertise of skilled medical professionals, backed by groundbreaking research.
   
       ENT deals with a wide range of conditions related to the ears, nose, throat, head, and neck. Treatment approaches in ENT depend on the specific condition, its severity, and the patient's overall health. Comprehensive diagnostic evaluations guide the selection of appropriate treatment options, which may include medications, surgical interventions, hearing aids, or speech therapy.
