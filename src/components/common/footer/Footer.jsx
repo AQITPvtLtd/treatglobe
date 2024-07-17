@@ -40,18 +40,12 @@ const Footer = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link
-                      href="/about/who-are-we"
-                      className="hover:text-darkgreen"
-                    >
+                    <Link href="/about" className="hover:text-darkgreen">
                       {t("navbar:about")}
                     </Link>
                   </li>
                   <li>
-                    <Link
-                      href="/about/why-choose-us"
-                      className="hover:text-darkgreen"
-                    >
+                    <Link href="/articles" className="hover:text-darkgreen">
                       {t("navbar:articles")}
                     </Link>
                   </li>
@@ -71,22 +65,22 @@ const Footer = () => {
 
                 <ul className="mb-0 list-none leading-loose">
                   <li>
-                    <Link href="/tests/1" className="hover:text-blue">
+                    <Link href="/" className="hover:text-blue">
                       {t("treatments:one")}
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tests/2" className="hover:text-blue">
+                    <Link href="/" className="hover:text-blue">
                       {t("treatments:two")}
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tests/3" className="hover:text-blue">
+                    <Link href="/" className="hover:text-blue">
                       {t("treatments:four")}
                     </Link>
                   </li>
                   <li>
-                    <Link href="/tests/4" className="hover:text-blue">
+                    <Link href="/" className="hover:text-blue">
                       {t("treatments:eight")}
                     </Link>
                   </li>
@@ -107,7 +101,7 @@ const Footer = () => {
                     </Link>
                   </li>
                   <li className="mt-3 leading-normal">
-                    <Link href="tel:+91-981 172 4700">
+                    <Link href="tel:+91 98186 47557">
                       <h5 className="mb-2.5 font-bold uppercase">
                         {t("footer:heading4")}
                       </h5>

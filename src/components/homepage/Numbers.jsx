@@ -27,7 +27,7 @@ const Numbers = () => {
             <div className="my-3 ">
               <div className="flex justify-center mb-4">
                 <Image
-                  src="/numbers/hospitals.png"
+                  src="/numbers/hospital.png"
                   width={200}
                   height={200}
                   alt="numbers"
@@ -63,7 +63,7 @@ const Numbers = () => {
             <div>
               <div className="flex justify-center mb-4">
                 <Image
-                  src="/numbers/patients.png"
+                  src="/numbers/doctor.png"
                   width={200}
                   height={200}
                   alt="doctors"
