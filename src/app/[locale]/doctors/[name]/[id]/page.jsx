@@ -1,5 +1,5 @@
 import React from "react";
-import { doctordata } from "../../../hospitals/doctordata";
+import { doctordata } from "@/data/doctordata";
 import Doctor from "./Doctor";
 const page = ({ params }) => {
   const did = params.id;

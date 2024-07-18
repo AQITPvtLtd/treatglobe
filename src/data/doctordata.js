@@ -9,11 +9,11 @@ export const doctordata = [
     experience: "20+",
     top: false,
     description: `A leading name in Haemato-oncology and Bone Marrow Transplants, Dr. Dharma Choudhary brings with an experience of more than 20 years. He has performed over 2000 life-saving transplants earning him the distinction of being most reliable and experienced in the field. He completed his training in haematology from All India Institute of Medical Sciences, New Delhi.
-
-                Dr. Dharma Choudhary played an instrumental role in inception of BLK-Max Centre for Bone Marrow Transplant and Bone Marrow Transplant Unit at Sanar International Hospital, Gurgaon.
-
-                He has various articles, chapters and abstracts which he published for both national and international publications to his credit. Dr. Choudhary is passionate for training, teaching and developing haematology & BMT services globally. He is actively involved in post graduate training and is also heading fellowship course
-                in Haematology.`,
+  
+                  Dr. Dharma Choudhary played an instrumental role in inception of BLK-Max Centre for Bone Marrow Transplant and Bone Marrow Transplant Unit at Sanar International Hospital, Gurgaon.
+  
+                  He has various articles, chapters and abstracts which he published for both national and international publications to his credit. Dr. Choudhary is passionate for training, teaching and developing haematology & BMT services globally. He is actively involved in post graduate training and is also heading fellowship course
+                  in Haematology.`,
   },
   {
     id: 2,
@@ -36,12 +36,12 @@ export const doctordata = [
     top: true,
     top: false,
     description: `Padma Bhushan Dr. Kler is a leading name in the field of cardiology. In his distinguished career of more than 37 years, he has performed over 35,000 coronary, renal, carotid, and peripheral angioplasties.
-
-A pioneer in electrophysiology, he is also credited with establishing the first electrophysiology department in India at a leading hospital in Delhi. He was the first doctor in India to implant ICD, CRT-P, & CRT-D. He was also the first doctor in India to perform HIS Bundle Pacing in the year 2015. He has been instrumental in starting RF ablation & Cardiac Device Implantation Programme at various leading centres in India, Bangladesh, Nepal, Sri Lanka and Pakistan. A Fellow of the Royal College of Physicians (FRCP), UK and Fellow of American College of Cardiology, Dr. Kler is also an Honorary Professor of Cardiology at Banaras Hindu University (BHU) and O.P. Jindal University, Sonipat He has trained more than 300 doctors from India and abroad in the field of interventional cardiology and electrophysiology. He is also a scientific advisor to various multinational companies incorporated in the USA.
-
-He has authored about 150 articles in national and international journals. An eminent speaker, Dr. Kler regularly delivers lectures at various national and international conferences like HRS and ACC. He is often invited as a Guest Faculty in the USA, France, Australia, Sri Lanka, Bangladesh, Singapore and Pakistan.
-
-In 2005, he was awarded the Padma Bhushan by the Government of India for his tremendous contribution to medicine. He has also been awarded the prestigious D.Sc (Honoris Causa) by Punjab University, Lifetime Achievement Award by the Indian Medical Association and Times Healthcare Achievers Awards: Legend of Medicine among many others. He has been honoured with the Delhi Medical Association Centenary Award.`,
+  
+  A pioneer in electrophysiology, he is also credited with establishing the first electrophysiology department in India at a leading hospital in Delhi. He was the first doctor in India to implant ICD, CRT-P, & CRT-D. He was also the first doctor in India to perform HIS Bundle Pacing in the year 2015. He has been instrumental in starting RF ablation & Cardiac Device Implantation Programme at various leading centres in India, Bangladesh, Nepal, Sri Lanka and Pakistan. A Fellow of the Royal College of Physicians (FRCP), UK and Fellow of American College of Cardiology, Dr. Kler is also an Honorary Professor of Cardiology at Banaras Hindu University (BHU) and O.P. Jindal University, Sonipat He has trained more than 300 doctors from India and abroad in the field of interventional cardiology and electrophysiology. He is also a scientific advisor to various multinational companies incorporated in the USA.
+  
+  He has authored about 150 articles in national and international journals. An eminent speaker, Dr. Kler regularly delivers lectures at various national and international conferences like HRS and ACC. He is often invited as a Guest Faculty in the USA, France, Australia, Sri Lanka, Bangladesh, Singapore and Pakistan.
+  
+  In 2005, he was awarded the Padma Bhushan by the Government of India for his tremendous contribution to medicine. He has also been awarded the prestigious D.Sc (Honoris Causa) by Punjab University, Lifetime Achievement Award by the Indian Medical Association and Times Healthcare Achievers Awards: Legend of Medicine among many others. He has been honoured with the Delhi Medical Association Centenary Award.`,
   },
   {
     id: 4,
@@ -52,12 +52,12 @@ In 2005, he was awarded the Padma Bhushan by the Government of India for his tre
     experience: "18+",
     top: false,
     description: `With a hands-on experience of more than two decades, Dr. Abhideep Chaudhary covers the entire spectrum of HPB Surgeries and Liver Transplants. He has successfully conducted more than 2000 HPB and liver transplant surgeries.
-
-<br/>He completed his post-graduate degree in General Surgery from Lady Hardinge Medical College & Associated Smt. Sucheta Kriplani Hospital, New Delhi, India and accomplished his Multiorgan Transplant Surgery Fellowship from Thomas Starzl Transplantation Institute - University of Pittsburgh Medical Center, Pittsburgh, USA.
-
-Dr. Abhideep has authored several papers, abstracts & chapters for both national & international publications and has delivered more than 60 lectures & presentations at various global conferences. He is held in high esteem in his peer professional circles and currently holds the post of “Treasurer” at Liver Transplant Society of India. He is also a Scientific Committee Member at International Liver Transplant Registry.
-
-<br/>He is well known for both his technical proficiency and patient-centric approach and ensures personalised care to all his patients.`,
+  
+  <br/>He completed his post-graduate degree in General Surgery from Lady Hardinge Medical College & Associated Smt. Sucheta Kriplani Hospital, New Delhi, India and accomplished his Multiorgan Transplant Surgery Fellowship from Thomas Starzl Transplantation Institute - University of Pittsburgh Medical Center, Pittsburgh, USA.
+  
+  Dr. Abhideep has authored several papers, abstracts & chapters for both national & international publications and has delivered more than 60 lectures & presentations at various global conferences. He is held in high esteem in his peer professional circles and currently holds the post of “Treasurer” at Liver Transplant Society of India. He is also a Scientific Committee Member at International Liver Transplant Registry.
+  
+  <br/>He is well known for both his technical proficiency and patient-centric approach and ensures personalised care to all his patients.`,
   },
   {
     id: 5,
@@ -228,12 +228,12 @@ Dr. Abhideep has authored several papers, abstracts & chapters for both national
     experience: "18+",
     top: false,
     description: `Dr Shafiq Ahmed is a renowned urologist, uro oncologist and robotic kidney transplant surgeon with more than 18 years of experience and he has performed more than 15thousands urological procedures till date and his highest level of work is Robotic kidney Transplant.
-
-<br/>Previously he has been associated with some of best hospitals in India and has been a key member in setting up Renal Transplant Programme including robotic kidney Transplant in some of the top hospitals in Delhi-NCR. He is a US credentialed robotic uro-oncologist and a robotic.
-
-<br/>Genitourinay surgeon for adult and pediatric patients. He is one of the few surgeon in the world who is actively performing robotic kidney transplant.
-
-<br/>Dr Ahmed has authored several articles in national and international medical journals and many book chapters in urological disease. He has been an eminent speaker at various medical conferences and faculty for urology training program of students in India. As one of the leading urologist, robotic and renal transplant surgeon, he has played an instrumental role in mentoring young surgeons in the country.`,
+  
+  <br/>Previously he has been associated with some of best hospitals in India and has been a key member in setting up Renal Transplant Programme including robotic kidney Transplant in some of the top hospitals in Delhi-NCR. He is a US credentialed robotic uro-oncologist and a robotic.
+  
+  <br/>Genitourinay surgeon for adult and pediatric patients. He is one of the few surgeon in the world who is actively performing robotic kidney transplant.
+  
+  <br/>Dr Ahmed has authored several articles in national and international medical journals and many book chapters in urological disease. He has been an eminent speaker at various medical conferences and faculty for urology training program of students in India. As one of the leading urologist, robotic and renal transplant surgeon, he has played an instrumental role in mentoring young surgeons in the country.`,
   },
   {
     id: 22,
@@ -544,7 +544,7 @@ Dr. Abhideep has authored several papers, abstracts & chapters for both national
     experience: "",
     top: true,
     description: `Dr Aditya Gupta, is an accomplished Neurosurgeon, has been a graduate and topper at All India Institute of Medical Sciences, New Delhi. He was later selected to become Faculty, and remained as Associate Professor of Neurosurgery till 2009. Thereafter, he co-founded the Institute of Neurosciences at Medanta, where he worked till mid-2016 as Additional Director, Neurosurgery.
-<br/>Dr Aditya Gupta has not only developed excellent surgical techniques for a wide variety of brain tumors, with an emphasis on microsurgery and radiosurgery, but also has special and unique skills in managing patients of Movement Disorders with Deep Brain Stimulation (DBS), Surgery for Epilepsy, Nerve and Brachial Plexus Surgery, Brain aneurysms and AVMs. He is also an expert in all kinds of spine surgery. He has more than 40 scientific publications, chapters in books and is an invited speaker in national and international meetings. He has featured on national television on several occasions. He is clearly one of the best neurosurgeons in the country today.`,
+  <br/>Dr Aditya Gupta has not only developed excellent surgical techniques for a wide variety of brain tumors, with an emphasis on microsurgery and radiosurgery, but also has special and unique skills in managing patients of Movement Disorders with Deep Brain Stimulation (DBS), Surgery for Epilepsy, Nerve and Brachial Plexus Surgery, Brain aneurysms and AVMs. He is also an expert in all kinds of spine surgery. He has more than 40 scientific publications, chapters in books and is an invited speaker in national and international meetings. He has featured on national television on several occasions. He is clearly one of the best neurosurgeons in the country today.`,
   },
   {
     id: 54,
@@ -555,14 +555,14 @@ Dr. Abhideep has authored several papers, abstracts & chapters for both national
     experience: "",
     top: true,
     description: `Dr Hitesh Garg is the head of Ortho-Spine surgery unit at Artemis hospital, Gurgaon, India. He has a rich experience of more than 15 years in spine surgery and has worked at many apex institutes around the globe like Yale University (USA), Shriners Hospital for Children, Philadelphia (USA). He has done his graduation from AIIMS, New Delhi (Top most college of India) and post graduation from prestigious KEM Hospital, Mumbai. In spite of being offered a faculty position in USA, he chose to come back to India with the aim to establish an advanced spine center of international repute in India. He has strong academic interest, has published nationally and internationally and has written chapters in world renowned books on spine surgery
-
-<br/>He has more than 5000 spine surgeries to his credit including more than 2500 spinal fusions (TLIF, ACDF etc), 1000 deformity correction procedures (Scoliosis and kyphosis), 300 lumbar and cervical artificial disc replacements, 500 fracture treatments and 500 other complex surgeries like spinal tumour, congenital defects and spino-pelvic fixations.
-
-<br/>He uses the latest cutting edge technology during surgery such as Neuromonitoring, O-arm, Navigation, modular operation theaters and microscope which allows him to have a high success rate of almost 98 percent.
-
-<br/>Dr. Hitesh Garg has operated on patients from more than 50 countries including USA, Canada, Australia, Germany, Iraq, Saudi Arabia, Oman, Sudan, South Sudan, Kenya, Nigeria, Zimbabwe, Malawi, Ethiopia, Uzbekistan, Tajikistan, Kazakhstan, Uganda, Turkmenistan, Nepal, Afghanistan, Bangladesh, Nepal besides India. His clientele includes some of the very prominent national and international personalities including army officers, ministers, celebrities, sportspersons playing at national and international level, doctors and businessmen of national and international repute. His special interest includes minimally invasive spine surgeries, motion preserving spine surgeries, cranio-vertebral and cervical spine surgeries and deformity correction procedures for scoliosis and kyphosis.
-
-<br/>Dr. Garg believes in meeting patients' individual needs through comprehensive evaluation and treatment designed to help them achieve active, pain-free lifestyles. He combines leading edge techniques with proven traditional methods to provide patients with the best care possible.`,
+  
+  <br/>He has more than 5000 spine surgeries to his credit including more than 2500 spinal fusions (TLIF, ACDF etc), 1000 deformity correction procedures (Scoliosis and kyphosis), 300 lumbar and cervical artificial disc replacements, 500 fracture treatments and 500 other complex surgeries like spinal tumour, congenital defects and spino-pelvic fixations.
+  
+  <br/>He uses the latest cutting edge technology during surgery such as Neuromonitoring, O-arm, Navigation, modular operation theaters and microscope which allows him to have a high success rate of almost 98 percent.
+  
+  <br/>Dr. Hitesh Garg has operated on patients from more than 50 countries including USA, Canada, Australia, Germany, Iraq, Saudi Arabia, Oman, Sudan, South Sudan, Kenya, Nigeria, Zimbabwe, Malawi, Ethiopia, Uzbekistan, Tajikistan, Kazakhstan, Uganda, Turkmenistan, Nepal, Afghanistan, Bangladesh, Nepal besides India. His clientele includes some of the very prominent national and international personalities including army officers, ministers, celebrities, sportspersons playing at national and international level, doctors and businessmen of national and international repute. His special interest includes minimally invasive spine surgeries, motion preserving spine surgeries, cranio-vertebral and cervical spine surgeries and deformity correction procedures for scoliosis and kyphosis.
+  
+  <br/>Dr. Garg believes in meeting patients' individual needs through comprehensive evaluation and treatment designed to help them achieve active, pain-free lifestyles. He combines leading edge techniques with proven traditional methods to provide patients with the best care possible.`,
   },
   {
     id: 55,
@@ -573,16 +573,16 @@ Dr. Abhideep has authored several papers, abstracts & chapters for both national
     experience: "",
     top: true,
     description: `Dr. SK Rajan is an ‘AO International’ Certified Spine Surgeon who brings with him over 15 years of experience in the surgical arena accumulated from a wide variety of Institutions from around the Globe.
-
-<br/>He has accomplished his surgical training from premier institutions of the country like PGI Chandigarh and GB Pant Hospital, New Delhi; & realizing his passion for treating spinal disorders and that spine work demands expertise of a very high order, Dr. Rajan then moved to the UK and then to the US to work with some of the most prominent International leaders in the field of Spine Surgery (Prof. Edward Benzel at the Cleveland Clinic and Mr. Adrian Casey at London) so as to ‘crack the code’ and enable delivery of outstanding results.
-
-<br/>He has also served as Assistant Professor of Neurosurgery, Chief Spine Surgeon & Head of Neurosurgery at a variety of busy Central Government and large Private Hospitals of Delhi before joining Artemis as the Head of Spine Surgery and Associate Director of Neurosurgery.
-
-<br/>Dr. Rajan was one of a select few from around the world to be selected for the prestigious International World Federation of Neurosurgeons Fellowship to USA for the year 2009. He was also recently honored with ‘AWARD OF EXCELLENCE IN SPINE SURGERY’ AT THE Global Healthcare Excellence Awards at New Delhi for his contributions to the field of spine surgery.
-
-<br/>He is also recognised in the National Neurosurgery circles for successfully applying and popularizing new and special techniques for the successful treatment of various complex spinal disorders especially of the Craniovertebral Junction (upper neck)  and Lumbosacral Junction (lower back). He has, to his credit, an accomplishment of more than 3000 surgeries including some of the most complex spine cases and cases complicated by other surgeons. His repertoire includes both open and minimally invasive spine surgeries (Fusions as well as Motion Preservation Surgeries) on a variety of congenital, degenerative, scoliotic (deformity), traumatic and infective problems of the whole spine. 
-
-<br/>He has been recognized for utilising Minimally Invasive Key Hole Spine Surgery Techniques for a variety of spine cases like slipped disc, Lumbar Canal Stenosis, Spinal Tumors, etc. Dr Rajan is regularly invited to give talks at Regional & International level scientific meetings and also invited at Live Operative teaching Courses as National Guest Faculty. He has also authored and co-authored a number of publications – both articles in national-international journals as well as book chapters. `,
+  
+  <br/>He has accomplished his surgical training from premier institutions of the country like PGI Chandigarh and GB Pant Hospital, New Delhi; & realizing his passion for treating spinal disorders and that spine work demands expertise of a very high order, Dr. Rajan then moved to the UK and then to the US to work with some of the most prominent International leaders in the field of Spine Surgery (Prof. Edward Benzel at the Cleveland Clinic and Mr. Adrian Casey at London) so as to ‘crack the code’ and enable delivery of outstanding results.
+  
+  <br/>He has also served as Assistant Professor of Neurosurgery, Chief Spine Surgeon & Head of Neurosurgery at a variety of busy Central Government and large Private Hospitals of Delhi before joining Artemis as the Head of Spine Surgery and Associate Director of Neurosurgery.
+  
+  <br/>Dr. Rajan was one of a select few from around the world to be selected for the prestigious International World Federation of Neurosurgeons Fellowship to USA for the year 2009. He was also recently honored with ‘AWARD OF EXCELLENCE IN SPINE SURGERY’ AT THE Global Healthcare Excellence Awards at New Delhi for his contributions to the field of spine surgery.
+  
+  <br/>He is also recognised in the National Neurosurgery circles for successfully applying and popularizing new and special techniques for the successful treatment of various complex spinal disorders especially of the Craniovertebral Junction (upper neck)  and Lumbosacral Junction (lower back). He has, to his credit, an accomplishment of more than 3000 surgeries including some of the most complex spine cases and cases complicated by other surgeons. His repertoire includes both open and minimally invasive spine surgeries (Fusions as well as Motion Preservation Surgeries) on a variety of congenital, degenerative, scoliotic (deformity), traumatic and infective problems of the whole spine. 
+  
+  <br/>He has been recognized for utilising Minimally Invasive Key Hole Spine Surgery Techniques for a variety of spine cases like slipped disc, Lumbar Canal Stenosis, Spinal Tumors, etc. Dr Rajan is regularly invited to give talks at Regional & International level scientific meetings and also invited at Live Operative teaching Courses as National Guest Faculty. He has also authored and co-authored a number of publications – both articles in national-international journals as well as book chapters. `,
   },
   {
     id: 56,
@@ -613,12 +613,12 @@ Dr. Abhideep has authored several papers, abstracts & chapters for both national
     experience: "",
     top: false,
     description: `Dr Ramkinkar Jha is an accomplished Orthopaedic Surgeon with over two decades of rich experience at India’s top Medical Institutions namely Medanta – The Medicity, Narayana Health, Tata Main Hospital & AIIMS. He graduated from Jawahar Lal Nehru Medical College, with gold medal and the title of Best Outgoing Graduate.
-
-<br/>He received his postgraduate degree Master of Surgery (M.S.) in orthopaedics from prestigious All India Institute of Medical Sciences (AIIMS), New Delhi. He completed his Senior Residency (Registrarship) at AIIMS, New Delhi, after completing his MS (Orthopaedics).
-
-<br/>He has received training from world-renowned orthopaedic surgeons in Australia, Thailand, and Hong Kong, as well as in India (AIIMS,New Delhi,Ganga Hospital, Coimbatore, CMC Vellore, and Bombay Hospital, Mumbai). He is a member of the Royal College of Surgeons (Glasgow).
-
-<br/>In addition, he is the member of other elite bodies of international knee replacement and arthroscopy surgeons and other professional Orthopaedic organisations and societies. He has to his credit many reputed International & National Papers. He has also contributed to Chapters in many books on Joint Replacements, trauma & Sports Injuries. He has been a speaker in many National /International Conferences.`,
+  
+  <br/>He received his postgraduate degree Master of Surgery (M.S.) in orthopaedics from prestigious All India Institute of Medical Sciences (AIIMS), New Delhi. He completed his Senior Residency (Registrarship) at AIIMS, New Delhi, after completing his MS (Orthopaedics).
+  
+  <br/>He has received training from world-renowned orthopaedic surgeons in Australia, Thailand, and Hong Kong, as well as in India (AIIMS,New Delhi,Ganga Hospital, Coimbatore, CMC Vellore, and Bombay Hospital, Mumbai). He is a member of the Royal College of Surgeons (Glasgow).
+  
+  <br/>In addition, he is the member of other elite bodies of international knee replacement and arthroscopy surgeons and other professional Orthopaedic organisations and societies. He has to his credit many reputed International & National Papers. He has also contributed to Chapters in many books on Joint Replacements, trauma & Sports Injuries. He has been a speaker in many National /International Conferences.`,
   },
   {
     id: 59,
@@ -629,10 +629,10 @@ Dr. Abhideep has authored several papers, abstracts & chapters for both national
     experience: "",
     top: false,
     description: `He is an expert in Primary and Revision Joint replacement surgeries of the Knee, Hip, Shoulder, Elbow, and Ankle joints.
-He is one of the first and among only a few surgeons to start minimally invasive reconstructive surgery that is Key Hole surgery (Arthroscopy) for Shoulder, Elbow, Hip, and Ankle problems. In addition, has mastered techniques for managing Multi-Ligament and complex injuries of the Knee.
-He has published Joint Replacement, Arthroscopy, and Sports injury-related research publications in textbooks, journals and prepared manuscripts for Arthroscopy education for young orthopods.
-He is visiting surgeon to Al Tawara Medical / Teaching hospital, Ministry of Health, Sanna, Yemen. He is also visiting surgeon at Military Hospital, Sanna, Yemen. He is also invited as a surgeon in medical schools and hospitals in Iraq, Iran, Oman, and Syria.
-He has given Lectures in Various International and National meetings.`,
+  He is one of the first and among only a few surgeons to start minimally invasive reconstructive surgery that is Key Hole surgery (Arthroscopy) for Shoulder, Elbow, Hip, and Ankle problems. In addition, has mastered techniques for managing Multi-Ligament and complex injuries of the Knee.
+  He has published Joint Replacement, Arthroscopy, and Sports injury-related research publications in textbooks, journals and prepared manuscripts for Arthroscopy education for young orthopods.
+  He is visiting surgeon to Al Tawara Medical / Teaching hospital, Ministry of Health, Sanna, Yemen. He is also visiting surgeon at Military Hospital, Sanna, Yemen. He is also invited as a surgeon in medical schools and hospitals in Iraq, Iran, Oman, and Syria.
+  He has given Lectures in Various International and National meetings.`,
   },
   {
     id: 60,
@@ -643,14 +643,14 @@ He has given Lectures in Various International and National meetings.`,
     experience: "",
     top: false,
     description: `Dr Giriraj Bora is one of the youngest consultants in our Liver Transplant / HPB program. Dr Bora is a graduate of J L N Medical College, Ajmer. He trained in General Surgery at the same institute before joining as Senior Resident in G I Surgery at the Sanjay Gandhi Post Graduate Institute of Medical Sciences ( SGPGIMS ) in Lucknow. He then joined the MCh superspecialty program in G I Surgery at the G B Pant Hospital in Delhi where he trained for 3 years. After completing hi s training Dr Bora worked as Consultant G I Surgeon in Jaipur before he decided to pursue his career interest in Liver Transplantation.
-
-He joined CLBS as a Fellow in Liver Transplant / HPB Surgery in 2011 and trained extensively in all aspects of Liver Transplantation and HPB Surgery.
-
-<br/>In Jan 2013 Dr Bora was offered the position of Consultant at CLBS which he accepted. Dr Bora is an enthusiastic member of the core surgical team at our centre and also plays a pivotal role in donor evaluation before liver transplant.
-
-<br/>He has a special interest in liver transplantation & liver resections for Hepatocellular cancers, combined liver â€“ kidney transplantation as well as in Pancreatic Surgery (Whippleâ€™s pancreaticoduodenal resections and surgery for chronic pancreatitis).The focus of his research activity has been the hemodynamic changes during liver transplant and changes during IVC crossclamping in LDLT.
-
-<br/>Dr Bora has a number of publications in the field of Liver Transplantation / G I Surgery and numerous presentations at national and international conferences including at the prestigious ILTS International Liver Transplant Society) conferences in San Francisco in 2012 and at Sydney in 2013.`,
+  
+  He joined CLBS as a Fellow in Liver Transplant / HPB Surgery in 2011 and trained extensively in all aspects of Liver Transplantation and HPB Surgery.
+  
+  <br/>In Jan 2013 Dr Bora was offered the position of Consultant at CLBS which he accepted. Dr Bora is an enthusiastic member of the core surgical team at our centre and also plays a pivotal role in donor evaluation before liver transplant.
+  
+  <br/>He has a special interest in liver transplantation & liver resections for Hepatocellular cancers, combined liver â€“ kidney transplantation as well as in Pancreatic Surgery (Whippleâ€™s pancreaticoduodenal resections and surgery for chronic pancreatitis).The focus of his research activity has been the hemodynamic changes during liver transplant and changes during IVC crossclamping in LDLT.
+  
+  <br/>Dr Bora has a number of publications in the field of Liver Transplantation / G I Surgery and numerous presentations at national and international conferences including at the prestigious ILTS International Liver Transplant Society) conferences in San Francisco in 2012 and at Sydney in 2013.`,
   },
   {
     id: 61,
@@ -661,9 +661,9 @@ He joined CLBS as a Fellow in Liver Transplant / HPB Surgery in 2011 and trained
     experience: "",
     top: false,
     description: `Dr. Parveen Yadav is the best Surgical Oncologist for Thoracic Surgeries. He has done MBBS and MS General Surgery from the prestigious Medical Pt BD Sharma Medical College, Rohtak. He has also completed his 3 years surgical oncology training from the Institute Rotary Cancer Hospital (IRCH) AIIMS, New Delhi. He is a super specialist in Thoracic Surgery and has done a 2-year Thoracic Surgery fellowship from Tata Memorial Hospital, Mumbai. He specializes in Minimal Invasive (Key role) Esophageal and Lung Surgery, Medastinal and Airway disease, Intervention Bronchoscopy and Soft Tissue Sarcoma to list. He his one of the best Thoracic surgeon in Delhi NCR with more than 17 year experience of oncology and more than 11 year experience of thoracic surgery, he has performed over 3000 major thoracic procedure, which include over 1000 surgeries for Esophageal cancer & other Esophageal diseases and equal number for surgeries for Lung cancer & other lung diseases with best possible outcomes. He has special interest in Airway (trachea ) surgeries. Dr. Parveen Yadav is trained in Minimal Invasive Thoracic surgery(VATS) ,Therefore most the Esophageal and Lung surgeries are performed by minimally invasive technique. He has successfully treated complicated benign lung and pleural disease like Empyema , Tuberculosis, Bronchopleural Fistula, Bullous Disease, Mediastinal Mass, Thymomas, Chest Wall Tumor.
-
-
-<br/>Dr. Parveen Yadav has worked with the Top Medical Institutions of India Like All India Institute of Medical Sciences (AIIMS) New Delhi, Tata Memorial Hospital (Mumbai), Sir Ganga Ram Hospital, New Delhi, Artemis Hospital Gurugram, Paras Hospital Gurugram, Fortis Hospital Noida, Asian Institute, Faridabad.`,
+  
+  
+  <br/>Dr. Parveen Yadav has worked with the Top Medical Institutions of India Like All India Institute of Medical Sciences (AIIMS) New Delhi, Tata Memorial Hospital (Mumbai), Sir Ganga Ram Hospital, New Delhi, Artemis Hospital Gurugram, Paras Hospital Gurugram, Fortis Hospital Noida, Asian Institute, Faridabad.`,
   },
   {
     id: 62,
@@ -674,9 +674,9 @@ He joined CLBS as a Fellow in Liver Transplant / HPB Surgery in 2011 and trained
     experience: "",
     top: false,
     description: `Dr. Deepak Jha is an Alumni of Surgical Oncology, AIIMS, specializing and focusing primarily on Breast Surgery. After finishing his training in Surgical Oncology from IRCH-AIIMS, he has trained extensively in the field of advanced breast surgery and breast reconstruction. He is among the first in India to receive Breast Surgery fellowship from European Board of Surgery and has trained in Breast Oncoplasty from European Society of Surgical Oncology along with Observership in Breast Surgery from VallD’Hebron Hospital, Barcelona, Spain. 
-<br/>He has been previously associated with Fortis Hospitals (FMRI, Gurugram as well as Fortis Hospital VasantKunj) and Rajiv Gandhi Cancer Institute.
-
-<br/>He specializes in Breast preserving as well as re-constructive surgery along with complex procedures like Nipple Sparing Mastectomy, Radioguided Breast Surgery (ROLL), Sentinal Biopsy, Arm Reverse Mapping for Lymphedema Prevention, Breast Conservation &Oncoplastysurgery and DIEP free flap reconstruction.`,
+  <br/>He has been previously associated with Fortis Hospitals (FMRI, Gurugram as well as Fortis Hospital VasantKunj) and Rajiv Gandhi Cancer Institute.
+  
+  <br/>He specializes in Breast preserving as well as re-constructive surgery along with complex procedures like Nipple Sparing Mastectomy, Radioguided Breast Surgery (ROLL), Sentinal Biopsy, Arm Reverse Mapping for Lymphedema Prevention, Breast Conservation &Oncoplastysurgery and DIEP free flap reconstruction.`,
   },
   {
     id: 63,
@@ -687,7 +687,7 @@ He joined CLBS as a Fellow in Liver Transplant / HPB Surgery in 2011 and trained
     experience: "",
     top: false,
     description: `Dr. Tapan Singh Chauhan is MCh Surgical Oncologist with special interest in Gastrointestinal, Hepatopancreaticobiliary Oncology and Peritoneal Surface Malignancy (HIPEC). He has done MS in General Surgery from prestigious Pt. B.D. Sharma PGIMS Rohtak. He completed his Surgical Oncology training from premier Oncology institutes in the countryi.e.Dr.B.R.A.IRCH, AIIMS, New Delhi and Gujarat Cancer Research Institute, Ahmedabad. Pursuing his interest in GI oncology andminimally invasive surgery, he was at various fellowship positions, with Prof. Marcus Buechler at Heidelberg (HPB oncology), Dr. T.Subramaneshwar Rao at Indo–American Cancer Institute, Hyderabad(MIS). He was awarded with ESSO Fellowship in Cytoreductive surgery and HIPEC at Lyon, France under Prof. Olivier Glehen and Fellowship in Minimal Access surgery (FMAS). 
-Dr.Tapan is credited with several publications in esteemed journals and paper presentations at various national and international conferences. `,
+  Dr.Tapan is credited with several publications in esteemed journals and paper presentations at various national and international conferences. `,
   },
   {
     id: 64,
@@ -718,9 +718,9 @@ Dr.Tapan is credited with several publications in esteemed journals and paper pr
     experience: "",
     top: false,
     description: `Having completed Urology residency, Dr Vikram joined R.G. Stone Urological Institute, Mumbai in March 2003 as an Associate Urologist. Endo-urology had always been an area of great interest to him and having worked in this area he got a deep insight into the sub-speciality.
-Besides clinical and operative work, he has also been involved in a number of academic activities and presented and co-authored numerous publications and international peer reviewed urologic literature.
-He shifted from Mumbai to Delhi in August 2005 and joined Indraprastha Apollo hospital in the department of urology and renal transplantation. He joined Fortis Flight Lt. Rajan Dhall Memorial Hospital as a full time consultant in April 2006. In August 2008, he joined RG Stone Urology & Laparoscopy hospital at Gurgaon as the Chief Urologist.
-Dr. Vikram is associated with Artemis since September 2009, as a consultant in Urology, his main area of interest being Endo-urology and Laproscopic Urology and Renal Transplant.`,
+  Besides clinical and operative work, he has also been involved in a number of academic activities and presented and co-authored numerous publications and international peer reviewed urologic literature.
+  He shifted from Mumbai to Delhi in August 2005 and joined Indraprastha Apollo hospital in the department of urology and renal transplantation. He joined Fortis Flight Lt. Rajan Dhall Memorial Hospital as a full time consultant in April 2006. In August 2008, he joined RG Stone Urology & Laparoscopy hospital at Gurgaon as the Chief Urologist.
+  Dr. Vikram is associated with Artemis since September 2009, as a consultant in Urology, his main area of interest being Endo-urology and Laproscopic Urology and Renal Transplant.`,
   },
   {
     id: 67,
@@ -731,7 +731,7 @@ Dr. Vikram is associated with Artemis since September 2009, as a consultant in U
     experience: "",
     top: false,
     description: `Dr. Ashu Jain started practicing pain medicine 14 years ago and got experience in Cardiac Anaesthesia & Pain Management from AIIMS, New Delhi & LLRM Medical College and Meerut.
-He established Pain Medicine at Artemis Hospital, Gurgaon and which is now doing all Advanced Pain Management Procedures. He is well versed with medical management of all types of Chronic Pain like Cancer Pain, Back Pain, Joint Pain, Neck Pain, Neuropatic Pain & Neuralgias, Facial pain, Headache etc.`,
+  He established Pain Medicine at Artemis Hospital, Gurgaon and which is now doing all Advanced Pain Management Procedures. He is well versed with medical management of all types of Chronic Pain like Cancer Pain, Back Pain, Joint Pain, Neck Pain, Neuropatic Pain & Neuralgias, Facial pain, Headache etc.`,
   },
   {
     id: 68,
@@ -742,16 +742,16 @@ He established Pain Medicine at Artemis Hospital, Gurgaon and which is now doing
     experience: "",
     top: false,
     description: `Dr.Biswajyoti Hazarika has been in the specialized field of Head & Neck surgery for the last 20 years. His area of expertise includes surgery for tumors/ cancer of the head and neck region (which comprises the oral cavity, the nose and the para-nasal sinuses, the larynx, the pharynx, the salivary glands, thyroid and the parathyroid glands. Dr Hazarika is an accomplished in his field of specialty and is well versed with the plastic reconstruction of the resected part as well as endoscopic and minimal access surgery in the region of Head & Neck. Robotic Head & Neck Surgery is the latest addition to his acquisitions. 
-
-<br/>Besides surgical procedures Dr Hazarika also takes deep interest in the functional rehabilitation of all head and neck cancer patients.
-
-<br/>Soon after his fellowship in Head & Neck surgery from Kidwai Memorial Institute of Onoclogy, Bangalore Dr Hazarika went on to complete his residency in Dr B Barooah Cancer Centre, Guwahati. He thereafter worked in Prince Aly Khan Hospital, Mumbai (under the tutelage of Dr Sultan A Pradhan)- the myriad  experience has given him tremendous insight to the various gradations of Head and Neck Oncology as a whole.
-
-<br/>Dr Hazarika joined the Dept of Surgical Oncology, Max Super Specialty Hospital, Saket, New Delhi as a Consultant in 2009 and in 2013 he was appointed as the Head of Dept- Head & Neck Surgery in the same Institute and continued in the same post till August 2016.
-
-<br/>In addition to having multiple publications in national and international medical journals, Dr Hazarika has also authored chapters in Atlas of Otolaryngology and Head & Neck Surgery
-
-`,
+  
+  <br/>Besides surgical procedures Dr Hazarika also takes deep interest in the functional rehabilitation of all head and neck cancer patients.
+  
+  <br/>Soon after his fellowship in Head & Neck surgery from Kidwai Memorial Institute of Onoclogy, Bangalore Dr Hazarika went on to complete his residency in Dr B Barooah Cancer Centre, Guwahati. He thereafter worked in Prince Aly Khan Hospital, Mumbai (under the tutelage of Dr Sultan A Pradhan)- the myriad  experience has given him tremendous insight to the various gradations of Head and Neck Oncology as a whole.
+  
+  <br/>Dr Hazarika joined the Dept of Surgical Oncology, Max Super Specialty Hospital, Saket, New Delhi as a Consultant in 2009 and in 2013 he was appointed as the Head of Dept- Head & Neck Surgery in the same Institute and continued in the same post till August 2016.
+  
+  <br/>In addition to having multiple publications in national and international medical journals, Dr Hazarika has also authored chapters in Atlas of Otolaryngology and Head & Neck Surgery
+  
+  `,
   },
   {
     id: 69,
@@ -782,13 +782,13 @@ He established Pain Medicine at Artemis Hospital, Gurgaon and which is now doing
     experience: "",
     top: false,
     description: `Dr. Gaurav Dixit completed his MBBS and MD in General medicine from PGIMS Rohtak in 2008. After completing his senior residency in General Medicine, he joined the department of Clinical Hematology at AIIMS Delhi in 2011, and from there, he picked up an interest in the study and treatment of blood disorders. In 2012, he joined CMC Vellore, which has one of the best hematology departments in the country, for his DM degree.
-
-<br/>He worked for three years in this busy transplant center, before finishing in 2015. He joins Artemis Hospital after working for 4 years each in Max Hospital, Shalimar Bagh and Action Cancer Hospital. He was instrumental in setting up a bone marrow transplant program in both centers.
-In 2020, he was awarded the professional certificate in multiple myeloma by Mayo Clinic, U.S.A
-
-<br/>He possesses great clinical acumen and scientific insight. He is well-versed with the latest developments in the field of hematology and always follows set international guidelines for treating his patients. Due to his exceptional understanding of Hemato-Oncology, he holds a special place in the field.
-
-<br/>His teaching skills have been an asset to the department, wherever he has served. His special interests are leukemia, myeloma, lymphoma, and aplastic anemia. As a member of various organizations, in India and abroad, Dr. Gaurav is always willing to interact, learn and help. He has performed First Bone Marrow Transplant in Kenya in Oct 2022, successfully.`,
+  
+  <br/>He worked for three years in this busy transplant center, before finishing in 2015. He joins Artemis Hospital after working for 4 years each in Max Hospital, Shalimar Bagh and Action Cancer Hospital. He was instrumental in setting up a bone marrow transplant program in both centers.
+  In 2020, he was awarded the professional certificate in multiple myeloma by Mayo Clinic, U.S.A
+  
+  <br/>He possesses great clinical acumen and scientific insight. He is well-versed with the latest developments in the field of hematology and always follows set international guidelines for treating his patients. Due to his exceptional understanding of Hemato-Oncology, he holds a special place in the field.
+  
+  <br/>His teaching skills have been an asset to the department, wherever he has served. His special interests are leukemia, myeloma, lymphoma, and aplastic anemia. As a member of various organizations, in India and abroad, Dr. Gaurav is always willing to interact, learn and help. He has performed First Bone Marrow Transplant in Kenya in Oct 2022, successfully.`,
   },
   {
     id: 72,
@@ -819,11 +819,11 @@ In 2020, he was awarded the professional certificate in multiple myeloma by Mayo
     experience: "",
     top: false,
     description: `Dr Paritosh S Gupta is a Head of the Department, General, Min Access & Bariatric Surgery at Artemis Hospitals, Sector 51, Gurgaon, India. He joined this institution in Dec 2012 as Sr Consultant and was later promoted as Head of Department. Prior to joining this hospital he has worked as Head of Dept of General Surgery & Min Access Surgery at Indian Spinal Injury Centre and Nova Specialty Surgery. He worked as Head of Dept at Columbia Asia Hospital GBD in 2010 to 2011. He has worked as Sr Consultant in Dept of General Surgery & MAS Max Super Specialty Hospital, Saket from 2007 to 2010. He also worked at Fortis Hospital, Vasant Kunj from 2005 to 2007 as Sr Consultant. He is practising in Delhi and NCR for past 17 years. With an exhaustive list, having of more than 14,000 successful surgeries performed to his credit, he is considered as one of the best and experienced hand in his field. He has vast experience in all kind of abdominal surgeries and Gastro-intestinal surgeries. List of various surgery, which he is experienced of, are annexed.
-
-<br/>He is a graduate from Sh. M P Shah medical college, Jamnagar, Gujarat and Post graduate MS (Gen Surgery) from same medical college. He is a Board certified surgeon from National Board (DNB, Gen Surgery). He has a prestigious Membership from National Academy of Medical Sciences, (Dr A P J Abdul Kalam Saheb was the Founder and Chairperson of NAMS). He is an Alumni of IIM Calcutta and has gone through an year long “Leadership & Management Executive Programme” which was awarded to him in 2016. He has been awarded FMAS ( Fellow Minimal Access Surgery) by AMASI ( Association of Minimal Access Surgeons of India). He is also awarded with FAIS ( Fellow association of Surgeons of India) looking in to his contribution in the field of General Surgery
-He is a Trainer and Faculty at prestigious Ethicon Institute of Surgical Education (EISE), New Delhi. And he has trained many surgeons in Solid Organ Laparoscopic Surgery. He is a teaching Faculty at Artemis Hospitals and actively involved in training and teaching of DNB Postgraduate students in General Surgery allocated by National Board. With his constant efforts, National Board has also granted the department under his guidance to start Super specialty teaching programme  of FNB (Minimal Access Surgery) from 2018 onwards.  He is also faculty for FIAGES (Fellowship of Indian Associations of Gastro-Endoscopic Surgeons)
-
-<br/>He is actively participates and member in Renal Transplant committee and Infection Control committee. He has been a core member in Operation Theatre committee and actively takes part and formulates strategy to ensure efficient running of Operation theatres to maximise the output. His management skills and guidance has helped to streamline the operation theatre and rectify / minimize the time loss during OT turnaround time. He is registered with Gujarat Medical Council and Delhi Medical Council to practise medicine (General Surgery & Minimal Access Surgery). He is an active member of Delhi Medical Association. And he is also a Life member of prestigious ASI (Association of Surgeons of India) and OSSI (Obesity Surgeons society of India), IAGES ( Indian Association of Gastrointestinal Endoscopic Surgeons), AMASI ( Association of Min Access Surgeons of India)`,
+  
+  <br/>He is a graduate from Sh. M P Shah medical college, Jamnagar, Gujarat and Post graduate MS (Gen Surgery) from same medical college. He is a Board certified surgeon from National Board (DNB, Gen Surgery). He has a prestigious Membership from National Academy of Medical Sciences, (Dr A P J Abdul Kalam Saheb was the Founder and Chairperson of NAMS). He is an Alumni of IIM Calcutta and has gone through an year long “Leadership & Management Executive Programme” which was awarded to him in 2016. He has been awarded FMAS ( Fellow Minimal Access Surgery) by AMASI ( Association of Minimal Access Surgeons of India). He is also awarded with FAIS ( Fellow association of Surgeons of India) looking in to his contribution in the field of General Surgery
+  He is a Trainer and Faculty at prestigious Ethicon Institute of Surgical Education (EISE), New Delhi. And he has trained many surgeons in Solid Organ Laparoscopic Surgery. He is a teaching Faculty at Artemis Hospitals and actively involved in training and teaching of DNB Postgraduate students in General Surgery allocated by National Board. With his constant efforts, National Board has also granted the department under his guidance to start Super specialty teaching programme  of FNB (Minimal Access Surgery) from 2018 onwards.  He is also faculty for FIAGES (Fellowship of Indian Associations of Gastro-Endoscopic Surgeons)
+  
+  <br/>He is actively participates and member in Renal Transplant committee and Infection Control committee. He has been a core member in Operation Theatre committee and actively takes part and formulates strategy to ensure efficient running of Operation theatres to maximise the output. His management skills and guidance has helped to streamline the operation theatre and rectify / minimize the time loss during OT turnaround time. He is registered with Gujarat Medical Council and Delhi Medical Council to practise medicine (General Surgery & Minimal Access Surgery). He is an active member of Delhi Medical Association. And he is also a Life member of prestigious ASI (Association of Surgeons of India) and OSSI (Obesity Surgeons society of India), IAGES ( Indian Association of Gastrointestinal Endoscopic Surgeons), AMASI ( Association of Min Access Surgeons of India)`,
   },
   {
     id: 75,
@@ -834,10 +834,10 @@ He is a Trainer and Faculty at prestigious Ethicon Institute of Surgical Educati
     experience: "",
     top: false,
     description: `Dr. Sarup brings to our hospital, his 24 years of experience in the field of orthopaedic surgery. He has trained at centers of excellence in India such as PGIMER Chandigarh, KEM and Nair Hospitals in Mumbai. A significant part of his training was completed in the United Kingdom where he obtained his FRCS & MCh Ortho qualifications.
-
-<br/>Dr. Sarup super-specialises in the field of Paediatric Orthopaedics and Spine surgery. He has been awarded a fellowship in the above field in the Royal Hospital for Sick Children, Glasgow in 1998.
-
-<br/>Dr. Sarup is first qualified pediatric orthopedic surgeon who set up practice in Delhi. He started the Paediatric Orthopaedic Unit at Sir Ganga Ram Hospital in 2004. He developed the paediatric orthopaedic and spine division at Medanta Medicity in 2009 where he was heading this speciality. He has a special interest in Congenital Hip Dislocations, Club foot Deformity and Scoliosis correction.`,
+  
+  <br/>Dr. Sarup super-specialises in the field of Paediatric Orthopaedics and Spine surgery. He has been awarded a fellowship in the above field in the Royal Hospital for Sick Children, Glasgow in 1998.
+  
+  <br/>Dr. Sarup is first qualified pediatric orthopedic surgeon who set up practice in Delhi. He started the Paediatric Orthopaedic Unit at Sir Ganga Ram Hospital in 2004. He developed the paediatric orthopaedic and spine division at Medanta Medicity in 2009 where he was heading this speciality. He has a special interest in Congenital Hip Dislocations, Club foot Deformity and Scoliosis correction.`,
   },
   {
     id: 76,
@@ -848,10 +848,10 @@ He is a Trainer and Faculty at prestigious Ethicon Institute of Surgical Educati
     experience: "",
     top: false,
     description: `Dr. Sarup brings to our hospital, his 24 years of experience in the field of orthopaedic surgery. He has trained at centers of excellence in India such as PGIMER Chandigarh, KEM and Nair Hospitals in Mumbai. A significant part of his training was completed in the United Kingdom where he obtained his FRCS & MCh Ortho qualifications.
-
-<br/>Dr. Sarup super-specialises in the field of Paediatric Orthopaedics and Spine surgery. He has been awarded a fellowship in the above field in the Royal Hospital for Sick Children, Glasgow in 1998.
-
-<br/>Dr. Sarup is first qualified pediatric orthopedic surgeon who set up practice in Delhi. He started the Paediatric Orthopaedic Unit at Sir Ganga Ram Hospital in 2004. He developed the paediatric orthopaedic and spine division at Medanta Medicity in 2009 where he was heading this speciality. He has a special interest in Congenital Hip Dislocations, Club foot Deformity and Scoliosis correction.`,
+  
+  <br/>Dr. Sarup super-specialises in the field of Paediatric Orthopaedics and Spine surgery. He has been awarded a fellowship in the above field in the Royal Hospital for Sick Children, Glasgow in 1998.
+  
+  <br/>Dr. Sarup is first qualified pediatric orthopedic surgeon who set up practice in Delhi. He started the Paediatric Orthopaedic Unit at Sir Ganga Ram Hospital in 2004. He developed the paediatric orthopaedic and spine division at Medanta Medicity in 2009 where he was heading this speciality. He has a special interest in Congenital Hip Dislocations, Club foot Deformity and Scoliosis correction.`,
   },
   {
     id: 77,
@@ -862,10 +862,10 @@ He is a Trainer and Faculty at prestigious Ethicon Institute of Surgical Educati
     experience: "",
     top: false,
     description: `Dr. Renu Raina Sehgal  is amongst the most well-known Obstetrician and Gynaecologists of Delhi NCR with over 25 years of extensive experience. She is currently the Chairperson, Department of Obstetrics & Gynaecology at Artemis and Daffodils Hospitals, Gurgaon. Prior to joining Artemis she was associated with Max Super Speciality Hospital, Saket, New Delhi and Sir Ganga  Ram Hospital, New Delhi. 
-
-<br/>Dr Sehgal is highly experienced in handling High Risk Obstetrics and routinely caters to major & minor Laparoscopic, Hysteroscopic & Robotic Surgeries. She is a board certified guide and teacher for postgraduate Obstetrics & Gynaecology students. 
-
-<br/>She has been associated with Quality accreditation initiatives (NABH/JCI) of hospitals and is an expert on medico-legal issues. She has been invited as Faculty/Speaker to various conferences, workshops and seminars, and is credited with numerous articles, presentations and publications (in indexed journals) at various levels. `,
+  
+  <br/>Dr Sehgal is highly experienced in handling High Risk Obstetrics and routinely caters to major & minor Laparoscopic, Hysteroscopic & Robotic Surgeries. She is a board certified guide and teacher for postgraduate Obstetrics & Gynaecology students. 
+  
+  <br/>She has been associated with Quality accreditation initiatives (NABH/JCI) of hospitals and is an expert on medico-legal issues. She has been invited as Faculty/Speaker to various conferences, workshops and seminars, and is credited with numerous articles, presentations and publications (in indexed journals) at various levels. `,
   },
   {
     id: 78,
@@ -876,11 +876,11 @@ He is a Trainer and Faculty at prestigious Ethicon Institute of Surgical Educati
     experience: "",
     top: false,
     description: `Dr. Amit Kumar Chaurasia is an Alumni of three of the best Institutes in India. He graduated from JIPMER (Pondicherry), did his MD in Internal Medicine from AIIMS (New Delhi), and DM (Cardiology) from SCTIMST (Trivandrum). Subsequently, he did his Fellowship in Complex coronary and Structural Heart Disease from GOKI, Budapest (Hungary), where he worked for about three years.
-
-<br/>Dr. Chaurasia is a dedicated interventional cardiologist with vast experience in Adult, Paediatric, and Peripheral interventions. He is nationally and internationally recognized for his work in the field of Transcatheter Aortic Valve Implantation/Replacement (TAVI/TAVR). He is one of the first proctors for TAVI in India. He has to his credit one of the highest numbers of TAVI/TAVR procedures in India (more than 1000). He has also performed Transcatheter Pulmonary Valve Replacement (TPVR) in the smallest conduit in India. He also performs Transcatheter mitral Valve Replacements (TMVR) and has a special interest in BMV and Mitra-clip as well. He also has more than 50 left atrial appendage closures to his credit. He has been course director, course co-director, and faculty for many national and international conferences and has helped train many doctors in these procedures in India and Abroad.
-
-
-<br/>Apart from TAVI, he is an expert in complex coronary interventions like Left main intervention, chronic total occlusion (CTO), and other complex procedures and regularly conducts workshops at various places. He has performed more than 10,000 cardiac procedures to date. He also performs ASD, VSD, PDA, pulmonary AV fistula device closures. He has a special interest in performing carotid and aortoiliac interventions, including intervention for aortic aneurysm and dissections (TEVAR and EVAR). He also has a good experience in advanced catheter based treatment of hypertension (Renal artery denervation).`,
+  
+  <br/>Dr. Chaurasia is a dedicated interventional cardiologist with vast experience in Adult, Paediatric, and Peripheral interventions. He is nationally and internationally recognized for his work in the field of Transcatheter Aortic Valve Implantation/Replacement (TAVI/TAVR). He is one of the first proctors for TAVI in India. He has to his credit one of the highest numbers of TAVI/TAVR procedures in India (more than 1000). He has also performed Transcatheter Pulmonary Valve Replacement (TPVR) in the smallest conduit in India. He also performs Transcatheter mitral Valve Replacements (TMVR) and has a special interest in BMV and Mitra-clip as well. He also has more than 50 left atrial appendage closures to his credit. He has been course director, course co-director, and faculty for many national and international conferences and has helped train many doctors in these procedures in India and Abroad.
+  
+  
+  <br/>Apart from TAVI, he is an expert in complex coronary interventions like Left main intervention, chronic total occlusion (CTO), and other complex procedures and regularly conducts workshops at various places. He has performed more than 10,000 cardiac procedures to date. He also performs ASD, VSD, PDA, pulmonary AV fistula device closures. He has a special interest in performing carotid and aortoiliac interventions, including intervention for aortic aneurysm and dissections (TEVAR and EVAR). He also has a good experience in advanced catheter based treatment of hypertension (Renal artery denervation).`,
   },
   {
     id: 79,
@@ -891,12 +891,12 @@ He is a Trainer and Faculty at prestigious Ethicon Institute of Surgical Educati
     experience: "",
     top: false,
     description: `Dr Kuldeep Arora is Senior Consultant Cardiologist in Artemis Hospital Gurgaon, he has 16 years of experience in interventional cardiology and has successfully performed over 12,000 therapeutic cardiac interventions including coronary angioplasties, permanent pacemaker implantations, AICD’s, biventricular pacemakers and atrial septal defect device closure procedures.
-
-<br/>He completed his D.M Cardiology from Sri Jayadeva Institute of Cardiovascular Sciences and Research (SJIC) Bangalore. Later served there in SJICR Bangalore as lecturer and Assistant Professor of Cardiology. 
-Before joining Artemis Hospital he was working as Associate Director Cardiology in Paras Hospitals Gurgaon. 
-
-<br/>He specializes in angiography & angioplasty via the radial route. A part from heart attack management, he has also expertise in pacemaker, ICD, CRT implantation, and device closure of atrial septal defects. 
-A part from expertise in coronary angioplasties, his focus is increasing public awareness of heart disease.`,
+  
+  <br/>He completed his D.M Cardiology from Sri Jayadeva Institute of Cardiovascular Sciences and Research (SJIC) Bangalore. Later served there in SJICR Bangalore as lecturer and Assistant Professor of Cardiology. 
+  Before joining Artemis Hospital he was working as Associate Director Cardiology in Paras Hospitals Gurgaon. 
+  
+  <br/>He specializes in angiography & angioplasty via the radial route. A part from heart attack management, he has also expertise in pacemaker, ICD, CRT implantation, and device closure of atrial septal defects. 
+  A part from expertise in coronary angioplasties, his focus is increasing public awareness of heart disease.`,
   },
   {
     id: 80,
@@ -907,8 +907,8 @@ A part from expertise in coronary angioplasties, his focus is increasing public 
     experience: "",
     top: false,
     description: `Dr. Sameer Mehrotra is a dynamic and highly skilled Interventional Cardiologist and Cardiac Electrophysiologist. He joins us from BLK Super Speciality Hospital New Delhi. Dr. Sameer has versatile experience in performing primary & elective angioplasties, electrophysiology (EP) & Ablation procedure like VT, AF, and Ablation, He is also a certified device specialist, performing PPI & CRT-D implantation.
-
-<br/>He is an esteemed member of the cardiological society of India and the Indian heart rhythm society. Many of his research paper has been published in national & international journal.`,
+  
+  <br/>He is an esteemed member of the cardiological society of India and the Indian heart rhythm society. Many of his research paper has been published in national & international journal.`,
   },
   {
     id: 81,
@@ -919,14 +919,14 @@ A part from expertise in coronary angioplasties, his focus is increasing public 
     experience: "",
     top: false,
     description: `Dr. Sushant Srivastava is a Cardio-Vascular surgeon of national repute. His special area of expertise includes Beating Heart Bypass Surgery, Single, Double and Triple Valve Repairs and Replacements, Aortic Aneurysm Surgery including Endovascular Repairs and Complex Vascular Procedures on the Aorta, Carotid Arteries, and lower limb vessels.
-
-<br/>He gained national prominence by performing successful bypass surgery on a 96 year old patient, probably the oldest reported patient to have undergone this operation. His total experience now is over 10,000 cases.
-
-<br/>He received training in Cardio-Vascular Surgery at the prestigious AIIMS, New Delhi, completing his M.Ch in CTVS in 1994 and then continued on the faculty as Assistant Professor until Sept 1998.
-
-<br/>He was actively associated with the Heart Transplant and Ventricular Assist Device Program of AIIMS, and was in-charge of donor management. At AIIMS, HE ASSISTED THE FIRST AND THE SUBSEQUENT 10 HEART TRANSPLANTS OF THIS COUNTRY.
-
-The wide ranging experience and training at the Institute has made him equally adept in Pediatric Cardiac surgery.`,
+  
+  <br/>He gained national prominence by performing successful bypass surgery on a 96 year old patient, probably the oldest reported patient to have undergone this operation. His total experience now is over 10,000 cases.
+  
+  <br/>He received training in Cardio-Vascular Surgery at the prestigious AIIMS, New Delhi, completing his M.Ch in CTVS in 1994 and then continued on the faculty as Assistant Professor until Sept 1998.
+  
+  <br/>He was actively associated with the Heart Transplant and Ventricular Assist Device Program of AIIMS, and was in-charge of donor management. At AIIMS, HE ASSISTED THE FIRST AND THE SUBSEQUENT 10 HEART TRANSPLANTS OF THIS COUNTRY.
+  
+  The wide ranging experience and training at the Institute has made him equally adept in Pediatric Cardiac surgery.`,
   },
   {
     id: 82,
@@ -937,10 +937,10 @@ The wide ranging experience and training at the Institute has made him equally a
     experience: "",
     top: false,
     description: `Dr Aseem R Srivastava is a Chief- Pediatric Cardiac Surgeon in the Department of Pediatric Cardiothoracic Surgery at Artemis Hospital, Gurgaon.
-Dr. Srivastava did his MBBS from GSVM Medical College, training in General Surgery (M.S) from King George Medical University and Cardiothoracic Surgery (M.Ch) from GB Pant Hospital.
-He did his training in Pediatric and Neonatal Cardiac Surgery from The Children’s Hospital of Philadelphia and Children’s Hospital of Pittsburgh of UPMC. After his training, he worked in East Carolina Heart Institute where he gained extensive experience in Minimal Access Cardiac Surgery and Robotic Cardiac Surgery.
-Dr. Srivastava has worked in most prominent programs of Pediatric Cardiac Surgery in USA.
-Dr. Srivastava has a vast experience in reconstructive operation (neonates and infants) and is a strong proponent of early corrective repair wherever possible. Dr. Srivastava is an expert in minimally access Aortic valve and Mitral valve surgery`,
+  Dr. Srivastava did his MBBS from GSVM Medical College, training in General Surgery (M.S) from King George Medical University and Cardiothoracic Surgery (M.Ch) from GB Pant Hospital.
+  He did his training in Pediatric and Neonatal Cardiac Surgery from The Children’s Hospital of Philadelphia and Children’s Hospital of Pittsburgh of UPMC. After his training, he worked in East Carolina Heart Institute where he gained extensive experience in Minimal Access Cardiac Surgery and Robotic Cardiac Surgery.
+  Dr. Srivastava has worked in most prominent programs of Pediatric Cardiac Surgery in USA.
+  Dr. Srivastava has a vast experience in reconstructive operation (neonates and infants) and is a strong proponent of early corrective repair wherever possible. Dr. Srivastava is an expert in minimally access Aortic valve and Mitral valve surgery`,
   },
   {
     id: 83,
@@ -951,10 +951,10 @@ Dr. Srivastava has a vast experience in reconstructive operation (neonates and i
     experience: "",
     top: false,
     description: `After finishing two years fellowship in Paediatric cardiology, she joined pool officer ship at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh, and worked there for three years and gained proficiency in clinical Paediatric Cardiology and its application to patient care. She has an extensive experience in Paediatric and neonatal Echo, Trans-esophageal echocardiography and has been actively involved in the Cath lab interventions
-
-<br/>Dr Nidhi Rawal has been working at Artemis Hospitals from 2010 onwards and has been actively updating the department with the advance procedures in Paediatric cardiology. She has been actively involved in the teaching programme of DNB. 
-
-<br/>Dr. Nidhi Rawal has keen interest in research and has attended various national conferences and CMEs regularly. She has many publications (both national and international) to her credit.`,
+  
+  <br/>Dr Nidhi Rawal has been working at Artemis Hospitals from 2010 onwards and has been actively updating the department with the advance procedures in Paediatric cardiology. She has been actively involved in the teaching programme of DNB. 
+  
+  <br/>Dr. Nidhi Rawal has keen interest in research and has attended various national conferences and CMEs regularly. She has many publications (both national and international) to her credit.`,
   },
   {
     id: 84,
@@ -965,7 +965,7 @@ Dr. Srivastava has a vast experience in reconstructive operation (neonates and i
     experience: "",
     top: false,
     description: `Dr Rajiv Sharma is working as Head Interventional Radiology in the Department of Radiology. He did his MD (Radiodiagnosis) from Shrimati N.H.L. Medical College, Ahmedabad. He has also done DNB (Radiology) from National Board of Examination). He has rich and vast experience of more than 23 years in diagnostic and interventional Radiology. At Artemis he heads the sub-department of interventional Radiology. He is well-versed and has been performing various interventional radiology procedure, including vascular, hepato-biliary and tumor embolization. He has also been performing Ultrasound and CT Guided Biopsies including prostate and Breast biopsies. Of late VABB Assisted, Ultrasound and MRI Guided Biopsies have also been performed by him. He is a DNB teaching faculty and has supervised several DNB thesis programs.
-He is running a Fellowship program in interventional Radiology. He has authored several academic papers published in national and international journals and has attended many conferences and workshops. He is a sound academician, an able administrator, and has organized several CMEs.`,
+  He is running a Fellowship program in interventional Radiology. He has authored several academic papers published in national and international journals and has attended many conferences and workshops. He is a sound academician, an able administrator, and has organized several CMEs.`,
   },
   {
     id: 85,
@@ -976,10 +976,10 @@ He is running a Fellowship program in interventional Radiology. He has authored 
     experience: "",
     top: false,
     description: `Dr.Parul Prakash is a Senior Consultant at Artemis Hospital, Gurgaon. She has 8yrs experience in Reproductive Medicine and 18yrs experience in Obstetrics and Gynaecology. She has successfully performed over 5000 IVF/ICSI cycles with embryo transfer and multiple cycles of IUI, Third-party reproduction, follicular monitoring, and testicular Biopsies.
-
-<br/>She has performed more than 2500 deliveries and Caesarean sections of high-risk pregnancies. She performs various Fertility enhancing endoscopic surgeries (Laparoscopy and hysteroscopy). She completed her FNB in Reproductive Medicine from Sir Ganga Ram Hospital, New Delhi.
-
-She has worked as a Senior IVF Consultant in several IVF centers which include Medicover (Rohini), Delhi IVF (Lajpat Nagar), Sarvodaya Fertility and IVF (Pitampura), Maharaja Agrasen Hospital (West Punjabi Bagh), Max Superspeciality Hospital(Shalimar Bagh).`,
+  
+  <br/>She has performed more than 2500 deliveries and Caesarean sections of high-risk pregnancies. She performs various Fertility enhancing endoscopic surgeries (Laparoscopy and hysteroscopy). She completed her FNB in Reproductive Medicine from Sir Ganga Ram Hospital, New Delhi.
+  
+  She has worked as a Senior IVF Consultant in several IVF centers which include Medicover (Rohini), Delhi IVF (Lajpat Nagar), Sarvodaya Fertility and IVF (Pitampura), Maharaja Agrasen Hospital (West Punjabi Bagh), Max Superspeciality Hospital(Shalimar Bagh).`,
   },
   {
     id: 86,
@@ -990,8 +990,8 @@ She has worked as a Senior IVF Consultant in several IVF centers which include M
     experience: "",
     top: false,
     description: `Dr. Rajiv Yadav has over two decades of experience in the treatment of Urological diseases involving Prostate, Kidney & Urinary bladder. His clinical focus is on Robot assisted Laparoscopic Surgery for Prostate Cancer, Kidney Cancer and Urinary bladder cancers. He leads a team of experts which is proficient in handling all sorts of complex urological procedures. Together they have performed thousands of procedures with results matching with that of the best centers in the world.
-
-<br/>He is the recipient of numerous awards and accolades. It includes the ‘Best Clinical Research’ award by the American Urological Association, for two consecutive years 2008 and 2009, ‘Gold Medal’ for Best Outgoing resident in Urology. He has authored more than 100 scientific articles and invited articles on various aspects of Minimally Invasive Urology and Urologic Oncology research.`,
+  
+  <br/>He is the recipient of numerous awards and accolades. It includes the ‘Best Clinical Research’ award by the American Urological Association, for two consecutive years 2008 and 2009, ‘Gold Medal’ for Best Outgoing resident in Urology. He has authored more than 100 scientific articles and invited articles on various aspects of Minimally Invasive Urology and Urologic Oncology research.`,
   },
   {
     id: 87,
@@ -1002,12 +1002,12 @@ She has worked as a Senior IVF Consultant in several IVF centers which include M
     experience: "",
     top: false,
     description: `Dr Nanda did his MS from AIIMS and MRCS from UK. Following M.Ch from PGI in 1997 he underwent advanced fellowships under world leaders in cosmetic and plastic surgery in Spain, Japan, U.K. & USA. He has been a senior faculty at PGIMER, Chandigarh and was appointed by Ministry of Health, Oman as head of a Plastic Surgery unit in a referral hospital in Oman.
-
-<br/>He is a member of the Royal College of Surgeons, UK and the National Academy of Medical Sciences, India. He has around 50 publications in reputed journals He has had the rare honour of being a fellow of British Association of Plastic Surgeons and International Scholar of the American Society of Plastic Surgery.
-
-<br/>He has presented and published his technique of cleft palate repair and rhinoplasty for cleft patients at various national and international fora which have been acclaimed by his peers. He has been part of various social initiatives and volunteered his services in ‘cleft camps’ organized by the Rotary Club and Operation Smile.
-
-<br/>Dr Nanda’s practice philosophy is ‘Underpromise and Overdeliver’. He appreciates the need for minimal time away from work for individuals undergoing cosmetic surgery.`,
+  
+  <br/>He is a member of the Royal College of Surgeons, UK and the National Academy of Medical Sciences, India. He has around 50 publications in reputed journals He has had the rare honour of being a fellow of British Association of Plastic Surgeons and International Scholar of the American Society of Plastic Surgery.
+  
+  <br/>He has presented and published his technique of cleft palate repair and rhinoplasty for cleft patients at various national and international fora which have been acclaimed by his peers. He has been part of various social initiatives and volunteered his services in ‘cleft camps’ organized by the Rotary Club and Operation Smile.
+  
+  <br/>Dr Nanda’s practice philosophy is ‘Underpromise and Overdeliver’. He appreciates the need for minimal time away from work for individuals undergoing cosmetic surgery.`,
   },
   {
     id: 88,
@@ -1018,10 +1018,10 @@ She has worked as a Senior IVF Consultant in several IVF centers which include M
     experience: "",
     top: false,
     description: `Dr. Pawan Rawal finished his medical school from Pt BDS PGIMS Rohtak and DM in Gastroenterology and Hepatology from prestigious Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh,. After DM he continued to work in same institute for next few years and gained proficiency in clinical Gastroenterology, Hepatology and in its application to patient care. With experience of more than 12 years in this field, he is well versed with the management of all kind of luminal, hepatic, pancreatic, biliary and systemic diseases. He has undergone extensive training in both noninvasive and invasive Gastroenterology and Hepatology. He has performed several adult and pediatric upper G I endoscopies/ colonoscopies, ERCPs, capsule endoscopies, push and double balloon enteroscopies. He is quite experienced in performing all kind of therapeutic procedures like variceal banding and scleropathy, balloon and bougie dilatation, glue injection for fundal varicies, endoscopic management of ulcers/bleeding, polypectomy, argon plasma coagulation, percutanous endoscopic gastrostomies (PEG), enteral (naso- jejunal) tube placement, manometry and all kind of therapeutic biliary and pancreatic ERCP and EUS.
-
-<br/>Dr. Pawan Rawal has keen interest in research and has attended various national and international conferences, international therapeutic endoscopy workshops and CMEs regularly. He has many publications (both national and international) to his credit which include original articles, review articles, chapters in books and case reports.
-
-<br/>He has particular interest in teaching and is involved in teaching DM fellows, postgraduate students, nursing staff and other paramedical personnel. He has been the guest faculty at various prestigious meeting in India.`,
+  
+  <br/>Dr. Pawan Rawal has keen interest in research and has attended various national and international conferences, international therapeutic endoscopy workshops and CMEs regularly. He has many publications (both national and international) to his credit which include original articles, review articles, chapters in books and case reports.
+  
+  <br/>He has particular interest in teaching and is involved in teaching DM fellows, postgraduate students, nursing staff and other paramedical personnel. He has been the guest faculty at various prestigious meeting in India.`,
   },
   {
     id: 89,
@@ -1042,11 +1042,11 @@ She has worked as a Senior IVF Consultant in several IVF centers which include M
     experience: "",
     top: false,
     description: `Dr. Jamwal has worked extensively in the field of Fatty Liver, GI bleeding, Biliary tract disorders, Advanced Endoscopy Procedures in Liver Diseases and also worked on Fecal Microbiota Transplantation. His clinical interest lies in NAFLD and its spectrum, Bile and its metabolism, Enterohepatic circulation, Biliary tree including Gall bladder, bile duct and pancreas, GI bleed and portal Hemodynamics.
-
-<br/>Before joining Artemis, he has worked in  Dharamshila Narayana Super Specialty Hospital where he was working as Sr. Consultant and Clinical Lead in the Department of Gastroenterology Center for Liver and Digestive Diseases. Prior to this, he was associated with Institute of Liver and Biliary Sciences where he was associated as Assistant Professor.
-
-<br/>He has represented India in multiple academic and business forums on International levels such as DDW, APDW, AASLD and Indo US Biopharma Summit. During his tenure at ILBS he visited Kyushu University Japan for training in Mucosal dissection and third space Endoscopy. He also visited the Department of Advanced Endoscopy at the prestigious Mayo Clinic Rochester Minnesota in USA where he learned the techniques of complex ERCP’s and learned the usage of mucosal suturing devices. He has numerous publications in International and National journals to his credit.
-`,
+  
+  <br/>Before joining Artemis, he has worked in  Dharamshila Narayana Super Specialty Hospital where he was working as Sr. Consultant and Clinical Lead in the Department of Gastroenterology Center for Liver and Digestive Diseases. Prior to this, he was associated with Institute of Liver and Biliary Sciences where he was associated as Assistant Professor.
+  
+  <br/>He has represented India in multiple academic and business forums on International levels such as DDW, APDW, AASLD and Indo US Biopharma Summit. During his tenure at ILBS he visited Kyushu University Japan for training in Mucosal dissection and third space Endoscopy. He also visited the Department of Advanced Endoscopy at the prestigious Mayo Clinic Rochester Minnesota in USA where he learned the techniques of complex ERCP’s and learned the usage of mucosal suturing devices. He has numerous publications in International and National journals to his credit.
+  `,
   },
   {
     id: 91,
@@ -1057,9 +1057,9 @@ She has worked as a Senior IVF Consultant in several IVF centers which include M
     experience: "",
     top: false,
     description: `Dr. Nitin Goel has vast working experience as Asst. Professor of Paediatric Surgery in Grants Medical College & Sir J.J. Group of Hospitals, Mumbai.
-He attended a medical camp (operative) in Tribal area (Shahpur-Maharastra) under NRHM scheme) from 17th-21st March 2012, operated 45 patients in 2 days.
-He carries with him more than a decade of experience in prominent hospitals in India.
-`,
+  He attended a medical camp (operative) in Tribal area (Shahpur-Maharastra) under NRHM scheme) from 17th-21st March 2012, operated 45 patients in 2 days.
+  He carries with him more than a decade of experience in prominent hospitals in India.
+  `,
   },
   {
     id: 92,
@@ -1080,19 +1080,43 @@ He carries with him more than a decade of experience in prominent hospitals in I
     experience: "",
     top: false,
     description: `Dr. S. R. Goyal has worked extensively in the field of Respiratory Medicine, Tuberculosis, Immunology, Sleep Medicine & Critical Care. Armed with impeccable qualifications & perspicacious diagnostic abilities, has his keen interest in Interventional Pulmonology and works tirelessly towards taking this field to new heights. He aims to soon start a successful & sustainable Lung Transplantation Programme with the collaboration of Thoracic Surgery team in order to provide benefit to those with end-stage lung diseases such as COPD, ILD, BRONCHIECTASIS etc.
-
-<br/>Before joining Artemis, he had worked at Sir Ganga Ram Hospital, New Delhi where he was an Associate Consultant. 
-
-<br/>Dr. Goyal  completed his residency at VMMC & Safdarjung Hospital, New Delhi in Department of Pulmonary Critical Care & Sleep Medicine under Prof (Dr.) J. C. Suri (credited with establishing first sleep laboratory of the country).
-
-<br/>He has presented his work at multiple academic forums on National & International levels such as NAPCON, TESCON, PULMOCON, ICONIC, Indian Science Congress (ISC) & European Respiratory Society World Congress (ERS). During his tenure at Sir Ganga Ram Hospital, he visited National University Hospital (NUH), Singapore to receive training in Bronchial Thermoplasty & Bronchoscopic Lung Volume Reduction
-
-(BLVRS) by Prof. Pyng Lee.
-Trained in the technique of Rigid Bronchoscopy & Thoracoscopy under Dr. David Breen from Ireland in 2014.
-
-<br/>He also underwent advanced Interventional Pulmonology cum Thoracic Ultrasonography workshop at ERS, Munich, Germany where he learned the techniques of EndoBronchial Ultrasound (EBUS - Linear & Radial Probe) plus EndoBronchial Stent placement.
-
-He received training in Sleep Medicine (Diagnosis plus Management) at Pmocrit - All India Institute of Medical Sciences (AIIMS), India. Certified in Diagnosis & Management of Respiratory Allergy (Immunology) - Vallabhbhai Patel Chest Institute, New Delhi, India. BLS-ACLS service provider: American Heart Association (AHA) - 2017.
-`,
+  
+  <br/>Before joining Artemis, he had worked at Sir Ganga Ram Hospital, New Delhi where he was an Associate Consultant. 
+  
+  <br/>Dr. Goyal  completed his residency at VMMC & Safdarjung Hospital, New Delhi in Department of Pulmonary Critical Care & Sleep Medicine under Prof (Dr.) J. C. Suri (credited with establishing first sleep laboratory of the country).
+  
+  <br/>He has presented his work at multiple academic forums on National & International levels such as NAPCON, TESCON, PULMOCON, ICONIC, Indian Science Congress (ISC) & European Respiratory Society World Congress (ERS). During his tenure at Sir Ganga Ram Hospital, he visited National University Hospital (NUH), Singapore to receive training in Bronchial Thermoplasty & Bronchoscopic Lung Volume Reduction
+  
+  (BLVRS) by Prof. Pyng Lee.
+  Trained in the technique of Rigid Bronchoscopy & Thoracoscopy under Dr. David Breen from Ireland in 2014.
+  
+  <br/>He also underwent advanced Interventional Pulmonology cum Thoracic Ultrasonography workshop at ERS, Munich, Germany where he learned the techniques of EndoBronchial Ultrasound (EBUS - Linear & Radial Probe) plus EndoBronchial Stent placement.
+  
+  He received training in Sleep Medicine (Diagnosis plus Management) at Pmocrit - All India Institute of Medical Sciences (AIIMS), India. Certified in Diagnosis & Management of Respiratory Allergy (Immunology) - Vallabhbhai Patel Chest Institute, New Delhi, India. BLS-ACLS service provider: American Heart Association (AHA) - 2017.
+  `,
+  },
+  {
+    id: 94,
+    hid: 1,
+    name: "Dr. Shivanshu Raj Goyal",
+    post: "Respiratory/ Pulmonology & Sleep Medicine",
+    image: "d41.jpg",
+    experience: "",
+    top: false,
+    description: `Dr. S. R. Goyal has worked extensively in the field of Respiratory Medicine, Tuberculosis, Immunology, Sleep Medicine & Critical Care. Armed with impeccable qualifications & perspicacious diagnostic abilities, has his keen interest in Interventional Pulmonology and works tirelessly towards taking this field to new heights. He aims to soon start a successful & sustainable Lung Transplantation Programme with the collaboration of Thoracic Surgery team in order to provide benefit to those with end-stage lung diseases such as COPD, ILD, BRONCHIECTASIS etc.
+  
+  <br/>Before joining Artemis, he had worked at Sir Ganga Ram Hospital, New Delhi where he was an Associate Consultant. 
+  
+  <br/>Dr. Goyal  completed his residency at VMMC & Safdarjung Hospital, New Delhi in Department of Pulmonary Critical Care & Sleep Medicine under Prof (Dr.) J. C. Suri (credited with establishing first sleep laboratory of the country).
+  
+  <br/>He has presented his work at multiple academic forums on National & International levels such as NAPCON, TESCON, PULMOCON, ICONIC, Indian Science Congress (ISC) & European Respiratory Society World Congress (ERS). During his tenure at Sir Ganga Ram Hospital, he visited National University Hospital (NUH), Singapore to receive training in Bronchial Thermoplasty & Bronchoscopic Lung Volume Reduction
+  
+  (BLVRS) by Prof. Pyng Lee.
+  Trained in the technique of Rigid Bronchoscopy & Thoracoscopy under Dr. David Breen from Ireland in 2014.
+  
+  <br/>He also underwent advanced Interventional Pulmonology cum Thoracic Ultrasonography workshop at ERS, Munich, Germany where he learned the techniques of EndoBronchial Ultrasound (EBUS - Linear & Radial Probe) plus EndoBronchial Stent placement.
+  
+  He received training in Sleep Medicine (Diagnosis plus Management) at Pmocrit - All India Institute of Medical Sciences (AIIMS), India. Certified in Diagnosis & Management of Respiratory Allergy (Immunology) - Vallabhbhai Patel Chest Institute, New Delhi, India. BLS-ACLS service provider: American Heart Association (AHA) - 2017.
+  `,
   },
 ];

@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { doctordata } from "../../hospitals/doctordata";
+import { doctordata } from "@/data/doctordata";
 
 const page = ({ params }) => {
   const id = params.name;

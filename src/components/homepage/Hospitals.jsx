@@ -7,7 +7,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { GrPrevious } from "react-icons/gr";
 import { GrNext } from "react-icons/gr";
-import { hospitals } from "../hospitals";
+import { hospitals } from "@/data/hospitals";
 import { useTranslation } from "react-i18next";
 const Hospitals = () => {
   var settings = {

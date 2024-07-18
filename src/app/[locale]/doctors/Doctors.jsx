@@ -2,10 +2,10 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { doctordata } from "../hospitals/doctordata";
+import { doctordata } from "@/data/doctordata";
 import Autocomplete from "@/components/common/Autocomplete/Autocomplete";
-import { hospitals } from "@/components/hospitals";
-import { treatment } from "@/components/treatments";
+import { hospitals } from "@/data/hospitals";
+import { treatment } from "@/data/treatments";
 import { useTranslation } from "react-i18next";
 const Doctors = () => {
   const { t } = useTranslation();

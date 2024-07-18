@@ -60,31 +60,31 @@ export const treatment = [
     name: "ENT",
     image: "ent.png",
     content: `India has made significant advancements in the field of Otorhinolaryngology, commonly known as ENT (Ear, Nose, and Throat), owing to the integration of advanced technologies and the expertise of skilled medical professionals, backed by groundbreaking research.
-
-    ENT deals with a wide range of conditions related to the ears, nose, throat, head, and neck. Treatment approaches in ENT depend on the specific condition, its severity, and the patient's overall health. Comprehensive diagnostic evaluations guide the selection of appropriate treatment options, which may include medications, surgical interventions, hearing aids, or speech therapy.
-    
-    Today, ENT care in India is equipped with state-of-the-art diagnostic tools and advanced treatment modalities. <br/><br/>Contact us to access the best ENT care available, personalized to meet your individual needs.`,
+  
+      ENT deals with a wide range of conditions related to the ears, nose, throat, head, and neck. Treatment approaches in ENT depend on the specific condition, its severity, and the patient's overall health. Comprehensive diagnostic evaluations guide the selection of appropriate treatment options, which may include medications, surgical interventions, hearing aids, or speech therapy.
+      
+      Today, ENT care in India is equipped with state-of-the-art diagnostic tools and advanced treatment modalities. <br/><br/>Contact us to access the best ENT care available, personalized to meet your individual needs.`,
   },
   {
     id: 10,
     name: "Gynecology",
     image: "gynac.png",
     content: `India has witnessed remarkable advancements in the field of gynecology, driven by the integration of advanced technologies and the expertise of skilled medical professionals, supported by groundbreaking research.
-
-    Gynecology focuses on the health of the female reproductive system, covering a wide range of conditions such as menstrual disorders, infertility, pregnancy, and menopause. Treatment approaches in gynecology are tailored to each patient's specific needs and may include medication, minimally invasive procedures, surgical interventions, hormonal therapies, or fertility treatments.
-    
-    Today, gynecological care in India is equipped with state-of-the-art diagnostic tools and advanced treatment modalities. <br/><br/>Contact us to access the best gynecological care available, provided with compassion and expertise.`,
+  
+      Gynecology focuses on the health of the female reproductive system, covering a wide range of conditions such as menstrual disorders, infertility, pregnancy, and menopause. Treatment approaches in gynecology are tailored to each patient's specific needs and may include medication, minimally invasive procedures, surgical interventions, hormonal therapies, or fertility treatments.
+      
+      Today, gynecological care in India is equipped with state-of-the-art diagnostic tools and advanced treatment modalities. <br/><br/>Contact us to access the best gynecological care available, provided with compassion and expertise.`,
   },
   {
     id: 11,
     name: "IVF",
     image: "ivf.png",
     content: `In vitro fertilization (IVF) has seen remarkable progress in India, owing to advanced technologies and the expertise of skilled fertility specialists, supported by pioneering research.
-
-    IVF is a reproductive technology used to assist individuals or couples in achieving pregnancy when natural conception is not successful. The process involves fertilizing an egg with sperm outside the body in a laboratory setting and then transferring the resulting embryo(s) into the uterus.
-    
-    IVF treatment in India is tailored to individual needs, with comprehensive diagnostic assessments guiding the process. This may include ovarian stimulation, egg retrieval, sperm collection, fertilization in the lab, embryo culture, and embryo transfer. Additional techniques like intracytoplasmic sperm injection (ICSI), preimplantation genetic testing (PGT), and frozen embryo transfer (FET) are also utilized as needed.
-    
-    Today, IVF clinics in India are equipped with state-of-the-art facilities and advanced techniques, offering hope and support to individuals and couples seeking fertility solutions. <br/><br/>Contact us to explore the best IVF care available, personalized to your unique situation and goals.`,
+  
+      IVF is a reproductive technology used to assist individuals or couples in achieving pregnancy when natural conception is not successful. The process involves fertilizing an egg with sperm outside the body in a laboratory setting and then transferring the resulting embryo(s) into the uterus.
+      
+      IVF treatment in India is tailored to individual needs, with comprehensive diagnostic assessments guiding the process. This may include ovarian stimulation, egg retrieval, sperm collection, fertilization in the lab, embryo culture, and embryo transfer. Additional techniques like intracytoplasmic sperm injection (ICSI), preimplantation genetic testing (PGT), and frozen embryo transfer (FET) are also utilized as needed.
+      
+      Today, IVF clinics in India are equipped with state-of-the-art facilities and advanced techniques, offering hope and support to individuals and couples seeking fertility solutions. <br/><br/>Contact us to explore the best IVF care available, personalized to your unique situation and goals.`,
   },
 ];

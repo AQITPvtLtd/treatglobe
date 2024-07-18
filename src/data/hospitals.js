@@ -4,8 +4,8 @@ export const hospitals = [
     name: "Artemis Hospital",
     image: "artemis.jpeg",
     content: `Artemis Hospital, established in 2007, spread across 9 acres, is a 550 plus bed; state-of-the-art multi-speciality hospital located in Gurgaon, India. Artemis Hospital is the first JCI and NABH accredited Hospital in Gurgaon.
-
-<br/>Designed as one of the most advanced hospitals in India, Artemis provides a depth of expertise in the spectrum of advanced medical & surgical interventions, comprehensive mix of inpatient and outpatient services. Artemis has put modern technology in the hands of renowned doctors from across the country and abroad to set new standards in healthcare. The medical practices and procedures followed in the hospital are research oriented and benchmarked against the best in the world. Top-notch services, in a warm, open patient centric environment, clubbed with affordability, has made us one of the most revered hospitals in the country.`,
+  
+  <br/>Designed as one of the most advanced hospitals in India, Artemis provides a depth of expertise in the spectrum of advanced medical & surgical interventions, comprehensive mix of inpatient and outpatient services. Artemis has put modern technology in the hands of renowned doctors from across the country and abroad to set new standards in healthcare. The medical practices and procedures followed in the hospital are research oriented and benchmarked against the best in the world. Top-notch services, in a warm, open patient centric environment, clubbed with affordability, has made us one of the most revered hospitals in the country.`,
   },
   {
     id: 2,
@@ -54,9 +54,9 @@ export const hospitals = [
     name: "BLK-Max Super Specialty Hospital",
     image: "blk.jpeg",
     content: `BLK-Max Super Speciality Hospital is part of the largest healthcare network in India. Spread over 6,50,000 sq. ft., the hospital offers a wide range of services, making it a force to reckon within the field of Super Speciality Tertiary Healthcare. The Hospital has a capacity of 650 beds with dedicated 162 critical care beds, 22 modular operation theatres and speciality-specific dedicated OPD blocks. We have more than 1500 healthcare providers, 150 globally renowned super specialists and 300 medical experts.
-
-BLK-Max Super Speciality Hospital is accredited by Joint Commission International (JCI), National Accreditation Board for Hospitals and Healthcare Providers, and National Accreditation Board for Laboratories and Calibration, for its processes and high-quality patient care.
-`,
+  
+  BLK-Max Super Speciality Hospital is accredited by Joint Commission International (JCI), National Accreditation Board for Hospitals and Healthcare Providers, and National Accreditation Board for Laboratories and Calibration, for its processes and high-quality patient care.
+  `,
   },
   {
     id: 9,
