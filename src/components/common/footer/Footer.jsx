@@ -4,16 +4,14 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { useTranslation } from "react-i18next";
+import Marquee from "react-fast-marquee";
 const Footer = () => {
   const { t } = useTranslation();
   return (
     <div>
       <footer className=" items-center text-surface">
         <div className="border text-gray-600 mt-5 mx-5"></div>
-        <div className="bg-primary text-white rounded-lg mx-4 lg:mx-[250px] p-5 mt-10">
-          <p className="text-center text-lg font-bold">{t("footer:note")}</p>{" "}
-          {t("footer:notecontent")}
-        </div>
+
         <div className="container py-20 pl-10 pt-6 mt-[50px] lg:mt-[14px]">
           <div className="lg:grid grid-cols-4">
             {/* logo */}
@@ -81,7 +79,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/" className="hover:text-blue">
-                      {t("treatments:eight")}
+                      {t("treatments:three")}
                     </Link>
                   </li>
                 </ul>
@@ -113,7 +111,6 @@ const Footer = () => {
             </div>
           </div>
         </div>
-
         {/* <!-- Copyright section --> */}
         <div className="w-full bg-primary text-white p-4 text-center">
           © 2024 Copyright:

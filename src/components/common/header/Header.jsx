@@ -25,12 +25,12 @@ const Header = () => {
       newTab: true,
       path: "/about",
     },
-    {
-      id: 3,
-      title: () => t("navbar:treatments"),
-      newTab: true,
-      path: "/treatments",
-    },
+    // {
+    //   id: 3,
+    //   title: () => t("navbar:treatments"),
+    //   newTab: true,
+    //   path: "/treatments",
+    // },
     { id: 4, title: () => t("navbar:doctors"), newTab: true, path: "/doctors" },
     {
       id: 5,

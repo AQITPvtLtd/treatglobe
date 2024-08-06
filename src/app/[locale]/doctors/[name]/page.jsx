@@ -4,8 +4,9 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { doctordata } from "@/data/doctordata";
-
+import { useTranslation } from "react-i18next";
 const page = ({ params }) => {
+  const { t } = useTranslation();
   const id = params.name;
   const doctors = doctordata.filter((h) => h.hid == id);
   const [inputSearch, setInputSearch] = useState("");
@@ -53,7 +54,7 @@ const page = ({ params }) => {
               />
               <div className="w-full text-center mx-3">
                 <h1 className="mt-5 text-lg font-semibold">{d.name}</h1>
-                <p className="text-sm mt-3">{d.post}</p>
+                <p className="text-sm mt-3">{t(d.post)}</p>
               </div>
             </div>
           </Link>

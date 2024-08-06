@@ -9,20 +9,28 @@ import { treatment } from "@/data/treatments";
 import { useTranslation } from "react-i18next";
 const Doctors = () => {
   const { t } = useTranslation();
-  const [filteredData, setFilteredData] = useState(doctordata);
-
+  const newData = doctordata.filter((obj) => obj.top);
+  const [filteredData, setFilteredData] = useState(newData);
+  const [clicked, setClicked] = useState("top");
+  const [heading, setHeading] = useState("Top Doctors");
   const allClicked = () => {
     setFilteredData(doctordata);
+    setClicked("all");
+    setHeading("All Doctors");
   };
   const topClicked = () => {
     const newData = doctordata.filter((obj) => obj.top);
     setFilteredData(newData);
+    setClicked("top");
+    setHeading("Top Doctors");
   };
 
   //filter doctors
   const handleOnSelectDoctors = (item) => {
     const doctor = doctordata.find((i) => i.id == item.id);
     setFilteredData([doctor]);
+    setHeading("Your Search Results...");
+    setClicked("");
   };
   const handleOnClearDoctors = () => {
     setFilteredData(doctordata);
@@ -36,6 +44,8 @@ const Doctors = () => {
   const handleOnSelectHospitals = (item) => {
     const h = doctordata.filter((i) => i.hid == item.id);
     setFilteredData(h);
+    setHeading("Your Search Results...");
+    setClicked("");
   };
   const gethospitals = (objects) => {
     return objects.map((obj) => ({ id: obj.id, name: obj.name }));
@@ -46,6 +56,8 @@ const Doctors = () => {
   const handleOnSelectTreatments = (item) => {
     const h = doctordata.filter((i) => i.hid == item.id);
     setFilteredData(h);
+    setHeading("Your Search Results...");
+    setClicked("");
   };
   const getTreatments = (objects) => {
     return objects.map((obj) => ({ id: obj.id, name: obj.name }));
@@ -58,16 +70,20 @@ const Doctors = () => {
         {t("doctors:header")}
       </h1>
       <div className="w-full mb-10">
-        <div className="grid grid-cols-8 gap-x-6 mx-3">
+        <div className="grid grid-cols-6 gap-x-6 mx-3">
           <button
             onClick={allClicked}
-            className="rounded-lg p-2 bg-primary text-white"
+            className={`rounded-lg p-2 bg-primary text-white ${
+              clicked == "all" && "border-4 border-secondary"
+            } `}
           >
             {t("doctors:filter1")}
           </button>
           <button
             onClick={topClicked}
-            className="rounded-lg p-2 bg-primary text-white"
+            className={`rounded-lg p-2 bg-primary text-white ${
+              clicked == "top" && "border-4 border-secondary"
+            } `}
           >
             {t("doctors:filter2")}
           </button>
@@ -86,15 +102,18 @@ const Doctors = () => {
               handleOnSelect={handleOnSelectHospitals}
             />
           </div>
-          <div className="col-span-2">
+          {/* <div className="col-span-2">
             <Autocomplete
               placeholder={t("doctors:filter5")}
               data={treat}
               handleOnSelect={handleOnSelectTreatments}
             />
-          </div>
+          </div> */}
         </div>
       </div>
+      <h1 className="text-center text-5xl mb-10 font-serif font-bold">
+        {heading}
+      </h1>
       <div className="lg:grid grid-cols-3 gap-10 mx-10">
         {filteredData.map((d) => (
           <Link
@@ -107,11 +126,11 @@ const Doctors = () => {
                 src={`/doctors/${d.hid}/${d.image}`}
                 width={1000}
                 height={1000}
-                className="h-[200px] w-[200px]"
+                className="h-[200px] w-[200px] object-cover"
               />
               <div className="w-full text-center mx-3">
                 <h1 className="mt-5 text-lg font-semibold">{d.name}</h1>
-                <p className="text-sm mt-3">{d.post}</p>
+                <p className="text-sm mt-3">{t(d.post)}</p>
               </div>
             </div>
           </Link>

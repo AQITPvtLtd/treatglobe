@@ -23,6 +23,7 @@ const i18nNamespaces = [
   "articles",
   "doctors",
   "hospitals",
+  "doctorDetailed",
 ];
 
 export const metadata = {

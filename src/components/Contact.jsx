@@ -24,6 +24,7 @@ const ContactForm = () => {
   };
 
   const handleSubmit = async (e) => {
+    console.log("hello");
     e.preventDefault();
     const fileData = new FormData();
     fileData.append("myFile", file);
@@ -33,6 +34,7 @@ const ContactForm = () => {
     Object.entries(formData).forEach(([key, value]) => {
       fileData.append(key, value);
     });
+    console.log(fileData);
     const response = await sendFormData(fileData);
     if (response.success) {
       swal({
