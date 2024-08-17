@@ -28,12 +28,16 @@ const Office = () => {
                   <p className="mb-2 font-bold dark:text-white">
                     {t("contact:location")}
                   </p>
-                  <p className="text-neutral-500 dark:text-neutral-200">
-                    8/43, Lower Ground Floor, South Patel Nagar,
-                  </p>
-                  <p className="text-neutral-500 dark:text-neutral-200">
-                    Baljit Nagar (West), New Delhi - 110008
-                  </p>
+                  <Link
+                    target="__blank"
+                    href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
+                    className="text-neutral-500 dark:text-neutral-200"
+                  >
+                    H no. 371 Sec 38 Gurgaon
+                  </Link>
+                  {/* <p className="text-neutral-500 dark:text-neutral-200">
+                  
+                  </p> */}
                 </div>
               </div>
             </div>
@@ -48,10 +52,10 @@ const Office = () => {
                     {t("contact:phone")}
                   </p>
                   <Link
-                    href="tel:9870423754"
+                    href="tel:+91 9818-647-557"
                     className="text-neutral-500 dark:text-neutral-200 hover:text-primary"
                   >
-                    9870423754
+                    +91 9818-647-557
                   </Link>
                 </div>
               </div>
@@ -64,7 +68,7 @@ const Office = () => {
                 <IoMdMail className="text-primary w-[20px] h-[20px]" />
                 <div className="ml-3">
                   <p className="mb-2 font-bold dark:text-white">
-                  {t("contact:email")}
+                    {t("contact:email")}
                   </p>
                   <Link
                     href="mailto: lexforiindia@gmail.com"

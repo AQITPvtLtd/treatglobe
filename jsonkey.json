@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "solid-solstice-424705-r9",
+  "private_key_id": "1a83f1603b8533fea1916281219e20713148d6b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCn0/fU0kR7JVEc\nd7R78rJRJ3J+qnw6akB1uHoAqYwyDuL0ARmV48bRqzCdEfSAQgYHlF4ulJwS734C\nwtEZHlDoXo2ERbrnnF7OIzU9weSNmKvfXhZQ0H1VR1nO67FTWIjXSUS5bpU19Ga/\nfSDSDFlIeowG0Evw425Wj+7uJFs9ff7nw1PKIQEsxhIoYYoPuY298QmzgkHAKRUr\nq6CVL84qKQqitaamPuViGfHgKsrVjoUDeBt8XVt6HuGdpLnKN/GY+629gRpUVXne\ndx2tuW+EK/LTRa2H5Er57omF3qvZD00gy+p7hU9alaeCFGNTsOpaoB4BxULVFM3i\nI8wrtkzzAgMBAAECggEAAQJfkM7t0K6PX/Mt6oAt3dyHDQOXotAdQBf8GLDsVWXS\n2pvzcqalac54WkBAHmj5qOnjUoCh7H9Za+vrhWNU3EJVywzQi1suK2G7baDsFqP3\nAjb+skUdQLBmjVEpTEMTnafTNFebqWFIR1N+tQiMZvd8AHSMd6NMUYqF3htOWaV2\nBG/FGF/XzqcUObfSOahsgXSEGaMAoZhGdcpwWgmh2T9e1o/a23Gi+wE/1mdQslkN\ndM2rM4KicM0Aysjmu1bAq8o8Wteqev6AGoxYin9bqnt8HpuxKI/gR7o+YlTKuHUa\nLnCf1tKrjK1MgtTLhDH5L/6omeO1V6UdS7HMx7djoQKBgQDQmXWfa+QGqJTHPFg8\nr/j4be7cugawV2vVi8sE32Ye6LIzafOI1GclMdWRNeStKJKLrlzFlWAsRE/N76Oy\n/15AKwikFcXijWgYGjqvvvTjuRwyiHKap02AcuVMcwb0UcMK6gtpqg9k/Ep9rVJP\n3TOBykwOsDGLyByPixrBpsKaSwKBgQDN9sXM/xwlp60y8R+o7Kf9tlPVwePBIIDn\nSF9QpMq+Haz0CuEU3df8oeMHQM91ml6Ogbnmjl0c6tKl6AhO89nOAunZmNZZH+10\nxMVOwf6zxmqwuLNWqKWErF6XXHEnRASC/lQGWpjyJ2q2KqxlQMVqv+d+aLhkShWr\nSuhLeSZu+QKBgBpstjfBxRsK0/4BKPRXHmTqGC4h6qMAEAr3MHqniho0RA67Rzx4\nG7DchT9l4lgFIbtMFTh6WbqB1NIznzsXmmrqiKewkmbGnv8eo3yL5h3K30WPf2UT\n+H9jDqUGlUTx7pE9YMC76ENUqmMNR7YSQWoZpFTgAQbCDMwqRPNvGovNAoGAGU1O\ngV95orqVkWODwynHfWiPpfvasdf/XepLI0oLSg21OIm5mumh5fwxOqvgkI71PMZ9\nAvDMSYgjdpQpqSFVyXQcLEoVUv+UGTsvDfzRAF7IrosSJPw00TanrCqEEBHQCBOc\nWOd6UI09E8HsScgKOJH4q1PMCy36uX9LSDJK4WkCgYBbLAFRQKk2we+h1Jc5NuG3\nm2hAbwjZ+Am6DzYTSreNg7hjkm/ixRB3Cg6KR04o7qlDCHevvk5VnRcejaXU5FrN\nQ8U0o95MYro+FUVealVOJ0c4MSbj4WxBqEAaAVJg+Ydwvdu+f1BVvs387hze0leA\n15uUMX9dns3HPdDT7jkMZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "treatglobe@solid-solstice-424705-r9.iam.gserviceaccount.com",
+  "client_id": "113827203742541717560",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/treatglobe%40solid-solstice-424705-r9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

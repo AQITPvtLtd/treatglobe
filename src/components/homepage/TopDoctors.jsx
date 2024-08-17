@@ -1,22 +1,18 @@
+"use client";
+
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { doctordata } from "@/data/doctordata";
-
+import { useTranslation } from "react-i18next";
 const TopDoctors = () => {
   const top = doctordata.filter((obj) => obj.top).slice(0, 6);
+  const { t } = useTranslation();
   return (
-    <div className="mt-[230px] bg-gradient-to-t from-white to-secondary">
-      {/* <div>
-        <Image
-          src="/doctors/doctorsgraphics/graphic2.png"
-          width={100}
-          height={100}
-        />
-      </div> */}
+    <div className="lg:mt-[230px] mt-[50px] bg-gradient-to-t from-white to-secondary">
       <div className="">
         <h1 className="font-bold text-5xl text-white mx-10 text-center pt-10 font-serif mb-6">
-          Our Top Doctors
+          {t("doctors:filter2")}
         </h1>
         <div className="flex flex-wrap justify-center lg:mx-20 gap-6">
           {top.map((t) => (
@@ -42,7 +38,7 @@ const TopDoctors = () => {
         </div>
         <Link href={"/doctors"} className="text-white flex justify-center mt-6">
           <div className="bg-primary p-3 rounded-lg cursor-pointer mt-10 mb-10">
-            View All Top Doctors
+            {t("doctors:viewall")}
           </div>
         </Link>
       </div>

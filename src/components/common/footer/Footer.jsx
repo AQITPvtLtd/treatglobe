@@ -93,9 +93,12 @@ const Footer = () => {
                     <h5 className="mb-2.5 font-bold uppercase">
                       {t("footer:heading3")}
                     </h5>
-                    <Link href="/" className="hover:text-blue">
-                      G-36, First Floor, Outer circle, Connaught place, New
-                      Delhi - 110001
+                    <Link
+                      target="__blank"
+                      href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
+                      className="hover:text-blue"
+                    >
+                      H no. 371 Sec 38 Gurgaon
                     </Link>
                   </li>
                   <li className="mt-3 leading-normal">
@@ -116,7 +119,7 @@ const Footer = () => {
           © 2024 Copyright:
           <Link
             className="text-white font-semibold"
-            href="https://tw-elements.com/"
+            href="https://www.tekbooster.com"
           >
             TekBooster
           </Link>

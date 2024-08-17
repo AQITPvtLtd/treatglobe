@@ -12,7 +12,7 @@ const Doctors = () => {
   const newData = doctordata.filter((obj) => obj.top);
   const [filteredData, setFilteredData] = useState(newData);
   const [clicked, setClicked] = useState("top");
-  const [heading, setHeading] = useState("Top Doctors");
+  // const [heading, setHeading] = useState("Top Doctors");
   const allClicked = () => {
     setFilteredData(doctordata);
     setClicked("all");
@@ -66,14 +66,14 @@ const Doctors = () => {
 
   return (
     <div className="lg:mt-[170px] mt-[220px] overflow-clip">
-      <h1 className="text-center text-5xl mb-10 font-serif font-bold">
+      <h1 className="text-center lg:text-5xl text-3xl mb-10 font-serif font-bold">
         {t("doctors:header")}
       </h1>
       <div className="w-full mb-10">
-        <div className="grid grid-cols-6 gap-x-6 mx-3">
+        <div className="lg:grid grid-cols-6 gap-x-6 mx-3">
           <button
             onClick={allClicked}
-            className={`rounded-lg p-2 bg-primary text-white ${
+            className={`rounded-lg p-2 bg-primary text-white lg:my-0 my-3 ${
               clicked == "all" && "border-4 border-secondary"
             } `}
           >
@@ -87,7 +87,7 @@ const Doctors = () => {
           >
             {t("doctors:filter2")}
           </button>
-          <div className="col-span-2">
+          <div className="col-span-2 lg:my-0 my-3">
             <Autocomplete
               placeholder={t("doctors:filter3")}
               data={names}
@@ -111,10 +111,10 @@ const Doctors = () => {
           </div> */}
         </div>
       </div>
-      <h1 className="text-center text-5xl mb-10 font-serif font-bold">
+      {/* <h1 className="text-center text-5xl mb-10 font-serif font-bold">
         {heading}
-      </h1>
-      <div className="lg:grid grid-cols-3 gap-10 mx-10">
+      </h1> */}
+      <div className="lg:grid grid-cols-3 gap-10 lg:mx-10">
         {filteredData.map((d) => (
           <Link
             href={`/doctors/${d.hid}/${d.id}`}

@@ -6,7 +6,7 @@ import { v4 as uuid } from "uuid";
 import nodemailer from "nodemailer";
 import connection from "../../../helper/db";
 import { google } from "googleapis";
-import data from "../../../../apiKey.json";
+import data from "../../../../jsonkey.json";
 
 export const POST = async (req, res) => {
   const fileData = await req.formData();

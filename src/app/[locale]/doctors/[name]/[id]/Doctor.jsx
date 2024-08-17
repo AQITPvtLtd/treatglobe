@@ -47,7 +47,7 @@ const Doctor = ({ doctor, url }) => {
 
   return (
     <div className="mt-[170px] overflow-hidden relative">
-      <div className="bg-primary grid grid-cols-2 mx-5 rounded-lg relative z-10">
+      <div className="bg-primary lg:mt-0 mt-4 lg:grid grid-cols-2 lg:mx-5 rounded-lg relative z-10">
         <div className="relative">
           <Image
             src={"/doctors/doctorsgraphics/graphic1.png"}
@@ -66,7 +66,7 @@ const Doctor = ({ doctor, url }) => {
             />
           </div>
         </div>
-        <div className="bg-white mx-10 mt-10 mb-20 rounded-lg z-20">
+        <div className="bg-white lg:mx-10 mx-3 lg:mt-10 mb-20 rounded-lg z-20">
           <div className="ml-4 leading-10">
             <div className="font-bold text-3xl font-serif mt-3">
               {doctor.name}
@@ -120,7 +120,7 @@ const Doctor = ({ doctor, url }) => {
         </div>
       </div>
       <div className="border-2 rounded-lg shadow -mt-10 bg-white mx-10 p-4 leading-relaxed z-20 relative">
-        <div className="grid grid-cols-6">
+        <div className="lg:grid grid-cols-6">
           <div className="col-span-4">
             <h1 className="text-2xl font-serif mb-2">About {doctor.name}</h1>
 

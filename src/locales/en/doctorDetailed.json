@@ -57,7 +57,11 @@
       "Gynaecology Cancer Surgery",
       "Breast Cancer Surgery"
     ],
-    "training": [""],
+    "training": [
+      "MBBS – Maulana Azad Medical College, Delhi University, 2003",
+      "MS – General Surgery – Lady Hardinge Medical College, New Delhi, 2007",
+      "DNB – Surgical Oncology – National Board of Examination, India, 2011"
+    ],
     "education": "MBBS, MS (General Surgery), DNB (Surgical Oncology)",
     "work": [
       "Presently working as Vice Chairman - Oncology & Chief - Robotic Surgery at BLK-Max Super Speciality Hospital, New Delhi, India.",
@@ -363,8 +367,22 @@
     "image": "d11.jpg",
     "experience": "29+",
     "top": false,
-    "speciality": [""],
-    "training": [""],
+    "speciality": [
+      "Complex Spine Surgery and Instrumentation",
+      "Minimal invasive Spine Surgery",
+      "Endoscopic Brain and Spinal Surgery",
+      "Microscopic and Vascular Surgery",
+      "Epilepsy Surgery",
+      "Functional Neurosurgery"
+    ],
+    "training": [
+      "Endoscopic (Brain & Spine) fellowship with Prof. M.R Ghab (Germany) & Prof M. Hussain K.G.M.C. Lucknow",
+      "Advanced Spinal Training from Seoul St. Mary’s Hospital, South Korea",
+      "Percutaneous Discectomy and Neucleoplasty training from Bangkok, Thailand",
+      "Dr. Anil Kumar Kansal MAST (Minimal Access Spine Techniques) training from General Hospital, Singapore",
+      "Training in Advance Stereotactic & Functional Neurosurgery, Freiburg, Germany",
+      "Training In Advance MIS (Minimal Invasive Spine Surgery), Philadelphia USA"
+    ],
     "education": "MBBS, M.S (General Surgery) & M.Ch (Neurosurgery)",
     "work": [
       "Presently working as a Principal Director & HOD  - Neuro Surgery & Neuro Spine in BLK-Max Centre for Neurosciences at BLK-Max Super Speciality Hospital, New Delhi",
@@ -1249,7 +1267,9 @@
       "He has been honored with the Padma Shri and Padma Bhushan awards by the Government of India for his distinguished service in medicine.",
       "He is the driving force behind Medanta - The Medicity, a pioneering institution in healthcare."
     ],
-    "training": [""],
+    "training": [
+      "Trained and practised at New York University Medical Centre, Manhattan in the USA."
+    ],
     "work": [
       "Chairman and Managing Director at Medanta - The Medicity",
       "Over 48,000 successful open heart surgeries"
@@ -2624,7 +2644,7 @@
     "name": "Dr Varun Mittal",
     "post": "Head - Kidney Transplant & Associate Chief - Uro-Oncology & Robotic Surgery (Unit I)",
     "image": "d21.jpg",
-    "experience": "",
+    "experience": "26+",
     "top": false,
     "speciality": [
       "Kidney Transplant",

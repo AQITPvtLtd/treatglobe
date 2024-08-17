@@ -1,9 +1,9 @@
 {
-    "header": "Bizning Shifokorlarimizni Bilish",
-    "filter1": "Barcha Shifokorlar",
-    "filter2": "Eng Zo'r Shifokorlar",
-    "filter3": "Shifokorlarni Ismiga Ko'ra Qidiring",
-    "filter4": "Shifokorlarni Shifoxona Bo'yicha Qidiring",
-    "filter5": "Shifokorlarni Davolanishga Ko'ra Qidiring"
-  }
-  
+  "header": "Bizning Shifokorlarimizni Bilish",
+  "filter1": "Barcha Shifokorlar",
+  "filter2": "Eng Zo'r Shifokorlar",
+  "filter3": "Shifokorlarni Ismiga Ko'ra Qidiring",
+  "filter4": "Shifokorlarni Shifoxona Bo'yicha Qidiring",
+  "filter5": "Shifokorlarni Davolanishga Ko'ra Qidiring",
+  "viewall": "Hammasini ko‘rish"
+}
