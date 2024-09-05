@@ -8,6 +8,7 @@ import initTranslations from "../i18n";
 import TranslationsProvider from "@/components/TranslationsProvider";
 import TopDoctors from "@/components/homepage/TopDoctors";
 import Marquee from "react-fast-marquee";
+import Comprehensive from "@/components/homepage/Comprehensive";
 const i18nNamespaces = [
   "home",
   "form",
@@ -38,6 +39,7 @@ export default async function Home({ params: { locale } }) {
         <MissionVision />
         <TopDoctors />
         <WhyChooseUs />
+        <Comprehensive />
         {/* <Treatments /> */}
         <Hospitals />
         <Numbers />

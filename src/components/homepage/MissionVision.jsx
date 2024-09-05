@@ -7,7 +7,7 @@ const MissionVision = () => {
   const { t } = useTranslation();
   return (
     <div>
-      <div className="lg:mt-5 mt-[750px] relative">
+      <div className="lg:mt-5 mt-[650px] relative">
         <div className="bg-primary pb-20">
           <h1 className=" font-bold text-5xl text-white mx-10 text-center pt-10 font-serif">
             {t("about:header")}
@@ -40,7 +40,7 @@ const MissionVision = () => {
             height={1000}
             width={10000}
             alt="missionvision"
-            className="h-[200px] lg:h-[300px] w-[1200px] rounded-xl object-cover"
+            className="h-[200px] lg:h-[300px] w-[1200px] rounded-xl object-cover hidden lg:block"
           />
         </div>
       </div>
