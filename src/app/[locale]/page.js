@@ -45,7 +45,7 @@ export default async function Home({ params: { locale } }) {
         <Numbers />
         <div className="bg-primary text-white p-1 mt-10 mb-2 w-full">
           <Marquee>
-            <span className="font-bold underline">{t("footer:note")}</span>:{" "}
+            <span className="font-bold underline">{t("footer:note")}</span>:
             {t("footer:notecontent")}&emsp;&emsp;&emsp;
           </Marquee>
         </div>

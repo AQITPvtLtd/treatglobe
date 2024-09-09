@@ -8,8 +8,8 @@ import { hospitals } from "@/data/hospitals";
 const Hospitals = () => {
   const { t } = useTranslation();
   return (
-    <div className="mt-[230px]">
-      <h1 className="text-center text-5xl mb-7 font-serif font-bold">
+    <div className="mt-10">
+      <h1 className="text-center text-5xl mb-7 font-bold">
         {t("hospitals:header")}
       </h1>
       <div className="lg:grid grid-cols-3 lg:mx-20">

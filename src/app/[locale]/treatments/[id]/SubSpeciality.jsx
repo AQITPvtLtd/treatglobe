@@ -21,12 +21,10 @@ const SubSpeciality = ({ id }) => {
         />
         <div className="relative z-10 flex bg-opacity-60">
           <div className="flex flex-col justify-center p-10 w-1/2">
-            <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-5xl font-serif uppercase text-center">
+            <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-5xl uppercase text-center">
               {t(tr.name)}
             </h1>
-            <p className="bg-white bg-opacity-60 p-5 font-serif text-lg">
-              {tr.content}
-            </p>
+            <p className="bg-white bg-opacity-60 p-5  text-lg">{tr.content}</p>
           </div>
           <div className="flex items-center justify-center relative z-10 p-10 w-1/2">
             <div className="relative overflow-x-auto w-full">

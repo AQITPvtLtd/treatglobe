@@ -9,7 +9,7 @@ const Numbers = () => {
   const [count, setCount] = useState(false);
   const { t } = useTranslation();
   return (
-    <div className="lg:mt-[25px] mt-[450px] relative">
+    <div className="lg:mt-[25px] relative">
       <ScrollTrigger
         onEnter={() => setCount(true)}
         onExit={() => setCount(false)}
@@ -18,11 +18,11 @@ const Numbers = () => {
           src="/numbers/numbers_banner.png"
           width={1000}
           height={1000}
-          className="lg:h-[500px] h-[1000px] w-full object-cover"
+          className="lg:block hidden lg:h-[500px] h-[1000px] w-full object-cover"
           alt="banner"
         />
 
-        <div className="absolute inset-0 lg:grid grid-cols-3 m-[20px] lg:m-[130px] text-white font-bold text-2xl">
+        <div className="lg:absolute inset-0 lg:grid grid-cols-3 m-[20px] lg:m-[130px] text-white font-bold text-2xl">
           <div className="bg-secondary my-5 rounded-l-lg flex justify-center items-center">
             <div className="my-3 ">
               <div className="flex justify-center mb-4">

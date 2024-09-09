@@ -21,7 +21,7 @@ const Treatment = ({ id, subid }) => {
   return (
     <div className="mt-[170px] relative">
       <div className="relative w-full">
-        <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-5xl font-serif uppercase text-center">
+        <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-5xl uppercase text-center">
           {two.name}
         </h1>
         <div className="relative z-10 flex flex-wrap bg-opacity-60">

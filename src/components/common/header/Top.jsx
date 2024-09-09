@@ -12,7 +12,7 @@ const Top = () => {
   return (
     <div className="bg-primary lg:flex justify-evenly p-3 text-lg text-white">
       {/* Social Icons */}
-      <div className="flex gap-5 mt-1 lg:mx-0 mx-24">
+      {/* <div className="flex gap-5 mt-1 lg:mx-0 mx-24">
         <Link
           target="__blank"
           href={"https://www.facebook.com/profile.php?id=61559397785328"}
@@ -43,8 +43,8 @@ const Top = () => {
         >
           <FaYoutube />
         </Link>
-      </div>
-
+      </div> */}
+      <SearchBar />
       {/* Email and Phone No. */}
       <div className="lg:flex gap-5 lg:mx-0 mx-14 lg:mt-0 mt-2">
         <Link href="tel:+91 98186 47557" className="hover:text-secondary">

@@ -3,7 +3,7 @@ import Hospital from "./Hospital";
 const page = ({ params }) => {
   const id = params.id;
   return (
-    <div className="mt-[170px]">
+    <div className="">
       <Hospital id={id} />
     </div>
   );

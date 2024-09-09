@@ -38,7 +38,7 @@ export default function LanguageChanger() {
     <select
       onChange={handleChange}
       value={currentLocale}
-      className="h-10 m-4 bg-primary text-white rounded-lg px-3"
+      className="h-10 m-4 bg-secondary text-white rounded-lg px-3"
     >
       <option value="am-ET">Amharic</option>
       <option value="ar">Arabic</option>

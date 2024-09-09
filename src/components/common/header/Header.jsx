@@ -5,9 +5,17 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState, useContext } from "react";
 import UserContext from "@/context/UserContext";
-import Top from "./Top";
 import LanguageChanger from "@/components/LanguageChanger";
 import { useTranslation } from "react-i18next";
+import SearchBar from "../SearchBar";
+import {
+  FaFacebook,
+  FaInstagram,
+  FaLinkedin,
+  FaPhoneAlt,
+  FaYoutube,
+} from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
 
 const Header = () => {
   const { t } = useTranslation();
@@ -25,12 +33,6 @@ const Header = () => {
       newTab: true,
       path: "/about",
     },
-    // {
-    //   id: 3,
-    //   title: () => t("navbar:treatments"),
-    //   newTab: true,
-    //   path: "/treatments",
-    // },
     { id: 4, title: () => t("navbar:doctors"), newTab: true, path: "/doctors" },
     {
       id: 5,
@@ -76,12 +78,12 @@ const Header = () => {
       className={`overflow-x-clip header left-0 z-40 top-0 w-full items-center backdrop-sm bg-white font-semibold ${
         sticky
           ? "fixed z-[999] bg-white !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
-          : "absolute bg-transparent"
+          : " bg-transparent"
       }`}
     >
-      <Top />
-      <header className="grid grid-cols-7 w-full">
-        <div className="lg:w-[400px] w-[340px] lg:px-4 xl:mr-12 col-span-2">
+      <div className="bg-white lg:grid flex gap-x-4 grid-cols-4 justify-evenly text-lg text-white">
+        {/* Logo */}
+        <div className="lg:w-[340px] lg:mx-10">
           <Link
             href="/"
             className={`header-logo block w-full ${
@@ -93,16 +95,20 @@ const Header = () => {
               alt="logo"
               width={200}
               height={200}
-              className="ml-4 left-0 p-3"
+              className="ml-4 left-0"
             />
           </Link>
         </div>
-        <div className="flex items-center w-screen px-4">
-          <button
-            onClick={() => setNavbarOpen(!navbarOpen)}
-            aria-label="Mobile Menu"
-            className="mt-20 absolute right-4 top-1/2 block translate-y-[-50%] rounded-lg px-3 py-[6px] ring-[#321f05] focus:ring-2 lg:hidden"
-          >
+        <div className="lg:hidden">
+          <LanguageChanger />
+        </div>
+        {/* Hamburger Menu - Visible on mobile */}
+        <button
+          onClick={() => setNavbarOpen(!navbarOpen)}
+          aria-label="Mobile Menu"
+          className="flex justify-end right-4 items-center rounded-lg px-3 py-[6px] lg:hidden"
+        >
+          <div>
             <span
               className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
                 navbarOpen ? " top-[7px] rotate-45" : ""
@@ -118,17 +124,81 @@ const Header = () => {
                 navbarOpen ? " top-[-8px] -rotate-45" : ""
               }`}
             />
-          </button>
+          </div>
+        </button>
+        {/* Social Icons - Hidden on mobile */}
+        <div className="lg:flex hidden gap-4 items-center justify-center">
+          <Link
+            target="__blank"
+            href={"https://www.facebook.com/profile.php?id=61559397785328"}
+            className="hover:text-secondary text-primary"
+          >
+            <FaFacebook />
+          </Link>
+          <Link
+            target="__blank"
+            href={"https://www.instagram.com/treatglobe/"}
+            className="hover:text-secondary text-primary"
+          >
+            <FaInstagram />
+          </Link>
+          <Link
+            target="__blank"
+            href={
+              "https://www.linkedin.com/company/treat-glob/?viewAsMember=true"
+            }
+            className="hover:text-secondary text-primary"
+          >
+            <FaLinkedin />
+          </Link>
+          <Link
+            target="__blank"
+            href={"https://www.youtube.com/@TreatGlobe"}
+            className="hover:text-secondary text-primary"
+          >
+            <FaYoutube />
+          </Link>
+        </div>
+        {/* Email and Phone No - Hidden on mobile */}
+        <div className="lg:mx-0 text-primary mx-14 lg:mt-0 mt-2 lg:flex items-center hidden ">
+          <div>
+            <Link href="tel:+91 98186 47557" className="hover:text-secondary ">
+              <div className="flex gap-3">
+                <FaPhoneAlt className="mt-1" />
+                <p>+91 98186 47557</p>
+              </div>
+            </Link>
+
+            <Link
+              href="mailto:info@treatglobe.com"
+              className="hover:text-secondary"
+            >
+              <div className="flex gap-3">
+                <MdEmail className="mt-1" />
+                <p>info@treatglobe.com</p>
+              </div>
+            </Link>
+          </div>
+        </div>
+        <div className="lg:block hidden">
+          <SearchBar />
+        </div>
+      </div>
+
+      {/* Navigation Bar */}
+      <header className="w-full bg-primary text-white">
+        <div className="flex items-center px-4">
+          {/* Full Navbar Menu */}
           <nav
-            className={`navbar absolute right-0 z-30 w-[250px] rounded border-[.5px] border-body-color/50 bg-white px-6 py-4 duration-300 dark:border-body-color/20 lg:visible lg:static lg:w-auto lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
+            className={`navbar absolute right-0 z-30 rounded border-[.5px] border-body-color/50 bg-white px-6 duration-300 dark:border-body-color/20 lg:visible lg:static w-full lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
               navbarOpen
-                ? "visibility top-full opacity-100"
+                ? "visibility top-[10%] opacity-100"
                 : "invisible top-[120%] opacity-0"
             }`}
           >
-            <ul className="block lg:flex lg:space-x-4">
+            <ul className="block lg:grid grid-cols-8 mx-10 items-center lg:text-white text-primary">
               {menuData.map((menuItem, index) => (
-                <li key={index} className="group relative">
+                <li key={index} className="group relative flex justify-center">
                   {menuItem.path ? (
                     <Link
                       onClick={() => {
@@ -140,13 +210,13 @@ const Header = () => {
                           ? "/admin/edit"
                           : menuItem.path
                       }
-                      className={`flex py-2 text-lg lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
+                      className={`flex py-2 text-lg lg:inline-flex lg:px-0 ${
                         usePathName === menuItem.path
                           ? "text-secondary"
                           : "text-dark hover:text-secondary"
                       } ${
                         menuItem.id === 10 &&
-                        "lg:text-blue lg:font-bold lg:ml-20 lg:py-0 lg:px-4"
+                        "lg:text-secondary lg:font-bold lg:ml-20 lg:py-0 lg:px-4"
                       }`}
                     >
                       {context?.user && menuItem.id === 10
@@ -165,87 +235,24 @@ const Header = () => {
                             <path
                               fillRule="evenodd"
                               clipRule="evenodd"
-                              d="M6.29289 8.8427C6.68342 8.45217 7.31658 8.45217 7.70711 8.8427L12 13.1356L16.2929 8.8427C16.6834 8.45217 17.3166 8.45217 17.7071 8.8427C18.0976 9.23322 18.0976 9.86639 17.7071 10.2569L12 15.964L6.29289 10.2569C5.90237 9.86639 5.90237 9.23322 6.29289 8.8427Z"
+                              d="M6.29289 8.8427C6.68342 8.45217 7.31658 8.45217 7.70711 8.8427L12 13.1356L16.2929 8.8427C16.6834 8.45217 17.3166 8.45217 17.7071 8.8427C18.0976 9.23322 18.0976 9.86639 17.7071 10.2569L12.7071 15.2569C12.3166 15.6474 11.6834 15.6474 11.2929 15.2569L6.29289 10.2569C5.90237 9.86639 5.90237 9.23322 6.29289 8.8427Z"
                               fill="currentColor"
                             />
                           </svg>
                         </span>
                       </p>
-                      <div
-                        className={`submenu relative left-0 top-full lg:ml-0 ml-4 rounded-sm bg-white transition-[top] duration-300 lg:absolute lg:top-[110%] lg:w-[250px] lg:p-4 lg:shadow-lg ${
-                          openIndex === menuItem.id ? "block" : "hidden"
-                        }`}
-                      >
-                        {menuItem.submenu?.map((submenuItem, index) => (
-                          <div key={index} className="group relative">
-                            {submenuItem.path ? (
-                              <Link
-                                onClick={() => setOpenIndex(submenuItem.id)}
-                                href={submenuItem.path}
-                                key={index}
-                                className="block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3"
-                              >
-                                {submenuItem.title()}
-                              </Link>
-                            ) : (
-                              <>
-                                <p
-                                  onClick={() =>
-                                    setSubOpenIndex(submenuItem.id)
-                                  }
-                                  className="rounded py-2.5 text-sm lg:px-3 flex cursor-pointer items-center justify-between text-dark hover:text-secondary"
-                                >
-                                  {submenuItem.title()}
-                                  <span className="pl-3">
-                                    <svg
-                                      width="25"
-                                      height="24"
-                                      viewBox="0 0 25 24"
-                                    >
-                                      <path
-                                        fillRule="evenodd"
-                                        clipRule="evenodd"
-                                        d="M6.29289 8.8427C6.68342 8.45217 7.31658 8.45217 7.70711 8.8427L12 13.1356L16.2929 8.8427C16.6834 8.45217 17.3166 8.45217 17.7071 8.8427C18.0976 9.23322 18.0976 9.86639 17.7071 10.2569L12 15.964L6.29289 10.2569C5.90237 9.86639 5.90237 9.23322 6.29289 8.8427Z"
-                                        fill="currentColor"
-                                      />
-                                    </svg>
-                                  </span>
-                                </p>
-                                <div
-                                  className={`lg:ml-[240px] lg:-mt-6 rounded-sm ml-4 bg-white transition-[top] duration-300 lg:absolute lg:w-[250px] lg:shadow-lg ${
-                                    openSubIndex === submenuItem.id
-                                      ? "block"
-                                      : "hidden"
-                                  }`}
-                                >
-                                  {submenuItem.submenu?.map(
-                                    (subsubmenuItem, index) => (
-                                      <Link
-                                        onClick={() => {
-                                          setSubOpenIndex(submenuItem.id);
-                                          setOpenIndex(menuItem.id);
-                                        }}
-                                        href={subsubmenuItem.path}
-                                        key={index}
-                                        className="block rounded py-2.5 text-sm text-dark hover:text-secondary lg:px-3"
-                                      >
-                                        {subsubmenuItem.title()}
-                                      </Link>
-                                    )
-                                  )}
-                                </div>
-                              </>
-                            )}
-                          </div>
-                        ))}
-                      </div>
                     </>
                   )}
                 </li>
               ))}
-              <LanguageChanger />
+              <div className="lg:block hidden">
+                <LanguageChanger />
+              </div>
             </ul>
           </nav>
+        </div>
+        <div className="lg:hidden">
+          <SearchBar />
         </div>
       </header>
     </div>

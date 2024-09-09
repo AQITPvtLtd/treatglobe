@@ -22,9 +22,9 @@ const page = ({ params }) => {
     );
   }
   return (
-    <div className="mt-[200px]">
+    <div className="mt-10">
       {/* search */}
-      <div className="w-full mb-10">
+      {/* <div className="w-full mb-10">
         <div className="w-[80%] mx-auto text-black">
           <div className="w-full">
             <div className="flex justify-center items-center">
@@ -37,7 +37,7 @@ const page = ({ params }) => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="lg:grid grid-cols-3 gap-10 mx-10">
         {filteredData.map((d) => (
           <Link

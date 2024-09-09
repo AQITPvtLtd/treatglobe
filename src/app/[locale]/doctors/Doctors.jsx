@@ -12,108 +12,88 @@ const Doctors = () => {
   const newData = doctordata.filter((obj) => obj.top);
   const [filteredData, setFilteredData] = useState(newData);
   const [clicked, setClicked] = useState("top");
-  // const [heading, setHeading] = useState("Top Doctors");
+
+  // Filter all doctors
   const allClicked = () => {
     setFilteredData(doctordata);
     setClicked("all");
-    setHeading("All Doctors");
   };
+
+  // Filter top doctors
   const topClicked = () => {
     const newData = doctordata.filter((obj) => obj.top);
     setFilteredData(newData);
     setClicked("top");
-    setHeading("Top Doctors");
   };
 
-  //filter doctors
+  // Filter by doctor name
   const handleOnSelectDoctors = (item) => {
     const doctor = doctordata.find((i) => i.id == item.id);
     setFilteredData([doctor]);
-    setHeading("Your Search Results...");
     setClicked("");
   };
+
   const handleOnClearDoctors = () => {
     setFilteredData(doctordata);
   };
+
   const getNames = (objects) => {
     return objects.map((obj) => ({ id: obj.id, name: obj.name }));
   };
+
   const names = getNames(doctordata);
 
-  //filter hospitals
+  // Filter by hospital
   const handleOnSelectHospitals = (item) => {
     const h = doctordata.filter((i) => i.hid == item.id);
     setFilteredData(h);
-    setHeading("Your Search Results...");
     setClicked("");
   };
+
   const gethospitals = (objects) => {
     return objects.map((obj) => ({ id: obj.id, name: obj.name }));
   };
+
   const hosp = gethospitals(hospitals);
 
-  //filter treatments
-  const handleOnSelectTreatments = (item) => {
-    const h = doctordata.filter((i) => i.hid == item.id);
-    setFilteredData(h);
-    setHeading("Your Search Results...");
-    setClicked("");
-  };
-  const getTreatments = (objects) => {
-    return objects.map((obj) => ({ id: obj.id, name: obj.name }));
-  };
-  const treat = getTreatments(treatment);
-
   return (
-    <div className="lg:mt-[170px] mt-[220px] overflow-clip">
-      <h1 className="text-center lg:text-5xl text-3xl mb-10 font-serif font-bold">
+    <div className="mt-10 overflow-clip">
+      <h1 className="text-center lg:text-5xl text-3xl mb-10  font-bold">
         {t("doctors:header")}
       </h1>
-      <div className="w-full mb-10">
-        <div className="lg:grid grid-cols-6 gap-x-6 mx-3">
-          <button
-            onClick={allClicked}
-            className={`rounded-lg p-2 bg-primary text-white lg:my-0 my-3 ${
-              clicked == "all" && "border-4 border-secondary"
-            } `}
-          >
-            {t("doctors:filter1")}
-          </button>
-          <button
-            onClick={topClicked}
-            className={`rounded-lg p-2 bg-primary text-white ${
-              clicked == "top" && "border-4 border-secondary"
-            } `}
-          >
-            {t("doctors:filter2")}
-          </button>
-          <div className="col-span-2 lg:my-0 my-3">
-            <Autocomplete
-              placeholder={t("doctors:filter3")}
-              data={names}
-              handleOnSelect={handleOnSelectDoctors}
-              handleOnClear={handleOnClearDoctors}
-            />
+      <div className="flex justify-center mb-10">
+        <div className="flex mx-3 gap-x-6">
+          <div>
+            <button
+              onClick={allClicked}
+              className={`rounded-lg p-2 bg-primary text-white ${
+                clicked == "all" && "border-4 border-secondary"
+              } `}
+            >
+              {t("doctors:filter1")}
+            </button>
           </div>
-          <div className="col-span-2">
-            <Autocomplete
-              placeholder={t("doctors:filter4")}
-              data={hosp}
-              handleOnSelect={handleOnSelectHospitals}
-            />
+          <div>
+            <button
+              onClick={topClicked}
+              className={`rounded-lg p-2 bg-primary text-white ${
+                clicked == "top" && "border-4 border-secondary"
+              } `}
+            >
+              {t("doctors:filter2")}
+            </button>
           </div>
-          {/* <div className="col-span-2">
-            <Autocomplete
-              placeholder={t("doctors:filter5")}
-              data={treat}
-              handleOnSelect={handleOnSelectTreatments}
-            />
-          </div> */}
         </div>
       </div>
-      {/* <h1 className="text-center text-5xl mb-10 font-serif font-bold">
-        {heading}
-      </h1> */}
+
+      {/* Conditional Heading for Search Results */}
+      {/* {filteredData.length > 0 && (
+        <h2 className="text-center text-4xl mb-10 font-semibold">
+          {t("Doctors")}
+        </h2>
+      )} */}
+
+      {/* Doctor Cards */}
       <div className="lg:grid grid-cols-3 gap-10 lg:mx-10">
         {filteredData.map((d) => (
           <Link

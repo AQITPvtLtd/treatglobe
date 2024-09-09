@@ -17,7 +17,7 @@ const Treatments = () => {
         alt="treatmentBanner"
       />
       <div className="absolute inset-0 flex flex-col items-center justify-center">
-        <h1 className="font-bold text-5xl mx-10 text-center lg:pt-10 font-serif mb-4 text-white">
+        <h1 className="font-bold text-5xl mx-10 text-center lg:pt-10 mb-4 text-white">
           {t("treatments:header")}
         </h1>
         <div className="grid lg:grid-cols-4 grid-cols-2 lg:gap-8">

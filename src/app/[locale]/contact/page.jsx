@@ -4,10 +4,7 @@ import SocialLinks from "./SocialLinks";
 import Office from "./Office";
 const page = () => {
   return (
-    <div className="mt-[210px] lg:mt-[170px]">
-      {/* <h1 className="text-center text-5xl mb-7 font-serif font-bold">
-        Contact Us
-      </h1> */}
+    <div className="mt-10 lg:mt-10">
       <div className="bg-secondary lg:mx-20">
         <ContactForm />
       </div>

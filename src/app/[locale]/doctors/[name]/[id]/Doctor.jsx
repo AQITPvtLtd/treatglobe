@@ -46,7 +46,7 @@ const Doctor = ({ doctor, url }) => {
   const hospital = hospitals.find((i) => i.id === doctor.hid);
 
   return (
-    <div className="mt-[170px] overflow-hidden relative">
+    <div className=" mt-5 overflow-hidden relative">
       <div className="bg-primary lg:mt-0 mt-4 lg:grid grid-cols-2 lg:mx-5 rounded-lg relative z-10">
         <div className="relative">
           <Image
@@ -68,9 +68,7 @@ const Doctor = ({ doctor, url }) => {
         </div>
         <div className="bg-white lg:mx-10 mx-3 lg:mt-10 mb-20 rounded-lg z-20">
           <div className="ml-4 leading-10">
-            <div className="font-bold text-3xl font-serif mt-3">
-              {doctor.name}
-            </div>
+            <div className="font-bold text-3xl mt-3">{doctor.name}</div>
             <div>
               <div className="font-semibold">{t(doctor.post)}</div>
               {/* <div className="mt-3">Works at {hospital.name}</div> */}
@@ -122,7 +120,7 @@ const Doctor = ({ doctor, url }) => {
       <div className="border-2 rounded-lg shadow -mt-10 bg-white mx-10 p-4 leading-relaxed z-20 relative">
         <div className="lg:grid grid-cols-6">
           <div className="col-span-4">
-            <h1 className="text-2xl font-serif mb-2">About {doctor.name}</h1>
+            <h1 className="text-2xl  mb-2">About {doctor.name}</h1>
 
             <table className="w-full text-sm text-left">
               <tbody>
@@ -146,7 +144,7 @@ const Doctor = ({ doctor, url }) => {
           </div>
           <div className="col-span-2 flex justify-center">
             <div>
-              <h1 className="text-2xl font-serif text-center">Location</h1>
+              <h1 className="text-2xl text-center">Location</h1>
               <Image
                 src={`/hospitals/${hospital.image}`}
                 width={1000}
