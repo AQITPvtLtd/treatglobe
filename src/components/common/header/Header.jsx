@@ -194,7 +194,7 @@ const Header = () => {
               navbarOpen
                 ? "visibility top-[10%] opacity-100"
                 : "invisible top-[120%] opacity-0"
-            }`}
+            } ${sticky && "top-[35%]"}`}
           >
             <ul className="block lg:grid grid-cols-8 mx-10 items-center lg:text-white text-primary">
               {menuData.map((menuItem, index) => (

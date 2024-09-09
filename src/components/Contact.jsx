@@ -24,9 +24,16 @@ const ContactForm = () => {
   };
 
   const handleSubmit = async (e) => {
-    console.log("hello");
     e.preventDefault();
     const fileData = new FormData();
+    if (!file) {
+      alert("Medical Report can't be empty!");
+      return;
+    }
+    if (!identityFile) {
+      alert("Passport field can't be empty!");
+      return;
+    }
     fileData.append("myFile", file);
     fileData.append("identity", identityFile);
 
@@ -34,9 +41,9 @@ const ContactForm = () => {
     Object.entries(formData).forEach(([key, value]) => {
       fileData.append(key, value);
     });
-    console.log(fileData);
     const response = await sendFormData(fileData);
     if (response.success) {
+      window.location.reload();
       swal({
         title: "Success",
         text: "Enquiry Form Sent!",
@@ -51,6 +58,7 @@ const ContactForm = () => {
       });
       setFile(null);
       setIndentityFile(null);
+
       router.push("/");
     } else {
       swal({
