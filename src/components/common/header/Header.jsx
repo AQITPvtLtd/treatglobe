@@ -81,7 +81,7 @@ const Header = () => {
           : " bg-transparent"
       }`}
     >
-      <div className="bg-white lg:grid flex gap-x-4 grid-cols-4 justify-evenly text-lg text-white">
+      <div className="bg-white lg:grid flex gap-x-2 grid-cols-4 justify-evenly text-lg text-white">
         {/* Logo */}
         <div className="lg:w-[340px] lg:mx-10">
           <Link
@@ -99,7 +99,7 @@ const Header = () => {
             />
           </Link>
         </div>
-        <div className="lg:hidden">
+        <div className="lg:hidden flex items-center">
           <LanguageChanger />
         </div>
         {/* Hamburger Menu - Visible on mobile */}

@@ -10,6 +10,8 @@ import { usePathname } from "next/navigation";
 import { FaHandPointRight } from "react-icons/fa";
 import { TiLocation } from "react-icons/ti";
 import { useTranslation } from "react-i18next";
+import Link from "next/link";
+import { FaWhatsapp } from "react-icons/fa";
 
 const Doctor = ({ doctor, url }) => {
   const { t, ready } = useTranslation();
@@ -80,6 +82,18 @@ const Doctor = ({ doctor, url }) => {
                   {doctor.experience}
                 </span>{" "}
                 years of experience
+              </div>
+              <div className="grid grid-cols-4 text-white mt-3 mb-3">
+                <div className="bg-[#25d366] rounded-xl flex justify-center hover:bg-[#25d366]/90 hover:shadow-md w-full">
+                  <Link
+                    href="https://alvo.chat/4C9O"
+                    className="flex"
+                    target="__blank"
+                  >
+                    <FaWhatsapp className="mt-3 mr-1" />
+                    Whatsapp Us
+                  </Link>
+                </div>
               </div>
               <div className="flex justify-center">
                 Share Doctor Profile <CiShare2 className="mt-1 h-8" />

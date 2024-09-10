@@ -24,6 +24,7 @@ const i18nNamespaces = [
   "doctors",
   "hospitals",
   "doctorDetailed",
+  "language",
 ];
 
 export const metadata = {

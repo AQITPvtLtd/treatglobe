@@ -4,6 +4,8 @@ import React, { useState, useEffect, useRef } from "react";
 import { doctordata } from "@/data/doctordata";
 import { hospitals } from "@/data/hospitals";
 import Link from "next/link";
+import Image from "next/image";
+import { useTranslation } from "react-i18next";
 
 const SearchBar = () => {
   // State for search input and filtered results
@@ -13,6 +15,7 @@ const SearchBar = () => {
 
   // Ref to detect clicks outside the search results
   const searchRef = useRef();
+  const { t } = useTranslation();
 
   // Handle search input change
   const handleSearch = (e) => {
@@ -74,7 +77,7 @@ const SearchBar = () => {
 
       {/* Results */}
       {query !== "" && (
-        <div className="absolute top-16 left-0 right-0 z-50 bg-white shadow-lg rounded-lg p-6">
+        <div className="absolute top-20 left-0 right-0 z-50 bg-white border shadow-lg rounded-lg p-6 max-h-[500px] overflow-y-auto">
           {/* Doctors Section */}
           {filteredDoctors.length > 0 && (
             <div className="mb-4">
@@ -83,14 +86,24 @@ const SearchBar = () => {
                   Doctors ({filteredDoctors.length})
                 </h3>
               </div>
-              <ul className="space-y-2 grid grid-cols-2">
+              <ul className="space-y-2">
                 {filteredDoctors.map((doctor) => (
-                  <Link href={`/doctors/${doctor.hid}/${doctor.id}`}>
-                    <li
-                      key={doctor.id}
-                      className="hover:bg-blue-100 p-1 text-gray-800 rounded-md transition-colors duration-300"
-                    >
+                  <Link
+                    href={`/doctors/${doctor.hid}/${doctor.id}`}
+                    key={doctor.id}
+                    className="flex hover:bg-blue-100 p-1"
+                  >
+                    <div className="flex items-center">
+                      <Image
+                        src={`/doctors/${doctor.hid}/${doctor.image}`}
+                        width={100}
+                        height={100}
+                        className="object-cover w-10 h-10"
+                      />
+                    </div>
+                    <li className="p-1 text-gray-800 rounded-md transition-colors duration-300">
                       {doctor.name}
+                      <p className="text-sm text-blue-800">{t(doctor.post)}</p>
                     </li>
                   </Link>
                 ))}
@@ -103,12 +116,23 @@ const SearchBar = () => {
                 <h3 className="text-xl font-semibold text-gray-800">
                   Hospitals ({filteredHospitals.length})
                 </h3>
-                <span className="text-gray-600"></span>
               </div>
               <ul className="space-y-2">
                 {filteredHospitals.map((hospital) => (
-                  <Link href={`/hospitals/${hospital.id}`} key={hospital.id}>
-                    <li className="p-2 hover:bg-blue-100 text-gray-800 rounded-md transition-colors duration-300">
+                  <Link
+                    href={`/hospitals/${hospital.id}`}
+                    key={hospital.id}
+                    className="flex hover:bg-blue-100 p-1"
+                  >
+                    <div className="flex items-center">
+                      <Image
+                        src={`/hospitals/${hospital.image}`}
+                        width={100}
+                        height={100}
+                        className="object-cover w-10 h-10"
+                      />
+                    </div>
+                    <li className="p-2 text-gray-800 rounded-md transition-colors duration-300">
                       {hospital.name}
                     </li>
                   </Link>

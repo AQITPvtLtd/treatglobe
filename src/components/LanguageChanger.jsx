@@ -10,6 +10,7 @@ export default function LanguageChanger() {
   const currentLocale = i18n.language;
   const router = useRouter();
   const currentPathname = usePathname();
+  const { t } = useTranslation();
 
   const handleChange = (e) => {
     const newLocale = e.target.value;
@@ -35,18 +36,24 @@ export default function LanguageChanger() {
   };
 
   return (
-    <select
-      onChange={handleChange}
-      value={currentLocale}
-      className="h-10 m-4 bg-secondary text-white rounded-lg px-3"
-    >
-      <option value="am-ET">Amharic</option>
-      <option value="ar">Arabic</option>
-      <option value="bn-BD">Bangla</option>
-      <option value="en">English</option>
-      <option value="fr">French</option>
-      <option value="ru">Russian</option>
-      <option value="uz">Uzbek</option>
-    </select>
+    <div className="">
+      <select
+        id="language-select"
+        onChange={handleChange}
+        value="" // Empty value to ensure "Select Language" is selected by default
+        className="h-8 my-4 ml-4 bg-secondary text-white rounded-lg text-sm"
+      >
+        <option value="" disabled>
+          {t("language:header")}
+        </option>
+        <option value="am-ET">{t("language:amharic")}</option>
+        <option value="ar">{t("language:arabic")}</option>
+        <option value="bn-BD">{t("language:bengali")}</option>
+        <option value="en">{t("language:english")}</option>
+        <option value="fr">{t("language:french")}</option>
+        <option value="ru">{t("language:russian")}</option>
+        <option value="uz">{t("language:uzbek")}</option>
+      </select>
+    </div>
   );
 }
