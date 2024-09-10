@@ -84,7 +84,7 @@ const Header = () => {
     >
       <div className="bg-white lg:grid flex gap-x-2 grid-cols-4 justify-evenly text-lg text-white">
         {/* Logo */}
-        <div className="lg:w-[340px] lg:mx-10">
+        <div className="lg:w-[480px] lg:mx-10">
           <Link
             href="/"
             className={`header-logo block w-full ${
@@ -92,10 +92,10 @@ const Header = () => {
             }`}
           >
             <Image
-              src="/logo/logo4.png"
+              src="/logo/logo_new.png"
               alt="logo"
-              width={200}
-              height={200}
+              width={300}
+              height={300}
               className="ml-4 left-0"
             />
           </Link>
@@ -161,7 +161,7 @@ const Header = () => {
           </Link>
           <Link
             target="__blank"
-            href={"https://www.facebook.com/profile.php?id=61559397785328"}
+            href={"https://t.me/treatglobe"}
             className="hover:text-secondary text-primary"
           >
             <FaTelegramPlane />

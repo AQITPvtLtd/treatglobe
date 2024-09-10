@@ -69,9 +69,7 @@ const Footer = () => {
                 </Link>
                 <Link
                   target="__blank"
-                  href={
-                    "https://www.facebook.com/profile.php?id=61559397785328"
-                  }
+                  href={"https://t.me/treatglobe"}
                   className="hover:text-secondary text-primary"
                 >
                   <FaTelegramPlane size={20} />
