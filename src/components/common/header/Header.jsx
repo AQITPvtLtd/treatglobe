@@ -14,6 +14,7 @@ import {
   FaLinkedin,
   FaPhoneAlt,
   FaYoutube,
+  FaTelegramPlane,
 } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
@@ -157,6 +158,13 @@ const Header = () => {
             className="hover:text-secondary text-primary"
           >
             <FaYoutube />
+          </Link>
+          <Link
+            target="__blank"
+            href={"https://www.facebook.com/profile.php?id=61559397785328"}
+            className="hover:text-secondary text-primary"
+          >
+            <FaTelegramPlane />
           </Link>
         </div>
         {/* Email and Phone No - Hidden on mobile */}

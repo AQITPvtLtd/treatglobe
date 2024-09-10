@@ -4,7 +4,14 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { useTranslation } from "react-i18next";
-import Marquee from "react-fast-marquee";
+import {
+  FaFacebook,
+  FaInstagram,
+  FaLinkedin,
+  FaPhoneAlt,
+  FaYoutube,
+  FaTelegramPlane,
+} from "react-icons/fa";
 const Footer = () => {
   const { t } = useTranslation();
   return (
@@ -26,6 +33,50 @@ const Footer = () => {
                 />
               </Link>
               <p className=" leading-normal">{t("footer:content")}</p>
+              {/* Social Icons - Hidden on mobile */}
+              <div className="flex gap-4 items-center mt-3">
+                <Link
+                  target="__blank"
+                  href={
+                    "https://www.facebook.com/profile.php?id=61559397785328"
+                  }
+                  className="hover:text-secondary text-primary"
+                >
+                  <FaFacebook size={20} />
+                </Link>
+                <Link
+                  target="__blank"
+                  href={"https://www.instagram.com/treatglobe/"}
+                  className="hover:text-secondary text-primary"
+                >
+                  <FaInstagram size={20} />
+                </Link>
+                <Link
+                  target="__blank"
+                  href={
+                    "https://www.linkedin.com/company/treat-glob/?viewAsMember=true"
+                  }
+                  className="hover:text-secondary text-primary"
+                >
+                  <FaLinkedin size={20} />
+                </Link>
+                <Link
+                  target="__blank"
+                  href={"https://www.youtube.com/@TreatGlobe"}
+                  className="hover:text-secondary text-primary"
+                >
+                  <FaYoutube size={20} />
+                </Link>
+                <Link
+                  target="__blank"
+                  href={
+                    "https://www.facebook.com/profile.php?id=61559397785328"
+                  }
+                  className="hover:text-secondary text-primary"
+                >
+                  <FaTelegramPlane size={20} />
+                </Link>
+              </div>
             </div>
             <div className="lg:flex justify-center mt-6">
               <div className="mb-6">
@@ -98,7 +149,7 @@ const Footer = () => {
                       href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
                       className="hover:text-blue"
                     >
-                      H no. 371 Sec 38 Gurgaon
+                      Office no. 371 Sec 38 Gurgaon
                     </Link>
                   </li>
                   <li className="mt-3 leading-normal">
