@@ -78,7 +78,7 @@ const SubSpeciality = ({ id }) => {
                       </th>
                       <td>
                         <div className="mb-2" key={index}>
-                          <div className="text-justify font-semibold">{d}</div>
+                          <div className="font-semibold">{d}</div>
                         </div>
                       </td>
                     </tr>

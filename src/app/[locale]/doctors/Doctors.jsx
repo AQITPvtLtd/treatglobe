@@ -61,7 +61,7 @@ const Doctors = () => {
           <Link
             href={`/doctors/${d.hid}/${d.id}`}
             key={d.id}
-            className="border rounded-md bg-secondary/10 flex flex-col h-full"
+            className="border lg:mt-0 mt-5 lg:mx-0 mx-3 rounded-md bg-secondary/10 flex flex-col h-full"
           >
             <div className="flex h-full">
               <Image
@@ -75,15 +75,14 @@ const Doctors = () => {
                   <h1 className="mt-5 text-lg font-semibold">{d.name}</h1>
                   <p className="text-sm mt-3">{t(d.post)}</p>
                 </div>
-                <div className="flex justify-center text-white mt-3 mb-3">
-                  <div className="bg-[#25d366] rounded-xl px-4 py-2 flex justify-center hover:bg-[#25d366]/90 hover:shadow-md w-full">
+                <div className="text-white mt-3 mb-3">
+                  <div className="bg-[#25d366] rounded-xl py-2 flex justify-center hover:bg-[#25d366]/90 hover:shadow-md w-full">
                     <Link
                       href="https://alvo.chat/4C9O"
-                      className="flex"
+                      className=""
                       target="__blank"
                     >
                       <FaWhatsapp className="mt-1 mr-1" />
-                      Whatsapp Us
                     </Link>
                   </div>
                 </div>
