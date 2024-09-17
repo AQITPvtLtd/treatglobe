@@ -1,7 +1,49 @@
 {
   "header": "Advanced Treatment and Speciality",
-  "one": "Oncology",
-  "two": "Orthopedic surgery",
-  "three": "Neurosurgery & Cyberknife",
-  "four": "Transplant Surgery"
+  "heading2": "Why Choose India for this Treatment",
+  "one": {
+    "name": "Cardiology",
+    "detail": [
+      "Cardiology is a medical specialty focused on the heart and blood vessel disorders within the cardiovascular system.",
+      "It involves the study, diagnosis, and treatment of various heart-related conditions.",
+      "Coronary artery disease: A condition where the arteries supplying blood to the heart become narrowed, potentially leading to heart attacks.",
+      "Arrhythmias: Irregular heartbeats that can be too fast, too slow, or erratic.",
+      "Heart failure: A condition where the heart struggles to pump blood effectively to meet the body's needs."
+    ],
+    "done": [
+      "India has emerged as a leading destination for cardiology-related treatments.",
+      "The country has highly qualified cardiologists with global expertise, many trained in top international medical institutions.",
+      "Indian hospitals are equipped with state-of-the-art technology, offering advanced diagnostic tools and treatment options.",
+      "Available treatments include robotic-assisted surgeries, angioplasty, and heart transplants.",
+      "International patients are attracted by the affordability of healthcare in India.",
+      "The cost of cardiology treatments in India is significantly lower compared to Western countries, without compromising quality of care."
+    ]
+  },
+  "two": "Orthopedic & Joint Replacement",
+  "three": "Neurology",
+  "four": "Haemato Oncology & BMT",
+  "five": "Oncology",
+  "six": "Spine & Scoliosis Surgery",
+  "seven": "Cosmetology",
+  "eight": "Opthamology",
+  "nine": "Urology",
+  "ten": "Liver Transplant & GI & HPB Surgery",
+  "eleven": "Cardiac Thoracic & Vascular Surgery",
+  "twelve": "Kidney Transplant",
+  "thirteen": "Cosmetic & Plastic Surgery",
+  "fourteen": "ENT & Cochlear Implant",
+  "fifteen": "General & Minimally Invasive Surgery",
+  "sixteen": "Gastroenterology",
+  "seventeen": "Dermatology & Cosmetology",
+  "eighteen": "Dentistry",
+  "nineteen": "IVF, Reproductive Medicine",
+  "twenty": "Obstetrics & Gynaecology",
+  "twentyone": "Ophthalmology",
+  "twentytwo": "Medical Oncology",
+  "twentythree": "Surgical Oncology",
+  "twentyfour": "Gynaecological Oncology",
+  "twentyfive": "Paediatric Surgery",
+  "twentysix": "General Medicine",
+  "twentyseven": "General Physician",
+  "twentyeight": "Neuro Surgery"
 }

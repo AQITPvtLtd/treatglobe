@@ -113,7 +113,7 @@ const Footer = () => {
                 <ul className="mb-0 list-none leading-loose">
                   <li>
                     <Link href="/" className="hover:text-blue">
-                      {t("treatments:one")}
+                      {t("treatments:one.name")}
                     </Link>
                   </li>
                   <li>

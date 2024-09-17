@@ -3,82 +3,92 @@
 import React, { useState, useEffect, useRef } from "react";
 import { doctordata } from "@/data/doctordata";
 import { hospitals } from "@/data/hospitals";
+import { treatment } from "@/data/treatments";
 import Link from "next/link";
 import Image from "next/image";
 import { useTranslation } from "react-i18next";
 
 const SearchBar = () => {
-  // State for search input and filtered results
   const [query, setQuery] = useState("");
   const [filteredDoctors, setFilteredDoctors] = useState([]);
   const [filteredHospitals, setFilteredHospitals] = useState([]);
+  const [filteredTreatments, setFilteredTreatments] = useState([]);
+  const [isDropdownVisible, setIsDropdownVisible] = useState(false);
 
-  // Ref to detect clicks outside the search results
   const searchRef = useRef();
   const { t } = useTranslation();
 
-  // Handle search input change
   const handleSearch = (e) => {
     const searchQuery = e.target.value.toLowerCase();
     setQuery(searchQuery);
 
-    // If query is empty, clear results
     if (searchQuery === "") {
       setFilteredDoctors([]);
       setFilteredHospitals([]);
+      setFilteredTreatments([]);
+      setIsDropdownVisible(false);
       return;
     }
 
-    // Filter doctors by search query
     const filteredDoctors = doctordata.filter((doctor) =>
       doctor.name.toLowerCase().includes(searchQuery)
     );
 
-    // Filter hospitals by search query
     const filteredHospitals = hospitals.filter((hospital) =>
       hospital.name.toLowerCase().includes(searchQuery)
     );
 
+    const filteredTreatments = treatment
+      .map((tr) => ({
+        ...tr,
+        translatedName: t(tr.name).toLowerCase(),
+      }))
+      .filter((tr) => tr.translatedName.includes(searchQuery));
+
     setFilteredDoctors(filteredDoctors);
     setFilteredHospitals(filteredHospitals);
+    setFilteredTreatments(filteredTreatments);
+    setIsDropdownVisible(true); // Show the dropdown
   };
 
-  // Hide results when clicking outside the search bar and result container
   const handleClickOutside = (e) => {
     if (searchRef.current && !searchRef.current.contains(e.target)) {
       setQuery("");
       setFilteredDoctors([]);
       setFilteredHospitals([]);
+      setFilteredTreatments([]);
+      setIsDropdownVisible(false); // Hide the dropdown
     }
   };
 
+  const handleResultClick = () => {
+    setQuery("");
+    setFilteredDoctors([]);
+    setFilteredHospitals([]);
+    setFilteredTreatments([]);
+    setIsDropdownVisible(false); // Hide the dropdown
+  };
+
   useEffect(() => {
-    // Add event listener for clicks outside
     document.addEventListener("mousedown", handleClickOutside);
 
-    // Cleanup the event listener
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
 
   return (
-    <div className="relative container p-6" ref={searchRef}>
-      {/* Search Input */}
-      <div>
-        <input
-          type="text"
-          placeholder="Search doctors or hospitals..."
-          value={query}
-          onChange={handleSearch}
-          className="w-full max-w-md p-3 text-black border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
-        />
-      </div>
+    <div className="relative w-full p-6" ref={searchRef}>
+      <input
+        type="text"
+        placeholder="Search doctors, hospitals or treatments..."
+        value={query}
+        onChange={handleSearch}
+        className="w-full p-3 text-black border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+      />
 
-      {/* Results */}
-      {query !== "" && (
+      {isDropdownVisible && (
         <div className="absolute top-20 left-0 right-0 z-50 bg-white border shadow-lg rounded-lg p-6 max-h-[500px] overflow-y-auto">
-          {/* Doctors Section */}
           {filteredDoctors.length > 0 && (
             <div className="mb-4">
               <div className="flex items-center justify-between mb-2">
@@ -92,6 +102,7 @@ const SearchBar = () => {
                     href={`/doctors/${doctor.hid}/${doctor.id}`}
                     key={doctor.id}
                     className="flex hover:bg-blue-100 p-1"
+                    onClick={handleResultClick}
                   >
                     <div className="flex items-center">
                       <Image
@@ -123,6 +134,7 @@ const SearchBar = () => {
                     href={`/hospitals/${hospital.id}`}
                     key={hospital.id}
                     className="flex hover:bg-blue-100 p-1"
+                    onClick={handleResultClick}
                   >
                     <div className="flex items-center">
                       <Image
@@ -140,10 +152,40 @@ const SearchBar = () => {
               </ul>
             </div>
           )}
-
-          {/* No Results Message */}
+          {filteredTreatments.length > 0 && (
+            <div>
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="text-xl font-semibold text-gray-800">
+                  Treatments ({filteredTreatments.length})
+                </h3>
+              </div>
+              <ul className="space-y-2">
+                {filteredTreatments.map((tr) => (
+                  <Link
+                    href={`/treatments/${tr.url}`}
+                    key={tr.id}
+                    className="flex hover:bg-blue-100 p-1"
+                    onClick={handleResultClick}
+                  >
+                    <div className="flex items-center">
+                      <Image
+                        src={`/treatments/${tr.image}`}
+                        width={100}
+                        height={100}
+                        className="object-cover w-10 h-10"
+                      />
+                    </div>
+                    <li className="p-2 text-gray-800 rounded-md transition-colors duration-300">
+                      {t(tr.name)}
+                    </li>
+                  </Link>
+                ))}
+              </ul>
+            </div>
+          )}
           {filteredDoctors.length === 0 &&
             filteredHospitals.length === 0 &&
+            filteredTreatments.length === 0 &&
             query !== "" && (
               <div className="text-center text-gray-600">
                 <p>No results found for "{query}".</p>

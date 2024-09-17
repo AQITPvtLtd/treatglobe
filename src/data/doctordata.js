@@ -13,6 +13,7 @@ export const doctordata = [
     education: "doctorDetailed:d1.education",
     work: "doctorDetailed:d1.work",
     description: "doctorDetailed:d1.description",
+    treatment: ["four"],
   },
   {
     id: 2,
@@ -28,6 +29,7 @@ export const doctordata = [
     education: "doctorDetailed:d2.education",
     work: "doctorDetailed:d2.work",
     description: "doctorDetailed:d2.description",
+    treatment: ["five", "twentythree"],
   },
   {
     id: 3,
@@ -42,6 +44,7 @@ export const doctordata = [
     education: "doctorDetailed:d3.education",
     work: "doctorDetailed:d3.work",
     description: "doctorDetailed:d3.description",
+    treatment: ["one", "eleven"],
   },
   {
     id: 4,
@@ -56,6 +59,7 @@ export const doctordata = [
     education: "doctorDetailed:d4.education",
     work: "doctorDetailed:d4.work",
     description: "doctorDetailed:d4.description",
+    treatment: ["ten"],
   },
   {
     id: 5,
@@ -70,6 +74,7 @@ export const doctordata = [
     education: "doctorDetailed:d5.education",
     work: "doctorDetailed:d5.work",
     description: "doctorDetailed:d5.description",
+    treatment: ["eleven"],
   },
   {
     id: 6,
@@ -492,7 +497,7 @@ export const doctordata = [
     description: "doctorDetailed:d35.description",
   },
   {
-    id: 37,
+    id: 36,
     hid: 9,
     name: "Dr. Naresh Trehan",
     post: "doctorDetailed:d37.post",
@@ -506,7 +511,7 @@ export const doctordata = [
     description: "doctorDetailed:d37.description",
   },
   {
-    id: 38,
+    id: 37,
     hid: 9,
     name: "Dr. Praveen Chandra",
     post: "doctorDetailed:d38.post",
@@ -520,7 +525,7 @@ export const doctordata = [
     description: "doctorDetailed:d38.description",
   },
   {
-    id: 39,
+    id: 38,
     hid: 9,
     name: "Dr Anil Bhan",
     post: "doctorDetailed:d39.post",
@@ -534,7 +539,7 @@ export const doctordata = [
     description: "doctorDetailed:d39.description",
   },
   {
-    id: 40,
+    id: 39,
     hid: 9,
     name: "Dr Arun Garg",
     post: "doctorDetailed:d40.post",
@@ -548,7 +553,7 @@ export const doctordata = [
     description: "doctorDetailed:d40.description",
   },
   {
-    id: 41,
+    id: 40,
     hid: 9,
     name: "Dr Vinay Goyal",
     post: "doctorDetailed:d41.post",
@@ -562,7 +567,7 @@ export const doctordata = [
     description: "doctorDetailed:d41.description",
   },
   {
-    id: 42,
+    id: 41,
     hid: 9,
     name: "Dr Arvind Kumar",
     post: "doctorDetailed:d42.post",
@@ -576,7 +581,7 @@ export const doctordata = [
     description: "doctorDetailed:d42.description",
   },
   {
-    id: 43,
+    id: 42,
     hid: 9,
     name: "Dr Arvinder Singh Soin",
     post: "doctorDetailed:d43.post",
@@ -590,7 +595,7 @@ export const doctordata = [
     description: "doctorDetailed:d43.description",
   },
   {
-    id: 44,
+    id: 43,
     hid: 9,
     name: "Dr Ashok Kumar Vaid",
     post: "doctorDetailed:d44.post",
@@ -604,7 +609,7 @@ export const doctordata = [
     description: "doctorDetailed:d44.description",
   },
   {
-    id: 45,
+    id: 44,
     hid: 9,
     name: "Dr Ashok Rajgopal",
     post: "doctorDetailed:d45.post",
@@ -618,7 +623,7 @@ export const doctordata = [
     description: "doctorDetailed:d45.description",
   },
   {
-    id: 46,
+    id: 45,
     hid: 9,
     name: "Dr KK Handa",
     post: "doctorDetailed:d46.post",
@@ -632,7 +637,7 @@ export const doctordata = [
     description: "doctorDetailed:d46.description",
   },
   {
-    id: 47,
+    id: 46,
     hid: 9,
     name: "Dr Rajesh Ahlawat",
     post: "doctorDetailed:d47.post",
@@ -646,7 +651,7 @@ export const doctordata = [
     description: "doctorDetailed:d47.description",
   },
   {
-    id: 48,
+    id: 47,
     hid: 9,
     name: "Dr Rajiv Parakh",
     post: "doctorDetailed:d48.post",
@@ -660,7 +665,7 @@ export const doctordata = [
     description: "doctorDetailed:d48.description",
   },
   {
-    id: 49,
+    id: 48,
     hid: 9,
     name: "Dr Rakesh Kumar Khazanchi",
     post: "doctorDetailed:d49.post",
@@ -674,7 +679,7 @@ export const doctordata = [
     description: "doctorDetailed:d49.description",
   },
   {
-    id: 50,
+    id: 49,
     hid: 9,
     name: "Dr VP Singh",
     post: "doctorDetailed:d50.post",
@@ -688,7 +693,7 @@ export const doctordata = [
     description: "doctorDetailed:d50.description",
   },
   {
-    id: 51,
+    id: 50,
     hid: 9,
     name: "Dr Vijay Vohra",
     post: "doctorDetailed:d51.post",
@@ -702,7 +707,7 @@ export const doctordata = [
     description: "doctorDetailed:d51.description",
   },
   {
-    id: 52,
+    id: 51,
     hid: 9,
     name: "Dr Deepak sarin",
     post: "doctorDetailed:d52.post",
@@ -716,7 +721,7 @@ export const doctordata = [
     description: "doctorDetailed:d52.description",
   },
   {
-    id: 53,
+    id: 52,
     hid: 1,
     name: "Dr. Aditya Gupta",
     post: "doctorDetailed:d53.post",
@@ -730,7 +735,7 @@ export const doctordata = [
     description: "doctorDetailed:d53.description",
   },
   {
-    id: 54,
+    id: 53,
     hid: 1,
     name: "Dr Hitesh Garg",
     post: "doctorDetailed:d54.post",
@@ -744,7 +749,7 @@ export const doctordata = [
     description: "doctorDetailed:d54.description",
   },
   {
-    id: 55,
+    id: 54,
     hid: 1,
     name: "Dr. SK Rajan",
     post: "doctorDetailed:d55.post",
@@ -759,7 +764,7 @@ export const doctordata = [
   },
 
   {
-    id: 56,
+    id: 55,
     hid: 1,
     name: "Dr. Sumit Singh",
     post: "doctorDetailed:d56.post",
@@ -773,7 +778,7 @@ export const doctordata = [
     description: "doctorDetailed:d56.description",
   },
   {
-    id: 57,
+    id: 56,
     hid: 1,
     name: "Dr Sumeet Aggarwal",
     post: "doctorDetailed:d57.post",
@@ -787,7 +792,7 @@ export const doctordata = [
     description: "doctorDetailed:d57.description",
   },
   {
-    id: 58,
+    id: 57,
     hid: 1,
     name: "Dr Ramkinkar Jha",
     post: "doctorDetailed:d58.post",
@@ -801,7 +806,7 @@ export const doctordata = [
     description: "doctorDetailed:d58.description",
   },
   {
-    id: 59,
+    id: 58,
     hid: 1,
     name: "Dr. I P S Oberoi",
     post: "doctorDetailed:d59.post",
@@ -814,22 +819,22 @@ export const doctordata = [
     work: "doctorDetailed:d59.work",
     description: "doctorDetailed:d59.description",
   },
+  // {
+  //   id: 60,
+  //   hid: 1,
+  //   name: "Dr Giriraj Bora",
+  //   post: "doctorDetailed:d60.post",
+  //   image: "d8.jpg",
+  //   experience: "22+",
+  //   top: false,
+  //   speciality: "doctorDetailed:d60.speciality",
+  //   training: "doctorDetailed:d60.training",
+  //   education: "doctorDetailed:d60.education",
+  //   work: "doctorDetailed:d60.work",
+  //   description: "doctorDetailed:d60.description",
+  // },
   {
-    id: 60,
-    hid: 1,
-    name: "Dr Giriraj Bora",
-    post: "doctorDetailed:d60.post",
-    image: "d8.jpg",
-    experience: "22+",
-    top: false,
-    speciality: "doctorDetailed:d60.speciality",
-    training: "doctorDetailed:d60.training",
-    education: "doctorDetailed:d60.education",
-    work: "doctorDetailed:d60.work",
-    description: "doctorDetailed:d60.description",
-  },
-  {
-    id: 61,
+    id: 59,
     hid: 1,
     name: "Dr Parveen Yadav",
     post: "doctorDetailed:d61.post",
@@ -843,7 +848,7 @@ export const doctordata = [
     description: "doctorDetailed:d61.description",
   },
   {
-    id: 62,
+    id: 60,
     hid: 1,
     name: "Dr Deepak Jha",
     post: "doctorDetailed:d62.post",
@@ -857,7 +862,7 @@ export const doctordata = [
     description: "doctorDetailed:d62.description",
   },
   {
-    id: 63,
+    id: 61,
     hid: 1,
     name: "Dr Tapan Singh Chauhan",
     post: "doctorDetailed:d63.post",
@@ -871,7 +876,7 @@ export const doctordata = [
     description: "doctorDetailed:d63.description",
   },
   {
-    id: 64,
+    id: 62,
     hid: 1,
     name: "Dr Priya Tiwari",
     post: "doctorDetailed:d64.post",
@@ -885,7 +890,7 @@ export const doctordata = [
     description: "doctorDetailed:d64.description",
   },
   {
-    id: 65,
+    id: 63,
     hid: 1,
     name: "DR Mukesh Patekar",
     post: "doctorDetailed:d65.post",
@@ -899,7 +904,7 @@ export const doctordata = [
     description: "doctorDetailed:d65.description",
   },
   {
-    id: 66,
+    id: 64,
     hid: 1,
     name: "Dr Vikram Barua Kaushik",
     post: "doctorDetailed:d66.post",
@@ -913,7 +918,7 @@ export const doctordata = [
     description: "doctorDetailed:d66.description",
   },
   {
-    id: 67,
+    id: 65,
     hid: 1,
     name: "Dr Ashu Jain",
     post: "doctorDetailed:d67.post",
@@ -927,7 +932,7 @@ export const doctordata = [
     description: "doctorDetailed:d67.description",
   },
   {
-    id: 68,
+    id: 66,
     hid: 1,
     name: "Dr Biswajyoti Hazarika",
     post: "doctorDetailed:d68.post",
@@ -941,7 +946,7 @@ export const doctordata = [
     description: "doctorDetailed:d68.description",
   },
   {
-    id: 69,
+    id: 67,
     hid: 1,
     name: "Dr. Shashidhar TB",
     post: "doctorDetailed:d69.post",
@@ -955,7 +960,7 @@ export const doctordata = [
     description: "doctorDetailed:d69.description",
   },
   {
-    id: 70,
+    id: 68,
     hid: 1,
     name: "Dr Dilpreet Bajwa",
     post: "doctorDetailed:d70.post",
@@ -969,7 +974,7 @@ export const doctordata = [
     description: "doctorDetailed:d70.description",
   },
   {
-    id: 71,
+    id: 69,
     hid: 1,
     name: "Dr Gaurav Dixit",
     post: "doctorDetailed:d71.post",
@@ -983,7 +988,7 @@ export const doctordata = [
     description: "doctorDetailed:d71.description",
   },
   {
-    id: 72,
+    id: 70,
     hid: 1,
     name: "Dr Manju Agarwal",
     post: "doctorDetailed:d72.post",
@@ -997,7 +1002,7 @@ export const doctordata = [
     description: "doctorDetailed:d72.description",
   },
   {
-    id: 73,
+    id: 71,
     hid: 1,
     name: "Dr Varun Mittal",
     post: "doctorDetailed:d73.post",
@@ -1011,7 +1016,7 @@ export const doctordata = [
     description: "doctorDetailed:d73.description",
   },
   {
-    id: 74,
+    id: 72,
     hid: 1,
     name: "Dr Paritosh Gupta",
     post: "doctorDetailed:d74.post",
@@ -1025,7 +1030,7 @@ export const doctordata = [
     description: "doctorDetailed:d74.description",
   },
   {
-    id: 75,
+    id: 73,
     hid: 1,
     name: "Dr Sanjay Sarup",
     post: "doctorDetailed:d75.post",
@@ -1039,7 +1044,7 @@ export const doctordata = [
     description: "doctorDetailed:d75.description",
   },
   {
-    id: 77,
+    id: 74,
     hid: 1,
     name: "Dr Renu Sehgal",
     post: "doctorDetailed:d77.post",
@@ -1053,7 +1058,7 @@ export const doctordata = [
     description: "doctorDetailed:d77.description",
   },
   {
-    id: 78,
+    id: 75,
     hid: 1,
     name: "Dr Amit Kumar chaurasia",
     post: "doctorDetailed:d78.post",
@@ -1067,7 +1072,7 @@ export const doctordata = [
     description: "doctorDetailed:d78.description",
   },
   {
-    id: 79,
+    id: 76,
     hid: 1,
     name: "Dr Kuldeep Arora",
     post: "doctorDetailed:d79.post",
@@ -1081,7 +1086,7 @@ export const doctordata = [
     description: "doctorDetailed:d79.description",
   },
   {
-    id: 80,
+    id: 77,
     hid: 1,
     name: "Dr Sameer Mehrotra",
     post: "doctorDetailed:d80.post",
@@ -1095,7 +1100,7 @@ export const doctordata = [
     description: "doctorDetailed:d80.description",
   },
   {
-    id: 81,
+    id: 78,
     hid: 1,
     name: "Dr Sushant Srivastava",
     post: "doctorDetailed:d81.post",
@@ -1109,7 +1114,7 @@ export const doctordata = [
     description: "doctorDetailed:d81.description",
   },
   {
-    id: 82,
+    id: 79,
     hid: 1,
     name: "Dr Aseem Srivastav",
     post: "doctorDetailed:d82.post",
@@ -1123,7 +1128,7 @@ export const doctordata = [
     description: "doctorDetailed:d82.description",
   },
   {
-    id: 83,
+    id: 80,
     hid: 1,
     name: "Dr Nidhi Rawal",
     post: "doctorDetailed:d83.post",
@@ -1137,7 +1142,7 @@ export const doctordata = [
     description: "doctorDetailed:d83.description",
   },
   {
-    id: 84,
+    id: 81,
     hid: 1,
     name: "Dr Rajiv Sharma",
     post: "doctorDetailed:d84.post",
@@ -1151,7 +1156,7 @@ export const doctordata = [
     description: "doctorDetailed:d84.description",
   },
   {
-    id: 85,
+    id: 82,
     hid: 1,
     name: "Dr Parul Prakash",
     post: "doctorDetailed:d85.post",
@@ -1165,7 +1170,7 @@ export const doctordata = [
     description: "doctorDetailed:d85.description",
   },
   {
-    id: 86,
+    id: 83,
     hid: 1,
     name: "Dr Rajiv Yadav",
     post: "doctorDetailed:d86.post",
@@ -1179,7 +1184,7 @@ export const doctordata = [
     description: "doctorDetailed:d86.description",
   },
   {
-    id: 87,
+    id: 84,
     hid: 1,
     name: "Dr Vipul Nanda",
     post: "doctorDetailed:d87.post",
@@ -1193,7 +1198,7 @@ export const doctordata = [
     description: "doctorDetailed:d87.description",
   },
   {
-    id: 88,
+    id: 85,
     hid: 1,
     name: "Dr Pawan Rawal",
     post: "doctorDetailed:d88.post",
@@ -1207,7 +1212,7 @@ export const doctordata = [
     description: "doctorDetailed:d88.description",
   },
   {
-    id: 89,
+    id: 86,
     hid: 1,
     name: "Dr Kapil Kochar",
     post: "doctorDetailed:d89.post",
@@ -1221,7 +1226,7 @@ export const doctordata = [
     description: "doctorDetailed:d89.description",
   },
   {
-    id: 90,
+    id: 87,
     hid: 1,
     name: "Dr Kapil jamwal",
     post: "doctorDetailed:d90.post",
@@ -1235,7 +1240,7 @@ export const doctordata = [
     description: "doctorDetailed:d90.description",
   },
   {
-    id: 91,
+    id: 88,
     hid: 1,
     name: "Dr Nitin Goel",
     post: "doctorDetailed:d91.post",
@@ -1249,7 +1254,7 @@ export const doctordata = [
     description: "doctorDetailed:d91.description",
   },
   {
-    id: 92,
+    id: 89,
     hid: 1,
     name: "Dr Sakshi karkara",
     post: "doctorDetailed:d92.post",
@@ -1263,7 +1268,7 @@ export const doctordata = [
     description: "doctorDetailed:d92.description",
   },
   {
-    id: 93,
+    id: 90,
     hid: 1,
     name: "Dr. Shivanshu Raj Goyal",
     post: "doctorDetailed:d93.post",
@@ -1277,7 +1282,7 @@ export const doctordata = [
     description: "doctorDetailed:d93.description",
   },
   {
-    id: 95,
+    id: 91,
     hid: 10,
     name: "Dr. Y K Mishra",
     post: "doctorDetailed:d95.post",
@@ -1291,7 +1296,7 @@ export const doctordata = [
     description: "doctorDetailed:d95.description",
   },
   {
-    id: 96,
+    id: 92,
     hid: 7,
     name: "Dr. Sudhir Tyagi",
     post: "doctorDetailed:d96.post",
@@ -1305,7 +1310,7 @@ export const doctordata = [
     description: "doctorDetailed:d96.description",
   },
   {
-    id: 97,
+    id: 93,
     hid: 3,
     name: "Dr. Manoj Miglani",
     post: "doctorDetailed:d97.post",
@@ -1319,7 +1324,7 @@ export const doctordata = [
     description: "doctorDetailed:d97.description",
   },
   {
-    id: 98,
+    id: 94,
     hid: 4,
     name: "Dr. Ashok Seth",
     post: "doctorDetailed:d98.post",
@@ -1333,7 +1338,7 @@ export const doctordata = [
     description: "doctorDetailed:d98.description",
   },
   {
-    id: 99,
+    id: 95,
     hid: 8,
     name: "Dr. Subhash Chandra",
     post: "doctorDetailed:d99.post",
@@ -1346,9 +1351,8 @@ export const doctordata = [
     work: "doctorDetailed:d99.work",
     description: "doctorDetailed:d99.description",
   },
-
   {
-    id: 100,
+    id: 96,
     hid: 7,
     name: "Dr. Gaurav Kharya",
     post: "doctorDetailed:d100.post",
@@ -1363,7 +1367,7 @@ export const doctordata = [
   },
 
   {
-    id: 101,
+    id: 97,
     hid: 4,
     name: "Dr.K S Iyer",
     post: "doctorDetailed:d101.post",
@@ -1378,7 +1382,7 @@ export const doctordata = [
   },
 
   {
-    id: 102,
+    id: 98,
     hid: 4,
     name: "Dr.Z S Meharwal",
     post: "doctorDetailed:d102.post",
@@ -1392,7 +1396,7 @@ export const doctordata = [
     description: "doctorDetailed:d102.description",
   },
   {
-    id: 103,
+    id: 99,
     hid: 7,
     name: "Dr. Bhaba Nanda Das",
     post: "doctorDetailed:d103.post",
@@ -1406,7 +1410,7 @@ export const doctordata = [
     description: "doctorDetailed:d103.description",
   },
   {
-    id: 104,
+    id: 100,
     hid: 6,
     name: "Dr. Arun Saroha",
     post: "doctorDetailed:d104.post",
@@ -1419,9 +1423,8 @@ export const doctordata = [
     work: "doctorDetailed:d104.work",
     description: "doctorDetailed:d104.description",
   },
-
   {
-    id: 105,
+    id: 101,
     hid: 2,
     name: "Dr. Hemant Sharma",
     post: "doctorDetailed:d105.post",
@@ -1436,7 +1439,7 @@ export const doctordata = [
   },
 
   {
-    id: 106,
+    id: 102,
     hid: 2,
     name: "Dr. Rajesh Verma",
     post: "doctorDetailed:d106.post",
@@ -1450,7 +1453,7 @@ export const doctordata = [
     description: "doctorDetailed:d106.description",
   },
   {
-    id: 107,
+    id: 103,
     hid: 1,
     name: "Dr. Giriraj Singh Bora",
     post: "doctorDetailed:d107.post",
@@ -1465,7 +1468,7 @@ export const doctordata = [
   },
 
   {
-    id: 108,
+    id: 104,
     hid: 6,
     name: "Dr Subhash Gupta",
     post: "doctorDetailed:d108.post",
@@ -1480,7 +1483,7 @@ export const doctordata = [
   },
 
   {
-    id: 109,
+    id: 105,
     hid: 3,
     name: "Dr. (Col) Manjinder Sandhu",
     post: "doctorDetailed:d109.post",
@@ -1494,7 +1497,7 @@ export const doctordata = [
     description: "doctorDetailed:d109.description",
   },
   {
-    id: 110,
+    id: 106,
     hid: 10,
     name: "Dr. Sanjay Gogoi",
     post: "doctorDetailed:d110.post",
@@ -1508,7 +1511,7 @@ export const doctordata = [
     description: "doctorDetailed:d110.description",
   },
   {
-    id: 111,
+    id: 107,
     hid: 9,
     name: "Dr. Sudhir Dubey",
     post: "doctorDetailed:d111.post",
@@ -1522,7 +1525,7 @@ export const doctordata = [
     description: "doctorDetailed:d111.description",
   },
   {
-    id: 112,
+    id: 108,
     hid: 6,
     name: "Dr. Kulbhushan Singh Dagar",
     post: "doctorDetailed:d112.post",

@@ -1,1 +1,9 @@
-{"about":"About Us","articles":"Articles","contact":"Contact Us","doctors":"Doctors","home":"Home","hospitals":"Hospitals","treatments":"Treatments"}
+{
+  "about": "About Us",
+  "articles": "Articles",
+  "contact": "Contact Us",
+  "doctors": "Doctors",
+  "home": "Home",
+  "hospitals": "Hospitals",
+  "treatments": "Treatments"
+}

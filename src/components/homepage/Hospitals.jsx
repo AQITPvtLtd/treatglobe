@@ -68,7 +68,7 @@ const Hospitals = () => {
         </div>
 
         {/* Right section with hospital images slider */}
-        <div className="-ml-3 lg:-ml-16 lg:mt-[140px]">
+        <div className="-ml-3 lg:-ml-16 lg:mt-[140px] mt-5">
           <Slider {...settings} className="overflow-hidden">
             {hospitals.map((hospital) => (
               <div className="lg:mx-10" key={hospital.id}>
@@ -78,7 +78,7 @@ const Hospitals = () => {
                       src={`/hospitals/${hospital.image}`}
                       width={320}
                       height={220}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover border-4 border-primary"
                       alt={hospital.name}
                     />
                   </div>

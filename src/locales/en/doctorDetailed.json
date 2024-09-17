@@ -2101,42 +2101,7 @@
       "Dr. Oberoi has been a prominent speaker at numerous international and national conferences."
     ]
   },
-  "d60": {
-    "id": 60,
-    "hid": 1,
-    "name": "Dr Giriraj Bora",
-    "post": "Chief - Liver Transplant & Sr. Consultant - GI & HPB Surgery",
-    "image": "d8.jpg",
-    "experience": "22+",
-    "top": false,
-    "speciality": [
-      "Safe donor surgery in liver transplantation",
-      "Liver Transplant for liver cancers",
-      "Portal vein reconstruction in Whipple’s operation for pancreatic cancers",
-      "Ultra Low Anterior Resection ( LAR ) for rectal cancers",
-      "Liver resection for cholangiocarcinoma",
-      "Shunt surgery for portal hypertension",
-      "Advanced laparoscopic operations in gastrointestinal surgery",
-      "ABO incompatible liver transplants"
-    ],
-    "training": [
-      "Fellowship in Liver Transplant ( Indraprastha Apollo Hospital , Delhi )"
-    ],
-    "education": "MBBS ( University of Rajasthan ) , MS ( University of Rajasthan ) , MCh ( G B Pant Hospital, Delhi )",
-    "work": [
-      "Consultant in Liver Transplantation and HPB Surgery at CLBS since January 2013.",
-      "Member of the core surgical team at CLBS, involved in donor evaluation before liver transplants.",
-      "Specializes in liver transplantation, liver resections for Hepatocellular cancers, combined liver-kidney transplantation, and pancreatic surgery (including Whipple’s pancreaticoduodenal resections and surgery for chronic pancreatitis)."
-    ],
-    "description": [
-      "Dr. Giriraj Bora is one of the youngest consultants in the Liver Transplant / HPB program.",
-      "He graduated from J L N Medical College, Ajmer, and trained in General Surgery there before joining SGPGIMS in Lucknow as a Senior Resident in GI Surgery.",
-      "He completed his MCh in GI Surgery at G B Pant Hospital, Delhi, and then worked as a Consultant GI Surgeon in Jaipur.",
-      "He pursued his interest in Liver Transplantation by joining CLBS as a Fellow in Liver Transplant / HPB Surgery in 2011 and received extensive training.",
-      "Dr. Bora's research focuses on hemodynamic changes during liver transplant and changes during IVC cross-clamping in LDLT.",
-      "He has published in the field of Liver Transplantation / GI Surgery and presented at national and international conferences, including ILTS conferences in San Francisco (2012) and Sydney (2013)."
-    ]
-  },
+
   "d61": {
     "id": 61,
     "hid": 1,

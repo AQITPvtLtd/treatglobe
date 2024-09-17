@@ -92,42 +92,52 @@
 export const treatment = [
   {
     id: 1,
-    name: "treatments:one",
-    image: "oncology.png",
-    subspeciality: [
-      {
-        id: "medical",
-        name: "Medical Oncology",
-        treatments: ["Chemotherepy", "Targeted Therepy"],
-      },
-      {
-        id: "surgical",
-        name: "Surgical Oncology",
-      },
-      {
-        id: "haemato",
-        name: "Haemato Oncology",
-      },
-      {
-        id: "uro",
-        name: "Uro-Oncology",
-      },
-    ],
-    content:
-      "Oncology is the branch of medicine dedicated to the study, diagnosis, treatment, and prevention of cancer. Oncologists specialize in treating various types of cancers through surgery, chemotherapy, radiation therapy, and other modalities. The field encompasses medical oncology, surgical oncology, and radiation oncology. Oncologists work closely with patients to develop personalized treatment plans, monitor progress, and manage symptoms and side effects. Advances in oncology have led to improved survival rates and quality of life for cancer patients, making it a critical area of medical research and practice.",
+    idname: "one",
+    name: "treatments:one.name",
+    image: "cardio2.png",
+    url: "cardiology",
+    detail: "treatments:one.detail",
+    done: "treatments:one.done",
   },
   {
     id: 2,
+    idname: "two",
     name: "treatments:two",
     image: "ortho2.png",
-    subspeciality: [
-      "Orthopaedics",
-      "Joint Replacement",
-      "Orthopedic Spine Surgery",
-      "Scoliosis Surgery",
-      "MIS & Robotic Spine Surgery",
-      "Pediatric Orthopedic",
+    url: "orthopedic-and-joint-replacement",
+    content: [
+      "India has emerged as a leading destination for cardiology-related treatments.",
+      "The country has highly qualified cardiologists with global expertise, many trained in top international medical institutions.",
+      "Indian hospitals are equipped with state-of-the-art technology, offering advanced diagnostic tools and treatment options.",
+      "Available treatments include robotic-assisted surgeries, angioplasty, and heart transplants.",
+      "International patients are attracted by the affordability of healthcare in India.",
+      "The cost of cardiology treatments in India is significantly lower compared to Western countries, without compromising quality of care.",
     ],
+  },
+  {
+    id: 3,
+    idname: "three",
+    name: "treatments:three",
+    image: "neuro.png",
+    url: "neurology",
+    content:
+      "Orthopedic surgery is a medical specialty focused on diagnosing, treating, and correcting musculoskeletal system disorders. This includes bones, joints, ligaments, tendons, and muscles. Orthopedic surgeons address issues such as fractures, joint injuries, arthritis, and congenital deformities. They perform procedures like joint replacements, arthroscopy, spinal surgery, and reconstructive surgery. The goal is to restore function, alleviate pain, and improve the quality of life for patients. Advances in technology and surgical techniques have significantly enhanced the outcomes and recovery times for patients undergoing orthopedic surgery.",
+  },
+  {
+    id: 4,
+    idname: "four",
+    name: "treatments:four",
+    image: "haemat.png",
+    url: "haemato-oncology-and-bmt",
+    content:
+      "Orthopedic surgery is a medical specialty focused on diagnosing, treating, and correcting musculoskeletal system disorders. This includes bones, joints, ligaments, tendons, and muscles. Orthopedic surgeons address issues such as fractures, joint injuries, arthritis, and congenital deformities. They perform procedures like joint replacements, arthroscopy, spinal surgery, and reconstructive surgery. The goal is to restore function, alleviate pain, and improve the quality of life for patients. Advances in technology and surgical techniques have significantly enhanced the outcomes and recovery times for patients undergoing orthopedic surgery.",
+  },
+  {
+    id: 5,
+    idname: "five",
+    name: "treatments:five",
+    image: "oncology.png",
+    url: "oncology",
     content:
       "Orthopedic surgery is a medical specialty focused on diagnosing, treating, and correcting musculoskeletal system disorders. This includes bones, joints, ligaments, tendons, and muscles. Orthopedic surgeons address issues such as fractures, joint injuries, arthritis, and congenital deformities. They perform procedures like joint replacements, arthroscopy, spinal surgery, and reconstructive surgery. The goal is to restore function, alleviate pain, and improve the quality of life for patients. Advances in technology and surgical techniques have significantly enhanced the outcomes and recovery times for patients undergoing orthopedic surgery.",
   },
