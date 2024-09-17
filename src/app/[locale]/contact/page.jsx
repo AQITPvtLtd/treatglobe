@@ -18,15 +18,15 @@ const page = () => {
           Contact Us
         </div>
       </div>
-      <div className="mt-10 lg:mt-10 grid grid-cols-2">
-        <div className="bg-secondary lg:mx-10 rounded-md">
+      <div className="mt-10 lg:mt-10 lg:grid grid-cols-2">
+        <div className="bg-secondary lg:mx-10 mx-2 rounded-md">
           <ContactForm />
         </div>
-        <div>
-          <div className="shadow-xl mx-10 border-2">
+        <div className="lg:mt-0 mt-5">
+          <div className="shadow-xl lg:mx-10 mx-2 border-2">
             <Office />
           </div>
-          <div className="shadow-xl mt-5 mx-10 border-2">
+          <div className="shadow-xl mt-5 lg:mx-10 mx-2 border-2">
             <SocialLinks />
           </div>
         </div>
