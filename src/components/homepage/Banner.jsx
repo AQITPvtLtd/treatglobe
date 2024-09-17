@@ -24,7 +24,7 @@ function Banner() {
             className="lg:w-full lg:h-[560px] h-[200px] object-cover"
             priority
           />
-          <div className="lg:absolute inset-0 lg:grid grid-cols-2 grid-rows-4 lg:mt-10 -mt-10">
+          <div className="lg:absolute inset-0 lg:grid grid-cols-2 grid-rows-4 lg:mt-10 mt-3">
             {/* Heading with animation */}
             <div className="animate__animated animate__pulse animate__infinite animate__slower text-center items-center font-bold text-4xl flex justify-center bg-gradient-to-t from-primary to-secondary lg:text-transparent bg-clip-text">
               <h1>{t("heading")}</h1>
