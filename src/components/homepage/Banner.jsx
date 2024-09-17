@@ -21,7 +21,7 @@ function Banner() {
             height={2000}
             src="/banner/slider6.png"
             alt="slider-image"
-            className="lg:w-full lg:h-[560px] h-[400px] object-cover"
+            className="lg:w-full lg:h-[560px] h-[200px] object-cover"
             priority
           />
           <div className="lg:absolute inset-0 lg:grid grid-cols-2 grid-rows-4 lg:mt-10 -mt-10">
