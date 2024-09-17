@@ -98,8 +98,7 @@ const SubSpeciality = ({ id }) => {
             {/* doctors */}
             <div className="grid grid-cols-1 gap-2 md:grid-cols-2">
               {filteredDoctors.map((d) => (
-                <Link
-                  href={`/doctors/${d.hid}/${d.id}`}
+                <div
                   key={d.id}
                   className="border rounded-md bg-white overflow-hidden flex flex-col h-full transform hover:-translate-y-1 transition-transform duration-300"
                 >
@@ -113,10 +112,13 @@ const SubSpeciality = ({ id }) => {
                     />
                   </div>
                   <div className="flex flex-col flex-grow p-4 text-center">
-                    <h1 className="mt-4 text-lg font-semibold">{d.name}</h1>
-                    <p className="text-sm mt-2">{t(d.post)}</p>
-                    <div className="flex justify-center mt-auto mb-4">
-                      <a
+                    <Link href={`/doctors/${d.hid}/${d.id}`}>
+                      <h1 className="mt-4 text-lg font-semibold">{d.name}</h1>
+                      <p className="text-sm mt-2">{t(d.post)}</p>
+                    </Link>
+
+                    <div className="flex justify-center mt-3">
+                      <Link
                         href="https://alvo.chat/4C9O"
                         className="bg-[#25d366] rounded-xl px-4 py-2 flex items-center justify-center text-white hover:bg-[#25d366]/90 hover:shadow-md transition-all"
                         target="_blank"
@@ -124,10 +126,10 @@ const SubSpeciality = ({ id }) => {
                       >
                         <FaWhatsapp className="mr-2" size={24} />
                         Whatsapp
-                      </a>
+                      </Link>
                     </div>
                   </div>
-                </Link>
+                </div>
               ))}
             </div>
           </div>
