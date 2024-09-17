@@ -58,10 +58,9 @@ const Doctors = () => {
       {/* Doctor Cards */}
       <div className="lg:grid grid-cols-3 gap-10 lg:mx-10">
         {filteredData.map((d) => (
-          <Link
-            href={`/doctors/${d.hid}/${d.id}`}
+          <div
             key={d.id}
-            className="border lg:mt-0 mt-5 lg:mx-0 mx-3 rounded-md bg-secondary/10 flex flex-col h-full"
+            className="border hover:-translate-y-2 transform duration-300 lg:mt-0 mt-5 lg:mx-0 mx-3 rounded-md bg-secondary/10 flex flex-col h-full"
           >
             <div className="flex h-full">
               <Image
@@ -71,24 +70,27 @@ const Doctors = () => {
                 className="h-[200px] w-[200px] object-cover"
               />
               <div className="flex flex-col flex-grow justify-between text-center mx-3">
-                <div>
+                <Link
+                  href={`/doctors/${d.hid}/${d.id}`}
+                  className="hover:text-primary"
+                >
                   <h1 className="mt-5 text-lg font-semibold">{d.name}</h1>
                   <p className="text-sm mt-3">{t(d.post)}</p>
-                </div>
-                <div className="text-white mt-3 mb-3">
+                </Link>
+                <Link
+                  target="__blank"
+                  href="https://alvo.chat/4C9O"
+                  className="text-white mt-3 mb-3"
+                >
                   <div className="bg-[#25d366] rounded-xl py-2 flex justify-center hover:bg-[#25d366]/90 hover:shadow-md w-full">
-                    <Link
-                      href="https://alvo.chat/4C9O"
-                      className=""
-                      target="__blank"
-                    >
+                    <div>
                       <FaWhatsapp className="mt-1 mr-1" />
-                    </Link>
+                    </div>
                   </div>
-                </div>
+                </Link>
               </div>
             </div>
-          </Link>
+          </div>
         ))}
       </div>
     </div>

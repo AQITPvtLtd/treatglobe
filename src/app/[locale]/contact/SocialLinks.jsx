@@ -2,9 +2,10 @@
 
 import { FaInstagram } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
-import { IoLogoWhatsapp } from "react-icons/io";
 import { useTranslation } from "react-i18next";
-
+import { FaFacebook } from "react-icons/fa6";
+import { FaLinkedin } from "react-icons/fa6";
+import { FaYoutube } from "react-icons/fa6";
 import Link from "next/link";
 const SocialLinks = () => {
   const { t } = useTranslation();
@@ -17,27 +18,37 @@ const SocialLinks = () => {
       <div className="container max-w-screen-lg mx-auto mt-4">
         <div>
           <div className="flex flex-wrap justify-center gap-2">
-            {/* <button className="bg-blue-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
-              <FaFacebook />
-            </button> */}
-
             <Link
-              href="https://www.instagram.com/lex__fori_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D"
+              href="https://www.facebook.com/people/Treat-globe/61559397785328/"
+              target="__blank"
+              className="bg-blue-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
+            >
+              <FaFacebook />
+            </Link>
+            <Link
+              href="https://www.instagram.com/treatglobe/"
+              target="__blank"
               className="bg-pink-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaInstagram />
             </Link>
             <Link
-              href="https://chat.whatsapp.com/BTGfLwVBqTJ3A1LQcA4iqS"
-              className="bg-green-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
+              href="https://www.linkedin.com/company/treat-glob/?viewAsMember=true"
+              target="__blank"
+              className="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
-              <IoLogoWhatsapp />
-            </Link>
-            {/* <button className="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
               <FaLinkedin />
-            </button> */}
+            </Link>
             <Link
-              href="https://t.me/lex_fori"
+              href="https://www.youtube.com/@TreatGlobe"
+              target="__blank"
+              className="bg-red-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
+            >
+              <FaYoutube />
+            </Link>
+            <Link
+              href="https://t.me/treatglobe"
+              target="__blank"
               className="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaTelegramPlane />

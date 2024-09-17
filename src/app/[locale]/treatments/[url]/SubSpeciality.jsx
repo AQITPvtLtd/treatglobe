@@ -39,7 +39,7 @@ const SubSpeciality = ({ id }) => {
             <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-3xl md:text-5xl uppercase text-center">
               {t(tr.name)}
             </h1>
-            <p className="bg-white bg-opacity-60 p-5 text-lg">
+            <p className="bg-white bg-opacity-80 p-5 text-lg">
               <table className="w-full text-sm text-left">
                 <tbody>
                   {detail.map((d, index) => (
@@ -52,7 +52,7 @@ const SubSpeciality = ({ id }) => {
                       </th>
                       <td>
                         <div className="mb-2" key={index}>
-                          <div className="text-justify font-semibold">{d}</div>
+                          <div className="font-bold">{d}</div>
                         </div>
                       </td>
                     </tr>
@@ -65,7 +65,7 @@ const SubSpeciality = ({ id }) => {
             <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-2xl uppercase text-center">
               {t("treatments:heading2")}
             </h1>
-            <p className="bg-white bg-opacity-60 p-5 text-lg">
+            <p className="bg-white bg-opacity-80 p-5 text-lg">
               <table className="w-full text-sm text-left">
                 <tbody>
                   {done.map((d, index) => (
@@ -78,7 +78,7 @@ const SubSpeciality = ({ id }) => {
                       </th>
                       <td>
                         <div className="mb-2" key={index}>
-                          <div className="font-semibold">{d}</div>
+                          <div className="font-bold">{d}</div>
                         </div>
                       </td>
                     </tr>

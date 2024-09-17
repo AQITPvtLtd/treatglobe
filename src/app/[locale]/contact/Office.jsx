@@ -12,11 +12,6 @@ const Office = () => {
       <h3 className="text-center mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
         {t("contact:header2")}
       </h3>
-      {/* <p>
-        If you prefer face-to-face interactions, we encourage you to visit our
-        office during regular business hours. Our dedicated team is ready to
-        assist you in person.
-      </p> */}
       <div className=" lg:flex justify-center rounded-md p-2 bg-white">
         <div className="grid lg:grid-cols-2 grid-cols-1">
           {/* address */}
@@ -33,11 +28,8 @@ const Office = () => {
                     href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
                     className="text-neutral-500 dark:text-neutral-200"
                   >
-                    H no. 371 Sec 38 Gurgaon
+                    Office no. 371 Sec 38 Gurgaon
                   </Link>
-                  {/* <p className="text-neutral-500 dark:text-neutral-200">
-                  
-                  </p> */}
                 </div>
               </div>
             </div>
@@ -71,7 +63,7 @@ const Office = () => {
                     {t("contact:email")}
                   </p>
                   <Link
-                    href="mailto: lexforiindia@gmail.com"
+                    href="mailto: info@treatglobe.com"
                     className="text-neutral-500 dark:text-neutral-200 hover:text-primary"
                   >
                     info@treatglobe.com

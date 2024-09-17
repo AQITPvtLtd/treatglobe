@@ -81,7 +81,7 @@ const SearchBar = () => {
     <div className="relative w-full lg:p-6 p-2" ref={searchRef}>
       <input
         type="text"
-        placeholder="Search doctors, hospitals or treatments..."
+        placeholder="Search by doctors, hospitals or treatments..."
         value={query}
         onChange={handleSearch}
         className="w-full lg:p-3 p-2 text-black border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
