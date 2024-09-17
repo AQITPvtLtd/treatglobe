@@ -78,13 +78,13 @@ const SearchBar = () => {
   }, []);
 
   return (
-    <div className="relative w-full p-6" ref={searchRef}>
+    <div className="relative w-full lg:p-6 p-2" ref={searchRef}>
       <input
         type="text"
         placeholder="Search doctors, hospitals or treatments..."
         value={query}
         onChange={handleSearch}
-        className="w-full p-3 text-black border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+        className="w-full lg:p-3 p-2 text-black border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
       />
 
       {isDropdownVisible && (

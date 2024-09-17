@@ -134,11 +134,11 @@ const Header = () => {
       <header className="w-full bg-primary text-white">
         <div className="flex items-center px-4">
           <nav
-            className={`navbar absolute right-0 z-30 rounded border-[.5px] border-body-color/50 px-6 duration-300 dark:border-body-color/20 lg:visible lg:static w-full lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
+            className={`navbar absolute right-0 z-30 rounded px-6 duration-300 dark:border-body-color/20 lg:visible lg:static w-full lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
               navbarOpen
                 ? "visibility top-[10%] opacity-100"
                 : "invisible top-[120%] opacity-0"
-            } ${sticky && "top-[35%]"}`}
+            } ${sticky && "top-[45%]"}`}
           >
             <ul className="block lg:grid grid-cols-8 items-center gap-2 relative bg-primary">
               {menu.map((menuItem, index) => (
@@ -228,6 +228,9 @@ const Header = () => {
               ))}
             </ul>
           </nav>
+          <div className="lg:hidden w-full items-center">
+            <SearchBar />
+          </div>
         </div>
       </header>
     </div>
