@@ -25,12 +25,12 @@ const Comprehensive = () => {
           <div className="lg:grid grid-cols-2 gap-x-4 gap-y-4 lg:mx-6 mx-4">
             {/* Service Cards */}
             {[
-              "Value added Services for International Patients",
-              "Visa Facilitation services for patients and their attendants",
-              "Complimentary Pick up and Drop",
-              "Case Managers will provide priority facilitation to overseas patients during their stay at the hospital.",
-              "24*7 Translator Services available in major Languages",
-              "The hospitals accept US Dollars and International Master or Visa Credit Cards.",
+              "Value added services for international patients",
+              "Visa facilitation services for patients and their attendants",
+              "Complimentary pick up and drop",
+              "Case managers will provide priority facilitation to overseas patients during their stay at the hospital.",
+              "24*7 translator services available in major languages",
+              "The hospitals accept US dollars and international master or visa credit cards.",
             ].map((text, index) => (
               <div key={index} className="flex mb-3 lg:mb-0">
                 <div className="w-full flex items-center">

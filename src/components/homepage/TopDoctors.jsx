@@ -6,7 +6,7 @@ import Link from "next/link";
 import { doctordata } from "@/data/doctordata";
 import { useTranslation } from "react-i18next";
 const TopDoctors = () => {
-  const top = doctordata.filter((obj) => obj.top).slice(0, 6);
+  const top = doctordata.filter((obj) => obj.top).slice(0, 8);
   const { t } = useTranslation();
   return (
     <div className="bg-gradient-to-t from-white to-secondary">
@@ -14,26 +14,28 @@ const TopDoctors = () => {
         <h1 className="font-bold text-5xl text-white mx-10 text-center pt-10 mb-6">
           {t("doctors:filter2")}
         </h1>
-        <div className="flex flex-wrap justify-center lg:mx-20 gap-6">
-          {top.map((t) => (
-            <Link
-              href={`doctors/${t.hid}/${t.id}`}
-              className="relative flex flex-col items-center hover:scale-105 hover:shadow-lg "
-              key={t.id}
+        <div className="lg:grid grid-cols-4 mx-8 lg:mx-20 gap-6">
+          {top.map((d) => (
+            <div
+              key={d.id}
+              className="border lg:mt-0 mt-3 rounded-md bg-white overflow-hidden flex flex-col h-full transform hover:-translate-y-1 transition-transform duration-300"
             >
-              <div className="relative shadow-md border border-gray-500 rounded-md mt-5 bg-white px-4 pt-4">
+              <div className="relative">
                 <Image
-                  src={`/doctors/${t.hid}/${t.image}`}
+                  src={`/doctors/${d.hid}/${d.image}`}
+                  alt={d.name}
                   width={1000}
                   height={1000}
-                  className="w-[200px] h-[200px] object-cover rounded-t-md "
-                  alt={t.name}
+                  className="w-full h-48 md:h-60 object-contain"
                 />
-                <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 translate-y-1/2 rounded-sm bg-primary text-center px-2 py-1">
-                  <h1 className="text-white font-bold">{t.name}</h1>
-                </div>
               </div>
-            </Link>
+              <div className="flex flex-col flex-grow p-4 text-center">
+                <Link href={`/doctors/${d.hid}/${d.id}`}>
+                  <h1 className="mt-4 text-lg font-semibold">{d.name}</h1>
+                  <p className="text-sm mt-2">{t(d.post)}</p>
+                </Link>
+              </div>
+            </div>
           ))}
         </div>
         <Link href={"/doctors"} className="text-white flex justify-center mt-6">
