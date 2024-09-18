@@ -36,6 +36,7 @@ const Footer = () => {
               {/* Social Icons - Hidden on mobile */}
               <div className="flex gap-4 items-center mt-3">
                 <Link
+                  title={t("tooltips:facebook")}
                   target="__blank"
                   href={
                     "https://www.facebook.com/profile.php?id=61559397785328"
@@ -45,6 +46,7 @@ const Footer = () => {
                   <FaFacebook size={20} />
                 </Link>
                 <Link
+                  title={t("tooltips:instagram")}
                   target="__blank"
                   href={"https://www.instagram.com/treatglobe/"}
                   className="hover:text-secondary text-primary"
@@ -52,6 +54,7 @@ const Footer = () => {
                   <FaInstagram size={20} />
                 </Link>
                 <Link
+                  title={t("tooltips:linkedIn")}
                   target="__blank"
                   href={
                     "https://www.linkedin.com/company/treat-glob/?viewAsMember=true"
@@ -61,6 +64,7 @@ const Footer = () => {
                   <FaLinkedin size={20} />
                 </Link>
                 <Link
+                  title={t("tooltips:youtube")}
                   target="__blank"
                   href={"https://www.youtube.com/@TreatGlobe"}
                   className="hover:text-secondary text-primary"
@@ -68,6 +72,7 @@ const Footer = () => {
                   <FaYoutube size={20} />
                 </Link>
                 <Link
+                  title={t("tooltips:telegram")}
                   target="__blank"
                   href={"https://t.me/treatglobe"}
                   className="hover:text-secondary text-primary"

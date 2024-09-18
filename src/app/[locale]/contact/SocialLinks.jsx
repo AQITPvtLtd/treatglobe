@@ -25,7 +25,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.facebook.com/people/Treat-globe/61559397785328/"
               target="__blank"
-              title="Facebook"
+              title={t("tooltips:facebook")}
               className="bg-blue-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaFacebook />
@@ -33,7 +33,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.instagram.com/treatglobe/"
               target="__blank"
-              title="Instagram"
+              title={t("tooltips:instagram")}
               className="bg-pink-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaInstagram />
@@ -41,7 +41,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.linkedin.com/company/treat-glob/?viewAsMember=true"
               target="__blank"
-              title="LinkedIn"
+              title={t("tooltips:linkedIn")}
               className="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaLinkedin />
@@ -49,7 +49,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.youtube.com/@TreatGlobe"
               target="__blank"
-              title="YouTube"
+              title={t("tooltips:youtube")}
               className="bg-red-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaYoutube />
@@ -57,7 +57,7 @@ const SocialLinks = () => {
             <Link
               href="https://t.me/treatglobe"
               target="__blank"
-              title="Telegram"
+              title={t("tooltips:telegram")}
               className="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaTelegramPlane />
