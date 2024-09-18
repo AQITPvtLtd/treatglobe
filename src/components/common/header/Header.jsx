@@ -115,11 +115,11 @@ const Header = () => {
           </div>
         </button>
 
-        <div className="lg:flex hidden col-span-3 col-start-3 mx-5  items-center">
+        <div className="lg:flex hidden col-span-3 col-start-3 mx-5 items-center">
           <SearchBar />
         </div>
 
-        <div className="lg:mx-0 text-primary mx-14 lg:flex lg:mt-0 mt-2 items-center justify-center hidden ">
+        <div className="lg:mx-0 text-primary mx-14 lg:flex lg:mt-0 mt-2 items-center justify-center hidden">
           <div>
             <Link
               href="/contact"
@@ -132,7 +132,7 @@ const Header = () => {
       </div>
 
       <header className="w-full bg-primary text-white">
-        <div className="flex items-center px-4">
+        <div className="flex items-center justify-between px-4">
           <nav
             className={`navbar absolute right-0 z-30 rounded px-6 duration-300 dark:border-body-color/20 lg:visible lg:static w-full lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
               navbarOpen
@@ -228,8 +228,10 @@ const Header = () => {
               ))}
             </ul>
           </nav>
-          <div className="lg:hidden w-full items-center">
-            <SearchBar />
+
+          {/* Add LanguageChanger beside the header elements */}
+          <div className="lg:flex hidden items-center">
+            <LanguageChanger />
           </div>
         </div>
       </header>

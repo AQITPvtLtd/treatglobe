@@ -25,6 +25,7 @@ const i18nNamespaces = [
   "hospitals",
   "doctorDetailed",
   "language",
+  "tooltips"
 ];
 export default async function Home({ params: { locale } }) {
   const { t, resources } = await initTranslations(locale, i18nNamespaces);

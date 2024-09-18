@@ -1,14 +1,18 @@
 "use client";
 
-import { FaInstagram } from "react-icons/fa";
-import { FaTelegramPlane } from "react-icons/fa";
+import {
+  FaInstagram,
+  FaTelegramPlane,
+  FaFacebook,
+  FaLinkedin,
+  FaYoutube,
+} from "react-icons/fa";
 import { useTranslation } from "react-i18next";
-import { FaFacebook } from "react-icons/fa6";
-import { FaLinkedin } from "react-icons/fa6";
-import { FaYoutube } from "react-icons/fa6";
 import Link from "next/link";
+
 const SocialLinks = () => {
   const { t } = useTranslation();
+
   return (
     <div className="relative z-10 rounded-sm bg-white p-8 shadow-three dark:bg-gray-dark sm:p-11 lg:p-8 xl:p-11">
       <h3 className="text-center mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
@@ -21,6 +25,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.facebook.com/people/Treat-globe/61559397785328/"
               target="__blank"
+              title="Facebook"
               className="bg-blue-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaFacebook />
@@ -28,6 +33,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.instagram.com/treatglobe/"
               target="__blank"
+              title="Instagram"
               className="bg-pink-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaInstagram />
@@ -35,6 +41,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.linkedin.com/company/treat-glob/?viewAsMember=true"
               target="__blank"
+              title="LinkedIn"
               className="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaLinkedin />
@@ -42,6 +49,7 @@ const SocialLinks = () => {
             <Link
               href="https://www.youtube.com/@TreatGlobe"
               target="__blank"
+              title="YouTube"
               className="bg-red-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaYoutube />
@@ -49,6 +57,7 @@ const SocialLinks = () => {
             <Link
               href="https://t.me/treatglobe"
               target="__blank"
+              title="Telegram"
               className="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
             >
               <FaTelegramPlane />
