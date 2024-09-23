@@ -26,10 +26,11 @@ const i18nNamespaces = [
   "doctorDetailed",
   "language",
   "tooltips",
+  "articles",
 ];
 
 export const metadata = {
-  title: "Treat Globe",
+  title: "TreatGlobe",
   description: "Your travel tourism partner",
 };
 export function generateStaticParams() {

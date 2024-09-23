@@ -167,14 +167,14 @@ const Header = () => {
                         <IoMdArrowDropdown />
                       </p>
                       <div
-                        className={`submenu relative left-0 top-full lg:ml-0 pl-4 rounded-sm transition-[top] duration-300 lg:absolute lg:top-[102%] lg:w-[250px] lg:p-4 bg-primary lg:shadow-lg ${
+                        className={`h-[440px] submenu relative left-0 top-full lg:ml-0 pl-4 rounded-sm transition-[top] duration-300 lg:absolute lg:top-[102%] lg:w-[250px] lg:p-4 bg-primary lg:shadow-lg ${
                           openIndex === menuItem.id ? "block" : "hidden"
                         }`}
                       >
                         {menuItem.submenu.map((submenuItem, index) => (
                           <div
                             key={index}
-                            className="group text-left relative bg-primary grid"
+                            className="group text-left relative bg-primary"
                             onMouseEnter={() =>
                               handleSubMouseEnter(submenuItem.id)
                             } // Handle sub-submenu on hover

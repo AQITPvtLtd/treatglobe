@@ -1,9 +1,8 @@
 {
-    "header": "Biz bilan bog'laning",
-    "header2": "Bog'lanish",
-    "content": "Treat Globe bilan ijtimoiy tarmoqlarda bog'lanib, so'nggi yangiliklar va ma'lumotlardan xabardor bo'ling. Suhbatga qo'shiling va hamjamiyatimiz bilan muloqot qiling.",
-    "location": "Kompaniya joylashuvi",
-    "phone": "Telefon raqami",
-    "email": "Bizning elektron pochta manzilimiz"
-  }
-  
+  "header": "Biz bilan bog'laning",
+  "header2": "Bog'lanish",
+  "content": "TreatGlobe bilan ijtimoiy tarmoqlarda bog'lanib, so'nggi yangiliklar va ma'lumotlardan xabardor bo'ling. Suhbatga qo'shiling va hamjamiyatimiz bilan muloqot qiling.",
+  "location": "Kompaniya joylashuvi",
+  "phone": "Telefon raqami",
+  "email": "Bizning elektron pochta manzilimiz"
+}

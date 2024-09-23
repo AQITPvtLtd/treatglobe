@@ -1,5 +1,8 @@
 {
-    "header": "Bizning Maqolalarimizni Ko'rib Chiqqing",
-    "comingsoon": "Tez orada"
+  "header": "Bizning Maqolalarimizni Ko'rib Chiqqing",
+  "subheader": "Boshqa bloglar",
+  "blog1": {
+    "name": "Hindistondagi eng yaxshi saraton davolash: Keng qamrovli qo'llanma",
+    "date": "2024 yil 15 sentyabr"
   }
-  
+}

@@ -67,7 +67,7 @@ export const POST = async (req) => {
     await transporter.sendMail({
       from: process.env.MY_EMAIL,
       to: process.env.MY_EMAIL,
-      subject: "Treat Globe Contact form",
+      subject: "TreatGlobe Contact form",
       attachments: [
         {
           filename: medical,

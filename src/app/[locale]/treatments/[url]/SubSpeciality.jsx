@@ -36,7 +36,7 @@ const SubSpeciality = ({ id }) => {
         />
         <div className="relative z-10 flex flex-col md:flex-row bg-opacity-60">
           <div className="flex flex-col justify-center p-10 w-full md:w-1/2">
-            <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-3xl md:text-5xl uppercase text-center">
+            <h1 className="bg-white bg-opacity-90 p-3 text-primary font-bold text-3xl uppercase text-center">
               {t(tr.name)}
             </h1>
             <p className="bg-white bg-opacity-80 p-5 text-lg">
@@ -108,7 +108,7 @@ const SubSpeciality = ({ id }) => {
                       alt={d.name}
                       width={1000}
                       height={1000}
-                      className="object-cover w-full h-48 md:h-60"
+                      className="object-contain w-full h-48 md:h-60"
                     />
                   </div>
                   <div className="flex flex-col flex-grow p-4 text-center">
@@ -134,8 +134,10 @@ const SubSpeciality = ({ id }) => {
             </div>
           </div>
         </div>
-        <div className="bg-secondary lg:m-10 rounded-md">
-          <ContactForm />
+        <div>
+          <div className="bg-secondary lg:m-10 rounded-md">
+            <ContactForm />
+          </div>
         </div>
       </div>
     </div>

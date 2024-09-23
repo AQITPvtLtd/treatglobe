@@ -1,5 +1,8 @@
 {
-    "header": "Découvrez Nos Articles",
-    "comingsoon": "Bientôt Disponible"
+  "header": "Découvrez Nos Articles",
+  "subheader": "Plus de blogs",
+  "blog1": {
+    "name": "Meilleur traitement du cancer en Inde : Un guide complet",
+    "date": "15 septembre 2024"
   }
-  
+}

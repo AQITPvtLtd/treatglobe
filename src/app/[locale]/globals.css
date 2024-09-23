@@ -25,3 +25,8 @@
 body {
   direction: ltr;
 }
+.submenu {
+  overflow-y: auto; /* Enable vertical scrolling */
+  -ms-overflow-style: none; /* Hides scrollbar in Internet Explorer and Edge */
+  scrollbar-width: none; /* Hides scrollbar in Firefox */
+}

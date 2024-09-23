@@ -1,3 +1,5 @@
+import { treatment } from "./treatments";
+
 export const doctordata = [
   {
     id: 1,
@@ -13,7 +15,7 @@ export const doctordata = [
     education: "doctorDetailed:d1.education",
     work: "doctorDetailed:d1.work",
     description: "doctorDetailed:d1.description",
-    treatment: ["four"],
+    treatment: ["four", "five"],
   },
   {
     id: 2,
@@ -29,7 +31,7 @@ export const doctordata = [
     education: "doctorDetailed:d2.education",
     work: "doctorDetailed:d2.work",
     description: "doctorDetailed:d2.description",
-    treatment: ["five", "twentythree"],
+    treatment: ["five", "twenty", "twentythree"],
   },
   {
     id: 3,
@@ -44,7 +46,7 @@ export const doctordata = [
     education: "doctorDetailed:d3.education",
     work: "doctorDetailed:d3.work",
     description: "doctorDetailed:d3.description",
-    treatment: ["one", "eleven"],
+    treatment: ["one"],
   },
   {
     id: 4,
@@ -74,7 +76,7 @@ export const doctordata = [
     education: "doctorDetailed:d5.education",
     work: "doctorDetailed:d5.work",
     description: "doctorDetailed:d5.description",
-    treatment: ["eleven"],
+    treatment: ["eleven", "twentyfive"],
   },
   {
     id: 6,
@@ -89,6 +91,7 @@ export const doctordata = [
     education: "doctorDetailed:d6.education",
     work: "doctorDetailed:d6.work",
     description: "doctorDetailed:d6.description",
+    treatment: ["two", "six"],
   },
   {
     id: 7,
@@ -103,6 +106,7 @@ export const doctordata = [
     education: "doctorDetailed:d7.education",
     work: "doctorDetailed:d7.work",
     description: "doctorDetailed:d7.description",
+    treatment: ["three"],
   },
   {
     id: 8,
@@ -117,6 +121,7 @@ export const doctordata = [
     education: "doctorDetailed:d8.education",
     work: "doctorDetailed:d8.work",
     description: "doctorDetailed:d8.description",
+    treatment: ["one"],
   },
   {
     id: 9,
@@ -131,6 +136,7 @@ export const doctordata = [
     education: "doctorDetailed:d9.education",
     work: "doctorDetailed:d9.work",
     description: "doctorDetailed:d9.description",
+    treatment: ["two", "six"],
   },
   {
     id: 10,
@@ -145,6 +151,7 @@ export const doctordata = [
     education: "doctorDetailed:d10.education",
     work: "doctorDetailed:d10.work",
     description: "doctorDetailed:d10.description",
+    treatment: ["sixteen"],
   },
   {
     id: 11,
@@ -159,6 +166,7 @@ export const doctordata = [
     education: "doctorDetailed:d11.education",
     work: "doctorDetailed:d11.work",
     description: "doctorDetailed:d11.description",
+    treatment: ["three", "six", "twentyeight"],
   },
   {
     id: 12,
@@ -173,6 +181,7 @@ export const doctordata = [
     education: "doctorDetailed:d12.education",
     work: "doctorDetailed:d12.work",
     description: "doctorDetailed:d12.description",
+    treatment: ["seven"],
   },
   {
     id: 13,
@@ -187,6 +196,7 @@ export const doctordata = [
     education: "doctorDetailed:d13.education",
     work: "doctorDetailed:d13.work",
     description: "doctorDetailed:d13.description",
+    treatment: ["three"],
   },
   {
     id: 14,
@@ -215,6 +225,7 @@ export const doctordata = [
     education: "doctorDetailed:d15.education",
     work: "doctorDetailed:d15.work",
     description: "doctorDetailed:d15.description",
+    treatment: ["fourteen"],
   },
   {
     id: 16,
@@ -229,6 +240,7 @@ export const doctordata = [
     education: "doctorDetailed:d16.education",
     work: "doctorDetailed:d16.work",
     description: "doctorDetailed:d16.description",
+    treatment: ["seven"],
   },
   {
     id: 17,
@@ -243,6 +255,7 @@ export const doctordata = [
     education: "doctorDetailed:d17.education",
     work: "doctorDetailed:d17.work",
     description: "doctorDetailed:d17.description",
+    treatment: ["one"],
   },
   {
     id: 18,
@@ -257,6 +270,7 @@ export const doctordata = [
     education: "doctorDetailed:d18.education",
     work: "doctorDetailed:d18.work",
     description: "doctorDetailed:d18.description",
+    treatment: ["five", "twenty"],
   },
   {
     id: 19,
@@ -271,6 +285,7 @@ export const doctordata = [
     education: "doctorDetailed:d19.education",
     work: "doctorDetailed:d19.work",
     description: "doctorDetailed:d19.description",
+    treatment: ["twentytwo"],
   },
   {
     id: 20,
@@ -285,6 +300,7 @@ export const doctordata = [
     education: "doctorDetailed:d20.education",
     work: "doctorDetailed:d20.work",
     description: "doctorDetailed:d20.description",
+    treatment: ["fifteen"],
   },
   {
     id: 21,
@@ -299,6 +315,7 @@ export const doctordata = [
     education: "doctorDetailed:d21.education",
     work: "doctorDetailed:d21.work",
     description: "doctorDetailed:d21.description",
+    treatment: ["nine", "twelve"],
   },
   {
     id: 22,
@@ -313,6 +330,7 @@ export const doctordata = [
     education: "doctorDetailed:d22.education",
     work: "doctorDetailed:d22.work",
     description: "doctorDetailed:d22.description",
+    treatment: ["eleven"],
   },
   {
     id: 23,
@@ -327,6 +345,7 @@ export const doctordata = [
     education: "doctorDetailed:d23.education",
     work: "doctorDetailed:d23.work",
     description: "doctorDetailed:d23.description",
+    treatment: ["three", "six", "twentyfive", "twentyeight"],
   },
   {
     id: 24,
@@ -341,6 +360,7 @@ export const doctordata = [
     education: "doctorDetailed:d24.education",
     work: "doctorDetailed:d24.work",
     description: "doctorDetailed:d24.description",
+    treatment: ["three", "twentyeight"],
   },
   {
     id: 25,
@@ -355,6 +375,7 @@ export const doctordata = [
     education: "doctorDetailed:d25.education",
     work: "doctorDetailed:d25.work",
     description: "doctorDetailed:d25.description",
+    treatment: ["ten", "twentyfive"],
   },
   {
     id: 26,
@@ -369,6 +390,7 @@ export const doctordata = [
     education: "doctorDetailed:d26.education",
     work: "doctorDetailed:d26.work",
     description: "doctorDetailed:d26.description",
+    treatment: ["three"],
   },
   {
     id: 27,
@@ -383,6 +405,7 @@ export const doctordata = [
     education: "doctorDetailed:d27.education",
     work: "doctorDetailed:d27.work",
     description: "doctorDetailed:d27.description",
+    treatment: ["nine", "twelve"],
   },
   {
     id: 28,
@@ -397,6 +420,7 @@ export const doctordata = [
     education: "doctorDetailed:d28.education",
     work: "doctorDetailed:d28.work",
     description: "doctorDetailed:d28.description",
+    treatment: ["twentyfive"],
   },
   {
     id: 29,
@@ -411,6 +435,7 @@ export const doctordata = [
     education: "doctorDetailed:d29.education",
     work: "doctorDetailed:d29.work",
     description: "doctorDetailed:d29.description",
+    treatment: ["four", "twentyfive"],
   },
   {
     id: 30,
@@ -425,6 +450,7 @@ export const doctordata = [
     education: "doctorDetailed:d30.education",
     work: "doctorDetailed:d30.work",
     description: "doctorDetailed:d30.description",
+    treatment: ["four", "five", "twentyfive"],
   },
   {
     id: 31,
@@ -439,6 +465,7 @@ export const doctordata = [
     education: "doctorDetailed:d31.education",
     work: "doctorDetailed:d31.work",
     description: "doctorDetailed:d31.description",
+    treatment: ["five", "nine", "twentytwo"],
   },
   {
     id: 32,
@@ -453,6 +480,7 @@ export const doctordata = [
     education: "doctorDetailed:d32.education",
     work: "doctorDetailed:d32.work",
     description: "doctorDetailed:d32.description",
+    treatment: ["eleven"],
   },
   {
     id: 33,
@@ -467,6 +495,7 @@ export const doctordata = [
     education: "doctorDetailed:d33.education",
     work: "doctorDetailed:d33.work",
     description: "doctorDetailed:d33.description",
+    treatment: ["fourteen"],
   },
   {
     id: 34,
@@ -481,6 +510,7 @@ export const doctordata = [
     education: "doctorDetailed:d34.education",
     work: "doctorDetailed:d34.work",
     description: "doctorDetailed:d34.description",
+    treatment: ["two"],
   },
   {
     id: 35,
@@ -495,6 +525,7 @@ export const doctordata = [
     education: "doctorDetailed:d35.education",
     work: "doctorDetailed:d35.work",
     description: "doctorDetailed:d35.description",
+    treatment: ["two", "twentyfive"],
   },
   {
     id: 36,
@@ -509,6 +540,7 @@ export const doctordata = [
     education: "doctorDetailed:d37.education",
     work: "doctorDetailed:d37.work",
     description: "doctorDetailed:d37.description",
+    treatment: ["eleven"],
   },
   {
     id: 37,
@@ -523,6 +555,7 @@ export const doctordata = [
     education: "doctorDetailed:d38.education",
     work: "doctorDetailed:d38.work",
     description: "doctorDetailed:d38.description",
+    treatment: ["one", "twentysix"],
   },
   {
     id: 38,
@@ -537,6 +570,7 @@ export const doctordata = [
     education: "doctorDetailed:d39.education",
     work: "doctorDetailed:d39.work",
     description: "doctorDetailed:d39.description",
+    treatment: ["one"],
   },
   {
     id: 39,
@@ -551,6 +585,7 @@ export const doctordata = [
     education: "doctorDetailed:d40.education",
     work: "doctorDetailed:d40.work",
     description: "doctorDetailed:d40.description",
+    treatment: ["three", "twentysix"],
   },
   {
     id: 40,
@@ -565,6 +600,7 @@ export const doctordata = [
     education: "doctorDetailed:d41.education",
     work: "doctorDetailed:d41.work",
     description: "doctorDetailed:d41.description",
+    treatment: ["three", "twentysix"],
   },
   {
     id: 41,
@@ -579,6 +615,7 @@ export const doctordata = [
     education: "doctorDetailed:d42.education",
     work: "doctorDetailed:d42.work",
     description: "doctorDetailed:d42.description",
+    treatment: ["eleven"],
   },
   {
     id: 42,
@@ -593,6 +630,7 @@ export const doctordata = [
     education: "doctorDetailed:d43.education",
     work: "doctorDetailed:d43.work",
     description: "doctorDetailed:d43.description",
+    treatment: ["ten"],
   },
   {
     id: 43,
@@ -607,6 +645,7 @@ export const doctordata = [
     education: "doctorDetailed:d44.education",
     work: "doctorDetailed:d44.work",
     description: "doctorDetailed:d44.description",
+    treatment: ["five", "twentytwo", "twentysix"],
   },
   {
     id: 44,
@@ -621,6 +660,7 @@ export const doctordata = [
     education: "doctorDetailed:d45.education",
     work: "doctorDetailed:d45.work",
     description: "doctorDetailed:d45.description",
+    treatment: ["two"],
   },
   {
     id: 45,
@@ -635,6 +675,7 @@ export const doctordata = [
     education: "doctorDetailed:d46.education",
     work: "doctorDetailed:d46.work",
     description: "doctorDetailed:d46.description",
+    treatment: ["two"],
   },
   {
     id: 46,
@@ -649,6 +690,7 @@ export const doctordata = [
     education: "doctorDetailed:d47.education",
     work: "doctorDetailed:d47.work",
     description: "doctorDetailed:d47.description",
+    treatment: ["nine", "twelve"],
   },
   {
     id: 47,
@@ -677,6 +719,7 @@ export const doctordata = [
     education: "doctorDetailed:d49.education",
     work: "doctorDetailed:d49.work",
     description: "doctorDetailed:d49.description",
+    treatment: ["seven"],
   },
   {
     id: 49,
@@ -691,6 +734,7 @@ export const doctordata = [
     education: "doctorDetailed:d50.education",
     work: "doctorDetailed:d50.work",
     description: "doctorDetailed:d50.description",
+    treatment: ["three", "seven"],
   },
   {
     id: 50,
@@ -705,6 +749,7 @@ export const doctordata = [
     education: "doctorDetailed:d51.education",
     work: "doctorDetailed:d51.work",
     description: "doctorDetailed:d51.description",
+    treatment: ["ten"],
   },
   {
     id: 51,
@@ -719,6 +764,7 @@ export const doctordata = [
     education: "doctorDetailed:d52.education",
     work: "doctorDetailed:d52.work",
     description: "doctorDetailed:d52.description",
+    treatment: ["five"],
   },
   {
     id: 52,
@@ -733,6 +779,7 @@ export const doctordata = [
     education: "doctorDetailed:d53.education",
     work: "doctorDetailed:d53.work",
     description: "doctorDetailed:d53.description",
+    treatment: ["three", "six"],
   },
   {
     id: 53,
@@ -747,6 +794,7 @@ export const doctordata = [
     education: "doctorDetailed:d54.education",
     work: "doctorDetailed:d54.work",
     description: "doctorDetailed:d54.description",
+    treatment: ["two", "six"],
   },
   {
     id: 54,
@@ -761,6 +809,7 @@ export const doctordata = [
     education: "doctorDetailed:d55.education",
     work: "doctorDetailed:d55.work",
     description: "doctorDetailed:d55.description",
+    treatment: ["two", "three", "six"],
   },
 
   {
@@ -776,6 +825,7 @@ export const doctordata = [
     education: "doctorDetailed:d56.education",
     work: "doctorDetailed:d56.work",
     description: "doctorDetailed:d56.description",
+    treatment: ["three"],
   },
   {
     id: 56,
@@ -790,6 +840,7 @@ export const doctordata = [
     education: "doctorDetailed:d57.education",
     work: "doctorDetailed:d57.work",
     description: "doctorDetailed:d57.description",
+    treatment: ["two", "twentynine"],
   },
   {
     id: 57,
@@ -804,6 +855,7 @@ export const doctordata = [
     education: "doctorDetailed:d58.education",
     work: "doctorDetailed:d58.work",
     description: "doctorDetailed:d58.description",
+    treatment: ["two", "six"],
   },
   {
     id: 58,
@@ -818,21 +870,8 @@ export const doctordata = [
     education: "doctorDetailed:d59.education",
     work: "doctorDetailed:d59.work",
     description: "doctorDetailed:d59.description",
+    treatment: ["two"],
   },
-  // {
-  //   id: 60,
-  //   hid: 1,
-  //   name: "Dr Giriraj Bora",
-  //   post: "doctorDetailed:d60.post",
-  //   image: "d8.jpg",
-  //   experience: "22+",
-  //   top: false,
-  //   speciality: "doctorDetailed:d60.speciality",
-  //   training: "doctorDetailed:d60.training",
-  //   education: "doctorDetailed:d60.education",
-  //   work: "doctorDetailed:d60.work",
-  //   description: "doctorDetailed:d60.description",
-  // },
   {
     id: 59,
     hid: 1,
@@ -846,6 +885,7 @@ export const doctordata = [
     education: "doctorDetailed:d61.education",
     work: "doctorDetailed:d61.work",
     description: "doctorDetailed:d61.description",
+    treatment: ["five", "eleven", "twentythree"],
   },
   {
     id: 60,
@@ -860,6 +900,7 @@ export const doctordata = [
     education: "doctorDetailed:d62.education",
     work: "doctorDetailed:d62.work",
     description: "doctorDetailed:d62.description",
+    treatment: ["five", "twentythree"],
   },
   {
     id: 61,
@@ -874,6 +915,7 @@ export const doctordata = [
     education: "doctorDetailed:d63.education",
     work: "doctorDetailed:d63.work",
     description: "doctorDetailed:d63.description",
+    treatment: ["five", "ten", "twentythree"],
   },
   {
     id: 62,
@@ -888,6 +930,7 @@ export const doctordata = [
     education: "doctorDetailed:d64.education",
     work: "doctorDetailed:d64.work",
     description: "doctorDetailed:d64.description",
+    treatment: ["five", "twentytwo"],
   },
   {
     id: 63,
@@ -902,6 +945,7 @@ export const doctordata = [
     education: "doctorDetailed:d65.education",
     work: "doctorDetailed:d65.work",
     description: "doctorDetailed:d65.description",
+    treatment: ["four", "five", "twentytwo"],
   },
   {
     id: 64,
@@ -916,6 +960,7 @@ export const doctordata = [
     education: "doctorDetailed:d66.education",
     work: "doctorDetailed:d66.work",
     description: "doctorDetailed:d66.description",
+    treatment: ["nine", "twelve", "twentyfive"],
   },
   {
     id: 65,
@@ -958,6 +1003,7 @@ export const doctordata = [
     education: "doctorDetailed:d69.education",
     work: "doctorDetailed:d69.work",
     description: "doctorDetailed:d69.description",
+    treatment: ["fourteen"],
   },
   {
     id: 68,
@@ -972,6 +1018,7 @@ export const doctordata = [
     education: "doctorDetailed:d70.education",
     work: "doctorDetailed:d70.work",
     description: "doctorDetailed:d70.description",
+    treatment: ["fourteen"],
   },
   {
     id: 69,
@@ -986,6 +1033,7 @@ export const doctordata = [
     education: "doctorDetailed:d71.education",
     work: "doctorDetailed:d71.work",
     description: "doctorDetailed:d71.description",
+    treatment: ["four", "five"],
   },
   {
     id: 70,
@@ -1000,6 +1048,7 @@ export const doctordata = [
     education: "doctorDetailed:d72.education",
     work: "doctorDetailed:d72.work",
     description: "doctorDetailed:d72.description",
+    treatment: ["twelve"],
   },
   {
     id: 71,
@@ -1014,6 +1063,7 @@ export const doctordata = [
     education: "doctorDetailed:d73.education",
     work: "doctorDetailed:d73.work",
     description: "doctorDetailed:d73.description",
+    treatment: ["five", "nine", "twelve"],
   },
   {
     id: 72,
@@ -1042,6 +1092,7 @@ export const doctordata = [
     education: "doctorDetailed:d75.education",
     work: "doctorDetailed:d75.work",
     description: "doctorDetailed:d75.description",
+    treatment: ["two", "six", "twentyfive"],
   },
   {
     id: 74,
@@ -1056,6 +1107,7 @@ export const doctordata = [
     education: "doctorDetailed:d77.education",
     work: "doctorDetailed:d77.work",
     description: "doctorDetailed:d77.description",
+    treatment: ["twenty"],
   },
   {
     id: 75,
@@ -1070,6 +1122,7 @@ export const doctordata = [
     education: "doctorDetailed:d78.education",
     work: "doctorDetailed:d78.work",
     description: "doctorDetailed:d78.description",
+    treatment: ["one"],
   },
   {
     id: 76,
@@ -1084,6 +1137,7 @@ export const doctordata = [
     education: "doctorDetailed:d79.education",
     work: "doctorDetailed:d79.work",
     description: "doctorDetailed:d79.description",
+    treatment: ["one", "twentysix"],
   },
   {
     id: 77,
@@ -1098,6 +1152,7 @@ export const doctordata = [
     education: "doctorDetailed:d80.education",
     work: "doctorDetailed:d80.work",
     description: "doctorDetailed:d80.description",
+    treatment: ["one"],
   },
   {
     id: 78,
@@ -1112,6 +1167,7 @@ export const doctordata = [
     education: "doctorDetailed:d81.education",
     work: "doctorDetailed:d81.work",
     description: "doctorDetailed:d81.description",
+    treatment: ["one"],
   },
   {
     id: 79,
@@ -1126,6 +1182,7 @@ export const doctordata = [
     education: "doctorDetailed:d82.education",
     work: "doctorDetailed:d82.work",
     description: "doctorDetailed:d82.description",
+    treatment: ["eleven"],
   },
   {
     id: 80,
@@ -1140,6 +1197,7 @@ export const doctordata = [
     education: "doctorDetailed:d83.education",
     work: "doctorDetailed:d83.work",
     description: "doctorDetailed:d83.description",
+    treatment: ["one", "twentyfive"],
   },
   {
     id: 81,
@@ -1154,6 +1212,7 @@ export const doctordata = [
     education: "doctorDetailed:d84.education",
     work: "doctorDetailed:d84.work",
     description: "doctorDetailed:d84.description",
+    treatment: ["five"],
   },
   {
     id: 82,
@@ -1168,6 +1227,7 @@ export const doctordata = [
     education: "doctorDetailed:d85.education",
     work: "doctorDetailed:d85.work",
     description: "doctorDetailed:d85.description",
+    treatment: ["nineteen", "twenty"],
   },
   {
     id: 83,
@@ -1182,6 +1242,7 @@ export const doctordata = [
     education: "doctorDetailed:d86.education",
     work: "doctorDetailed:d86.work",
     description: "doctorDetailed:d86.description",
+    treatment: ["five", "nine"],
   },
   {
     id: 84,
@@ -1196,6 +1257,7 @@ export const doctordata = [
     education: "doctorDetailed:d87.education",
     work: "doctorDetailed:d87.work",
     description: "doctorDetailed:d87.description",
+    treatment: ["seven"],
   },
   {
     id: 85,
@@ -1210,6 +1272,7 @@ export const doctordata = [
     education: "doctorDetailed:d88.education",
     work: "doctorDetailed:d88.work",
     description: "doctorDetailed:d88.description",
+    treatment: ["sixteen"],
   },
   {
     id: 86,
@@ -1224,6 +1287,7 @@ export const doctordata = [
     education: "doctorDetailed:d89.education",
     work: "doctorDetailed:d89.work",
     description: "doctorDetailed:d89.description",
+    treatment: ["sixteen"],
   },
   {
     id: 87,
@@ -1238,6 +1302,7 @@ export const doctordata = [
     education: "doctorDetailed:d90.education",
     work: "doctorDetailed:d90.work",
     description: "doctorDetailed:d90.description",
+    treatment: ["sixteen"],
   },
   {
     id: 88,
@@ -1252,6 +1317,7 @@ export const doctordata = [
     education: "doctorDetailed:d91.education",
     work: "doctorDetailed:d91.work",
     description: "doctorDetailed:d91.description",
+    treatment: ["nine"],
   },
   {
     id: 89,
@@ -1266,6 +1332,7 @@ export const doctordata = [
     education: "doctorDetailed:d92.education",
     work: "doctorDetailed:d92.work",
     description: "doctorDetailed:d92.description",
+    treatment: ["sixteen"],
   },
   {
     id: 90,
@@ -1294,6 +1361,7 @@ export const doctordata = [
     education: "doctorDetailed:d95.education",
     work: "doctorDetailed:d95.work",
     description: "doctorDetailed:d95.description",
+    treatment: ["one", "eleven"],
   },
   {
     id: 92,
@@ -1308,6 +1376,7 @@ export const doctordata = [
     education: "doctorDetailed:d96.education",
     work: "doctorDetailed:d96.work",
     description: "doctorDetailed:d96.description",
+    treatment: ["three", "six"],
   },
   {
     id: 93,
@@ -1322,6 +1391,7 @@ export const doctordata = [
     education: "doctorDetailed:d97.education",
     work: "doctorDetailed:d97.work",
     description: "doctorDetailed:d97.description",
+    treatment: ["two", "six"],
   },
   {
     id: 94,
@@ -1336,6 +1406,7 @@ export const doctordata = [
     education: "doctorDetailed:d98.education",
     work: "doctorDetailed:d98.work",
     description: "doctorDetailed:d98.description",
+    treatment: ["one"],
   },
   {
     id: 95,
@@ -1350,6 +1421,7 @@ export const doctordata = [
     education: "doctorDetailed:d99.education",
     work: "doctorDetailed:d99.work",
     description: "doctorDetailed:d99.description",
+    treatment: ["one", "eleven"],
   },
   {
     id: 96,
@@ -1364,12 +1436,13 @@ export const doctordata = [
     education: "doctorDetailed:d100.education",
     work: "doctorDetailed:d100.work",
     description: "doctorDetailed:d100.description",
+    treatment: ["four", "five", "twentyfive"],
   },
 
   {
     id: 97,
     hid: 4,
-    name: "Dr.K S Iyer",
+    name: "Dr. K S Iyer",
     post: "doctorDetailed:d101.post",
     image: "d2.webp",
     experience: "40+",
@@ -1379,12 +1452,13 @@ export const doctordata = [
     education: "doctorDetailed:d101.education",
     work: "doctorDetailed:d101.work",
     description: "doctorDetailed:d101.description",
+    treatment: ["one", "eleven", "twentyfive"],
   },
 
   {
     id: 98,
     hid: 4,
-    name: "Dr.Z S Meharwal",
+    name: "Dr. Z S Meharwal",
     post: "doctorDetailed:d102.post",
     image: "d3.webp",
     experience: "35+",
@@ -1394,6 +1468,7 @@ export const doctordata = [
     education: "doctorDetailed:d102.education",
     work: "doctorDetailed:d102.work",
     description: "doctorDetailed:d102.description",
+    treatment: ["one", "eleven", "twentyfive"],
   },
   {
     id: 99,
@@ -1408,6 +1483,7 @@ export const doctordata = [
     education: "doctorDetailed:d103.education",
     work: "doctorDetailed:d103.work",
     description: "doctorDetailed:d103.description",
+    treatment: ["one", "eleven"],
   },
   {
     id: 100,
@@ -1422,6 +1498,7 @@ export const doctordata = [
     education: "doctorDetailed:d104.education",
     work: "doctorDetailed:d104.work",
     description: "doctorDetailed:d104.description",
+    treatment: ["three", "six", "twentyfive"],
   },
   {
     id: 101,
@@ -1436,6 +1513,7 @@ export const doctordata = [
     education: "doctorDetailed:d105.education",
     work: "doctorDetailed:d105.work",
     description: "doctorDetailed:d105.description",
+    treatment: ["two"],
   },
 
   {
@@ -1451,6 +1529,7 @@ export const doctordata = [
     education: "doctorDetailed:d106.education",
     work: "doctorDetailed:d106.work",
     description: "doctorDetailed:d106.description",
+    treatment: ["two", "six"],
   },
   {
     id: 103,
@@ -1465,6 +1544,7 @@ export const doctordata = [
     education: "doctorDetailed:d107.education",
     work: "doctorDetailed:d107.work",
     description: "doctorDetailed:d107.description",
+    treatment: ["ten"],
   },
 
   {
@@ -1480,6 +1560,7 @@ export const doctordata = [
     education: "doctorDetailed:d108.education",
     work: "doctorDetailed:d108.work",
     description: "doctorDetailed:d108.description",
+    treatment: ["three", "ten"],
   },
 
   {
@@ -1495,6 +1576,7 @@ export const doctordata = [
     education: "doctorDetailed:d109.education",
     work: "doctorDetailed:d109.work",
     description: "doctorDetailed:d109.description",
+    treatment: ["one", "twentysix"],
   },
   {
     id: 106,
@@ -1509,6 +1591,7 @@ export const doctordata = [
     education: "doctorDetailed:d110.education",
     work: "doctorDetailed:d110.work",
     description: "doctorDetailed:d110.description",
+    treatment: ["five", "nine", "twelve"],
   },
   {
     id: 107,
@@ -1523,6 +1606,7 @@ export const doctordata = [
     education: "doctorDetailed:d111.education",
     work: "doctorDetailed:d111.work",
     description: "doctorDetailed:d111.description",
+    treatment: ["two", "six"],
   },
   {
     id: 108,
@@ -1537,5 +1621,6 @@ export const doctordata = [
     education: "doctorDetailed:d112.education",
     work: "doctorDetailed:d112.work",
     description: "doctorDetailed:d112.description",
+    treatment: ["one", "eleven", "twentyfive"],
   },
 ];
