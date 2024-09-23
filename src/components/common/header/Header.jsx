@@ -130,6 +130,9 @@ const Header = () => {
           </div>
         </div>
       </div>
+      <div className="lg:hidden w-full bg-primary col-span-3 col-start-3 items-center">
+        <SearchBar />
+      </div>
 
       <header className="w-full bg-primary text-white">
         <div className="flex items-center justify-between px-4">
