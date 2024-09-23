@@ -68,7 +68,7 @@ const Doctor = ({ doctor, url }) => {
             />
           </div>
         </div>
-        <div className="bg-white lg:mx-10 mx-3 lg:mt-10 mb-20 rounded-lg z-20">
+        <div className="bg-white lg:mx-10 mx-3 lg:mt-10 py-4 mb-20 rounded-lg z-20">
           <div className="ml-4 leading-10">
             <div className="font-bold text-3xl mt-3">{doctor.name}</div>
             <div>
@@ -84,7 +84,7 @@ const Doctor = ({ doctor, url }) => {
                 years of experience
               </div>
               <div className="grid grid-cols-4 text-white mt-3 mb-3">
-                <div className="bg-[#25d366] rounded-xl flex justify-center hover:bg-[#25d366]/90 hover:shadow-md w-full">
+                <div className="bg-[#25d366] rounded-xl lg:col-span-1 col-span-2 flex justify-center hover:bg-[#25d366]/90 hover:shadow-md w-full">
                   <Link
                     href="https://alvo.chat/4C9O"
                     className="flex"
@@ -174,7 +174,7 @@ const Doctor = ({ doctor, url }) => {
         </div>
       </div>
       {/* drop down section */}
-      <div className="relative w-full mx-10 bg-white px-6 pt-10 pb-8 mt-8 shadow-xl ring-1 ring-gray-900/5 sm:rounded-lg sm:px-10">
+      <div className="relative lg:w-full lg:mx-10 mx-2 bg-white lg:px-6 lg:pt-10 pb-8 mt-8 shadow-xl ring-1 ring-gray-900/5 rounded-md sm:px-10">
         <div className="px-5">
           <div className="mt-8 grid w-full divide-y divide-neutral-200">
             <div className="py-5">
