@@ -27,7 +27,7 @@ const BlogCards = ({ blog }) => {
     <div className="max-w-sm bg-bg bg-opacity-60 border border-gray-200 rounded-lg shadow">
       <Image
         className="rounded-t-lg"
-        src={blog?.image}
+        src={`/blog/${blog?.image}`}
         alt="blog-image"
         width={400}
         height={400}
