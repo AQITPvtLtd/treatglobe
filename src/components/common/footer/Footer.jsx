@@ -8,7 +8,6 @@ import {
   FaFacebook,
   FaInstagram,
   FaLinkedin,
-  FaPhoneAlt,
   FaYoutube,
   FaTelegramPlane,
 } from "react-icons/fa";
@@ -117,23 +116,35 @@ const Footer = () => {
 
                 <ul className="mb-0 list-none leading-loose">
                   <li>
-                    <Link href="/" className="hover:text-blue">
+                    <Link
+                      href="/treatments/cardiology"
+                      className="hover:text-blue"
+                    >
                       {t("treatments:one.name")}
                     </Link>
                   </li>
                   <li>
-                    <Link href="/" className="hover:text-blue">
-                      {t("treatments:two")}
+                    <Link
+                      href="/treatments/orthopedic-and-joint-replacement"
+                      className="hover:text-blue"
+                    >
+                      {t("treatments:two.name")}
                     </Link>
                   </li>
                   <li>
-                    <Link href="/" className="hover:text-blue">
-                      {t("treatments:four")}
+                    <Link
+                      href="/treatments/haemato-oncology-and-bmt"
+                      className="hover:text-blue"
+                    >
+                      {t("treatments:four.name")}
                     </Link>
                   </li>
                   <li>
-                    <Link href="/" className="hover:text-blue">
-                      {t("treatments:three")}
+                    <Link
+                      href="/treatments/neurology"
+                      className="hover:text-blue"
+                    >
+                      {t("treatments:three.name")}
                     </Link>
                   </li>
                 </ul>
