@@ -826,7 +826,7 @@
     "id": 25,
     "hid": 3,
     "name": "Dr. Vivek Vij",
-    "post": "DIRECTEUR TRANSPLANTATION HÉPATIQUE",
+    "post": "Président – Transplantation Hépatique & Sciences Hépato-Biliaires",
     "image": "d3.jpg",
     "experience": "15+",
     "top": true,
@@ -866,7 +866,7 @@
   "d26": {
     "id": 26,
     "hid": 3,
-    "name": "Dr. Parveen Gupta",
+    "name": "Dr. Praveen Gupta",
     "post": "DIRECTEUR PRINCIPAL & RESPONSABLE NEUROLOGIE",
     "image": "d4.jpg",
     "experience": "23+",
@@ -1241,11 +1241,11 @@
       "Consultant Senior - Orthopédie Pédiatrique au Fortis Memorial Research Institute, Gurgaon"
     ]
   },
-  "d37": {
-    "id": 37,
+  "d36": {
+    "id": 36,
     "hid": 9,
     "name": "Dr. Naresh Trehan",
-    "post": "Président et Directeur Général",
+    "post": "Président & Directeur Général - Chirurgie Cardiaque",
     "image": "d1.jpg",
     "experience": "50+",
     "top": true,
@@ -1271,11 +1271,11 @@
       "Plus de 48 000 interventions chirurgicales cardiaques ouvertes réussies"
     ]
   },
-  "d38": {
-    "id": 38,
+  "d37": {
+    "id": 37,
     "hid": 9,
     "name": "Dr Praveen Chandra",
-    "post": "Président",
+    "post": "Président - Cardiologie Interventionnelle",
     "image": "d2.jpg",
     "experience": "",
     "top": false,
@@ -1313,11 +1313,11 @@
       "Organisateur et Directeur du cours AMI tenu à New Delhi pour 2005 et 2006"
     ]
   },
-  "d39": {
-    "id": 39,
+  "d38": {
+    "id": 38,
     "hid": 9,
     "name": "Dr Anil Bhan",
-    "post": "Président",
+    "post": "Président - Chirurgie Cardiaque",
     "image": "d3.jpg",
     "experience": "49+",
     "top": true,
@@ -1342,11 +1342,11 @@
       "A réalisé plus de 15 000 procédures cardiaques et vasculaires réussies"
     ]
   },
-  "d40": {
-    "id": 40,
+  "d39": {
+    "id": 39,
     "hid": 9,
     "name": "Dr Arun Garg",
-    "post": "Président",
+    "post": "Président - Neurologie",
     "image": "d4.png",
     "experience": "33+",
     "top": false,
@@ -1369,11 +1369,11 @@
       "Partenariat avec UMASS, MA, USA pour la prévention, l'éducation, le traitement, la réhabilitation et la recherche sur les AVC"
     ]
   },
-  "d41": {
-    "id": 41,
+  "d40": {
+    "id": 40,
     "hid": 9,
     "name": "Dr Vinay Goyal",
-    "post": "Président",
+    "post": "Président - Neurologie",
     "image": "d5.png",
     "experience": "32+",
     "top": false,
@@ -1402,11 +1402,11 @@
       "A publié divers articles et chapitres dans des journaux nationaux et internationaux"
     ]
   },
-  "d42": {
-    "id": 42,
+  "d41": {
+    "id": 41,
     "hid": 9,
     "name": "Dr Arvind Kumar",
-    "post": "Président",
+    "post": "Président - Transplantation pulmonaire",
     "image": "d6.png",
     "experience": "40+",
     "top": false,
@@ -1434,11 +1434,11 @@
       "Expert en chirurgie minimale invasive avec introduction de techniques innovantes"
     ]
   },
-  "d43": {
-    "id": 43,
+  "d42": {
+    "id": 42,
     "hid": 9,
     "name": "Dr Arvinder Singh Soin",
-    "post": "Président",
+    "post": "Président - Transplantation hépatique",
     "image": "d7.png",
     "experience": "37+",
     "top": false,
@@ -1467,11 +1467,11 @@
       "Reconnu pour avoir établi et avancé la transplantation hépatique en Inde."
     ]
   },
-  "d44": {
-    "id": 44,
+  "d43": {
+    "id": 43,
     "hid": 9,
     "name": "Dr Ashok Kumar Vaid",
-    "post": "Président",
+    "post": "Président - Oncologie médicale",
     "image": "d8.png",
     "experience": "35+",
     "top": false,
@@ -1503,8 +1503,8 @@
       "Auteur de plusieurs articles évalués par des pairs et reconnu pour ses contributions exceptionnelles à la médecine."
     ]
   },
-  "d45": {
-    "id": 45,
+  "d44": {
+    "id": 44,
     "hid": 9,
     "name": "Dr Ashok Rajgopal",
     "post": "Président du Groupe",
@@ -1548,11 +1548,11 @@
       "Membre de l'équipe de conception du système de genou Persona développé par Zimmer."
     ]
   },
-  "d46": {
-    "id": 46,
+  "d45": {
+    "id": 45,
     "hid": 9,
     "name": "Dr KK Handa",
-    "post": "Président",
+    "post": "Président - ORL, Chirurgie de la tête et du cou",
     "image": "d10.png",
     "experience": "27+",
     "top": false,
@@ -1592,11 +1592,11 @@
       "Premier chirurgien orthopédique en Inde à effectuer un remplacement total du genou virtuel utilisant des instruments spécifiques au patient, garantissant un alignement précis et une fonctionnalité du genou."
     ]
   },
-  "d47": {
-    "id": 47,
+  "d46": {
+    "id": 46,
     "hid": 9,
     "name": "Dr Rajesh Ahlawat",
-    "post": "Président du Groupe",
+    "post": "Président du groupe - Urologie, Transplantation rénale, Soins rénaux",
     "image": "d11.png",
     "experience": "",
     "top": false,
@@ -1629,11 +1629,11 @@
       "Établi des programmes de haute capacité en Urologie et Transplantations Rénales à Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow ; Indraprastha Apollo Hospital, New Delhi ; Fortis Hospitals, New Delhi ; et Medanta The Medicity, Gurugram."
     ]
   },
-  "d48": {
-    "id": 48,
+  "d47": {
+    "id": 47,
     "hid": 9,
     "name": "Dr Rajiv Parakh",
-    "post": "Président",
+    "post": "Président - Sciences vasculaires périphériques et endovasculaires",
     "image": "d12.png",
     "experience": "38+",
     "top": false,
@@ -1666,11 +1666,11 @@
       "Élu Secrétaire de la International Society for Vascular Surgery, New York, USA (2007)."
     ]
   },
-  "d49": {
-    "id": 49,
+  "d48": {
+    "id": 48,
     "hid": 9,
     "name": "Dr Rakesh Kumar Khazanchi",
-    "post": "Président",
+    "post": "Président - Chirurgie plastique, esthétique et reconstructive",
     "image": "d13.png",
     "experience": "25+",
     "top": false,
@@ -1698,11 +1698,11 @@
       "A édité et rédigé un livre sur la Chirurgie Plastique pour Chirurgiens Généraux."
     ]
   },
-  "d50": {
-    "id": 50,
+  "d49": {
+    "id": 49,
     "hid": 9,
     "name": "Dr VP Singh",
-    "post": "Président",
+    "post": "Président - Neurochirurgie, neurosciences",
     "image": "d14.png",
     "experience": "30+",
     "education": "DNB Neurochirurgie , MCh Neurochirurgie , MBBS",
@@ -1728,11 +1728,11 @@
       "Neurochirurgien consultant senior à l'Hôpital Apollo, New Delhi."
     ]
   },
-  "d51": {
-    "id": 51,
+  "d50": {
+    "id": 50,
     "hid": 9,
     "name": "Dr Vijay Vohra",
-    "post": "Président",
+    "post": "Président - Soins critiques",
     "image": "d15.png",
     "experience": "35+",
     "education": "",
@@ -1759,11 +1759,11 @@
       "Relecteur pour le Journal of Clinical Anaesthesia, le Journal of Anaesthesiology and Clinical Pharmacology, et le Journal of Clinical & Experimental Hepatology."
     ]
   },
-  "d52": {
-    "id": 52,
+  "d51": {
+    "id": 51,
     "hid": 9,
     "name": "Dr Deepak Sarin",
-    "post": "Vice-Président",
+    "post": "Vice-président - Chirurgie du cancer de la tête et du cou, de la thyroïde et des parathyroïdes, soins du cancer",
     "image": "d16.png",
     "experience": "28+",
     "education": "",
@@ -1789,8 +1789,8 @@
       "A créé le Département de chirurgie de la tête et du cou à Medanta en 2011."
     ]
   },
-  "d53": {
-    "id": 53,
+  "d52": {
+    "id": 52,
     "hid": 1,
     "name": "Dr. Aditya Gupta",
     "post": "Président - Neurochirurgie & Radiosurgie CNS & Co-Chef - Centre Cyberknife",
@@ -1825,8 +1825,8 @@
       "Il est reconnu comme l'un des meilleurs neurochirurgiens du pays."
     ]
   },
-  "d54": {
-    "id": 54,
+  "d53": {
+    "id": 53,
     "hid": 1,
     "name": "Dr Hitesh Garg",
     "post": "Responsable - Chirurgie Ortho-Vertébrale",
@@ -1868,8 +1868,8 @@
       "Il combine des techniques de pointe avec des méthodes traditionnelles éprouvées pour offrir aux patients les meilleurs soins possibles."
     ]
   },
-  "d55": {
-    "id": 55,
+  "d54": {
+    "id": 54,
     "hid": 1,
     "name": "Dr. SK Rajan",
     "post": "Chef - Chirurgie Neuro-Spinale & Directeur supplémentaire - Neurochirurgie",
@@ -1908,8 +1908,8 @@
       "Il a rédigé et co-rédigé de nombreuses publications dans des revues nationales et internationales ainsi que des chapitres de livres."
     ]
   },
-  "d56": {
-    "id": 56,
+  "d55": {
+    "id": 55,
     "hid": 1,
     "name": "Dr Sumit Singh",
     "post": "Chef - Neurologie",
@@ -1954,8 +1954,8 @@
       "Il a rédigé 104 publications dans des revues peer-reviewed et 14 chapitres dans des livres."
     ]
   },
-  "d57": {
-    "id": 57,
+  "d56": {
+    "id": 56,
     "hid": 1,
     "name": "Dr Sumeet Aggarwal",
     "post": "Chef - Rhumatologie",
@@ -1998,8 +1998,8 @@
       "Son domaine clinique inclut des maladies telles que le lupus (Lupus), l'arthrite, la vasculite, la sclérodermie, la myosite, la fibrose rétropéritonéale, le syndrome anti-phospholipide, la sarcoïdose, l'ostéoporose, le syndrome de Sjögren, l'arthrite juvénile, la goutte, la maladie de Behçet et diverses autres maladies liées à la dysfonction du système immunitaire."
     ]
   },
-  "d58": {
-    "id": 58,
+  "d57": {
+    "id": 57,
     "hid": 1,
     "name": "Dr Ramkinkar Jha",
     "post": "Chef et Responsable de l'Unité - Orthopédie (Unité III)",
@@ -2042,8 +2042,8 @@
       "Il a rédigé de nombreux articles réputés dans des revues internationales et nationales, contribué à des chapitres de livres sur les remplacements articulaires, le traumatisme et les blessures sportives, et a été un conférencier important lors de nombreuses conférences nationales et internationales."
     ]
   },
-  "d59": {
-    "id": 59,
+  "d58": {
+    "id": 58,
     "hid": 1,
     "name": "Dr I P S Oberoi",
     "post": "Président - Programme Orthopédique & Chef - Chirurgie Robotic Joint Replacement & Arthroscopie",
@@ -2082,43 +2082,8 @@
       "Dr Oberoi a été un conférencier de premier plan lors de nombreuses conférences internationales et nationales."
     ]
   },
-  "d60": {
-    "id": 60,
-    "hid": 1,
-    "name": "Dr Giriraj Bora",
-    "post": "Chef - Transplantation Hépatique & Consultant Senior - Chirurgie GI & HPB",
-    "image": "d8.jpg",
-    "experience": "22+",
-    "education": "MBBS (Université du Rajasthan), MS (Université du Rajasthan), MCh (Hôpital G B Pant, Delhi)",
-    "speciality": [
-      "Chirurgie du donneur sécurisée en transplantation hépatique",
-      "Transplantation hépatique pour cancers du foie",
-      "Reconstruction de la veine porte dans l'opération de Whipple pour cancers pancréatiques",
-      "Résection antérieure ultra basse (LAR) pour cancers du rectum",
-      "Résection hépatique pour cholangiocarcinome",
-      "Chirurgie de dérivation pour hypertension portale",
-      "Opérations laparoscopiques avancées en chirurgie gastro-intestinale",
-      "Transplantations hépatiques ABO incompatibles"
-    ],
-    "training": [
-      "Fellowship en Transplantation Hépatique (Hôpital Indraprastha Apollo, Delhi)"
-    ],
-    "work": [
-      "Consultant en Transplantation Hépatique et Chirurgie HPB au CLBS depuis janvier 2013.",
-      "Membre de l'équipe chirurgicale principale au CLBS, impliqué dans l'évaluation des donneurs avant les transplantations hépatiques.",
-      "Spécialiste en transplantation hépatique, résections hépatiques pour cancers hépatocellulaires, transplantation combinée foie-rein, et chirurgie pancréatique (y compris les résections pancréaticoduodénales de Whipple et la chirurgie pour pancréatite chronique)."
-    ],
-    "description": [
-      "Dr. Giriraj Bora est l'un des plus jeunes consultants dans le programme de Transplantation Hépatique / HPB.",
-      "Il est diplômé du J L N Medical College, Ajmer, et s'est formé en Chirurgie Générale avant de rejoindre SGPGIMS à Lucknow en tant que Résident Senior en Chirurgie GI.",
-      "Il a complété son MCh en Chirurgie GI à l'Hôpital G B Pant, Delhi, puis a travaillé comme Consultant Chirurgien GI à Jaipur.",
-      "Il a poursuivi son intérêt pour la Transplantation Hépatique en rejoignant CLBS en tant que Fellow en Transplantation Hépatique / Chirurgie HPB en 2011 et a reçu une formation approfondie.",
-      "Les recherches du Dr. Bora se concentrent sur les changements hémodynamiques pendant la transplantation hépatique et les changements pendant le clampage de la VCI en LDLT.",
-      "Il a publié dans le domaine de la Transplantation Hépatique / Chirurgie GI et a présenté lors de conférences nationales et internationales, y compris les conférences ILTS à San Francisco (2012) et Sydney (2013)."
-    ]
-  },
-  "d61": {
-    "id": 61,
+  "d59": {
+    "id": 59,
     "hid": 1,
     "name": "Dr Parveen Yadav",
     "post": "Chef & Consultant Senior - Chirurgie Thoracique & Oncologie Chirurgicale",
@@ -2155,8 +2120,8 @@
       "Il a un intérêt particulier pour les chirurgies des voies respiratoires (trachée) et a traité avec succès des maladies pulmonaires bénignes compliquées telles que l'empyème, la tuberculose, la fistule broncho-pleurale, la maladie bulleuse, la masse médiastinale, les thymomes, et les tumeurs de la paroi thoracique."
     ]
   },
-  "d62": {
-    "id": 62,
+  "d60": {
+    "id": 60,
     "hid": 1,
     "name": "Dr Deepak Jha",
     "post": "Chef - Chirurgie du Sein & Consultant Senior : Oncologie Chirurgicale",
@@ -2199,9 +2164,9 @@
       "Son expertise inclut la Chirurgie de Conservation et Reconstruction du Sein, la Mastectomie épargnant le Nipple, la Chirurgie Radioguidée du Sein (ROLL), la Biopsie Sentinelle, la Cartographie Inverse de l'Arm pour la Prévention du Lymphœdème, la Chirurgie de Conservation & Oncoplastie du Sein, et la Reconstruction DIEP Free Flap."
     ]
   },
-  "d63": {
-    "id": 63,
-    "name": "Dr Tapan Singh Chau",
+  "d61": {
+    "id": 61,
+    "name": "Dr Tapan Singh Chauhan",
     "post": "Chef - Chirurgie Orthopédique & Traumatologie",
     "image": "d11.jpg",
     "experience": "20+",
@@ -2230,8 +2195,49 @@
       "Dr. Chau a contribué à des recherches importantes et a publié dans le domaine de l'orthopédie."
     ]
   },
-  "d65": {
-    "id": 65,
+  "d62": {
+    "id": 62,
+    "hid": 1,
+    "name": "Dr Priya Tiwari",
+    "post": "Responsable - Oncologie Médicale",
+    "image": "d12.jpg",
+    "experience": "16+",
+    "top": false,
+    "speciality": [
+      "Malignités gynécologiques, y compris le cancer du sein",
+      "Malignités génito-urinaires",
+      "Malignités colorectales / cancer hépatobiliaire / cancer du poumon",
+      "Tumeurs cérébrales / sarcome des tissus mous et sarcome osseux",
+      "Soins palliatifs et soins de fin de vie",
+      "Immunothérapie du cancer",
+      "Génétique du cancer et médecine de précision",
+      "Trouble lymphoprolifératif",
+      "Chimothérapie / immunothérapie / administration de médicaments ciblés",
+      "Transplantation de moelle osseuse",
+      "Insertion de ligne centrale / PICC",
+      "Aspiration et biopsie de moelle osseuse",
+      "Pleurodèse",
+      "Ponction lombaire"
+    ],
+    "training": [
+      "Formation en Oncologie Médicale à l'AIIMS",
+      "Formation en Médecine Interne à l'AIIMS"
+    ],
+    "education": "École de Médecine : DM Oncologie Médicale AIIMS, Programmes de Diplôme Post-Gradué : MD Médecine AIIMS, Programmes de Diplôme : MBBS, IMS, BHU",
+    "work": [
+      "Oncologue Médical renommée de l'Institut All India des Sciences Médicales.",
+      "Formée à tous les aspects de l'Oncologie Médicale et de la Médecine Interne.",
+      "Fournit des soins holistiques aux patients."
+    ],
+    "description": [
+      "Dr. Priya Tiwari est une oncologue médicale renommée de l'institut de premier plan du pays, l'Institut All India des Sciences Médicales.",
+      "Elle est formée à tous les aspects de l'Oncologie Médicale et de la Médecine Interne et croit en la fourniture de soins holistiques au patient.",
+      "Médaillée d'or en MBBS, elle a publié de nombreux articles dans de nombreuses revues réputées.",
+      "Son objectif est de développer un modèle de soins en oncologie abordant tous les problèmes importants concernant les patients atteints de cancer."
+    ]
+  },
+  "d63": {
+    "id": 63,
     "hid": 1,
     "name": "Dr Mukesh Patekar",
     "post": "Responsable d'Unité - Oncologie Médicale",
@@ -2275,8 +2281,8 @@
       "Il a de nombreuses publications scientifiques nationales et internationales."
     ]
   },
-  "d66": {
-    "id": 66,
+  "d64": {
+    "id": 64,
     "hid": 1,
     "name": "Dr Vikram Barua Kaushik",
     "post": "Chef - Urologie, Programme de Transplantation Rénale & Chirurgie Robotiques (Unité II)",
@@ -2315,11 +2321,11 @@
       "Dr. Vikram est associé à Artemis depuis septembre 2009 en tant que consultant en Urologie, ses principaux domaines d'intérêt étant l'endourologie, l'urologie laparoscopique et la transplantation rénale."
     ]
   },
-  "d67": {
-    "id": 67,
+  "d65": {
+    "id": 65,
     "hid": 1,
     "name": "Dr Ashu Jain",
-    "post": "Responsable",
+    "post": "Responsable - Médecine de la douleur et soins palliatifs",
     "image": "d15.jpg",
     "experience": "24+",
     "top": false,
@@ -2346,8 +2352,8 @@
       "Dr. Jain est bien versé dans la gestion médicale de divers types de douleur chronique, y compris la douleur cancéreuse, la douleur dorsale, la douleur articulaire, la douleur au cou, la douleur neuropathique et les névralgies, la douleur faciale et les maux de tête."
     ]
   },
-  "d68": {
-    "id": 68,
+  "d66": {
+    "id": 66,
     "hid": 1,
     "name": "Dr Biswajyoti Hazarika",
     "post": "Chef - Chirurgie de la Tête et du Cou",
@@ -2389,8 +2395,8 @@
       "Dr. Hazarika a de nombreuses publications dans des revues médicales nationales et internationales et a rédigé des chapitres dans l'Atlas d'Oto-rhino-laryngologie et de Chirurgie de la Tête et du Cou."
     ]
   },
-  "d69": {
-    "id": 69,
+  "d67": {
+    "id": 67,
     "hid": 1,
     "name": "Dr. Shashidhar TB",
     "post": "Responsable - Chirurgie (ORL)",
@@ -2436,11 +2442,11 @@
       "Dr. Shashidhar est connu pour son calme et son attitude positive, prenant souvent en charge des cas que d'autres ont refusés."
     ]
   },
-  "d70": {
-    "id": 70,
+  "d68": {
+    "id": 68,
     "hid": 1,
     "name": "Dr Dilpreet Bajwa",
-    "post": "ORL",
+    "post": "Consultant Principal - ORL",
     "image": "d18.jpg",
     "experience": "12+",
     "top": false,
@@ -2490,8 +2496,8 @@
       "Mentor pour les fellows dans le domaine de l'ORL."
     ]
   },
-  "d71": {
-    "id": 71,
+  "d69": {
+    "id": 69,
     "hid": 1,
     "name": "Dr Gaurav Dixit",
     "post": "Responsable - Hémato-Oncologie",
@@ -2524,8 +2530,8 @@
       "Membre actif de diverses organisations d'hématologie en Inde et à l'étranger."
     ]
   },
-  "d72": {
-    "id": 72,
+  "d70": {
+    "id": 70,
     "hid": 1,
     "name": "Dr Manju Agarwal",
     "post": "Responsable - Services Médicaux & Présidente - Néphrologie",
@@ -2555,8 +2561,8 @@
       "Membre active de plusieurs sociétés professionnelles, y compris l'American Society of Nephrology, l'International Society of Nephrology, l'Indian Society of Nephrology, l'Indian Society of Organ Transplantation et la Delhi Nephrology Society."
     ]
   },
-  "d73": {
-    "id": 73,
+  "d71": {
+    "id": 71,
     "hid": 1,
     "name": "Dr Varun Mittal",
     "post": "Responsable - Transplantation Rénale & Chef Associé - Uro-Oncologie & Chirurgie Robotic (Unité I)",
@@ -2596,8 +2602,8 @@
       "Présenté des articles de recherche, affiches et vidéos chirurgicales lors de conférences nationales et internationales en urologie et transplantation d'organes."
     ]
   },
-  "d74": {
-    "id": 74,
+  "d72": {
+    "id": 72,
     "hid": 1,
     "name": "Dr Paritosh Gupta",
     "post": "Responsable",
@@ -2645,8 +2651,8 @@
       "Dr. Gupta est un membre actif de divers comités, y compris les comités de Transplantation Rénale et de Contrôle des Infections, et a contribué au bon fonctionnement des salles d'opération."
     ]
   },
-  "d75": {
-    "id": 75,
+  "d73": {
+    "id": 73,
     "hid": 1,
     "name": "Dr Sanjay Sarup",
     "post": "Responsable – Orthopédie (Unité-II) et Chef – Orthopédie Pédiatrique & Chirurgie de la Colonne Vertébrale",
@@ -2681,8 +2687,8 @@
       "Ses intérêts particuliers incluent les dislocations congénitales de la hanche, la déformation du pied bot et la correction de la scoliose."
     ]
   },
-  "d77": {
-    "id": 77,
+  "d74": {
+    "id": 74,
     "hid": 1,
     "name": "Dr Renu Sehgal",
     "post": "Présidente - Département d'Obstétrique et de Gynécologie",
@@ -2727,8 +2733,8 @@
       "Elle a contribué à de nombreux articles, présentations et publications dans des revues indexées et a été invitée en tant que membre du corps professoral/conférencière à diverses conférences, ateliers et séminaires."
     ]
   },
-  "d78": {
-    "id": 78,
+  "d75": {
+    "id": 75,
     "hid": 1,
     "name": "Dr Amit Kumar Chaurasia",
     "post": "Chef Cath Lab & TAVI (Unité I)",
@@ -2775,8 +2781,8 @@
       "Dr. Chaurasia est impliqué dans la formation et le mentorat de médecins dans ces procédures tant au niveau national qu'international et a réalisé plus de 10 000 procédures cardiaques."
     ]
   },
-  "d79": {
-    "id": 79,
+  "d76": {
+    "id": 76,
     "hid": 1,
     "name": "Dr Kuldeep Arora",
     "post": "Responsable d'Unité & Chef Cath Lab (Unité II)",
@@ -2812,8 +2818,8 @@
       "Il est également axé sur l'augmentation de la sensibilisation du public aux maladies cardiaques."
     ]
   },
-  "d80": {
-    "id": 80,
+  "d77": {
+    "id": 77,
     "hid": 1,
     "name": "Dr Sameer Mehrotra",
     "post": "Responsable Unité - Cardiologie Interventionnelle & Electrophysiologie",
@@ -2849,8 +2855,8 @@
       "Il a publié de nombreux articles de recherche dans des revues nationales et internationales."
     ]
   },
-  "d81": {
-    "id": 81,
+  "d78": {
+    "id": 78,
     "hid": 1,
     "name": "Dr Sushant Srivastava",
     "post": "Président du Transplantation Cardiaque et Pulmonaire",
@@ -2886,8 +2892,8 @@
       "Dr. Srivastava a un palmarès remarquable dans les procédures pionnières telles que l'implantation de valves sans points et le CABG éveillé, et a fait des contributions significatives à la thérapie endovasculaire et à la chirurgie des malformations cardiaques congénitales."
     ]
   },
-  "d82": {
-    "id": 82,
+  "d79": {
+    "id": 79,
     "hid": 1,
     "name": "Dr Aseem Srivastav",
     "post": "Chef - Chirurgie Cardiaque Pédiatrique",
@@ -2942,8 +2948,8 @@
       "Il est renommé pour sa vaste expérience en opérations reconstructives cardiaques pour les nouveau-nés et les nourrissons et est connu pour son fort plaidoyer en faveur des techniques de réparation corrective précoce."
     ]
   },
-  "d83": {
-    "id": 83,
+  "d80": {
+    "id": 80,
     "hid": 1,
     "name": "Dr Nidhi Rawal",
     "post": "Chef - Cardiologie Pédiatrique",
@@ -2986,8 +2992,8 @@
       "Elle a un fort intérêt pour la recherche, participant régulièrement aux conférences et CMEs, et a de nombreuses publications dans des revues nationales et internationales."
     ]
   },
-  "d84": {
-    "id": 84,
+  "d81": {
+    "id": 81,
     "hid": 1,
     "name": "Dr Rajiv Sharma",
     "post": "Responsable – Radiologie Interventionnelle",
@@ -3023,8 +3029,8 @@
       "Administrateur qualifié, ayant organisé plusieurs CMEs."
     ]
   },
-  "d85": {
-    "id": 85,
+  "d82": {
+    "id": 82,
     "hid": 1,
     "name": "Dr Parul Prakash",
     "post": "Responsable - Médecine Reproductive (Unité I)",
@@ -3060,8 +3066,8 @@
       "Spécialiste en chirurgies endoscopiques améliorant la fertilité, y compris la laparoscopie et l'hystéroscopie."
     ]
   },
-  "d86": {
-    "id": 86,
+  "d83": {
+    "id": 83,
     "hid": 1,
     "name": "Dr Rajiv Yadav",
     "post": "Président de l'Urologie et Responsable de l'Urologie Oncologique et Chirurgie Robotic",
@@ -3097,8 +3103,8 @@
       "Co-investigateur dans la subvention de recherche R01 de l'Institut National de la Santé, USA."
     ]
   },
-  "d87": {
-    "id": 87,
+  "d84": {
+    "id": 84,
     "hid": 1,
     "name": "Dr Vipul Nanda",
     "post": "Responsable - Chirurgie Plastique et Esthétique",
@@ -3165,8 +3171,8 @@
       "Pratique avec une philosophie d'‘Underpromise and Overdeliver’, se concentrant sur la minimisation du temps de récupération pour les patients de chirurgie esthétique."
     ]
   },
-  "d88": {
-    "id": 88,
+  "d85": {
+    "id": 85,
     "hid": 1,
     "name": "Dr Pawan Rawal",
     "post": "Gastroentérologie",
@@ -3205,8 +3211,8 @@
       "Engagé dans l'enseignement et la formation, contribuant de manière significative à l'éducation du personnel médical et paramédical."
     ]
   },
-  "d89": {
-    "id": 89,
+  "d86": {
+    "id": 86,
     "hid": 1,
     "name": "Dr Kapil Kochar",
     "post": "Responsable (Unité II)",
@@ -3241,8 +3247,8 @@
       "Impliqué activement dans le mentorat et le soutien au développement d'unités laparoscopiques dans divers états en Inde."
     ]
   },
-  "d90": {
-    "id": 90,
+  "d87": {
+    "id": 87,
     "hid": 1,
     "name": "Dr Kapil Jamwal",
     "post": "Gastroentérologie",
@@ -3271,8 +3277,8 @@
       "Membre de la Société Indienne de Gastroentérologie."
     ]
   },
-  "d91": {
-    "id": 91,
+  "d88": {
+    "id": 88,
     "hid": 1,
     "name": "Dr Nitin Goel",
     "post": "Chirurgie Pédiatrique",
@@ -3299,8 +3305,8 @@
       "Actif dans les initiatives de sensibilisation médicale et de santé rurale."
     ]
   },
-  "d92": {
-    "id": 92,
+  "d89": {
+    "id": 89,
     "hid": 1,
     "name": "Dr Sakshi Karkara",
     "post": "Consultant Gastroentérologue et Hépatologue Pédiatrique",
@@ -3331,8 +3337,8 @@
       "Expert dans la gestion de divers troubles gastro-intestinaux et hépatiques pédiatriques, y compris l'omphalocèle, la gastroschisis, l'hernie hiatus, les kystes choledochaux, la maladie hépatique polykystique congénitale, et bien d'autres."
     ]
   },
-  "d93": {
-    "id": 93,
+  "d90": {
+    "id": 90,
     "hid": 1,
     "name": "Dr. Shivanshu Raj Goyal",
     "post": "Consultant Senior",
@@ -3369,8 +3375,8 @@
       "A reçu une formation spécialisée dans les techniques avancées, y compris l'EndoBronchial Ultrasound (EBUS) et le placement de Stents EndoBronchiques."
     ]
   },
-  "d95": {
-    "id": 95,
+  "d91": {
+    "id": 91,
     "hid": 10,
     "name": "Dr. Y K Mishra",
     "post": "Président, Manipal Institute of Cardiac Sciences",
@@ -3413,8 +3419,8 @@
       "A démontré ses compétences chirurgicales à travers des démonstrations de cas en direct lors d'ateliers en Thaïlande, au Bangladesh et au Népal."
     ]
   },
-  "d96": {
-    "id": 96,
+  "d92": {
+    "id": 92,
     "hid": 7,
     "name": "Dr. Sudhir Tyagi",
     "post": "MBBS (KGMC), MS (KGMC) M.Ch Neurochirurgie (AIIMS)",
@@ -3454,8 +3460,8 @@
       "Honoré avec plusieurs prix incluant le prix LEGEND par Times of India en août 2017, le Vishisht Chiktsa Ratna Award par la Delhi Medical Association en juillet 2015, et un rouleau d'honneur par l'Indian Medical Association (South Delhi)."
     ]
   },
-  "d97": {
-    "id": 97,
+  "d93": {
+    "id": 93,
     "hid": 3,
     "name": "Dr. Manoj Miglani",
     "post": "DIRECTEUR PRINCIPAL ORTHOPÉDIQUE",
@@ -3513,8 +3519,8 @@
       "Son engagement à rester à jour avec les avancées en chirurgie spinale lui permet de fournir à ses patients les traitements les plus récents et les plus efficaces."
     ]
   },
-  "d98": {
-    "id": 98,
+  "d94": {
+    "id": 94,
     "hid": 4,
     "name": "Dr. Ashok Seth",
     "post": "PRÉSIDENT DES SCIENCES CARDIAQUES",
@@ -3561,8 +3567,8 @@
       "Dr. Seth est activement impliqué dans l'enseignement et la formation, ayant un impact significatif sur l'éducation en cardiologie tant en Inde qu'internationalement."
     ]
   },
-  "d99": {
-    "id": 99,
+  "d95": {
+    "id": 95,
     "hid": 8,
     "name": "Dr. Subhash Chandra",
     "post": "Président - Cardiologie Interventionnelle - Cardiologie & Maladies Cardiaques Structurelles",
@@ -3604,8 +3610,8 @@
       "Il est membre de la National Academy of Medical Sciences et de la Cardiology Society of India."
     ]
   },
-  "d100": {
-    "id": 100,
+  "d96": {
+    "id": 96,
     "hid": 7,
     "name": "Dr. Gaurav Kharya",
     "post": "Hématologiste Pédiatrique",
@@ -3646,8 +3652,8 @@
       "Expérience dans la transplantation de cellules souches pour traiter divers troubles sanguins et maladies immunologiques. Le Dr Kharya a réalisé plus de 600 transplantations de moelle osseuse et est connu pour ses procédures pionnières telles que la première transplantation de moelle osseuse haplo-identique pour la drépanocytose en Inde."
     ]
   },
-  "d101": {
-    "id": 101,
+  "d97": {
+    "id": 97,
     "hid": 4,
     "name": "Dr. K S Iyer",
     "post": "DIRECTEUR EXÉCUTIF CHIRURGIE CARDIAQUE PÉDIATRIQUE VASCULAIRE",
@@ -3690,8 +3696,8 @@
       "Il est également impliqué dans des activités caritatives, notamment le programme 'Gift of Life' de Rotary International."
     ]
   },
-  "d102": {
-    "id": 102,
+  "d98": {
+    "id": 98,
     "hid": 4,
     "name": "Dr. Z S Meharwal",
     "post": "DIRECTEUR EXÉCUTIF CHIRURGIE CARDIAQUE VASCULAIRE",
@@ -3730,8 +3736,8 @@
       "Parmi ses réalisations notables, on trouve la réception d'un Prix de Citation du Président de l'Inde, le Saharanpur Aditya Samman, et son entrée dans le Limca Book of Records pour avoir réalisé un CABG sur le plus vieux patient, un homme de 94 ans."
     ]
   },
-  "d103": {
-    "id": 103,
+  "d99": {
+    "id": 99,
     "hid": 7,
     "name": "Dr. Bhaba Nanda Das",
     "post": "Chef",
@@ -3775,8 +3781,8 @@
       "Le Dr Das a réalisé plus de 20 000 chirurgies cardiaques et gère actuellement environ 800 cas par an."
     ]
   },
-  "d104": {
-    "id": 104,
+  "d100": {
+    "id": 100,
     "hid": 6,
     "name": "Dr. Arun Saroha",
     "post": "Directeur Senior - Neurochirurgie, Saket et Gurgaon & Responsable - Neurochirurgie, Gurgaon",
@@ -3807,8 +3813,8 @@
       "A réalisé plus de 8000 chirurgies réussies."
     ]
   },
-  "d105": {
-    "id": 105,
+  "d101": {
+    "id": 101,
     "hid": 2,
     "name": "Dr. Hemant Sharma",
     "post": "Président - Département de Traumatisme et Orthopédie & Remplacement de Joint",
@@ -3839,8 +3845,8 @@
       "Intérêt particulier pour les hanches des jeunes adultes, la dysplasie du développement de la hanche (DDH), la maladie de cellulaire sickle, la chirurgie de préservation du genou et les blessures sportives de la hanche et du genou."
     ]
   },
-  "d106": {
-    "id": 106,
+  "d102": {
+    "id": 102,
     "hid": 2,
     "name": "Dr. Rajesh Verma",
     "post": "Directeur Associé - Chirurgie Orthopédique de la Colonne Vertébrale",
@@ -3872,8 +3878,8 @@
       "Enseignant pour les étudiants de troisième cycle et a donné des conférences sur des plateformes nationales et internationales."
     ]
   },
-  "d107": {
-    "id": 107,
+  "d103": {
+    "id": 103,
     "hid": 1,
     "name": "Dr. Giriraj Singh Bora",
     "post": "Chef du Département de Chirurgie HPB et Transplantation Hépatique à l'Hôpital Artemis",
@@ -3900,8 +3906,8 @@
       "Il a une vaste expérience dans la gestion des conditions gastro-intestinales complexes et la réalisation d'interventions chirurgicales avancées."
     ]
   },
-  "d108": {
-    "id": 108,
+  "d104": {
+    "id": 104,
     "hid": 6,
     "name": "Dr Subhash Gupta",
     "post": "Président - Centre des Sciences du Foie et des Voies Biliaires",
@@ -3929,8 +3935,8 @@
       "Il a rejoint Max Healthcare en janvier 2017 et apporte plus de 30 ans d'expertise en Chirurgie Gastro-Intestinale, Transplantation Hépatique et Oncologie Hépatopancréatique."
     ]
   },
-  "d109": {
-    "id": 109,
+  "d105": {
+    "id": 105,
     "hid": 3,
     "name": "Dr. (Col) Manjinder Sandhu",
     "post": "CONSULTANT CARDIOLOGIE",
@@ -3961,8 +3967,8 @@
       "Il a récemment terminé son Master en Administration de la Santé de l'Université Walden, USA."
     ]
   },
-  "d110": {
-    "id": 110,
+  "d106": {
+    "id": 106,
     "hid": 10,
     "name": "Dr. Sanjay Gogoi",
     "post": "Directeur Principal - Urologie, Transplantation Rénale & Uro-Oncologie",
@@ -3993,8 +3999,8 @@
       "Son dévouement à traiter les cas difficiles et à offrir des résultats optimaux lui a valu une reconnaissance de la part des pairs et des patients."
     ]
   },
-  "d111": {
-    "id": 111,
+  "d107": {
+    "id": 107,
     "hid": 9,
     "name": "Dr. Sudhir Dubey",
     "post": "Directeur",
@@ -4023,8 +4029,8 @@
       "Son travail innovant dans la chirurgie des tumeurs cérébrales a obtenu une reconnaissance internationale."
     ]
   },
-  "d112": {
-    "id": 112,
+  "d108": {
+    "id": 108,
     "hid": 6,
     "name": "Dr. Kulbhushan Singh Dagar",
     "post": "Directeur Principal, Chirurgien en Chef & Responsable - Chirurgie Cardiaque Néonatale et Congénitale",

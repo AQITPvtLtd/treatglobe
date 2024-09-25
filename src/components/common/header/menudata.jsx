@@ -11,7 +11,7 @@ export const menu = [
     newTab: true,
     path: "/about",
   },
-  // { id: 4, title: "navbar:doctors", newTab: true, path: "/doctors" },
+  { id: 4, title: "navbar:doctors", newTab: true, path: "/doctors" },
   {
     id: 5,
     title: "navbar:hospitals",

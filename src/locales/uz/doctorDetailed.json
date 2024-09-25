@@ -819,7 +819,7 @@
     "id": 25,
     "hid": 3,
     "name": "Dr. Vivek Vij",
-    "post": "DIREKTOR JIYDA TRANSPANT",
+    "post": "Rais – Jigar Ko‘chirib O‘tkazish va Gepato-Biliar Ilm",
     "image": "d3.jpg",
     "experience": "15+",
     "top": true,
@@ -859,7 +859,7 @@
   "d26": {
     "id": 26,
     "hid": 3,
-    "name": "Dr. Parveen Gupta",
+    "name": "Dr. Praveen Gupta",
     "post": "PRINSIPAL DIREKTOR & NEVROLOGIYA BOSHLIQI",
     "image": "d4.jpg",
     "experience": "23+",
@@ -1228,11 +1228,11 @@
       "Fortis Memorial Research Institute, Gurgaon-da Pediatrik Ortopediya bo'yicha Katta Maslahatchi"
     ]
   },
-  "d37": {
-    "id": 37,
+  "d36": {
+    "id": 36,
     "hid": 9,
     "name": "Dr. Naresh Trehan",
-    "post": "Boshqaruvchi va Boshqaruvchi Direktor",
+    "post": "Rais va Boshqaruvchi Direktor - Yurak Jarrohligi",
     "image": "d1.jpg",
     "experience": "50+",
     "top": true,
@@ -1258,11 +1258,11 @@
       "48,000 dan ortiq muvaffaqiyatli ochiq yurak jarrohliklari"
     ]
   },
-  "d38": {
-    "id": 38,
+  "d37": {
+    "id": 37,
     "hid": 9,
     "name": "Dr. Praveen Chandra",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Interventsion Kardiologiyasi",
     "image": "d2.jpg",
     "experience": "",
     "top": false,
@@ -1300,11 +1300,11 @@
       "Nyu-Delhida 2005 va 2006 yillarda AMI kursining Tashkilotchisi va Direktor"
     ]
   },
-  "d39": {
-    "id": 39,
+  "d38": {
+    "id": 38,
     "hid": 9,
     "name": "Dr. Anil Bhan",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Yurak Jarrohligi",
     "image": "d3.jpg",
     "experience": "49+",
     "top": true,
@@ -1331,11 +1331,11 @@
       "15,000 dan ortiq muvaffaqiyatli yurak va vaskulyar jarrohliklarni amalga oshirdi"
     ]
   },
-  "d40": {
-    "id": 40,
+  "d39": {
+    "id": 39,
     "hid": 9,
     "name": "Dr. Arun Garg",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Nevrologiya",
     "image": "d4.png",
     "experience": "33+",
     "top": false,
@@ -1358,11 +1358,11 @@
       "Insultni oldini olish, ta'lim, davolash, reabilitatsiya va tadqiqotlar uchun UMASS, MA, AQSh bilan hamkorlikni rivojlantirdi"
     ]
   },
-  "d41": {
-    "id": 41,
+  "d40": {
+    "id": 40,
     "hid": 9,
     "name": "Dr. Vinay Goyal",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Nevrologiya",
     "image": "d5.png",
     "experience": "32+",
     "top": false,
@@ -1391,11 +1391,11 @@
       "Milliy va xalqaro jurnallarda ko'plab maqolalar va bo'limlar chop etgan"
     ]
   },
-  "d42": {
-    "id": 42,
+  "d41": {
+    "id": 41,
     "hid": 9,
     "name": "Dr. Arvind Kumar",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Jigar transplantatsiyasi",
     "image": "d6.png",
     "experience": "40+",
     "top": false,
@@ -1426,8 +1426,8 @@
       "Timik kasalliklarni jarrohlik bilan davolashda ixtisoslashgan va mamlakatda robotik timusni olib tashlashda eng katta tajribaga ega."
     ]
   },
-  "d43": {
-    "id": 43,
+  "d42": {
+    "id": 42,
     "hid": 9,
     "name": "Dr. Arvinder Singh Soin",
     "post": "Boshqaruvchi",
@@ -1459,8 +1459,8 @@
       "Hindistonda jigar transplantatsiyasini rivojlantirish va ilgari surishda tanilgan."
     ]
   },
-  "d44": {
-    "id": 44,
+  "d43": {
+    "id": 43,
     "hid": 9,
     "name": "Dr. Ashok Kumar Vaid",
     "post": "Boshqaruvchi",
@@ -1495,8 +1495,8 @@
       "Bir nechta peer-reviewed maqolalar muallifi va tibbiyotdagi a'lo darajadagi hissalari uchun tanilgan."
     ]
   },
-  "d45": {
-    "id": 45,
+  "d44": {
+    "id": 44,
     "hid": 9,
     "name": "Dr. Ashok Rajgopal",
     "post": "Guru Boshqaruvchi",
@@ -1540,11 +1540,11 @@
       "Zimmer tomonidan ishlab chiqilgan Persona tizzaq tizimining dizayn jamoasida ishtirok etdi."
     ]
   },
-  "d46": {
-    "id": 46,
+  "d45": {
+    "id": 45,
     "hid": 9,
     "name": "Dr KK Handa",
-    "post": "Boshqaruvchi",
+    "post": "Chairman - ENT, Bosh va bo'yin jarrohligi",
     "image": "d10.png",
     "experience": "27+",
     "top": false,
@@ -1585,11 +1585,11 @@
       "Minimal invaziv to'liq tizzaqni o'zgartirish jarrohliklari uchun patentlangan asboblarni ishlab chiqdi."
     ]
   },
-  "d47": {
-    "id": 47,
+  "d46": {
+    "id": 46,
     "hid": 9,
     "name": "Dr Rajesh Ahlawat",
-    "post": "Guru Boshqaruvchi",
+    "post": "Guruh Raisi - Urologiya, Buqa Transplantatsiyasi, Renal Parvarish",
     "image": "d11.png",
     "experience": "39+",
     "top": false,
@@ -1622,11 +1622,11 @@
       "Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow; Indraprastha Apollo Hospital, Nyu-Delhi; Fortis Hospitals, Nyu-Delhi; va Medanta The Medicity, Gurugramda yuqori hajmdagi Urologiya va Renal Transplantatsiya dasturlarini yaratdi."
     ]
   },
-  "d48": {
-    "id": 48,
+  "d47": {
+    "id": 47,
     "hid": 9,
     "name": "Dr Rajiv Parakh",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Periferik qon tomirlar va endovaskulyar fanlar",
     "image": "d12.png",
     "experience": "38+",
     "top": false,
@@ -1659,11 +1659,11 @@
       "Xalqaro Vaskulyar Jarrohlik Jamiyati, Nyu-York, AQSh (2007) kotibi."
     ]
   },
-  "d49": {
-    "id": 49,
+  "d48": {
+    "id": 48,
     "hid": 9,
     "name": "Dr Rakesh Kumar Khazanchi",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Plastik, estetik va qayta tiklovchi jarrohlik",
     "image": "d13.png",
     "experience": "25+",
     "education": "Fellowship (Mikrojarrohlik) , Mch & (Plastik Jarrohlik) , MS (Jarrohlik) , MBBS",
@@ -1690,11 +1690,11 @@
       "Umumiy jarrohlar uchun Plastik Jarrohlik bo'yicha kitob tahrirchisi va muallifi."
     ]
   },
-  "d50": {
-    "id": 50,
+  "d49": {
+    "id": 49,
     "hid": 9,
     "name": "Dr VP Singh",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Neyroxirurgiya, neyrofanlar",
     "image": "d14.png",
     "experience": "30+",
     "education": "DNB Neyroxirurgiya , MCh Neyroxirurgiya , MBBS",
@@ -1720,11 +1720,11 @@
       "Apollo Hospital, Nyu-Delhi-da katta maslahat beruvchi neyroxirurg."
     ]
   },
-  "d51": {
-    "id": 51,
+  "d50": {
+    "id": 50,
     "hid": 9,
     "name": "Dr Vijay Vohra",
-    "post": "Boshqaruvchi",
+    "post": "Rais - Kritik parvarish",
     "image": "d15.png",
     "experience": "35+",
     "education": "",
@@ -1751,11 +1751,11 @@
       "Journal of Clinical Anaesthesia, Journal of Anaesthesiology and Clinical Pharmacology, Journal of Clinical & Experimental Hepatology uchun muhokamachi."
     ]
   },
-  "d52": {
-    "id": 52,
+  "d51": {
+    "id": 51,
     "hid": 9,
     "name": "Dr Deepak Sarin",
-    "post": "Vitse-Boshqaruvchi",
+    "post": "Boshqaruvchi - Bosh va bo'yin saratoni, qalqonsimon va paratiroid jarrohlik, saratonni parvarish qilish",
     "image": "d16.png",
     "experience": "28+",
     "education": "",
@@ -1781,8 +1781,8 @@
       "2011 yilda Medanta-da Bosh va Bo'yin Jarrohlik bo'limini tashkil etdi."
     ]
   },
-  "d53": {
-    "id": 53,
+  "d52": {
+    "id": 52,
     "hid": 1,
     "name": "Dr. Aditya Gupta",
     "post": "Neyroxirurgiya & CNS Radiosurgery Boshqaruvchisi va Cyberknife Markazi Co-Chief",
@@ -1817,8 +1817,8 @@
       "Medanta Neyroxirurgiya Institutida qo'shimcha direktor, Neyroxirurgiya (2016 yilning o'rtalarigacha)."
     ]
   },
-  "d54": {
-    "id": 54,
+  "d53": {
+    "id": 53,
     "hid": 1,
     "name": "Dr Hitesh Garg",
     "post": "Ortho Spine Jarrohlik Boshqaruvchisi",
@@ -1855,8 +1855,8 @@
       "Qo'shimcha Jarrohlik Fellowship: All India Institute of Medical Sciences, New Delhi"
     ]
   },
-  "d55": {
-    "id": 55,
+  "d54": {
+    "id": 54,
     "hid": 1,
     "name": "Dr. SK Rajan",
     "post": "Neuro Spine Jarrohlik Boshqaruvchisi & Neyroxirurgiya bo'yicha Qo'shimcha Direktor",
@@ -1883,8 +1883,8 @@
       "U ko'plab milliy va xalqaro jurnallarda va kitob bo'limlarida ko'plab nashrlarni muallif va hammuallif sifatida chiqarilgan."
     ]
   },
-  "d56": {
-    "id": 56,
+  "d55": {
+    "id": 55,
     "hid": 1,
     "name": "Dr. Sumit Singh",
     "post": "Boshliq - Neyrologiya",
@@ -1930,8 +1930,8 @@
       "104 ta peer-reviewed jurnal maqolalari va 14 ta kitob bo'limlarini muallifidir."
     ]
   },
-  "d57": {
-    "id": 57,
+  "d56": {
+    "id": 56,
     "hid": 1,
     "name": "Dr. Sumeet Aggarwal",
     "post": "Boshliq - Reumatologiya",
@@ -1972,8 +1972,8 @@
       "Uning klinik diqqat markazi SLE (Lupus), Artrit, Vaskulit, Skleroderma, Miyozit, Retroperitoneal fibroz, Anti-Fosfolipid sindromi, Sarcoidoz, Osteoporoz, Shyogren sindromi, Yoshlar artriti, Gout, Behçet kasalligi va immun tizimning buzilishi bilan bog'liq turli kasalliklarni o'z ichiga oladi."
     ]
   },
-  "d58": {
-    "id": 58,
+  "d57": {
+    "id": 57,
     "hid": 1,
     "name": "Dr. Ramkinkar Jha",
     "post": "Boshliq va Unit Rahbari - Orthopaedics (Unit III)",
@@ -2015,8 +2015,8 @@
       "U ko'plab xalqaro va milliy maqolalar muallifi bo'lib, qo'shimchalar, trauma va sport jarohatlari bo'yicha kitoblarga bo'limlar qo'shgan, shuningdek bir qator milliy va xalqaro konferentsiyalarda asosiy ma'ruzachi bo'lgan."
     ]
   },
-  "d59": {
-    "id": 59,
+  "d58": {
+    "id": 58,
     "hid": 1,
     "name": "Dr. I P S Oberoi",
     "post": "Kuzatuvchi - Ortopediya Dasturi va Boshliq – Robotik Qo'shimcha Almashinish va Arthroskopiya Jarrohlik",
@@ -2056,44 +2056,8 @@
       "Dr. Oberoi xalqaro va milliy konferentsiyalarda muhim ma'ruzachi bo'lib, ko'plab tadqiqotlarni chop etgan."
     ]
   },
-  "d60": {
-    "id": 60,
-    "hid": 1,
-    "name": "Dr Giriraj Bora",
-    "post": "Boshliq - Jigar Transplantatsiyasi va Katta Chirurgiya bo‘yicha Katta Maslahatchi",
-    "image": "d8.jpg",
-    "experience": "22+",
-    "top": false,
-    "speciality": [
-      "Jigar transplantatsiyasida xavfsiz donor jarrohligi",
-      "Jigar saratonlari uchun jigar transplantatsiyasi",
-      "Pankreatik saratonlar uchun Whipple operatsiyasida portal vena qayta qurilishi",
-      "To‘g‘ri ichak saratonlari uchun Ultra Low Anterior Resection (LAR)",
-      "Hollangiokarsinoma uchun jigarni kesish",
-      "Portal gipertenziya uchun shunt jarrohligi",
-      "Gastrointestinal jarrohlikda ilg‘or laparoskopik operatsiyalar",
-      "ABO mos kelmaydigan jigar transplantatsiyalari"
-    ],
-    "training": [
-      "Jigar transplantatsiyasi bo‘yicha malaka oshirish (Indraprastha Apollo Hospital, Delhi)"
-    ],
-    "education": "MBBS (Rajasthan Universiteti), MS (Rajasthan Universiteti), MCh (G B Pant Hospital, Delhi)",
-    "work": [
-      "2013-yil yanvardan beri CLBSda Jigar transplantatsiyasi va HPB jarrohligi bo‘yicha maslahatchi.",
-      "Jigar transplantatsiyalari oldidan donorlarni baholashda CLBSning asosiy jarrohlik guruhining a’zosi.",
-      "Jigar transplantatsiyasi, jigarni kesish, kombinatsiyalangan jigar-boshqaruvchi transplantatsiya va pankreatik jarrohlik (shu jumladan Whipple pankreatoduodenal rezektsiya va surunkali pankreatit uchun jarrohlik) bo‘yicha ixtisoslashgan."
-    ],
-    "description": [
-      "Dr. Giriraj Bora Jigar transplantatsiyasi / HPB dasturidagi eng yosh maslahatchilardan biridir.",
-      "U J L N Tibbiyot Kollejida (Ajmer) tugatdi va umumiy jarrohlikda ta’lim oldi, so‘ngra Lucknowdagi SGPGIMSda GI jarrohligi bo‘yicha Katta Rezident sifatida ishladi.",
-      "U G B Pant Hospital, Delhi-da GI jarrohligi bo‘yicha MCh ni tugatdi va Jaipurda GI jarroh sifatida ishladi.",
-      "Dr. Bora 2011-yilda CLBSda Jigar transplantatsiyasi / HPB jarrohligi bo‘yicha malaka oshirish uchun qo‘shildi va keng ko‘lamli ta’lim oldi.",
-      "Uning tadqiqotlari jigar transplantatsiyasi davomida gemodinamik o‘zgarishlar va LDLTda IVCni kesish vaqtidagi o‘zgarishlarga qaratilgan.",
-      "U Jigar transplantatsiyasi / GI jarrohligi sohasida nashr etilgan va milliy va xalqaro konferensiyalarda, shu jumladan San-Fransisko (2012) va Sidneydagi ILTS konferensiyalarida (2013) taqdimotlar qilgan."
-    ]
-  },
-  "d61": {
-    "id": 61,
+  "d59": {
+    "id": 59,
     "hid": 1,
     "name": "Dr Parveen Yadav",
     "post": "Boshliq va Katta Maslahatchi - Toraks Jarrohligi va Jarroh Onkologiya",
@@ -2132,8 +2096,8 @@
       "U havo yo‘llari (traxe) jarrohligiga alohida e’tibor qaratadi va empyema, tuberkulyoz, bronxopleural fistula, bulloz kasallik, mediastinal massa, timomalar va ko‘krak qafasi o‘smasi kabi murakkab bening o‘pka va pleural kasalliklarni muvaffaqiyatli davolagan."
     ]
   },
-  "d62": {
-    "id": 62,
+  "d60": {
+    "id": 60,
     "hid": 1,
     "name": "Dr Deepak Jha",
     "post": "Boshliq - Ko‘krak Jarrohligi va Katta Maslahatchi: Jarroh Onkologiya",
@@ -2177,8 +2141,8 @@
       "Uning mutaxassisligi ko‘krakni saqlash va qayta qurish jarrohligi, Nipple sparing mastektomiya, Radiologik Ko‘krak Jarrohligi (ROLL), Sentinel Biopsiya, Lymphedema oldini olish uchun Arm Reverse Mapping, Ko‘krakni Saqlash va Onkoplastika Jarrohligi, va DIEP Erkin Flap Qayta Qurish."
     ]
   },
-  "d63": {
-    "id": 63,
+  "d61": {
+    "id": 61,
     "hid": 1,
     "name": "Dr Tapan Singh Chauhan",
     "post": "Katta Maslahatchi - Jarroh Onkologiya, Robot Jarrohlik, GI va HPB, Ginekologiya va Peritoneal Yuzalar Onkologiyasi",
@@ -2225,8 +2189,8 @@
       "Dr. Tapan bir nechta nufuzli jurnallarda maqolalar nashr etdi va turli milliy va xalqaro konferensiyalarda ma’ruzalar qildi."
     ]
   },
-  "d64": {
-    "id": 64,
+  "d62": {
+    "id": 62,
     "hid": 1,
     "name": "Dr Priya Tiwari",
     "post": "Tibbiy Onkologiya bo‘yicha Rahbar",
@@ -2266,8 +2230,8 @@
       "Uning maqsadi, saraton bemorlari bilan bog‘liq barcha muhim masalalarni hal qiluvchi onkologiya parvarish modelini rivojlantirishdir."
     ]
   },
-  "d65": {
-    "id": 65,
+  "d63": {
+    "id": 63,
     "hid": 1,
     "name": "Dr Mukesh Patekar",
     "post": "Tibbiy Onkologiya bo‘yicha Bo‘lim Boshlig‘i",
@@ -2311,8 +2275,8 @@
       "U ko‘plab milliy va xalqaro ilmiy nashrlarni amalga oshirdi."
     ]
   },
-  "d66": {
-    "id": 66,
+  "d64": {
+    "id": 64,
     "hid": 1,
     "name": "Dr Vikram Barua Kaushik",
     "post": "Urologiya, Buyrak Transplantatsiyasi Dasturi & Robot Jarrohlik Boshlig‘i (II Bo‘lim)",
@@ -2351,11 +2315,11 @@
       "Dr. Vikram 2009 yil sentyabr oyidan beri Artemis bilan Urologiya bo‘yicha maslahat beruvchi sifatida ishlamoqda, uning asosiy qiziqishlari Endo-urologiya, Laproskopik Urologiya va Buyrak Transplantatsiyasi."
     ]
   },
-  "d67": {
-    "id": 67,
+  "d65": {
+    "id": 65,
     "hid": 1,
     "name": "Dr Ashu Jain",
-    "post": "Rahbar",
+    "post": "Boshliq - Og'riq tibbiyoti va palyativ parvarish",
     "image": "d15.jpg",
     "experience": "24+",
     "top": false,
@@ -2382,8 +2346,8 @@
       "Dr. Jain turli xil surunkali og‘riqni, jumladan, saraton og‘rig‘i, bel og‘rig‘i, bo‘g‘im og‘rig‘i, bo‘yin og‘rig‘i, nevropatik og‘riq va neuralgiyalar, yuz og‘rig‘i va bosh og‘rig‘ini tibbiy boshqarishda yaxshi bilimga ega."
     ]
   },
-  "d68": {
-    "id": 68,
+  "d66": {
+    "id": 66,
     "hid": 1,
     "name": "Dr Biswajyoti Hazarika",
     "post": "Boshqaruvchi - Bosh va Bo‘yinning Jarrohligi",
@@ -2425,8 +2389,8 @@
       "Dr. Hazarika milliy va xalqaro tibbiy jurnallarda ko‘plab nashrlarni amalga oshirgan va Otolaryngology va Bosh va Bo‘yinning Jarrohligi Atlasida bo‘limlarni mualliflik qilgan."
     ]
   },
-  "d69": {
-    "id": 69,
+  "d67": {
+    "id": 67,
     "hid": 1,
     "name": "Dr. Shashidhar TB",
     "post": "Boshqaruvchi - Jarrohlik (ENT)",
@@ -2472,11 +2436,11 @@
       "Dr. Shashidhar tinch tabiat va ijobiy munosabatlari bilan tanilgan, boshqa shifokorlar qabul qilmagan holatlarni o‘z zimmasiga olishadi."
     ]
   },
-  "d70": {
-    "id": 70,
+  "d68": {
+    "id": 68,
     "hid": 1,
     "name": "Dr Dilpreet Bajwa",
-    "post": "ENT",
+    "post": "Katta maslahatchi - LOR",
     "image": "d18.jpg",
     "experience": "12+",
     "top": false,
@@ -2526,8 +2490,8 @@
       "ENT sohasida fellowlarni mentor qiladi."
     ]
   },
-  "d71": {
-    "id": 71,
+  "d69": {
+    "id": 69,
     "hid": 1,
     "name": "Dr Gaurav Dixit",
     "post": "Yagona boshqaruvchi - Gematologiya onkologiyasi",
@@ -2559,8 +2523,8 @@
       "Hindistonda va chet elda turli gematologiya tashkilotlarining faol a'zosi."
     ]
   },
-  "d72": {
-    "id": 72,
+  "d70": {
+    "id": 70,
     "hid": 1,
     "name": "Dr Manju Agarwal",
     "post": "Tibbiy xizmatlar boshlig'i va Nephrologiya raisi",
@@ -2589,8 +2553,8 @@
       "Amerika Nephrologiya Jamiyati, Xalqaro Nephrologiya Jamiyati, Hindiston Nephrologiya Jamiyati, Hindiston Organ Transplantatsiya Jamiyati va Delhi Nephrologiya Jamiyatining faol a'zosi."
     ]
   },
-  "d73": {
-    "id": 73,
+  "d71": {
+    "id": 71,
     "hid": 1,
     "name": "Dr Varun Mittal",
     "post": "Buyrak Transplantatsiyasi bo'yicha boshqaruvchi va Uro-Onkologiya & Robotik Jarrohlik (I bo'lim) bo'yicha yordamchi boshliq",
@@ -2629,8 +2593,8 @@
       "Milliy va xalqaro urologik va organ transplantatsiyasi konferensiyalarida tadqiqot maqolalari, plakatlar va jarrohlik videolarini taqdim etgan."
     ]
   },
-  "d74": {
-    "id": 74,
+  "d72": {
+    "id": 72,
     "hid": 1,
     "name": "Dr Paritosh Gupta",
     "post": "Boshliq",
@@ -2679,8 +2643,8 @@
       "Turli qo'mitalarda faol a'zo bo'lib, Renal Transplantatsiya va Infektsiya Nazorat qo'mitalariga qo'shgan hissasi bilan mashhur."
     ]
   },
-  "d75": {
-    "id": 75,
+  "d73": {
+    "id": 73,
     "hid": 1,
     "name": "Dr Sanjay Sarup",
     "post": "Boshqaruvchi – Ostoetika (Unit-II) va Boshqaruvchi – Bolalar Ostoetikasi va Umurtqa Jarrohligi",
@@ -2714,8 +2678,8 @@
       "Uning maxsus qiziqishlari Tug'ma Hip Dislokatsiyalari, Club Foot Deformatsiyasi va Skoliozni tuzatishdir."
     ]
   },
-  "d77": {
-    "id": 77,
+  "d74": {
+    "id": 74,
     "hid": 1,
     "name": "Dr Renu Sehgal",
     "post": "Obstetrika va Ginekologiya Bo'limi Raisi",
@@ -2759,8 +2723,8 @@
       "Indexlangan jurnallarda ko'plab maqolalar, taqdimotlar va nashrlarni yaratgan va turli konferensiyalar, seminarlar va seminarlar uchun fakultet/speaker sifatida taklif etilgan."
     ]
   },
-  "d78": {
-    "id": 78,
+  "d75": {
+    "id": 75,
     "hid": 1,
     "name": "Dr Amit Kumar Chaurasia",
     "post": "Boshqaruvchi Cath Lab & TAVI (Unit I)",
@@ -2807,8 +2771,8 @@
       "Dr. Chaurasia ushbu protseduralar bo'yicha milliy va xalqaro darajada doktorlarni o'qitish va mentorlash bilan shug'ullanadi va 10,000 dan ortiq yurak protseduralarini amalga oshirgan."
     ]
   },
-  "d79": {
-    "id": 79,
+  "d76": {
+    "id": 76,
     "hid": 1,
     "name": "Dr Kuldeep Arora",
     "post": "Unit Head & Chief Cath Lab (Unit II)",
@@ -2843,8 +2807,8 @@
       "U shuningdek yurak kasalliklari haqida jamoatchilikni xabardor qilishga katta e'tibor qaratadi."
     ]
   },
-  "d80": {
-    "id": 80,
+  "d77": {
+    "id": 77,
     "hid": 1,
     "name": "Dr Sameer Mehrotra",
     "post": "Interventiv Kardiologiya va Elektrofiziologiya Bo'limi Boshlig'i",
@@ -2879,8 +2843,8 @@
       "U ko'plab milliy va xalqaro jurnallarda ilmiy maqolalar nashr qilgan."
     ]
   },
-  "d81": {
-    "id": 81,
+  "d78": {
+    "id": 78,
     "hid": 1,
     "name": "Dr Sushant Srivastava",
     "post": "Yurak va O'pka Transplantatsiyasi Bo'limi Raisi",
@@ -2915,8 +2879,8 @@
       "Dr. Srivastava stitch-less klapan implantatsiyasi va awake CABG kabi innovatsion protseduralarda yuqori natijalarga erishgan va endovaskulyar terapiya va tug'ma yurak nuqsonlari jarrohligiga katta hissa qo'shgan."
     ]
   },
-  "d82": {
-    "id": 82,
+  "d79": {
+    "id": 79,
     "hid": 1,
     "name": "Dr Aseem Srivastav",
     "post": "Boshqaruvchi - Pediatrik Yurak Jarrohligi",
@@ -2970,8 +2934,8 @@
       "U yangi tug'ilganlar va chaqaloqlar uchun rekonstruktiv yurak operatsiyalarida katta tajribaga ega va erta to'g'ri tuzatish texnikalarini kuchli himoya qiladi."
     ]
   },
-  "d83": {
-    "id": 83,
+  "d80": {
+    "id": 80,
     "hid": 1,
     "name": "Dr Nidhi Rawal",
     "post": "Boshliq - Pediatrik Kardiologiya",
@@ -3014,8 +2978,8 @@
       "Tadqiqotga katta qiziqishi bor, konferensiyalar va CME’larda muntazam qatnashadi va ko'plab milliy va xalqaro jurnallarda nashr qilgan."
     ]
   },
-  "d84": {
-    "id": 84,
+  "d81": {
+    "id": 81,
     "hid": 1,
     "name": "Dr Rajiv Sharma",
     "post": "Boshqaruvchi - Interventiv Radiologiya",
@@ -3051,8 +3015,8 @@
       "Bir nechta CME’larni tashkil etishda malakali administrator."
     ]
   },
-  "d85": {
-    "id": 85,
+  "d82": {
+    "id": 82,
     "hid": 1,
     "name": "Dr Parul Prakash",
     "post": "Boshqaruvchi - Reproduktiv Tibbiyot (Unit I)",
@@ -3088,8 +3052,8 @@
       "Fertillikni oshirish uchun laparoskopiya va histeroskopiya kabi endoskopik jarrohliklarda mutaxassis."
     ]
   },
-  "d86": {
-    "id": 86,
+  "d83": {
+    "id": 83,
     "hid": 1,
     "name": "Dr Rajiv Yadav",
     "post": "Urologiya Raisi va Urologik Onkologiya va Robotik Jarrohlik Boshlig'i",
@@ -3125,8 +3089,8 @@
       "AQSh Milliy Salomatlik Instituti tomonidan R01 tadqiqot grantining hamkori."
     ]
   },
-  "d87": {
-    "id": 87,
+  "d84": {
+    "id": 84,
     "hid": 1,
     "name": "Dr Vipul Nanda",
     "post": "Boshqaruvchi - Kosmetik va Plastik Jarrohlik",
@@ -3193,8 +3157,8 @@
       "Kosmetik jarrohlik bemorlarining davolanish vaqtini qisqartirishga qaratilgan ‘Underpromise and Overdeliver’ falsafasi bilan amaliyot qiladi."
     ]
   },
-  "d88": {
-    "id": 88,
+  "d85": {
+    "id": 85,
     "hid": 1,
     "name": "Dr Pawan Rawal",
     "post": "Gastroenterologiya",
@@ -3233,8 +3197,8 @@
       "O'qitish va ta'limga sodiq, tibbiy va tibbiy yordam xodimlarini tayyorlashga katta hissa qo'shadi."
     ]
   },
-  "d89": {
-    "id": 89,
+  "d86": {
+    "id": 86,
     "hid": 1,
     "name": "Dr Kapil Kochar",
     "post": "Boshqaruvchi (Unit II)",
@@ -3269,8 +3233,8 @@
       "Hindistondagi turli shtatlarda laproskopik bo'limlarni rivojlantirishda mentorlik va qo'llab-quvvatlash bilan faol shug'ullanadi."
     ]
   },
-  "d90": {
-    "id": 90,
+  "d87": {
+    "id": 87,
     "hid": 1,
     "name": "Dr Kapil Jamwal",
     "post": "Gastroenterologiya",
@@ -3299,8 +3263,8 @@
       "Hindiston Gastroenterologiya Jamiyatining a'zosi."
     ]
   },
-  "d91": {
-    "id": 91,
+  "d88": {
+    "id": 88,
     "hid": 1,
     "name": "Dr Nitin Goel",
     "post": "Pediatrik Jarrohlik",
@@ -3327,8 +3291,8 @@
       "Tibbiy chiqish va qishloq salomatligi tashabbuslarida faol."
     ]
   },
-  "d92": {
-    "id": 92,
+  "d89": {
+    "id": 89,
     "hid": 1,
     "name": "Dr Sakshi Karkara",
     "post": "Pediatrik Gastroenterolog va Hepatolog",
@@ -3359,8 +3323,8 @@
       "Omfalosel, gastroskisis, hiatus herniya, choledochal cistlar, tug'ma polikistoz jigar kasalligi va boshqa ko'plab kasalliklarni boshqarishda mutaxassis."
     ]
   },
-  "d93": {
-    "id": 93,
+  "d90": {
+    "id": 90,
     "hid": 1,
     "name": "Dr. Shivanshu Raj Goyal",
     "post": "Katta Konsultant",
@@ -3397,8 +3361,8 @@
       "Endobronxial Ultrasovush (EBUS) va Endobronxial Stent joylashtirish kabi ilg'or texnikalar bo'yicha maxsus tayyorgarlik."
     ]
   },
-  "d95": {
-    "id": 95,
+  "d91": {
+    "id": 91,
     "hid": 10,
     "name": "Dr. Y K Mishra",
     "post": "Chairman, Manipal Institute of Cardiac Sciences",
@@ -3441,8 +3405,8 @@
       "Tayland, Bangladesh va Nepalda o'z jarrohlik mahoratini jonli holatda namoyish qilgan."
     ]
   },
-  "d96": {
-    "id": 96,
+  "d92": {
+    "id": 92,
     "hid": 7,
     "name": "Dr. Sudhir Tyagi",
     "post": "MBBS (KGMC), MS (KGMC) M.Ch Neurosurgery (AIIMS)",
@@ -3476,8 +3440,8 @@
       "2017 yil avgustda Times of India tomonidan LEGEND mukofoti, 2015 yil iyulda Delhi Medical Association tomonidan Vishisht Chiktsa Ratna mukofoti va Indian Medical Association (South Delhi) tomonidan Scroll of Honour bilan taqdirlangan."
     ]
   },
-  "d97": {
-    "id": 97,
+  "d93": {
+    "id": 93,
     "hid": 3,
     "name": "Dr. Manoj Miglani",
     "post": "PRINCIPAL DIRECTOR ORTHOPAEDICS",
@@ -3535,8 +3499,8 @@
       "Yangi orqa miya jarrohligi rivojlanishlarini kuzatib boradi va bemorlariga eng zamonaviy va samarali davolashlarni taklif qiladi."
     ]
   },
-  "d98": {
-    "id": 98,
+  "d94": {
+    "id": 94,
     "hid": 4,
     "name": "Dr. Ashok Seth",
     "post": "CHAIRMAN CARDIAC SCIENCE",
@@ -3583,8 +3547,8 @@
       "O'qitish va treningda faol ishtirok etgan, Hindistonda va xalqaro darajada kardiologiya ta'limiga katta ta'sir ko'rsatgan."
     ]
   },
-  "d99": {
-    "id": 99,
+  "d95": {
+    "id": 95,
     "hid": 8,
     "name": "Dr. Subhash Chandra",
     "post": "Chairman - Interventional Cardiology - Cardiology & Structural Heart Disease",
@@ -3626,8 +3590,8 @@
       "Milliy Tibbiyot Fanlari Akademiyasi va Kardiologiya Jamiyati a'zosi."
     ]
   },
-  "d100": {
-    "id": 100,
+  "d96": {
+    "id": 96,
     "hid": 7,
     "name": "Dr. Gaurav Kharya",
     "post": "Bolalar Gematologiyasi Mutaxassisi",
@@ -3668,8 +3632,8 @@
       "Turli qon kasalliklari va immunologik kasalliklarni davolashda stem hujayralarni transplantatsiya qilish tajribasiga ega. Dr. Kharya 600 dan ortiq suyak iligi transplantatsiyalarini amalga oshirgan va Hindistonda sickle cell kasalligi uchun birinchi haploidentical suyak iligi transplantatsiyasini amalga oshirgan."
     ]
   },
-  "d101": {
-    "id": 101,
+  "d97": {
+    "id": 97,
     "hid": 4,
     "name": "Dr. K S Iyer",
     "post": "IJTIMOIY DIREKTOR PAEDIATRIC CARDIO THORACIC VASCULAR SURGERY",
@@ -3712,8 +3676,8 @@
       "Xayriya faoliyatlarida, ayniqsa Rotary International'ning 'Gift of Life' dasturida ishtirok etadi."
     ]
   },
-  "d102": {
-    "id": 102,
+  "d98": {
+    "id": 98,
     "hid": 4,
     "name": "Dr. Z S Meharwal",
     "post": "IJTIMOIY DIREKTOR CARDIO THORACIC VASCULAR SURGERY",
@@ -3752,8 +3716,8 @@
       "Muayyan yutuqlari Prezidentdan mukofot, Saharanpur Aditya Samman, va 94 yoshdagi bemorga CABG amalga oshirganligi uchun Limca Kitobiga kiritilgan."
     ]
   },
-  "d103": {
-    "id": 103,
+  "d99": {
+    "id": 99,
     "hid": 7,
     "name": "Dr. Bhaba Nanda Das",
     "post": "Boshliq",
@@ -3797,8 +3761,8 @@
       "Dr. Das 20,000 dan ortiq yurak jarrohliklarini amalga oshirdi va hozirgi kunda yiliga taxminan 800 ta ishni olib boradi."
     ]
   },
-  "d104": {
-    "id": 104,
+  "d100": {
+    "id": 100,
     "hid": 6,
     "name": "Dr. Arun Saroha",
     "post": "Seniork Diriktor - Neyroxirurgiya, Saket va Gurgaon & Neyroxirurgiya bo‘yicha boshqaruvchi, Gurgaon",
@@ -3831,8 +3795,8 @@
       "8000 dan ortiq muvaffaqiyatli jarrohliklarni amalga oshirdi."
     ]
   },
-  "d105": {
-    "id": 105,
+  "d101": {
+    "id": 101,
     "hid": 2,
     "name": "Dr. Hemant Sharma",
     "post": "Jangovar Tizim & Ortopediya va Qo‘shma Qayta O‘rnatish bo‘yicha rais",
@@ -3862,8 +3826,8 @@
       "Tiz va tizza sport jarohatlarida, yosh kattalar sonida, rivojlanish displaziya (DDH), sickle hujayra kasalligi va bo‘yin qo‘llash jarrohligida maxsus qiziqish."
     ]
   },
-  "d106": {
-    "id": 106,
+  "d102": {
+    "id": 102,
     "hid": 2,
     "name": "Dr. Rajesh Verma",
     "post": "Ortapeedik Orqa Miya Jarrohligi bo‘yicha Assotsiatsiya Direktori",
@@ -3892,8 +3856,8 @@
       "Harakatni saqlash va dinamik orqa miya jarrohliklariga ixtisoslashgan."
     ]
   },
-  "d107": {
-    "id": 107,
+  "d103": {
+    "id": 103,
     "hid": 1,
     "name": "Dr. Giriraj Singh Bora",
     "post": "Artemis Kasalxonasida HPV Jarrohlik va Jigar Transplantatsiyasi bo‘limining rahbari",
@@ -3921,8 +3885,8 @@
       "Murakkab gastrointenstinal holatlarni boshqarish va ilg‘or jarrohlik aralashuvlarini amalga oshirishda keng tajribaga ega."
     ]
   },
-  "d108": {
-    "id": 108,
+  "d104": {
+    "id": 104,
     "hid": 6,
     "name": "Dr. Subhash Gupta",
     "post": "Jigar va Biliyar Fanlar Markazi Raisi",
@@ -3946,8 +3910,8 @@
       "Jigar va biliyar fanlar bo‘yicha keng tajribaga ega."
     ]
   },
-  "d109": {
-    "id": 109,
+  "d105": {
+    "id": 105,
     "hid": 8,
     "name": "Dr. (Kol.) Manjinder Sandhu",
     "post": "Intervensiya Kardiojenetik",
@@ -3978,8 +3942,8 @@
       "Ko‘plab akademik maqolalarni yozgan, milliy va xalqaro konferensiyalarda ma'ruzalar qilgan va ko‘plab milliy mukofotlar bilan taqdirlangan."
     ]
   },
-  "d110": {
-    "id": 110,
+  "d106": {
+    "id": 106,
     "hid": 10,
     "name": "Dr. Sanjay Gogoi",
     "post": "Boshqaruvchi Direktori - Urologiya, Buyrak Transplantatsiyasi va Uro-Onkologiya",
@@ -4009,8 +3973,8 @@
       "Uning etiborni ta'kidlash, dalilga asoslangan tibbiyotga sodiqligi, qiyin holatlarni hal qilishga bo‘lgan majburiyati hamkasblar va bemorlar tomonidan tan olingan."
     ]
   },
-  "d111": {
-    "id": 111,
+  "d107": {
+    "id": 107,
     "hid": 9,
     "name": "Dr. Sudhir Dubey",
     "post": "Direktor",
@@ -4039,8 +4003,8 @@
       "Miya o‘smalari bo‘yicha innovatsion ishlari xalqaro e'tirofga sazovor bo‘lgan."
     ]
   },
-  "d112": {
-    "id": 112,
+  "d108": {
+    "id": 108,
     "hid": 6,
     "name": "Dr. Kulbhushan Singh Dagar",
     "post": "Boshqaruvchi Direktor, Bosh Jarroh va Neonatal va Kongenital Yurak Jarrohligi bo‘yicha rahbar",
