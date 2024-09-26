@@ -18,12 +18,12 @@ export const POST = async (req) => {
   const message = await fileData.get("message");
 
   // Folder path for storing files
-  // const folderPath = path.join(process.cwd(), "public/documents", unique_id);
-  // fs.mkdirSync(folderPath, { recursive: true });
+  const folderPath = path.join(process.cwd(), "public/documents", unique_id);
+  fs.mkdirSync(folderPath, { recursive: true });
 
   // Convert file data to buffer
-  // const buffer = Buffer.from(await file.arrayBuffer());
-  // const buffer2 = Buffer.from(await identityFile.arrayBuffer());
+  const buffer = Buffer.from(await file.arrayBuffer());
+  const buffer2 = Buffer.from(await identityFile.arrayBuffer());
 
   // Define filenames with extensions
   const medical = `${unique_id}medical${path.extname(file.name)}`;
@@ -31,8 +31,8 @@ export const POST = async (req) => {
 
   try {
     // Write files to disk
-    // await writeFile(path.join(folderPath, medical), buffer);
-    // await writeFile(path.join(folderPath, iden), buffer2);
+    await writeFile(path.join(folderPath, medical), buffer);
+    await writeFile(path.join(folderPath, iden), buffer2);
 
     // Insert data into MySQL database
     const rows = await new Promise((resolve, reject) => {
@@ -60,7 +60,29 @@ export const POST = async (req) => {
         pass: process.env.MY_PASSWORD,
       },
     });
-
+    // Send email to admin
+    await transporter.sendMail({
+      from: process.env.MY_EMAIL,
+      to: process.env.MY_EMAIL,
+      subject: "TreatGlobe Contact form",
+      attachments: [
+        {
+          filename: medical,
+          path: path.join(folderPath, medical),
+        },
+        {
+          filename: iden,
+          path: path.join(folderPath, iden),
+        },
+      ],
+      html: `<html>
+                    <body>
+                      <h3>You've got a new mail from ${firstName} ${lastName}, their email is: ✉️${email}, their phone number is: ${phone}</h3>
+                      <p>Message:</p>
+                      <p>${message}</p>
+                    </body>
+                   </html>`,
+    });
     // Send confirmation email to the user
     await transporter.sendMail({
       from: process.env.MY_EMAIL,
