@@ -5,13 +5,18 @@ import { writeFile } from "fs/promises";
 import { v4 as uuid } from "uuid";
 import { google } from "googleapis";
 import data from "../../../../jsonkey.json";
+import nodemailer from "nodemailer";
 
 export const POST = async (req) => {
   const fileData = await req.formData();
   const unique_id = uuid();
   const file = await fileData.get("myFile");
   const identityFile = await fileData.get("identity");
-
+  const firstName = await fileData.get("firstName");
+  const lastName = await fileData.get("lastName");
+  const phone = await fileData.get("phone");
+  const email = await fileData.get("email");
+  const message = await fileData.get("message");
   // Folder path for storing files
   const folderPath = path.join(process.cwd(), "public/documents", unique_id);
   fs.mkdirSync(folderPath, { recursive: true });
@@ -25,6 +30,42 @@ export const POST = async (req) => {
   const iden = `${unique_id}identity${path.extname(identityFile.name)}`;
 
   try {
+    await writeFile(path.join(folderPath, medical), buffer);
+    await writeFile(path.join(folderPath, iden), buffer2);
+
+    // Nodemailer configuration for sending emails
+    const transporter = nodemailer.createTransport({
+      service: "gmail",
+      host: "smtp.gmail.com",
+      secure: true,
+      auth: {
+        user: process.env.MY_EMAIL,
+        pass: process.env.MY_PASSWORD,
+      },
+    });
+    // Send email to admin
+    await transporter.sendMail({
+      from: process.env.MY_EMAIL,
+      to: process.env.MY_EMAIL,
+      subject: "TreatGlobe Contact form",
+      attachments: [
+        {
+          filename: medical,
+          path: path.join(folderPath, medical),
+        },
+        {
+          filename: iden,
+          path: path.join(folderPath, iden),
+        },
+      ],
+      html: `<html>
+                    <body>
+                      <h3>You've got a new mail from ${firstName} ${lastName}, their email is: ✉️${email}, their phone number is: ${phone}</h3>
+                      <p>Message:</p>
+                      <p>${message}</p>
+                    </body>
+                   </html>`,
+    });
     // Upload files to Google Drive
     const authClient = await authorize();
     await uploadFile(authClient, unique_id, file, identityFile);
