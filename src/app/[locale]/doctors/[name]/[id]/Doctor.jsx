@@ -64,7 +64,7 @@ const Doctor = ({ doctor, url }) => {
               alt="doctor"
               width={1000}
               height={1000}
-              className="w-[300px] h-[300px] rounded-full z-20 object-contain bg-white"
+              className="w-[300px] h-[300px] rounded-md z-20 object-contain bg-white"
             />
           </div>
         </div>
