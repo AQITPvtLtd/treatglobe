@@ -7,6 +7,7 @@ import { useRouter } from "next/navigation";
 import "animate.css";
 import swal from "sweetalert";
 import { useTranslation } from "react-i18next";
+
 const ContactForm = () => {
   const { t } = useTranslation();
   const router = useRouter();
@@ -19,6 +20,7 @@ const ContactForm = () => {
     email: "",
     message: "",
   });
+  const [loading, setLoading] = useState(false); // Add loading state
 
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
@@ -42,7 +44,12 @@ const ContactForm = () => {
     Object.entries(formData).forEach(([key, value]) => {
       fileData.append(key, value);
     });
+
+    setLoading(true); // Set loading to true when the query starts
+
     const response = await sendFormData(fileData);
+    setLoading(false); // Set loading to false when response is received
+
     if (response.success) {
       swal({
         title: "Success",
@@ -60,7 +67,7 @@ const ContactForm = () => {
       setIndentityFile(null);
 
       router.push("/");
-      const upload = await uploadFiles(fileData);
+      await uploadFiles(fileData);
     } else {
       swal({
         title: "Oops!",
@@ -69,12 +76,25 @@ const ContactForm = () => {
       });
     }
   };
+
   return (
     <div className="p-3">
       <h1 className="text-2xl text-white text-center font-semibold mb-2">
         {t("form:header")}
       </h1>
-      <form className="" onSubmit={handleSubmit}>
+
+      {loading && (
+        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-70 z-50">
+          import {Audio} from 'react-loader-spinner'
+        </div>
+      )}
+
+      <form
+        className={`relative ${
+          loading ? "pointer-events-none opacity-50" : ""
+        }`}
+        onSubmit={handleSubmit}
+      >
         <div className="flex flex-wrap">
           <div className="w-full lg:w-1/2">
             <div className="relative w-full mb-3">
@@ -145,7 +165,6 @@ const ContactForm = () => {
                 onChange={({ target }) => {
                   if (target.files) {
                     const file = target.files[0];
-
                     setFile(file);
                   }
                 }}
@@ -171,7 +190,6 @@ const ContactForm = () => {
                 onChange={({ target }) => {
                   if (target.files) {
                     const file = target.files[0];
-
                     setIndentityFile(file);
                   }
                 }}
