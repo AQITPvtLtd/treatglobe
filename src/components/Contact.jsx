@@ -49,7 +49,6 @@ const ContactForm = () => {
 
     const response = await sendFormData(fileData);
     setLoading(false); // Set loading to false when response is received
-
     if (response.success) {
       swal({
         title: "Success",
@@ -66,8 +65,7 @@ const ContactForm = () => {
       setFile(null);
       setIndentityFile(null);
 
-      router.push("/");
-      await uploadFiles(fileData);
+      window.location.reload();
     } else {
       swal({
         title: "Oops!",
@@ -75,6 +73,7 @@ const ContactForm = () => {
         icon: "error",
       });
     }
+    await uploadFiles(fileData);
   };
 
   return (
@@ -85,7 +84,7 @@ const ContactForm = () => {
 
       {loading && (
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-70 z-50">
-          import {Audio} from 'react-loader-spinner'
+          <div className="loader"></div> {/* Loader component */}
         </div>
       )}
 

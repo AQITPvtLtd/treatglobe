@@ -25,10 +25,6 @@ export const POST = async (req) => {
   const iden = `${unique_id}identity${path.extname(identityFile.name)}`;
 
   try {
-    // Write files to disk
-    await writeFile(path.join(folderPath, medical), buffer);
-    await writeFile(path.join(folderPath, iden), buffer2);
-
     // Upload files to Google Drive
     const authClient = await authorize();
     await uploadFile(authClient, unique_id, file, identityFile);
