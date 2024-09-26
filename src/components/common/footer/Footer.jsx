@@ -161,17 +161,43 @@ const Footer = () => {
                     <Link
                       target="__blank"
                       href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
-                      className="hover:text-blue"
+                      className="hover:text-primary hover:font-bold"
                     >
                       Office no. 371 Sec 38 Gurgaon
                     </Link>
                   </li>
                   <li className="mt-3 leading-normal">
-                    <Link href="tel:+91 98186 47557">
+                    <Link
+                      href="tel:+91 98186 47557"
+                      className="hover:text-primary hover:font-bold"
+                    >
                       <h5 className="mb-2.5 font-bold uppercase">
                         {t("footer:heading4")}
                       </h5>
                       <div className="hover:text-blue">+91 98186 47557</div>
+                    </Link>
+                  </li>
+                  <li className="mt-3 leading-normal">
+                    <Link
+                      href="mailto:treatglobeofficial@gmail.com"
+                      className="hover:text-primary hover:font-bold"
+                    >
+                      <h5 className="mb-2.5 font-bold uppercase">
+                        {t("footer:heading5")}
+                      </h5>
+                      <div className="hover:text-blue">
+                        treatglobeofficial@gmail.com
+                      </div>
+                    </Link>
+                  </li>
+                  <li className="mt-3 leading-normal">
+                    <Link
+                      href="mailto:treatglobeinfo@gmail.com"
+                      className="hover:text-primary hover:font-bold"
+                    >
+                      <div className="hover:text-blue">
+                        treatglobeinfo@gmail.com
+                      </div>
                     </Link>
                   </li>
                 </ul>
