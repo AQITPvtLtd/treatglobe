@@ -78,7 +78,7 @@ export const POST = async (req) => {
       ],
       html: `<html>
               <body>
-                <h3>You've got a new mail from ${firstName} ${lastName}, their email is: ✉️${email}</h3>
+                <h3>You've got a new mail from ${firstName} ${lastName}, their email is: ✉️${email}, their phone number is: ${phone}</h3>
                 <p>Message:</p>
                 <p>${message}</p>
               </body>

@@ -109,6 +109,7 @@ const ContactForm = () => {
                 className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
                 value={formData.phone}
                 onChange={handleChange}
+                required
               />
             </div>
           </div>
@@ -121,6 +122,7 @@ const ContactForm = () => {
                 className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
                 value={formData.email}
                 onChange={handleChange}
+                required
               />
             </div>
           </div>
