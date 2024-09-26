@@ -1,6 +1,7 @@
 "use client";
 
 import { sendFormData } from "@/services/formData";
+import { uploadFiles } from "@/services/uploadfiles";
 import React, { useState } from "react";
 import { useRouter } from "next/navigation";
 import "animate.css";
@@ -43,7 +44,6 @@ const ContactForm = () => {
     });
     const response = await sendFormData(fileData);
     if (response.success) {
-      window.location.reload();
       swal({
         title: "Success",
         text: "Enquiry Form Sent!",
@@ -60,6 +60,7 @@ const ContactForm = () => {
       setIndentityFile(null);
 
       router.push("/");
+      const upload = await uploadFiles(fileData);
     } else {
       swal({
         title: "Oops!",

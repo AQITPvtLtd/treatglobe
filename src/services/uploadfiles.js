@@ -1,9 +1,9 @@
 import { httpAxios } from "../helper/httpHelper";
 
-export async function sendFormData(data) {
+export async function uploadFiles(data) {
   try {
     const result = await httpAxios
-      .post("/api/contact", data)
+      .post("/api/upload", data)
       .then((response) => response.data);
     return result;
   } catch (error) {
