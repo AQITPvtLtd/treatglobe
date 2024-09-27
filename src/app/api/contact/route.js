@@ -4,7 +4,7 @@ import fs from "fs";
 import { writeFile } from "fs/promises";
 import { v4 as uuid } from "uuid";
 import nodemailer from "nodemailer";
-import connection from "../../../helper/db";
+import pool from "@/helper/db"; // Ensure this points to your connection pool
 
 export const POST = async (req) => {
   const fileData = await req.formData();
@@ -29,26 +29,20 @@ export const POST = async (req) => {
   const medical = `${unique_id}medical${path.extname(file.name)}`;
   const iden = `${unique_id}identity${path.extname(identityFile.name)}`;
 
+  let connection; // Declare a variable to hold the connection
   try {
     // Write files to disk
     await writeFile(path.join(folderPath, medical), buffer);
     await writeFile(path.join(folderPath, iden), buffer2);
 
+    // Get a connection from the pool
+    connection = await pool.getConnection();
+
     // Insert data into MySQL database
-    const rows = await new Promise((resolve, reject) => {
-      connection.query(
-        "INSERT INTO contact (id, first_name, last_name, phone, email, medical_report, identity_proof, message) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
-        [unique_id, firstName, lastName, phone, email, medical, iden, message],
-        (err, results) => {
-          if (err) {
-            console.error(err);
-            reject(err);
-          } else {
-            resolve(results);
-          }
-        }
-      );
-    });
+    const [rows] = await connection.query(
+      "INSERT INTO contact (id, first_name, last_name, phone, email, medical_report, identity_proof, message) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+      [unique_id, firstName, lastName, phone, email, medical, iden, message]
+    );
 
     // Nodemailer configuration for sending emails
     const transporter = nodemailer.createTransport({
@@ -60,6 +54,7 @@ export const POST = async (req) => {
         pass: process.env.MY_PASSWORD,
       },
     });
+
     // Send email to admin
     await transporter.sendMail({
       from: process.env.MY_EMAIL,
@@ -76,13 +71,14 @@ export const POST = async (req) => {
         },
       ],
       html: `<html>
-                    <body>
-                      <h3>You've got a new mail from ${firstName} ${lastName}, their email is: ✉️${email}, their phone number is: ${phone}</h3>
-                      <p>Message:</p>
-                      <p>${message}</p>
-                    </body>
-                   </html>`,
+                <body>
+                  <h3>You've got a new mail from ${firstName} ${lastName}, their email is: ✉️${email}, their phone number is: ${phone}</h3>
+                  <p>Message:</p>
+                  <p>${message}</p>
+                </body>
+              </html>`,
     });
+
     // Send confirmation email to the user
     await transporter.sendMail({
       from: process.env.MY_EMAIL,
@@ -105,6 +101,8 @@ export const POST = async (req) => {
   } catch (error) {
     console.error("Error occurred: ", error);
     return NextResponse.json({ Message: "Failed", success: false });
+  } finally {
+    if (connection) connection.release(); // Always release the connection back to the pool if it was acquired
   }
 };
 
