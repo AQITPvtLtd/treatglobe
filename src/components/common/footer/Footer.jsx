@@ -82,7 +82,9 @@ const Footer = () => {
             </div>
             <div className="lg:flex justify-center mt-6">
               <div className="mb-6">
-                <h5 className="mb-2.5 font-bold uppercase">Quick Links</h5>
+                <h5 className="mb-2.5 font-bold uppercase">
+                  {t("footer:heading1")}
+                </h5>
 
                 <ul className="mb-0 list-none leading-loose">
                   <li>

@@ -66,7 +66,7 @@ export const doctordata = [
     hid: 8,
     name: "Dr. Ramji Mehrotra",
     post: "doctorDetailed:d5.post",
-    image: "doc5.jpg",
+    image: "doc5.1.jpg",
     experience: "27+",
     top: false,
     speciality: "doctorDetailed:d5.speciality",
@@ -364,7 +364,7 @@ export const doctordata = [
   {
     id: 25,
     hid: 3,
-    name: "Dr Vivek Vij",
+    name: "Dr. Vivek Vij",
     post: "doctorDetailed:d25.post",
     image: "d3.jpg",
     experience: "15+",
@@ -379,7 +379,7 @@ export const doctordata = [
   {
     id: 26,
     hid: 3,
-    name: "Dr Praveen Gupta",
+    name: "Dr. Praveen Gupta",
     post: "doctorDetailed:d26.post",
     image: "d4.jpg",
     experience: "23+",
@@ -394,7 +394,7 @@ export const doctordata = [
   {
     id: 27,
     hid: 3,
-    name: "Dr Anil Mandhani",
+    name: "Dr. Anil Mandhani",
     post: "doctorDetailed:d27.post",
     image: "d5.jpeg",
     experience: "35+",
@@ -409,7 +409,7 @@ export const doctordata = [
   {
     id: 28,
     hid: 3,
-    name: "Dr Krishan Chugh",
+    name: "Dr. Krishan Chugh",
     post: "doctorDetailed:d28.post",
     image: "d6.1.png",
     experience: "32+",
@@ -439,7 +439,7 @@ export const doctordata = [
   {
     id: 30,
     hid: 3,
-    name: "Dr Vikas Dua",
+    name: "Dr. Vikas Dua",
     post: "doctorDetailed:d30.post",
     image: "d9.webp",
     experience: "15+",
@@ -469,7 +469,7 @@ export const doctordata = [
   {
     id: 32,
     hid: 3,
-    name: "Dr Udgeath Dhir",
+    name: "Dr. Udgeath Dhir",
     post: "doctorDetailed:d32.post",
     image: "d11.1.png",
     experience: "18+",
@@ -559,7 +559,7 @@ export const doctordata = [
   {
     id: 38,
     hid: 9,
-    name: "Dr Anil Bhan",
+    name: "Dr. Anil Bhan",
     post: "doctorDetailed:d38.post",
     image: "d3.jpg",
     experience: "49+",
@@ -574,7 +574,7 @@ export const doctordata = [
   {
     id: 39,
     hid: 9,
-    name: "Dr Arun Garg",
+    name: "Dr. Arun Garg",
     post: "doctorDetailed:d39.post",
     image: "d4.png",
     experience: "33+",
@@ -589,7 +589,7 @@ export const doctordata = [
   {
     id: 40,
     hid: 9,
-    name: "Dr Vinay Goyal",
+    name: "Dr. Vinay Goyal",
     post: "doctorDetailed:d40.post",
     image: "d5.png",
     experience: "32+",
@@ -604,7 +604,7 @@ export const doctordata = [
   {
     id: 41,
     hid: 9,
-    name: "Dr Arvind Kumar",
+    name: "Dr. Arvind Kumar",
     post: "doctorDetailed:d41.post",
     image: "d6.png",
     experience: "40+",
@@ -619,7 +619,7 @@ export const doctordata = [
   {
     id: 42,
     hid: 9,
-    name: "Dr Arvinder Singh Soin",
+    name: "Dr. Arvinder Singh Soin",
     post: "doctorDetailed:d42.post",
     image: "d7.png",
     experience: "37+",
@@ -634,7 +634,7 @@ export const doctordata = [
   {
     id: 43,
     hid: 9,
-    name: "Dr Ashok Kumar Vaid",
+    name: "Dr. Ashok Kumar Vaid",
     post: "doctorDetailed:d43.post",
     image: "d8.png",
     experience: "35+",
@@ -649,7 +649,7 @@ export const doctordata = [
   {
     id: 44,
     hid: 9,
-    name: "Dr Ashok Rajgopal",
+    name: "Dr. Ashok Rajgopal",
     post: "doctorDetailed:d44.post",
     image: "d9.png",
     experience: "50+",
@@ -664,7 +664,7 @@ export const doctordata = [
   {
     id: 45,
     hid: 9,
-    name: "Dr KK Handa",
+    name: "Dr. KK Handa",
     post: "doctorDetailed:d45.post",
     image: "d10.png",
     experience: "27+",
@@ -679,7 +679,7 @@ export const doctordata = [
   {
     id: 46,
     hid: 9,
-    name: "Dr Rajesh Ahlawat",
+    name: "Dr. Rajesh Ahlawat",
     post: "doctorDetailed:d46.post",
     image: "d11.png",
     experience: "",
@@ -694,7 +694,7 @@ export const doctordata = [
   {
     id: 47,
     hid: 9,
-    name: "Dr Rajiv Parakh",
+    name: "Dr. Rajiv Parakh",
     post: "doctorDetailed:d47.post",
     image: "d12.png",
     experience: "38+",
@@ -709,7 +709,7 @@ export const doctordata = [
   {
     id: 48,
     hid: 9,
-    name: "Dr Rakesh Kumar Khazanchi",
+    name: "Dr. Rakesh Kumar Khazanchi",
     post: "doctorDetailed:d48.post",
     image: "d13.png",
     experience: "25+",
@@ -724,7 +724,7 @@ export const doctordata = [
   {
     id: 49,
     hid: 9,
-    name: "Dr VP Singh",
+    name: "Dr. VP Singh",
     post: "doctorDetailed:d49.post",
     image: "d14.png",
     experience: "30+",
@@ -739,7 +739,7 @@ export const doctordata = [
   {
     id: 50,
     hid: 9,
-    name: "Dr Vijay Vohra",
+    name: "Dr. Vijay Vohra",
     post: "doctorDetailed:d50.post",
     image: "doc15.png",
     experience: "35+",
@@ -754,7 +754,7 @@ export const doctordata = [
   {
     id: 51,
     hid: 9,
-    name: "Dr Deepak sarin",
+    name: "Dr. Deepak sarin",
     post: "doctorDetailed:d51.post",
     image: "d16.png",
     experience: "28+",
@@ -784,7 +784,7 @@ export const doctordata = [
   {
     id: 53,
     hid: 1,
-    name: "Dr Hitesh Garg",
+    name: "Dr. Hitesh Garg",
     post: "doctorDetailed:d53.post",
     image: "d2.jpg",
     experience: "17+",
@@ -830,7 +830,7 @@ export const doctordata = [
   {
     id: 56,
     hid: 1,
-    name: "Dr Sumeet Aggarwal",
+    name: "Dr. Sumeet Aggarwal",
     post: "doctorDetailed:d56.post",
     image: "d5.jpg",
     experience: "13+",
@@ -845,7 +845,7 @@ export const doctordata = [
   {
     id: 57,
     hid: 1,
-    name: "Dr Ramkinkar Jha",
+    name: "Dr. Ramkinkar Jha",
     post: "doctorDetailed:d57.post",
     image: "d6.jpg",
     experience: "20+",
@@ -875,7 +875,7 @@ export const doctordata = [
   {
     id: 59,
     hid: 1,
-    name: "Dr Parveen Yadav",
+    name: "Dr. Parveen Yadav",
     post: "doctorDetailed:d59.post",
     image: "d9.jpg",
     experience: "13+",
@@ -890,7 +890,7 @@ export const doctordata = [
   {
     id: 60,
     hid: 1,
-    name: "Dr Deepak Jha",
+    name: "Dr. Deepak Jha",
     post: "doctorDetailed:d60.post",
     image: "d10.jpg",
     experience: "21+",
@@ -905,7 +905,7 @@ export const doctordata = [
   {
     id: 61,
     hid: 1,
-    name: "Dr Tapan Singh Chauhan",
+    name: "Dr. Tapan Singh Chauhan",
     post: "doctorDetailed:d61.post",
     image: "doc11.jpg",
     experience: "16+",
@@ -920,7 +920,7 @@ export const doctordata = [
   {
     id: 62,
     hid: 1,
-    name: "Dr Priya Tiwari",
+    name: "Dr. Priya Tiwari",
     post: "doctorDetailed:d62.post",
     image: "doc12.jpg",
     experience: "16+",
@@ -935,7 +935,7 @@ export const doctordata = [
   {
     id: 63,
     hid: 1,
-    name: "Dr Mukesh Patekar",
+    name: "Dr. Mukesh Patekar",
     post: "doctorDetailed:d63.post",
     image: "d13.jpg",
     experience: "",
@@ -950,7 +950,7 @@ export const doctordata = [
   {
     id: 64,
     hid: 1,
-    name: "Dr Vikram Barua Kaushik",
+    name: "Dr. Vikram Barua Kaushik",
     post: "doctorDetailed:d64.post",
     image: "d14.jpg",
     experience: "30+",
@@ -965,7 +965,7 @@ export const doctordata = [
   {
     id: 65,
     hid: 1,
-    name: "Dr Ashu Jain",
+    name: "Dr. Ashu Jain",
     post: "doctorDetailed:d65.post",
     image: "d15.jpg",
     experience: "24+",
@@ -980,7 +980,7 @@ export const doctordata = [
   {
     id: 66,
     hid: 1,
-    name: "Dr Biswajyoti Hazarika",
+    name: "Dr. Biswajyoti Hazarika",
     post: "doctorDetailed:d66.post",
     image: "d16.jpg",
     experience: "18+",
@@ -1010,7 +1010,7 @@ export const doctordata = [
   {
     id: 68,
     hid: 1,
-    name: "Dr Dilpreet Bajwa",
+    name: "Dr. Dilpreet Bajwa",
     post: "doctorDetailed:d68.post",
     image: "d18.jpg",
     experience: "12+",
@@ -1025,7 +1025,7 @@ export const doctordata = [
   {
     id: 69,
     hid: 1,
-    name: "Dr Gaurav Dixit",
+    name: "Dr. Gaurav Dixit",
     post: "doctorDetailed:d69.post",
     image: "d19.jpg",
     experience: "14+",
@@ -1040,7 +1040,7 @@ export const doctordata = [
   {
     id: 70,
     hid: 1,
-    name: "Dr Manju Aggarwal",
+    name: "Dr. Manju Aggarwal",
     post: "doctorDetailed:d70.post",
     image: "d20.jpg",
     experience: "41+",
@@ -1055,7 +1055,7 @@ export const doctordata = [
   {
     id: 71,
     hid: 1,
-    name: "Dr Varun Mittal",
+    name: "Dr. Varun Mittal",
     post: "doctorDetailed:d71.post",
     image: "d21.jpg",
     experience: "",
@@ -1070,7 +1070,7 @@ export const doctordata = [
   {
     id: 72,
     hid: 1,
-    name: "Dr Paritosh Gupta",
+    name: "Dr. Paritosh Gupta",
     post: "doctorDetailed:d72.post",
     image: "d22.jpg",
     experience: "24+",
@@ -1085,7 +1085,7 @@ export const doctordata = [
   {
     id: 73,
     hid: 1,
-    name: "Dr Sanjay Sarup",
+    name: "Dr. Sanjay Sarup",
     post: "doctorDetailed:d73.post",
     image: "d23.jpg",
     experience: "24+",
@@ -1100,7 +1100,7 @@ export const doctordata = [
   {
     id: 74,
     hid: 1,
-    name: "Dr Renu Sehgal",
+    name: "Dr. Renu Sehgal",
     post: "doctorDetailed:d74.post",
     image: "d25.jpg",
     experience: "",
@@ -1115,7 +1115,7 @@ export const doctordata = [
   {
     id: 75,
     hid: 1,
-    name: "Dr Amit Kumar chaurasia",
+    name: "Dr. Amit Kumar chaurasia",
     post: "doctorDetailed:d75.post",
     image: "d26.jpg",
     experience: "13+",
@@ -1130,7 +1130,7 @@ export const doctordata = [
   {
     id: 76,
     hid: 1,
-    name: "Dr Kuldeep Arora",
+    name: "Dr. Kuldeep Arora",
     post: "doctorDetailed:d76.post",
     image: "d27.jpg",
     experience: "26+",
@@ -1145,7 +1145,7 @@ export const doctordata = [
   {
     id: 77,
     hid: 1,
-    name: "Dr Sameer Mehrotra",
+    name: "Dr. Sameer Mehrotra",
     post: "doctorDetailed:d77.post",
     image: "d28.jpg",
     experience: "24+",
@@ -1160,7 +1160,7 @@ export const doctordata = [
   {
     id: 78,
     hid: 1,
-    name: "Dr Sushant Srivastava",
+    name: "Dr. Sushant Srivastava",
     post: "doctorDetailed:d78.post",
     image: "doc29.jpg",
     experience: "30+",
@@ -1175,7 +1175,7 @@ export const doctordata = [
   {
     id: 79,
     hid: 1,
-    name: "Dr Aseem Srivastav",
+    name: "Dr. Aseem Srivastav",
     post: "doctorDetailed:d79.post",
     image: "d30.jpg",
     experience: "24+",
@@ -1190,7 +1190,7 @@ export const doctordata = [
   {
     id: 80,
     hid: 1,
-    name: "Dr Nidhi Rawal",
+    name: "Dr. Nidhi Rawal",
     post: "doctorDetailed:d80.post",
     image: "d31.jpg",
     experience: "19+",
@@ -1205,7 +1205,7 @@ export const doctordata = [
   {
     id: 81,
     hid: 1,
-    name: "Dr Rajiv Sharma",
+    name: "Dr. Rajiv Sharma",
     post: "doctorDetailed:d81.post",
     image: "d32.jpg",
     experience: "27+",
@@ -1220,7 +1220,7 @@ export const doctordata = [
   {
     id: 82,
     hid: 1,
-    name: "Dr Parul Prakash",
+    name: "Dr. Parul Prakash",
     post: "doctorDetailed:d82.post",
     image: "d33.jpg",
     experience: "24+",
@@ -1235,7 +1235,7 @@ export const doctordata = [
   {
     id: 83,
     hid: 1,
-    name: "Dr Rajiv Yadav",
+    name: "Dr. Rajiv Yadav",
     post: "doctorDetailed:d83.post",
     image: "d34.jpg",
     experience: "26+",
@@ -1250,7 +1250,7 @@ export const doctordata = [
   {
     id: 84,
     hid: 1,
-    name: "Dr Vipul Nanda",
+    name: "Dr. Vipul Nanda",
     post: "doctorDetailed:d84.post",
     image: "d35.jpg",
     experience: "23+",
@@ -1265,7 +1265,7 @@ export const doctordata = [
   {
     id: 85,
     hid: 1,
-    name: "Dr Pawan Rawal",
+    name: "Dr. Pawan Rawal",
     post: "doctorDetailed:d85.post",
     image: "d36.jpg",
     experience: "12+",
@@ -1280,7 +1280,7 @@ export const doctordata = [
   {
     id: 86,
     hid: 1,
-    name: "Dr Kapil Kochar",
+    name: "Dr. Kapil Kochar",
     post: "doctorDetailed:d86.post",
     image: "d37.jpg",
     experience: "28+",
@@ -1295,7 +1295,7 @@ export const doctordata = [
   {
     id: 87,
     hid: 1,
-    name: "Dr Kapil jamwal",
+    name: "Dr. Kapil jamwal",
     post: "doctorDetailed:d87.post",
     image: "d38.jpg",
     experience: "19+",
@@ -1310,7 +1310,7 @@ export const doctordata = [
   {
     id: 88,
     hid: 1,
-    name: "Dr Nitin Goel",
+    name: "Dr. Nitin Goel",
     post: "doctorDetailed:d88.post",
     image: "d39.jpg",
     experience: "21+",
@@ -1325,7 +1325,7 @@ export const doctordata = [
   {
     id: 89,
     hid: 1,
-    name: "Dr Sakshi karkara",
+    name: "Dr. Sakshi karkara",
     post: "doctorDetailed:d89.post",
     image: "d40.avif",
     experience: "26+",
@@ -1448,7 +1448,7 @@ export const doctordata = [
     hid: 4,
     name: "Dr. K S Iyer",
     post: "doctorDetailed:d97.post",
-    image: "d2.webp",
+    image: "d2.1.webp",
     experience: "40+",
     top: true,
     speciality: "doctorDetailed:d97.speciality",
@@ -1554,7 +1554,7 @@ export const doctordata = [
   {
     id: 104,
     hid: 6,
-    name: "Dr Subhash Gupta",
+    name: "Dr. Subhash Gupta",
     post: "doctorDetailed:d104.post",
     image: "d2.webp",
     experience: "43+",

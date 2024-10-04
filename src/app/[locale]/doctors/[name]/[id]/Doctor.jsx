@@ -148,7 +148,7 @@ const Doctor = ({ doctor, url }) => {
                     </th>
                     <td>
                       <div className="mb-2" key={index}>
-                        <div className="text-justify">{d}</div>
+                        <div className="">{d}</div>
                       </div>
                     </td>
                   </tr>
