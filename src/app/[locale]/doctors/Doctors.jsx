@@ -67,7 +67,7 @@ const Doctors = () => {
                 src={`/doctors/${d.hid}/${d.image}`}
                 width={1000}
                 height={1000}
-                className="h-[200px] w-[200px] object-cover"
+                className="h-[200px] w-[200px] object-contain"
               />
               <div className="flex flex-col flex-grow justify-between text-center mx-3">
                 <Link

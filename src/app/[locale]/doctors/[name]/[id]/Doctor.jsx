@@ -76,13 +76,15 @@ const Doctor = ({ doctor, url }) => {
               {/* <div className="mt-3">Works at {hospital.name}</div> */}
               <div className="">{t(doctor.education)}</div>
 
-              <div className="">
-                Over{" "}
-                <span className="bg-primary text-white font-bold p-2 rounded-full">
-                  {doctor.experience}
-                </span>{" "}
-                years of experience
-              </div>
+              {doctor.experience !== "" && (
+                <div className="">
+                  Over{" "}
+                  <span className="bg-primary text-white font-bold p-2 rounded-full">
+                    {doctor.experience}
+                  </span>{" "}
+                  years of experience
+                </div>
+              )}
               <div className="grid grid-cols-4 text-white mt-3 mb-3">
                 <div className="bg-[#25d366] rounded-xl lg:col-span-1 col-span-2 flex justify-center hover:bg-[#25d366]/90 hover:shadow-md w-full">
                   <Link
