@@ -174,7 +174,7 @@ export const treatment = [
     id: 20,
     idname: "twenty",
     name: "treatments:twenty.name",
-    image: "critical.png",
+    image: "critical-care.png",
     url: "critical-care",
     detail: "treatments:twenty.detail",
     done: "treatments:twenty.done",
