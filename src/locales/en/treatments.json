@@ -1,8 +1,8 @@
 {
   "header": "Advanced Treatment and Speciality",
-  "heading2": "Why Choose India for this Treatment",
+  "heading2": "ለዚህ ሕክምና ለምን ህንድ ምረጥ",
   "one": {
-    "name": "Cardiology",
+    "name": "ካርዲዮሎጂ",
     "detail": [
       "Cardiology is a medical specialty focused on the heart and blood vessel disorders within the cardiovascular system.",
       "It involves the study, diagnosis, and treatment of various heart-related conditions.",
@@ -57,23 +57,22 @@
     ]
   },
   "four": {
-    "name": "Haemato Oncology & BMT",
+    "name": "Hematology",
     "detail": [
-      "Focus on Blood Cancers: Haemato-oncology specializes in the diagnosis and treatment of blood cancers, including leukemia, lymphoma, and multiple myeloma.",
-      "Comprehensive Care: Offers a multidisciplinary approach, integrating medical, surgical, and supportive therapies tailored to individual patient needs.",
-      "Advanced Diagnostics: Utilizes cutting-edge technologies for accurate diagnosis, including flow cytometry, molecular testing, and cytogenetic analysis.",
-      "Chemotherapy and Targeted Therapy: Provides various chemotherapy regimens and targeted therapies designed to specifically attack cancer cells while minimizing damage to healthy tissue.",
-      "Stem Cell Transplantation (BMT): Facilitates bone marrow and stem cell transplants as a critical treatment for many blood cancers, offering potentially curative options."
+      "Hematology focuses on the diagnosis, treatment, and prevention of blood disorders such as anemia, leukemia, lymphoma, and clotting disorders",
+      "It encompasses a range of procedures, including blood transfusions, bone marrow biopsies, and stem cell transplants",
+      "Hematologists collaborate closely with oncologists to treat cancers related to blood, such as leukemia and multiple myeloma",
+      "Modern hematology treatments may involve immunotherapy, targeted therapy, and advanced chemotherapy protocols",
+      "Specialized laboratories are used to analyze blood samples, identify abnormalities, and monitor treatment effectiveness"
     ],
     "done": [
-      "Comprehensive Treatment Options: Provides a wide range of treatments, including chemotherapy, radiation therapy, targeted therapy, and stem cell transplants.",
-      "International Patient Services: Many hospitals offer dedicated services to assist international patients with logistics, travel, and accommodation.",
-      "Efficient Healthcare System: Streamlined processes for consultations, diagnostics, and treatments reduce wait times for patients.",
-      "Research and Innovation: Engaged in clinical trials and research to stay at the forefront of cancer treatment advancements.",
-      "Multidisciplinary Approach: Ensures holistic care through a collaborative team of specialists addressing all aspects of treatment."
+      "India has internationally trained hematologists and oncologists with extensive experience in treating complex blood disorders",
+      "Hospitals offer advanced treatments like immunotherapy, stem cell transplants, and targeted therapies, providing access to cutting-edge care",
+      "Modern labs and technologies in Indian hospitals ensure accurate diagnosis and comprehensive hematology services",
+      "Treatment costs are significantly lower in India compared to Western countries, maintaining high-quality care at affordable rates",
+      "Many hospitals in India are accredited by global bodies like JCI and NABH, ensuring high standards of patient care and safety"
     ]
   },
-
   "five": {
     "name": "Oncology",
     "detail": [
@@ -92,22 +91,6 @@
     ]
   },
   "six": {
-    "name": "Spine & Scoliosis Surgery",
-    "detail": [
-      "Specialized surgical procedures for correcting spinal deformities, including scoliosis, kyphosis, and lordosis.",
-      "Advanced techniques like minimally invasive spine surgery (MISS) for faster recovery and less post-operative pain.",
-      "Use of cutting-edge technologies such as 3D imaging and navigation systems for precise surgical planning.",
-      "Expertise in treating complex spine conditions, including degenerative disc disease, spinal stenosis, and herniated discs.",
-      "Comprehensive care for both pediatric and adult patients with scoliosis and other spinal disorders."
-    ],
-    "done": [
-      "World-class Hospitals: India offers state-of-the-art hospitals equipped with cutting-edge technology and advanced medical infrastructure for spine surgeries.",
-      "Affordability: Spine and scoliosis surgeries in India are significantly more affordable compared to Western countries, without compromising on the quality of care.",
-      "Highly Skilled Surgeons: Indian spine surgeons are globally recognized for their expertise, many trained in top international institutions with vast experience in handling complex cases.",
-      "Minimally Invasive Techniques: India is known for utilizing advanced minimally invasive spine surgery techniques that result in less pain, quicker recovery, and minimal scarring."
-    ]
-  },
-  "seven": {
     "name": "Cosmetic & Plastic Surgery",
     "detail": [
       "Comprehensive range of procedures including facial rejuvenation, body contouring, and reconstructive surgeries.",
@@ -123,7 +106,7 @@
       "Comprehensive care that includes pre-operative consultations, surgical procedures, and extensive post-operative support."
     ]
   },
-  "nine": {
+  "seven": {
     "name": "Urology",
     "detail": [
       "Comprehensive Care: Treatments cover a wide range of urological conditions, including kidney stones, prostate enlargement, urinary tract infections (UTIs), bladder issues, and urological cancers.",
@@ -132,30 +115,13 @@
       "Minimally Invasive Procedures: Techniques like laparoscopic surgeries and laser treatments result in quicker recovery times and less postoperative discomfort."
     ],
     "done": [
-      "World-class Medical Facilities: India is home to hospitals with cutting-edge technology, providing advanced diagnostic tools and minimally invasive procedures for better outcomes.",
-      "Advanced Robotic and Laparoscopic Surgery: India is a leader in using robotic and laparoscopic techniques for urology, reducing recovery times and minimizing surgical risks.",
-      "Excellent Postoperative Care: India provides robust aftercare services, with a focus on patient recovery, pain management, and rehabilitation.",
-      "High Success Rates: Indian urology centers have high success rates for procedures like kidney stone removal, prostate surgeries, and kidney transplants, attracting patients from around the world."
+      "አለም አቀፍ ደረጃ የህክምና ተቋማት፡ ህንድ እጅግ በጣም ጥሩ ቴክኖሎጂ ያላቸው ሆስፒታሎች መኖሪያ ነች፣ የላቀ የምርመራ መሳሪያዎችን እና ለተሻለ ውጤት በትንሹ ወራሪ ሂደቶችን ይሰጣል።",
+      "የላቀ የሮቦቲክ እና የላፕራስኮፒክ ቀዶ ጥገና: ህንድ የሮቦቲክ እና የላፕራስኮፒክ ቴክኒኮችን ለ urology በመጠቀም የመልሶ ማግኛ ጊዜን በመቀነስ እና የቀዶ ጥገና አደጋዎችን በመቀነስ ረገድ መሪ ነች.",
+      "በጣም ጥሩ ከቀዶ ጥገና በኋላ እንክብካቤ: ህንድ በታካሚ ማገገም, ህመምን መቆጣጠር እና ማገገሚያ ላይ በማተኮር ጠንካራ የድህረ እንክብካቤ አገልግሎቶችን ይሰጣል.",
+      "ከፍተኛ የስኬት ደረጃዎች፡ የህንድ የኡሮሎጂ ማዕከላት እንደ የኩላሊት ጠጠር ማስወገድ፣ የፕሮስቴት ቀዶ ጥገና እና የኩላሊት ንቅለ ተከላ ሂደቶች ከፍተኛ የስኬት ደረጃዎች አሏቸው፣ ይህም ታካሚዎችን ከአለም ዙሪያ ይስባሉ።"
     ]
   },
-  "ten": {
-    "name": "Liver Transplant & GI & HPB Surgery",
-    "detail": [
-      "Liver Transplant: Replacement of a diseased liver with a healthy donor liver; used to treat liver failure or liver cancers.",
-      "GI Surgery: Gastrointestinal surgeries include procedures on the stomach, intestines, and other digestive organs to treat conditions like cancers, hernias, and Crohn’s disease.",
-      "HPB Surgery: Hepato-pancreato-biliary surgery focuses on the liver, pancreas, and bile ducts, addressing cancers, bile duct obstructions, and pancreatic diseases.",
-      "Donor Options: Includes both deceased donor transplants and living donor liver transplants, where part of the donor’s liver regenerates after surgery.",
-      "Minimally Invasive Techniques: Many GI and HPB surgeries are performed using laparoscopic or robotic techniques, reducing recovery times and scarring."
-    ],
-    "done": [
-      "World-Class Medical Infrastructure: Indian hospitals are equipped with advanced surgical technology, including robotic surgery, laparoscopic techniques, and state-of-the-art liver transplant units",
-      "High Success Rates: India’s liver transplant and GI/HPB surgeries boast competitive success rates due to experienced teams and access to cutting-edge technology.",
-      "Comprehensive Care: Patients benefit from a multidisciplinary approach, with teams of hepatologists, oncologists, dietitians, and transplant specialists ensuring holistic care before, during, and after surgery.",
-      "Postoperative Support: Indian hospitals offer exceptional postoperative care, including immunosuppressive therapy management and long-term monitoring for liver transplant patients.",
-      "Availability of Donors: Both living donor liver transplants and deceased donor transplants are well-established in India, providing patients with multiple options for timely surgery."
-    ]
-  },
-  "eleven": {
+  "eight": {
     "name": "Cardiac Thoracic & Vascular Surgery",
     "detail": [
       "Surgeons often perform complex, multi-part surgeries that involve both cardiac and vascular interventions, especially for conditions like aortic aneurysms that impact both the heart and major blood vessels.",
@@ -169,25 +135,25 @@
       "The cultural diversity and hospitality of India help create a supportive and comfortable environment for patients and their families."
     ]
   },
-  "twelve": {
-    "name": "Kidney Transplant",
+  "nine": {
+    "name": "Nephrology",
     "detail": [
-      "Kidney transplant is a surgical procedure to replace a diseased or failing kidney with a healthy one from a donor.",
-      "The procedure can be performed using a living donor (related or unrelated) or a deceased donor.",
-      "Successful kidney transplants can significantly improve quality of life and increase life expectancy for patients with end-stage renal disease.",
-      "India has several specialized kidney transplant centers with advanced facilities and technologies for both pre-operative and post-operative care.",
-      "Highly skilled nephrologists and transplant surgeons with extensive experience perform the surgeries."
+      "Specializes in diagnosing and treating kidney-related diseases and disorders.",
+      "Treats chronic kidney disease (CKD), kidney stones, hypertension, and acute kidney injury (AKI)",
+      "Experts in managing dialysis for patients with end-stage renal disease (ESRD)",
+      "Involved in the evaluation and post-operative care of kidney transplant patients",
+      "Collaborates with other specialists to provide comprehensive care for systemic and kidney-related conditions"
     ],
     "done": [
-      "The country has a rich experience in handling complex transplant cases, benefiting from a diverse patient population.",
-      "India's medical institutions are accredited by international bodies, ensuring adherence to global healthcare standards.",
-      "Comprehensive pre-operative evaluation and post-operative care are provided to ensure patient safety and optimal outcomes.",
-      "Renowned nephrologists and transplant surgeons provide specialized care, ensuring high success rates in kidney transplants.",
-      "The cost of kidney transplantation in India is significantly lower compared to many Western countries, making it affordable for international patients."
+      "World-class medical facilities with advanced technology and infrastructure",
+      "Highly experienced and internationally trained nephrologists",
+      "Affordable treatment options compared to other countries",
+      "Comprehensive care including dialysis, transplants, and specialized procedures",
+      "Availability of cutting-edge research and innovative treatments in nephrology"
     ]
   },
-  "fourteen": {
-    "name": "ENT & Cochlear Implant",
+  "ten": {
+    "name": "ENT",
     "detail": [
       "Comprehensive evaluation and diagnosis of ear, nose, and throat disorders, including hearing loss and balance issues.",
       "Expertise in advanced surgical procedures, such as cochlear implants for severe hearing impairment.",
@@ -203,7 +169,7 @@
       "Access to a variety of healthcare providers and specialists allows for personalized and comprehensive care tailored to individual needs."
     ]
   },
-  "fifteen": {
+  "eleven": {
     "name": "General & Minimally Invasive Surgery",
     "detail": [
       "Specialized in performing surgeries with minimal incisions.",
@@ -220,7 +186,7 @@
       "Hospitals equipped with modern infrastructure and equipment."
     ]
   },
-  "sixteen": {
+  "twelve": {
     "name": "Gastroenterology",
     "detail": [
       "Specializes in diagnosing and treating digestive system disorders.",
@@ -237,24 +203,7 @@
       "High success rates in complex procedures like endoscopy and colonoscopy."
     ]
   },
-  "nineteen": {
-    "name": "IVF, Reproductive Medicine",
-    "detail": [
-      "Specializes in treating infertility and reproductive health issues.",
-      "Offers In Vitro Fertilization (IVF) and Assisted Reproductive Technology (ART).",
-      "Provides personalized treatment plans based on individual fertility needs.",
-      "Expertise in egg and sperm donation, ICSI, and embryo freezing.",
-      "Advanced diagnostic tools for assessing both male and female infertility."
-    ],
-    "done": [
-      "High success rates in IVF and fertility treatments.",
-      "Availability of advanced reproductive technologies and state-of-the-art labs.",
-      "Experienced fertility specialists with global expertise.",
-      "Affordable treatment costs compared to many Western countries.",
-      "Access to egg/sperm donation, surrogacy, and fertility preservation."
-    ]
-  },
-  "twenty": {
+  "thirteen": {
     "name": "Obstetrics & Gynaecology",
     "detail": [
       "Specializes in women's reproductive health and childbirth.",
@@ -271,126 +220,24 @@
       "Expertise in minimally invasive gynecological surgeries."
     ]
   },
-  "twentytwo": {
-    "name": "Medical Oncology",
+  "fourteen": {
+    "name": "Paediatrics",
     "detail": [
-      "Specializes in the diagnosis and treatment of cancer using chemotherapy, immunotherapy, and targeted therapy.",
-      "Provides comprehensive care for various types of cancers, including breast, lung, colorectal, and blood cancers.",
-      "Offers personalized treatment plans based on the type and stage of cancer.",
-      "Expertise in administering advanced therapies like monoclonal antibodies and hormone treatments.",
-      "Works in coordination with surgical and radiation oncologists for multidisciplinary cancer care."
+      "Specializes in the medical care of infants, children, and adolescents",
+      "Focuses on both preventive health and treatment of childhood illnesses",
+      "Manages conditions such as infections, congenital disorders, and developmental issues",
+      "Provides immunizations and monitors growth and developmental milestones",
+      "Works closely with families to ensure overall physical and mental well-being of children"
     ],
     "done": [
-      "Expertise in advanced cancer treatments, including chemotherapy, immunotherapy, and targeted therapy.",
-      "Highly experienced oncologists trained at top international institutions.",
-      "Access to state-of-the-art cancer care facilities with advanced diagnostic and treatment technologies.",
-      "Cost-effective cancer treatments compared to many Western countries.",
-      "Availability of cutting-edge therapies and participation in global clinical trials."
+      "Renowned pediatric specialists with global expertise",
+      "Affordable healthcare services with high-quality care",
+      "Access to advanced pediatric treatments and state-of-the-art technology",
+      "Multispecialty hospitals providing comprehensive pediatric care",
+      "Excellent success rates in treating complex pediatric conditions and surgeries"
     ]
   },
-  "twentythree": {
-    "name": "Surgical Oncology",
-    "detail": [
-      "Specializes in the surgical treatment of cancer, including tumor removal and reconstruction.",
-      "Expertise in minimally invasive surgical techniques, such as laparoscopic and robotic surgery.",
-      "Provides care for various cancers, including breast, lung, gastrointestinal, and head and neck cancers.",
-      "Works closely with medical oncologists and radiation oncologists for comprehensive cancer management.",
-      "Utilizes advanced imaging techniques for precise tumor localization and surgical planning."
-    ],
-    "done": [
-      "Highly skilled surgical oncologists with extensive training and experience.",
-      "Access to advanced surgical technologies and techniques, including robotic surgery.",
-      "Comprehensive cancer care through a multidisciplinary approach involving various specialists.",
-      "Cost-effective treatment options compared to many Western countries.",
-      "High success rates in complex surgical procedures for cancer treatment."
-    ]
-  },
-  "twentyfour": {
-    "name": "Gynaecological Oncology",
-    "detail": [
-      "Specializes in the diagnosis and treatment of cancers of the female reproductive system, including ovarian, cervical, uterine, and vulvar cancers.",
-      "Expertise in performing complex surgeries, such as hysterectomies and tumor removals.",
-      "Utilizes minimally invasive surgical techniques for reduced recovery time and scarring.",
-      "Provides comprehensive care including chemotherapy and radiation therapy for gynecological cancers.",
-      "Offers genetic counseling and testing for hereditary cancer risks, such as BRCA mutations."
-    ],
-    "done": [
-      "Access to highly qualified gynecological oncologists with international training and expertise.",
-      "Comprehensive cancer care centers equipped with advanced diagnostic and treatment technologies.",
-      "Cost-effective treatment options compared to many Western countries.",
-      "High success rates in surgical and non-surgical treatments for gynecological cancers.",
-      "Multidisciplinary approach ensuring collaborative care involving various specialists."
-    ]
-  },
-  "twentyfive": {
-    "name": "Paediatric Surgery",
-    "detail": [
-      "Specializes in surgical care for infants, children, and adolescents.",
-      "Expertise in treating congenital anomalies, such as cleft lip and palate, and hernias.",
-      "Performs minimally invasive procedures to reduce recovery time and scarring.",
-      "Manages conditions affecting the gastrointestinal tract, such as intestinal obstruction and appendicitis.",
-      "Addresses urological issues, including undescended testes and bladder abnormalities."
-    ],
-    "done": [
-      "Highly specialized pediatric surgeons with extensive training and experience in child care.",
-      "Access to advanced surgical technologies and techniques specifically designed for children.",
-      "Comprehensive pediatric care centers equipped for a wide range of surgical procedures.",
-      "High success rates in treating complex congenital and acquired conditions.",
-      "Family-centered care that involves parents in the treatment process for better outcomes."
-    ]
-  },
-  "twentysix": {
-    "name": "General Medicine",
-    "detail": [
-      "Focuses on the diagnosis, treatment, and prevention of a wide range of adult diseases.",
-      "Provides comprehensive care for chronic conditions like diabetes, hypertension, and heart disease.",
-      "Conducts routine health check-ups and preventive screenings to detect health issues early.",
-      "Manages acute illnesses, infections, and injuries, providing timely interventions.",
-      "Offers lifestyle and dietary counseling to promote overall health and wellness."
-    ],
-    "done": [
-      "Access to highly qualified general practitioners and specialists with international training.",
-      "Comprehensive healthcare facilities equipped with advanced diagnostic and treatment technologies.",
-      "Cost-effective treatment options compared to many Western countries.",
-      "Emphasis on preventive care and early detection through regular health screenings.",
-      "Multidisciplinary approach for managing complex health conditions."
-    ]
-  },
-  "twentyseven": {
-    "name": "General Physician",
-    "detail": [
-      "Specializes in providing primary care and managing overall health for adults.",
-      "Conducts comprehensive health assessments and physical examinations.",
-      "Diagnoses and treats a wide range of acute and chronic medical conditions.",
-      "Manages ongoing care for diseases such as diabetes, hypertension, and respiratory disorders.",
-      "Provides preventive care, including vaccinations and health screenings."
-    ],
-    "done": [
-      "Highly trained general physicians with extensive knowledge in various medical fields.",
-      "Access to advanced healthcare facilities equipped with modern diagnostic tools.",
-      "Cost-effective treatment options compared to many Western countries.",
-      "Comprehensive preventive care services to promote overall health and wellness.",
-      "Shorter waiting times for consultations and medical services."
-    ]
-  },
-  "twentyeight": {
-    "name": "Neuro Surgery",
-    "detail": [
-      "Specializes in the surgical treatment of conditions affecting the brain, spine, and nervous system.",
-      "Expertise in procedures such as craniotomy, spinal fusion, and tumor removal.",
-      "Treats conditions like brain tumors, aneurysms, epilepsy, and traumatic brain injuries.",
-      "Utilizes advanced imaging techniques for accurate diagnosis and surgical planning.",
-      "Offers minimally invasive surgical options to reduce recovery time and complications."
-    ],
-    "done": [
-      "Highly skilled neurosurgeons with extensive training and experience in complex procedures.",
-      "Access to state-of-the-art medical facilities and advanced surgical technologies.",
-      "Cost-effective treatment options compared to many Western countries.",
-      "High success rates in neurosurgical procedures, including complex brain and spine surgeries.",
-      "Multidisciplinary approach ensuring comprehensive care involving neurologists and rehabilitation specialists."
-    ]
-  },
-  "twentynine": {
+  "fifteen": {
     "name": "Rheumatology",
     "detail": [
       "Specializes in the diagnosis and treatment of rheumatic diseases, including arthritis, lupus, and gout.",
@@ -405,6 +252,176 @@
       "Cost-effective treatment options compared to many Western countries.",
       "Personalized care plans focusing on both medical management and lifestyle adjustments.",
       "Availability of the latest medications, including biologics and immunosuppressants."
+    ]
+  },
+  "sixteen": {
+    "name": "Interventional Radiology",
+    "detail": [
+      "Minimally invasive procedures using imaging guidance such as X-rays, CT scans, and MRIs",
+      "Used to diagnose and treat conditions like tumors, blood clots, and vascular diseases",
+      "Reduces the need for open surgeries, resulting in faster recovery times",
+      "Common procedures include angioplasty, embolization, and biopsies",
+      "Provides targeted treatments with fewer risks and shorter hospital stays"
+    ],
+    "done": [
+      "Expertise in advanced, minimally invasive interventional radiology procedures",
+      "World-class hospitals with cutting-edge imaging technology",
+      "Significantly lower treatment costs compared to many other countries",
+      "Highly skilled interventional radiologists with international training and certifications",
+      "Comprehensive care with quicker recovery and shorter hospital stays"
+    ]
+  },
+  "seventeen": {
+    "name": "Trauma & Emergency",
+    "detail": [
+      "Focuses on the immediate medical treatment of acute injuries and life-threatening conditions",
+      "Provides critical care for trauma patients, including surgical interventions when necessary",
+      "Equipped with specialized trauma centers and emergency departments for rapid response",
+      "Multidisciplinary teams including surgeons, nurses, and specialists for comprehensive care",
+      "Emphasizes quick assessment and stabilization to improve patient outcomes in emergencies"
+    ],
+    "done": [
+      "Access to advanced trauma care facilities with state-of-the-art equipment",
+      "Highly trained emergency medical professionals experienced in managing critical cases",
+      "Cost-effective treatment options without compromising on quality of care",
+      "Availability of specialized trauma centers offering 24/7 emergency services",
+      "Proven track record of successful outcomes in trauma management and emergency interventions"
+    ]
+  },
+  "eighteen": {
+    "name": "Hepatobiliary Surgery",
+    "detail": [
+      "Specializes in the surgical treatment of diseases affecting the liver, bile ducts, and gallbladder",
+      "Common procedures include liver resections, liver transplants, and laparoscopic cholecystectomy",
+      "Addresses conditions such as liver cancer, cirrhosis, and biliary obstructions",
+      "Utilizes advanced techniques to minimize recovery time and enhance patient outcomes",
+      "Works in collaboration with gastroenterologists and oncologists for comprehensive patient care"
+    ],
+    "done": [
+      "Availability of highly skilled hepatobiliary surgeons with international training and experience",
+      "Access to advanced surgical facilities and cutting-edge technology for complex procedures",
+      "Cost-effective treatment options compared to Western countries, without compromising on quality",
+      "Comprehensive care including pre-operative assessment, surgery, and post-operative support",
+      "High success rates in liver surgeries and transplants due to expertise and well-established protocols"
+    ]
+  },
+  "nineteen": {
+    "name": "Robotic Surgery",
+    "detail": [
+      "Minimally invasive surgical technique that utilizes robotic systems for precision and control",
+      "Offers enhanced visualization through 3D imaging and magnification, leading to more accurate procedures",
+      "Reduces patient recovery time, scarring, and pain compared to traditional open surgery",
+      "Commonly used in procedures such as prostatectomy, hysterectomy, and bariatric surgery",
+      "Allows surgeons to perform complex surgeries with improved dexterity and flexibility"
+    ],
+    "done": [
+      "Access to world-class hospitals equipped with the latest robotic surgery technology",
+      "Highly experienced and trained surgeons specializing in robotic-assisted procedures",
+      "Cost-effective treatment options, significantly lower than those in many Western countries",
+      "Comprehensive care, including personalized treatment plans and post-operative support",
+      "High success rates and patient satisfaction due to advanced surgical techniques and protocols"
+    ]
+  },
+  "twenty": {
+    "name": "Critical Care",
+    "detail": [
+      "Provides specialized medical care for patients with life-threatening conditions or severe illnesses",
+      "Equipped with advanced monitoring equipment and life-support systems for continuous patient assessment",
+      "Involves a multidisciplinary team of healthcare professionals, including intensivists, nurses, and respiratory therapists",
+      "Focuses on stabilizing patients through timely interventions and advanced treatment protocols",
+      "Plays a crucial role in managing complex cases, including those requiring surgery, organ support, or intensive monitoring"
+    ],
+    "done": [
+      "Availability of top-tier critical care units with state-of-the-art technology and facilities",
+      "Highly trained intensivists and medical professionals experienced in managing complex cases",
+      "Cost-effective treatment options, offering high-quality care at a fraction of the price in many Western countries",
+      "Access to advanced life-support systems and rapid response teams for timely interventions",
+      "Comprehensive post-ICU care and rehabilitation services to ensure better patient outcomes"
+    ]
+  },
+  "twentyone": {
+    "name": "Lung Transplant",
+    "detail": [
+      "Surgical procedure to replace a diseased lung with a healthy lung from a donor",
+      "Offers hope for patients with end-stage lung diseases such as COPD, pulmonary fibrosis, or cystic fibrosis",
+      "Involves a thorough evaluation process to determine eligibility and suitability for transplantation",
+      "Requires lifelong immunosuppressive therapy to prevent organ rejection post-transplant",
+      "A multidisciplinary team, including pulmonologists, surgeons, and transplant coordinators, ensures comprehensive care throughout the transplant process"
+    ],
+    "done": [
+      "Access to highly skilled lung transplant surgeons and medical teams with international training and expertise",
+      "World-class hospitals equipped with advanced technologies and facilities for lung transplantation",
+      "Cost-effective treatment options compared to Western countries, making it more accessible for patients",
+      "Comprehensive pre- and post-operative care, including personalized treatment plans and rehabilitation services",
+      "High success rates and improved patient outcomes due to well-established protocols and extensive experience in organ transplantation"
+    ]
+  },
+  "twentytwo": {
+    "name": "Pain Medicine & Palliative Care",
+    "detail": [
+      "Focuses on the management of chronic pain and improving the quality of life for patients with serious illnesses",
+      "Employs a multidisciplinary approach, involving pain specialists, psychologists, physiotherapists, and social workers",
+      "Utilizes various treatment modalities, including medications, nerve blocks, physical therapy, and psychological support",
+      "Provides holistic care that addresses the physical, emotional, and spiritual needs of patients and their families",
+      "Aims to alleviate suffering, enhance comfort, and support patients in making informed decisions about their care"
+    ],
+    "done": [
+      "Availability of experienced pain management specialists and palliative care teams with a compassionate approach",
+      "Access to advanced treatment options, including innovative pain management techniques and therapies",
+      "Cost-effective care, offering high-quality services at a significantly lower price than in many Western countries",
+      "Comprehensive support services, including counseling and social support for patients and families",
+      "Emphasis on patient-centered care, ensuring tailored treatment plans that address individual needs and preferences"
+    ]
+  },
+  "twentythree": {
+    "name": "Reproductive Medicine",
+    "detail": [
+      "Focuses on diagnosing and treating fertility issues and reproductive health problems in individuals and couples",
+      "Offers a range of assisted reproductive technologies (ART) such as in vitro fertilization (IVF), intrauterine insemination (IUI), and egg/sperm donation",
+      "Provides comprehensive evaluations to identify underlying causes of infertility, including hormonal imbalances, structural issues, and genetic factors",
+      "Utilizes advanced techniques like preimplantation genetic testing (PGT) to improve success rates and reduce risks of genetic disorders",
+      "Offers emotional support and counseling services to help patients navigate the challenges of fertility treatments and make informed decisions"
+    ],
+    "done": [
+      "Access to highly qualified reproductive medicine specialists and fertility clinics with international accreditation and experience",
+      "Advanced reproductive technologies and innovative treatment options available at competitive prices compared to Western countries",
+      "High success rates in assisted reproductive techniques, supported by well-established protocols and cutting-edge technology",
+      "Comprehensive care that includes emotional and psychological support for individuals and couples facing fertility challenges",
+      "A wide range of donor programs for eggs and sperm, ensuring diverse options for patients from different backgrounds and preferences"
+    ]
+  },
+  "twentyfour": {
+    "name": "Respiratory/Pulmonology & Sleep Medicine",
+    "detail": [
+      "Specializes in diagnosing and treating respiratory conditions, including asthma, chronic obstructive pulmonary disease (COPD), and lung infections",
+      "Provides comprehensive evaluations for sleep disorders, including sleep apnea, insomnia, and restless leg syndrome",
+      "Utilizes advanced diagnostic tools such as pulmonary function tests, bronchoscopy, and sleep studies to identify conditions accurately",
+      "Offers a variety of treatment options, including medications, inhalation therapies, pulmonary rehabilitation, and lifestyle modification programs",
+      "Focuses on patient education and management strategies to help individuals effectively manage their respiratory and sleep health"
+    ],
+    "done": [
+      "India has a vast network of accredited hospitals and clinics specializing in respiratory and sleep medicine, staffed by experienced pulmonologists and sleep specialists",
+      "Access to advanced diagnostic and therapeutic technologies at a fraction of the cost compared to many Western countries",
+      "Availability of comprehensive treatment plans tailored to individual needs, ensuring effective management of respiratory and sleep disorders",
+      "High-quality care provided by medical professionals who are often trained internationally and stay updated with the latest advancements in their fields",
+      "Emphasis on holistic patient care, including lifestyle and behavioral counseling, which supports long-term health and well-being"
+    ]
+  },
+  "twentyfive": {
+    "name": "Head & Neck Surgery",
+    "detail": [
+      "Focuses on diagnosing and treating conditions affecting the head and neck region, including tumors, infections, and congenital anomalies",
+      "Specializes in minimally invasive surgical techniques, including endoscopic procedures, to reduce recovery times and improve outcomes",
+      "Offers comprehensive care for patients with oral, throat, and laryngeal cancers, including advanced imaging and reconstructive options",
+      "Provides multidisciplinary approaches involving oncologists, radiologists, and speech therapists for comprehensive treatment plans",
+      "Emphasizes patient education and rehabilitation, helping individuals regain functionality and quality of life post-treatment"
+    ],
+    "done": [
+      "India has numerous specialized hospitals and clinics offering head and neck surgery, equipped with state-of-the-art technology and facilities",
+      "Highly skilled surgeons with extensive training and experience in both surgical and non-surgical interventions for head and neck conditions",
+      "Competitive pricing for treatments, making advanced healthcare accessible without compromising on quality",
+      "Multidisciplinary care teams that provide holistic treatment plans, ensuring comprehensive support throughout the recovery process",
+      "The presence of a growing medical tourism industry, which facilitates seamless travel and accommodation for international patients seeking treatment"
     ]
   }
 }
