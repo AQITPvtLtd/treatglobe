@@ -109,7 +109,7 @@ const SearchBar = () => {
                         src={`/doctors/${doctor.hid}/${doctor.image}`}
                         width={100}
                         height={100}
-                        className="object-cover w-10 h-10"
+                        className="object-contain w-10 h-10"
                       />
                     </div>
                     <li className="p-1 text-gray-800 rounded-md transition-colors duration-300">
