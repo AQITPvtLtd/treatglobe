@@ -830,7 +830,7 @@ export const doctordata = [
   {
     id: 56,
     hid: 1,
-    name: "Dr. Sumeet Aggarwal",
+    name: "Dr. Sumeet Agrawal",
     post: "doctorDetailed:d56.post",
     image: "d5.jpg",
     experience: "13+",
@@ -1100,7 +1100,7 @@ export const doctordata = [
   {
     id: 74,
     hid: 1,
-    name: "Dr. Renu Sehgal",
+    name: "Dr. Renu Raina Sehgal",
     post: "doctorDetailed:d74.post",
     image: "d25.jpg",
     experience: "",
@@ -1280,7 +1280,7 @@ export const doctordata = [
   {
     id: 86,
     hid: 1,
-    name: "Dr. Kapil Kochar",
+    name: "Dr. Kapil Kochhar",
     post: "doctorDetailed:d86.post",
     image: "d37.jpg",
     experience: "28+",
