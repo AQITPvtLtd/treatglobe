@@ -70,12 +70,12 @@ const Header = () => {
           : " bg-transparent"
       }`}
     >
-      <div className="bg-white lg:grid flex gap-x-2 grid-cols-6 justify-evenly text-lg text-white">
+      <div className="bg-white  grid gap-x-5 lg:grid-cols-6 grid-cols-2 justify-evenly text-lg text-white">
         <div className="lg:w-[480px] lg:mx-10">
           <Link
             href="/"
             className={`header-logo block w-full ${
-              sticky ? "py-5 lg:py-2" : "py-2"
+              sticky ? "py-2 lg:py-2" : "py-1"
             }`}
           >
             <Image
@@ -91,6 +91,30 @@ const Header = () => {
           <LanguageChanger />
         </div>
 
+        <div className="lg:flex hidden col-span-3 col-start-3 mx-5 items-center">
+          <SearchBar />
+        </div>
+
+        <div className="lg:mx-0 text-primary mx-14 lg:flex lg:mt-0 mt-2 items-center justify-center hidden">
+          <div>
+            <Link
+              href="/contact"
+              className="bg-primary hover:bg-primary/80 shadow-md text-white py-2 px-3 col-start-3 rounded-md flex justify-end"
+            >
+              <div>Get Free Quote</div>
+            </Link>
+          </div>
+        </div>
+      </div>
+      <div className="bg-white lg:hidden flex justify-between text-lg text-white">
+        <div className="lg:hidden flex items-center mx-2 mb-2">
+          <Link
+            href="/contact"
+            className="bg-primary hover:bg-primary/80 shadow-md text-white py-2 px-3 col-start-3 rounded-md flex justify-end"
+          >
+            <div>Get Free Quote</div>
+          </Link>
+        </div>
         <button
           onClick={() => setNavbarOpen(!navbarOpen)}
           aria-label="Mobile Menu"
@@ -130,6 +154,7 @@ const Header = () => {
           </div>
         </div>
       </div>
+
       <div className="lg:hidden w-full bg-primary col-span-3 col-start-3 items-center">
         <SearchBar />
       </div>
@@ -139,9 +164,9 @@ const Header = () => {
           <nav
             className={`navbar absolute right-0 z-30 rounded px-6 duration-300 dark:border-body-color/20 lg:visible lg:static w-full lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
               navbarOpen
-                ? "visibility top-[10%] opacity-100"
+                ? "visibility top-[20%] opacity-100"
                 : "invisible top-[120%] opacity-0"
-            } ${sticky && "top-[45%]"}`}
+            } ${sticky && "top-[80%]"}`}
           >
             <ul className="block lg:grid grid-cols-8 items-center gap-2 relative bg-primary">
               {menu.map((menuItem, index) => (
