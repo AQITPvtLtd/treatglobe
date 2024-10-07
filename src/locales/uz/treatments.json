@@ -1,7 +1,427 @@
 {
-  "header": "Ishlab chiqarish va maxsuslik",
-  "one": "Onkologiya",
-  "two": "Ortopedik jarrohlik",
-  "three": "Nevrojarrohlik va Cyberknife",
-  "four": "Transplantatsiya jarrohligi"
+  "header": "Murakkab davolash va mutaxassislik",
+  "heading2": "Nima uchun bu davolanish uchun Hindistonni tanlaysiz?",
+  "one": {
+    "name": "Kardiologiya",
+    "detail": [
+      "Kardiologiya - bu yurak-qon tomir tizimidagi yurak va qon tomirlari kasalliklariga qaratilgan tibbiy mutaxassislik.",
+      "Bu yurak bilan bog'liq turli xil sharoitlarni o'rganish, tashxis qo'yish va davolashni o'z ichiga oladi.",
+      "Koronar arteriya kasalligi: yurakni qon bilan ta'minlaydigan arteriyalar torayib, yurak xurujiga olib keladigan holat.",
+      "Aritmiyalar: juda tez, juda sekin yoki tartibsiz bo'lishi mumkin bo'lgan tartibsiz yurak urishlari.",
+      "Yurak etishmovchiligi: yurak tananing ehtiyojlarini qondirish uchun qonni samarali pompalamoqchi bo'lgan holat."
+    ],
+    "done": [
+      "Hindiston kardiologiya bilan bog'liq davolanish uchun etakchi joy sifatida paydo bo'ldi.",
+      "Mamlakatda jahon tajribasiga ega yuqori malakali kardiologlar bor, ularning ko‘pchiligi nufuzli xalqaro tibbiyot muassasalarida malaka oshirgan",
+      "Hind kasalxonalari ilg'or diagnostika vositalari va davolash usullarini taklif qiluvchi eng so'nggi texnologiyalar bilan jihozlangan.",
+      "Mavjud muolajalar robotlar yordamida jarrohlik operatsiyalari, angioplastika va yurak transplantatsiyasini o'z ichiga oladi.",
+      "Xalqaro bemorlarni Hindistonda tibbiy yordamning arzonligi o'ziga jalb qiladi.",
+      "Hindistonda kardiologiya muolajalarining narxi G'arb mamlakatlariga qaraganda ancha past, bu esa tibbiy xizmat sifatini buzmaydi"
+    ]
+  },
+  "two": {
+    "name": "Ortopedik va bo'g'imlarni almashtirish",
+    "detail": [
+      "Mushak-skelet tizimi va bo'g'imlarga qaratilgan ixtisoslashtirilgan tibbiyot yo'nalishi",
+      "Osteoartrit, revmatoid artrit, bo'g'imlardagi og'riqlar va sinishlar davolanadigan umumiy kasalliklar",
+      "Jarrohlik usullari umumiy bo'g'inlarni almashtirish va qisman bo'g'inlarni almashtirishni o'z ichiga oladi",
+      "Tezroq tiklanish uchun minimal invaziv jarrohlik",
+      "Aniqlik uchun robot yordamida jarrohlikdan foydalanish",
+      "Buyurtma asosida tayyorlangan protezlar uchun 3D bosib chiqarish"
+    ],
+    "done": [
+      "Xalqaro akkreditatsiyadan o'tgan shifoxonalar bilan jahon darajasidagi sog'liqni saqlash",
+      "G'arb mamlakatlariga nisbatan 50-70% tejamkorlik bilan davolash",
+      "Robot yordamida jarrohlik va 3D bosib chiqarish kabi ilg'or texnologiyalar",
+      "Yuqori malakali va tajribali ortoped-jarrohlar",
+      "Operatsiya va muolajalar uchun minimal kutish vaqti",
+      "Xalqaro bemorlar uchun ko'p tilli xodimlar bilan madaniy tanish muhitlar"
+    ]
+  },
+  "three": {
+    "name": "Nevrologiya",
+    "detail": [
+      "Asab tizimining kasalliklari bilan shug'ullanadigan tibbiyot bo'limi.",
+      "Markaziy asab tizimiga (CNS) va periferik asab tizimiga (PNS) e'tibor bering.",
+      "Insult va vaqtinchalik ishemik hujum (TIA) kabi serebrovaskulyar kasalliklarni o'rganish.",
+      "Epilepsiya va tutqanoq kasalliklarini boshqarish.",
+      "Altsgeymer va Parkinson kabi neyrodegenerativ kasalliklarni o'rganish.",
+      "Bosh og'rig'ini, shu jumladan migren va kuchlanish bosh og'rig'ini davolash.",
+      "Miasteniya gravis va mushak distrofiyasi kabi nerv-mushak kasalliklarini hal qilish."
+    ],
+    "done": [
+      "Iqtisodiy yordam: Hindiston G'arb mamlakatlari bilan solishtirganda arzon narxlarda yuqori sifatli nevrologik davolanishni taklif qiladi, bu esa bemorlar uchun qulay variantga aylanadi.",
+      "Ilg'or tibbiy texnologiyalar: Hindistondagi ko'plab shifoxonalar nevrologik kasalliklarni aniq tashxislash va samarali davolash uchun eng yangi texnologiyalar va jihozlar bilan jihozlangan",
+      "Yuqori malakali mutaxassislar: Hindistonda xalqaro miqyosda e'tirof etilgan muassasalarda o'qitilgan nevrolog va neyroxirurglar soni ortib bormoqda, bu esa ekspert yordamini ta'minlaydi",
+      "Kompleks davolash imkoniyatlari: Bemorlar dori-darmonlar, jarrohlik, reabilitatsiya va individual ehtiyojlarga moslashtirilgan innovatsion terapiyani o'z ichiga olgan keng ko'lamli davolash usullaridan foydalanishlari mumkin."
+    ]
+  },
+  "four": {
+    "name": "Gematologiya",
+    "detail": [
+      "Gematologiya anemiya, leykemiya, limfoma va qon ivish kasalliklari kabi qon kasalliklarini tashxislash, davolash va oldini olishga qaratilgan",
+      "U qon quyish, suyak iligi biopsiyalari va ildiz hujayra transplantatsiyasini o'z ichiga olgan bir qator protseduralarni o'z ichiga oladi",
+      "Gematologlar onkologlar bilan leykemiya va ko'p miyelom kabi qon bilan bog'liq saraton kasalliklarini davolash uchun yaqindan hamkorlik qiladilar",
+      "Zamonaviy gematologiya muolajalari immunoterapiya, maqsadli terapiya va ilg'or kimyoterapiya protokollarini o'z ichiga olishi mumkin",
+      "Ixtisoslashgan laboratoriyalar qon namunalarini tahlil qilish, anormalliklarni aniqlash va davolash samaradorligini nazorat qilish uchun ishlatiladi"
+    ],
+    "done": [
+      "Hindistonda murakkab qon kasalliklarini davolashda katta tajribaga ega xalqaro miqyosda o'qitilgan gematologlar va onkologlar mavjud",
+      "Kasalxonalar immunoterapiya, ildiz hujayra transplantatsiyasi va maqsadli terapiya kabi ilg'or davolash usullarini taklif qiladi, bu esa ilg'or tibbiy yordamdan foydalanish imkonini beradi",
+      "Hindiston shifoxonalaridagi zamonaviy laboratoriyalar va texnologiyalar aniq tashxis va keng qamrovli gematologiya xizmatlarini ta'minlaydi",
+      "Hindistonda davolanish xarajatlari G'arb mamlakatlariga qaraganda ancha past, arzon narxlarda yuqori sifatli yordam ko'rsatish",
+      "Hindistondagi ko'plab kasalxonalar JCI va NABH kabi global organlar tomonidan akkreditatsiya qilingan bo'lib, bemorlarni parvarish qilish va xavfsizligining yuqori standartlarini ta'minlaydi"
+    ]
+  },
+  "five": {
+    "name": "Onkologiya",
+    "detail": [
+      "Saratonni tashxislash, davolash va boshqarishga e'tibor beradi.",
+      "Turli mutaxassisliklarni o'z ichiga oladi: tibbiy onkologiya, jarrohlik onkologiyasi, radiatsiya onkologiyasi va bolalar onkologiyasi.",
+      "Tibbiy onkologiya saraton kasalligini davolash uchun kimyoterapiya, immunoterapiya va maqsadli terapiyadan foydalanishni o'z ichiga oladi.",
+      "Xirurgik onkologiya o'smalar va uning atrofidagi to'qimalarni jarrohlik yo'li bilan olib tashlashga ixtisoslashgan.",
+      "Radiatsion onkologiya saraton hujayralarini o'ldirish yoki kamaytirish uchun yuqori energiyali nurlanishdan foydalanadi."
+    ],
+    "done": [
+      "Klinik sinovlarda ishtirok etish ilg'or terapiya va davolash usullaridan foydalanish imkonini beradi.",
+      "Bemorlarga xizmat ko'rsatishning yuqori standartlari va onkologiyada muvaffaqiyatli davolanish natijalari uchun obro'-e'tibor ortib bormoqda.",
+      "Xalqaro bemorlar uchun mustahkam qo'llab-quvvatlash tizimlari, shu jumladan sayohat, turar joy va keyingi parvarishlash uchun maxsus xizmatlar.",
+      "Madaniy xilma-xillik va mehmondo'stlik bemorlarga davolanish paytida o'zlarini uyda his qilishlariga yordam beradi.",
+      "Bemorning individual ehtiyojlari va sharoitlariga moslashtirilgan shaxsiylashtirilgan davolash rejalariga katta e'tibor."
+    ]
+  },
+  "six": {
+    "name": "Kosmetik va plastik jarrohlik",
+    "detail": [
+      "Yuzni yoshartirish, tanani konturlash va rekonstruktiv operatsiyalarni o'z ichiga olgan keng qamrovli muolajalar",
+      "Minimal invaziv jarrohlik, endoskopik muolajalar va lazer bilan davolash kabi ilg'or usullar.",
+      "Kosmetik va plastik jarrohlik bo'yicha xalqaro tayyorgarlik va tajribaga ega yuqori malakali jarrohlar",
+      "Eng so'nggi texnologiyalar va xavfsizlik standartlari bilan jihozlangan zamonaviy inshootlar.",
+      "Jarrohlik va tiklanish jarayonlarida bemorning xavfsizligi va qulayligiga e'tibor qaratiladi."
+    ],
+    "done": [
+      "Raqobatbardosh narxlarda yuqori sifatli tibbiy xizmat ko'rsatish, kosmetik va plastik jarrohlik kengroq bemorlar uchun ochiq bo'lishi",
+      "Dunyoga mashhur jarrohlar ilg'or muolajalar bo'yicha tajriba va mahoratni ta'minlab, eng yaxshi global muassasalarda o'qitilgan.",
+      "Xalqaro standartlarga javob beradigan zamonaviy texnologiyalar va jihozlarga ega ilg‘or tibbiy infratuzilma.",
+      "Operatsiyadan oldingi maslahatlar, jarrohlik muolajalari va operatsiyadan keyingi keng ko'lamli yordamni o'z ichiga olgan kompleks parvarish"
+    ]
+  },
+  "seven": {
+    "name": "Urologiya",
+    "detail": [
+      "Kompleks yordam: Davolashlar buyrak toshlari, prostata kengayishi, siydik yo'llari infektsiyalari (UTI), siydik pufagi muammolari va urologik saratonlarni o'z ichiga olgan turli xil urologik kasalliklarni qamrab oladi.",
+      "Ilg'or texnologiyalar: robotlashtirilgan jarrohlik tizimlari, toshni olib tashlash uchun lazer texnologiyasi va minimal invaziv usullar kabi zamonaviy uskunalar keng qo'llaniladi.",
+      "Mutaxassis urologlar: Ko'pchilik xalqaro tayyorgarlikka ega bo'lgan tajribali mutaxassislar murakkab urologik jarrohlik va muolajalar bo'yicha tajriba taklif qiladilar.",
+      "Minimal invaziv muolajalar: laparoskopik operatsiyalar va lazer bilan davolash kabi usullar tezroq tiklanish vaqtini va operatsiyadan keyingi noqulaylikni kamaytirishga olib keladi."
+    ],
+    "done": [
+      "Jahon toifasidagi tibbiy muassasalar: Hindistonda ilg'or diagnostika vositalari va yaxshi natijalarga erishish uchun minimal invaziv muolajalar bilan ta'minlangan ilg'or texnologiyalarga ega shifoxonalar joylashgan.",
+      "Ilg'or robototexnika va laparoskopik jarrohlik: Hindiston urologiya uchun robot va laparoskopik usullarni qo'llash, tiklanish vaqtlarini qisqartirish va jarrohlik xavfini kamaytirish bo'yicha etakchi hisoblanadi.",
+      "Operatsiyadan keyingi a'lo yordam: Hindiston bemorni tiklash, og'riqni boshqarish va reabilitatsiyaga e'tibor qaratgan holda mustahkam tibbiy xizmatlarni taqdim etadi.",
+      "Yuqori muvaffaqiyat ko'rsatkichlari: Hindiston urologiya markazlari butun dunyo bo'ylab bemorlarni jalb qiladigan buyrak toshlarini olib tashlash, prostata operatsiyalari va buyrak transplantatsiyasi kabi muolajalar uchun yuqori muvaffaqiyat ko'rsatkichlariga ega."
+    ]
+  },
+  "eight": {
+    "name": "Yurak-torakal va qon tomir jarrohligi",
+    "detail": [
+      "Jarrohlar ko'pincha yurak va qon tomirlarini o'z ichiga olgan murakkab, ko'p qismli operatsiyalarni amalga oshiradilar, ayniqsa yurak va katta qon tomirlariga ta'sir qiladigan aorta anevrizmasi kabi holatlar uchun.",
+      "Ilg'or tasvirlash usullari, robototexnika va minimal invaziv vositalardan foydalanish natijalarni yaxshilashga va tiklanish vaqtlarini qisqartirishga yordam beradi.",
+      "Yurak-torakal va qon tomir operatsiyalari ko'pincha operatsiyadan keyingi keng qamrovli yordamni talab qiladi, shu jumladan ICU kabi ixtisoslashtirilgan bo'limlarda yurak reabilitatsiyasiga e'tibor qaratiladi."
+    ],
+    "done": [
+      "Jarrohlikdan keyingi keng qamrovli tibbiy yordam va reabilitatsiya xizmatlaridan foydalanish bemorlarning tiklanish natijalarini oshiradi.",
+      "Hindiston ko'plab G'arb mamlakatlariga qaraganda operatsiyalarni kutish vaqtini qisqartiradi, bu esa o'z vaqtida aralashuvga imkon beradi.",
+      "Ko'pgina kasalxonalar sayohat, turar joy va davolanishdan keyingi yordam uchun xalqaro bemorlarga xizmat ko'rsatishga bag'ishlangan.",
+      "Hindistonning madaniy xilma-xilligi va mehmondo'stligi bemorlar va ularning oilalari uchun qulay va qulay muhit yaratishga yordam beradi."
+    ]
+  },
+  "nine": {
+    "name": "Nefrologiya",
+    "detail": [
+      "Buyrak bilan bog'liq kasalliklar va kasalliklarni tashxislash va davolashga ixtisoslashgan",
+      "Surunkali buyrak kasalligini (KBH), buyrak toshlarini, gipertoniyani va o'tkir buyrak shikastlanishini (AKI) davolaydi",
+      "Oxirgi bosqich buyrak kasalligi (ESRD) bilan og'rigan bemorlar uchun dializni boshqarish bo'yicha mutaxassislar",
+      "Buyrak transplantatsiyasi bilan og'rigan bemorlarni baholash va operatsiyadan keyingi parvarishlashda ishtirok etish",
+      "Tizimli va buyraklar bilan bog'liq kasalliklarga kompleks yordam ko'rsatish uchun boshqa mutaxassislar bilan hamkorlik qiladi"
+    ],
+    "done": [
+      "Ilg'or texnologiyalar va infratuzilmaga ega jahon darajasidagi tibbiyot muassasalari",
+      "Yuqori tajribali va xalqaro miqyosda o'qitilgan nefrologlar",
+      "Boshqa mamlakatlarga nisbatan arzon davolash imkoniyatlari",
+      "Kompleks tibbiy yordam, shu jumladan dializ, transplantatsiya va maxsus protseduralar",
+      "Nefrologiyada ilg'or tadqiqotlar va innovatsion davolash usullarining mavjudligi"
+    ]
+  },
+  "ten": {
+    "name": "KBB",
+    "detail": [
+      "Quloq, burun va tomoq kasalliklarini, shu jumladan eshitish qobiliyatini yo'qotish va muvozanat muammolarini har tomonlama baholash va tashxislash",
+      "Eshitishning og'ir buzilishi uchun koxlear implantlar kabi ilg'or jarrohlik muolajalar bo'yicha mutaxassis.",
+      "Diagnostik testlar, jumladan audiometriya, tasviriy tadqiqotlar va endoskopiya uchun eng zamonaviy texnologiyalardan foydalanish.",
+      "Otolaringologlar, audiologlar va nutq terapevtlarini o'z ichiga olgan multidisipliner yondashuv.",
+      "Qayta tiklash vaqtini qisqartiradigan va bemorning natijalarini yaxshilaydigan minimal invaziv usullarga e'tibor qarating."
+    ],
+    "done": [
+      "Hindiston KBB va koxlear implantlarni davolash uchun ilg'or texnologiyalar va infratuzilmaga ega jahon darajasidagi sog'liqni saqlash muassasalarini taklif etadi.",
+      "Hindistonda davolanish narxi G'arb mamlakatlariga qaraganda ancha past bo'lib, bu xalqaro bemorlar uchun qulay variantdir.",
+      "Murakkab operatsiyalar va koxlear implantlarni amalga oshirishda katta tajribaga ega bo'lgan malakali LOR mutaxassislari va jarrohlar.",
+      "Ko'pgina shifoxonalar xalqaro bemorlarga xizmat ko'rsatishga bag'ishlangan bo'lib, ular chet ellik bemorlar uchun uzluksiz tajriba, shu jumladan sayohat va turar joy bilan yordam berishni ta'minlaydi.",
+      "Turli xil tibbiy yordam ko'rsatuvchi provayderlar va mutaxassislarga kirish individual ehtiyojlarga moslashtirilgan shaxsiylashtirilgan va har tomonlama yordam ko'rsatish imkonini beradi."
+    ]
+  },
+  "eleven": {
+    "name": "Umumiy va minimal invaziv jarrohlik",
+    "detail": [
+      "Minimal kesmalar bilan operatsiyalarni bajarishga ixtisoslashgan.",
+      "Qayta tiklanish vaqtini va operatsiyadan keyingi og'riqni kamaytirishga e'tibor qaratiladi.",
+      "Protseduralar laparoskopik, endoskopik va robotli operatsiyalarni o'z ichiga oladi.",
+      "Churra, o't pufagi kasalligi, appenditsit va oshqozon-ichak kasalliklari kabi kasalliklarni davolaydi.",
+      "Aniq tashxis va davolash uchun ilg'or vositalardan foydalanadi"
+    ],
+    "done": [
+      "Minimal invaziv usullarda yuqori malakali va tajribali jarrohlar.",
+      "Ilg'or texnologiyalar bilan jahon darajasidagi sog'liqni saqlash muassasalariga kirish.",
+      "Ko'plab boshqa mamlakatlarga nisbatan tejamkor davolash.",
+      "Jarrohlik va tibbiy muolajalarni kutish vaqti qisqaroq.",
+      "Shifoxonalar zamonaviy infratuzilma va jihozlar bilan ta’minlangan."
+    ]
+  },
+  "twelve": {
+    "name": "Gastroenterologiya",
+    "detail": [
+      "Oshqozon-ichak trakti kasalliklarini tashxislash va davolashga ixtisoslashgan.",
+      "Qizilo'ngach, oshqozon, ichak, jigar va oshqozon osti beziga ta'sir qiluvchi kasalliklarni boshqaradi.",
+      "Kislota reflyuksi, irritabiy ichak sindromi (IBS), oshqozon yarasi va Kron kasalligini davolashni taklif qiladi.",
+      "Endoskopiya, kolonoskopiya va ERCP kabi protseduralar bo'yicha tajriba.",
+      "Ham profilaktik yordamga, ham murakkab sharoitlarni davolashga qaratilgan."
+    ],
+    "done": [
+      "Oshqozon-ichak kasalliklarining keng doirasini davolash bo'yicha tajriba.",
+      "Ilg'or diagnostika va terapevtik texnologiyalarga kirish.",
+      "Tajribali gastroenterologlar jahonning eng nufuzli institutlarida ta'lim olishgan.",
+      "G'arb mamlakatlariga nisbatan tejamkor davolash imkoniyatlari.",
+      "Endoskopiya va kolonoskopiya kabi murakkab protseduralarda yuqori muvaffaqiyat ko'rsatkichlari."
+    ]
+  },
+  "thirteen": {
+    "name": "Akusherlik va ginekologiya",
+    "detail": [
+      "Ayollarning reproduktiv salomatligi va tug'ilishiga ixtisoslashgan",
+      "Homiladorlik, prenatal parvarish va tug'ilishni boshqaradi (ham oddiy, ham sezaryen).",
+      "Hayz davrining buzilishi, mioma va tuxumdon kistalarini davolashni ta'minlaydi.",
+      "PCOS, endometrioz va bepushtlik kabi kasalliklarni tashxislash va davolash bo'yicha mutaxassis.",
+      "Umumiy ginekologik tekshiruvlar va Pap smearlari orqali profilaktik yordamga e'tibor qaratadi."
+    ],
+    "done": [
+      "Global tajribaga ega yuqori malakali akusher-ginekologlar",
+      "Umumiy va yuqori xavfli homiladorlik uchun kompleks parvarish.",
+      "Prenatal skrining va homila monitoringi uchun ilg'or texnologiyalardan foydalanish.",
+      "Ko'pgina boshqa mamlakatlarga nisbatan tejamkor davolash usullari.",
+      "Minimal invaziv ginekologik operatsiyalar bo'yicha mutaxassis."
+    ]
+  },
+  "fourteen": {
+    "name": "Pediatriya",
+    "detail": [
+      "Chaqaloqlar, bolalar va o'smirlarga tibbiy yordam ko'rsatishga ixtisoslashgan",
+      "Bolalik kasalliklarini oldini olish va davolashga e'tibor qaratiladi",
+      "Infektsiyalar, tug'ma kasalliklar va rivojlanish muammolari kabi sharoitlarni boshqaradi",
+      "Immunizatsiyani ta'minlaydi va o'sish va rivojlanish bosqichlarini kuzatib boradi",
+      "Bolalarning umumiy jismoniy va ruhiy farovonligini ta'minlash uchun oilalar bilan yaqindan hamkorlik qiladi"
+    ],
+    "done": [
+      "Global tajribaga ega taniqli pediatriya mutaxassislari",
+      "Yuqori sifatli tibbiy yordam bilan arzon tibbiy xizmatlar",
+      "Pediatriyaning ilg'or davolash usullari va eng zamonaviy texnologiyalardan foydalanish imkoniyati",
+      "Ko'p ixtisoslashgan shifoxonalar bolalarga keng qamrovli yordam ko'rsatadi",
+      "Murakkab bolalar sharoitlari va operatsiyalarini davolashda ajoyib muvaffaqiyat ko'rsatkichlari"
+    ]
+  },
+  "fifteen": {
+    "name": "Revmatologiya",
+    "detail": [
+      "Revmatik kasalliklar, jumladan artrit, qizil yuguruk va podagra diagnostikasi va davolashga ixtisoslashgan.",
+      "Bo'g'imlarga, mushaklarga va biriktiruvchi to'qimalarga ta'sir qiluvchi otoimmün va yallig'lanish kasalliklarini boshqaradi.",
+      "Immunosupressantlar, biologik va yallig'lanishga qarshi dorilar kabi dori-darmonlarni o'z ichiga olgan shaxsiylashtirilgan davolash rejalarini taklif qiladi.",
+      "Revmatoid artrit va osteoartrit kabi surunkali kasalliklar uchun jarrohlik bo'lmagan davolanishni ta'minlaydi.",
+      "Kasallikning rivojlanishining oldini olish uchun erta aniqlash va aralashuvga e'tibor qaratiladi"
+    ],
+    "done": [
+      "Murakkab revmatik kasalliklarni davolashda tajribaga ega bo'lgan yuqori malakali revmatologlar",
+      "To'g'ri tashxis qo'yish va davolash uchun ilg'or diagnostika vositalari va davolash usullaridan foydalanish.",
+      "Ko'pgina G'arb mamlakatlari bilan solishtirganda iqtisodiy jihatdan samarali davolash usullari.",
+      "Shaxsiylashtirilgan parvarish rejalari tibbiy boshqaruv va turmush tarzini o'zgartirishga qaratilgan.",
+      "Oxirgi dori-darmonlar, jumladan, biologik va immunosupressantlarning mavjudligi."
+    ]
+  },
+  "sixteen": {
+    "name": "Interventsion radiologiya",
+    "detail": [
+      "Rentgen nurlari, kompyuter tomografiyasi va MRI kabi tasvirlash ko'rsatmalaridan foydalangan holda minimal invaziv protseduralar",
+      "O'smalar, qon quyqalari va qon tomir kasalliklari kabi kasalliklarni tashxislash va davolash uchun ishlatiladi",
+      "Ochiq operatsiyalarga bo'lgan ehtiyojni kamaytiradi, natijada tiklanish vaqtlari tezroq bo'ladi",
+      "Umumiy protseduralarga angioplastika, embolizatsiya va biopsiya kiradi",
+      "Kamroq xavf va qisqaroq kasalxonada qolish bilan maqsadli davolanishni ta'minlaydi"
+    ],
+    "done": [
+      "Ilg'or, minimal invaziv interventsion radiologiya muolajalari bo'yicha tajriba",
+      "Zamonaviy tasvirlash texnologiyasiga ega jahon darajasidagi shifoxonalar",
+      "Ko'plab boshqa mamlakatlarga nisbatan davolash xarajatlari sezilarli darajada past",
+      "Xalqaro ta'lim va sertifikatlarga ega yuqori malakali interventsion radiologlar",
+      "Tezroq tiklanish va qisqaroq kasalxonada qolish bilan keng qamrovli parvarish"
+    ]
+  },
+  "seventeen": {
+    "name": "Travma va favqulodda vaziyatlar",
+    "detail": [
+      "O'tkir jarohatlar va hayot uchun xavfli vaziyatlarni zudlik bilan davolashga e'tibor qaratiladi",
+      "Travmatologik bemorlarga jiddiy yordam ko'rsatadi, shu jumladan kerak bo'lganda jarrohlik aralashuvlar",
+      "Tezkor javob berish uchun maxsus travma markazlari va tez yordam bo'limlari bilan jihozlangan",
+      "Ko'p tarmoqli guruhlar, shu jumladan jarrohlar, hamshiralar va har tomonlama parvarishlash bo'yicha mutaxassislar",
+      "Favqulodda vaziyatlarda bemorning natijalarini yaxshilash uchun tezkor baholash va barqarorlashtirishga urg'u beradi"
+    ],
+    "done": [
+      "Zamonaviy uskunalar bilan jihozlangan ilg'or travmatologiya muassasalariga kirish",
+      "Muhim vaziyatlarni boshqarishda tajribaga ega yuqori malakali shoshilinch tibbiy yordam mutaxassislari",
+      "Ko'rsatish sifatiga putur etkazmasdan tejamkor davolash usullari",
+      "24/7 tez yordam xizmatlarini taklif qiluvchi ixtisoslashtirilgan travma markazlarining mavjudligi",
+      "Travmani boshqarish va favqulodda aralashuvlar bo'yicha muvaffaqiyatli natijalarning tasdiqlangan tajribasi"
+    ]
+  },
+  "eighteen": {
+    "name": "Gepatobiliar jarrohlik",
+    "detail": [
+      "Jigar, o't yo'llari va o't pufagiga ta'sir qiluvchi kasalliklarni jarrohlik yo'li bilan davolashga ixtisoslashgan",
+      "Umumiy protseduralar orasida jigar rezektsiyalari, jigar transplantatsiyasi va laparoskopik xoletsistektomiya mavjud",
+      "Jigar saratoni, siroz va o't yo'llari to'siqlari kabi holatlarga murojaat qiladi",
+      "Qayta tiklash vaqtini kamaytirish va bemorning natijalarini yaxshilash uchun ilg'or texnikalardan foydalanadi",
+      "Bemorlarga har tomonlama yordam ko'rsatish uchun gastroenterologlar va onkologlar bilan hamkorlikda ishlaydi"
+    ],
+    "done": [
+      "Xalqaro tayyorgarlik va tajribaga ega yuqori malakali gepatobilyar jarrohlarning mavjudligi",
+      "Murakkab muolajalar uchun ilg'or jarrohlik uskunalari va ilg'or texnologiyalardan foydalanish",
+      "G'arb mamlakatlari bilan solishtirganda, sifatga putur etkazmasdan, tejamkor davolash usullari",
+      "Kompleks tibbiy yordam, shu jumladan operatsiyadan oldingi baholash, jarrohlik va operatsiyadan keyingi yordam",
+      "Jigar jarrohligi va transplantatsiyasida tajriba va yaxshi tasdiqlangan protokollar tufayli yuqori muvaffaqiyat ko'rsatkichlari"
+    ]
+  },
+  "nineteen": {
+    "name": "Robotik jarrohlik",
+    "detail": [
+      "Aniqlik va nazorat qilish uchun robot tizimlaridan foydalanadigan minimal invaziv jarrohlik texnikasi",
+      "3D tasvirlash va kattalashtirish orqali yaxshilangan vizualizatsiyani taklif qiladi, bu esa aniqroq protseduralarga olib keladi",
+      "An'anaviy ochiq jarrohlik bilan solishtirganda bemorning tiklanish vaqtini, chandiq va og'riqni kamaytiradi",
+      "Ko'pincha prostatektomiya, histerektomiya va bariatrik jarrohlik kabi muolajalarda qo'llaniladi",
+      "Jarrohlarga epchillik va moslashuvchanlikni oshirgan holda murakkab operatsiyalarni bajarishga imkon beradi"
+    ],
+    "done": [
+      "So'nggi robotlashtirilgan jarrohlik texnologiyasi bilan jihozlangan jahon darajasidagi shifoxonalarga kirish",
+      "Robot yordamidagi muolajalarga ixtisoslashgan yuqori tajribali va malakali jarrohlar",
+      "Ko'pgina G'arb mamlakatlaridagidan ancha past iqtisodiy samarali davolash usullari",
+      "Kompleks parvarishlash, shu jumladan shaxsiylashtirilgan davolash rejalari va operatsiyadan keyingi yordam",
+      "Ilg'or jarrohlik texnikasi va protokollari tufayli yuqori muvaffaqiyat ko'rsatkichlari va bemorning qoniqishi"
+    ]
+  },
+  "twenty": {
+    "name": "Jiddiy parvarish",
+    "detail": [
+      "Hayoti uchun xavfli yoki og'ir kasalliklarga chalingan bemorlarga ixtisoslashtirilgan tibbiy yordam ko'rsatadi",
+      "Bemorni uzluksiz baholash uchun ilg'or monitoring uskunalari va hayotni qo'llab-quvvatlash tizimlari bilan jihozlangan",
+      "Sog'liqni saqlash mutaxassislarining ko'p tarmoqli jamoasi, shu jumladan intensiv shifokorlar, hamshiralar va respirator terapevtlarni o'z ichiga oladi",
+      "O'z vaqtida aralashuvlar va ilg'or davolash protokollari orqali bemorlarni barqarorlashtirishga e'tibor qaratiladi",
+      "Murakkab vaziyatlarni, shu jumladan jarrohlik, organlarni qo'llab-quvvatlash yoki intensiv monitoringni talab qiladigan holatlarni boshqarishda hal qiluvchi rol o'ynaydi"
+    ],
+    "done": [
+      "Zamonaviy texnologiyalar va jihozlarga ega yuqori darajadagi jiddiy tibbiy yordam bo'limlarining mavjudligi",
+      "Murakkab ishlarni boshqarishda tajribaga ega yuqori malakali intensiv shifokorlar va tibbiyot mutaxassislari",
+      "Ko'pgina G'arb mamlakatlarida arzon narxlarda yuqori sifatli yordamni taklif qiluvchi, tejamkor davolash usullari",
+      "O'z vaqtida aralashuvlar uchun hayotni qo'llab-quvvatlashning ilg'or tizimlari va tezkor javob guruhlariga kirish",
+      "Bemorlarning yaxshi natijalarini ta'minlash uchun ICUdan keyingi keng qamrovli parvarish va reabilitatsiya xizmatlari"
+    ]
+  },
+  "twentyone": {
+    "name": "O'pka transplantatsiyasi",
+    "detail": [
+      "Kasal o'pkani donordan sog'lom o'pka bilan almashtirish uchun jarrohlik amaliyoti",
+      "KOAH, o'pka fibrozi yoki kistik fibroz kabi o'pka kasalliklarining oxirgi bosqichi bo'lgan bemorlarga umid taklif qiladi",
+      "Transplantatsiya uchun yaroqlilik va muvofiqlikni aniqlash uchun to'liq baholash jarayonini o'z ichiga oladi",
+      "Tranplantatsiyadan keyin organlarni rad etishning oldini olish uchun umrbod immunosupressiv terapiyani talab qiladi",
+      "Pulmonologlar, jarrohlar va transplantatsiya koordinatorlarini o'z ichiga olgan multidisipliner jamoa transplantatsiya jarayonida har tomonlama yordamni ta'minlaydi"
+    ],
+    "done": [
+      "O'pka transplantatsiyasi bo'yicha yuqori malakali jarrohlar va xalqaro tayyorgarlik va tajribaga ega tibbiy guruhlarga kirish",
+      "O'pka transplantatsiyasi uchun ilg'or texnologiyalar va jihozlar bilan jihozlangan jahon darajasidagi shifoxonalar",
+      "G'arb mamlakatlariga nisbatan tejamkor davolash usullari, bu bemorlar uchun qulayroq qilish",
+      "Operatsiyadan oldingi va keyingi kompleks yordam, shu jumladan shaxsiylashtirilgan davolash rejalari va reabilitatsiya xizmatlari",
+      "Yaxshi o'rnatilgan protokollar va organ transplantatsiyasi bo'yicha katta tajriba tufayli yuqori muvaffaqiyat ko'rsatkichlari va bemorlarning yaxshilangan natijalari"
+    ]
+  },
+  "twentytwo": {
+    "name": "Og'riqni davolash va palliativ yordam",
+    "detail": [
+      "Umumiy og'riqni boshqarish va jiddiy kasalliklarga chalingan bemorlarning hayot sifatini yaxshilashga e'tibor qaratiladi",
+      "Og'riq bo'yicha mutaxassislar, psixologlar, fizioterapevtlar va ijtimoiy xodimlarni jalb qilgan holda multidisipliner yondashuvni qo'llaydi",
+      "Turli davolash usullaridan, jumladan, dori-darmonlar, asab bloklari, fizika terapiyasi va psixologik yordamdan foydalanadi",
+      "Bemorlar va ularning oilalarining jismoniy, hissiy va ma'naviy ehtiyojlarini qondiradigan yaxlit yordam ko'rsatadi",
+      "Maqsad azob-uqubatlarni engillashtirish, qulaylikni oshirish va bemorlarni parvarish qilish bo'yicha ongli qarorlar qabul qilishda qo'llab-quvvatlash"
+    ],
+    "done": [
+      "Og'riqni boshqarish bo'yicha tajribali mutaxassislar va rahm-shafqatli palliativ yordam guruhlari mavjudligi",
+      "Og'riqni boshqarishning innovatsion usullari va terapiyalarini o'z ichiga olgan ilg'or davolash usullariga kirish",
+      "Ko'pgina G'arb mamlakatlariga qaraganda ancha past narxda yuqori sifatli xizmatlarni taklif qiluvchi tejamkor parvarish",
+      "Ko'p tomonlama qo'llab-quvvatlash xizmatlari, jumladan, bemorlar va oilalarga maslahat va ijtimoiy qo'llab-quvvatlash",
+      "Bemorga yo'naltirilgan yordamga e'tibor berish, individual ehtiyojlar va imtiyozlarni hisobga olgan holda moslashtirilgan davolash rejalarini ta'minlash"
+    ]
+  },
+  "twentythree": {
+    "name": "Reproduktiv tibbiyot",
+    "detail": [
+      "Jismoniy shaxslar va juftliklarda tug'ilish muammolari va reproduktiv salomatlik muammolarini tashxislash va davolashga e'tibor qaratiladi",
+      "In vitro urug'lantirish (IVF), intrauterin urug'lantirish (IUI) va tuxum / sperma donatsiyasi kabi bir qator yordamchi reproduktiv texnologiyalarni (ART) taklif qiladi",
+      "Bepushtlikning asosiy sabablarini, shu jumladan gormonal nomutanosibliklarni, tizimli muammolarni va genetik omillarni aniqlash uchun keng qamrovli baholashlarni taqdim etadi",
+      "Muvaffaqiyat darajasini oshirish va genetik kasalliklar xavfini kamaytirish uchun preimplantatsiya genetik testi (PGT) kabi ilg'or usullardan foydalanadi",
+      "Bemorlarga tug'ilishni davolash muammolarini hal qilishda va ongli qarorlar qabul qilishda yordam berish uchun hissiy yordam va maslahat xizmatlarini taklif qiladi"
+    ],
+    "done": [
+      "Xalqaro akkreditatsiya va tajribaga ega yuqori malakali reproduktiv tibbiyot mutaxassislari va tug'ish klinikalariga kirish",
+      "G'arb mamlakatlariga nisbatan raqobatbardosh narxlarda mavjud bo'lgan ilg'or reproduktiv texnologiyalar va innovatsion davolash usullari",
+      "Yaxshi o'rnatilgan protokollar va ilg'or texnologiyalar bilan qo'llab-quvvatlanadigan yordamchi reproduktiv texnikada yuqori muvaffaqiyat ko'rsatkichlari",
+      "Tug'ilish muammolariga duch kelgan shaxslar va juftliklar uchun hissiy va psixologik yordamni o'z ichiga olgan kompleks parvarish",
+      "Tuxum va sperma uchun donorlik dasturlarining keng doirasi, turli xil kelib chiqishi va afzalliklari bo'lgan bemorlar uchun turli xil variantlarni ta'minlaydi"
+    ]
+  },
+  "twentyfour": {
+    "name": "Nafas olish/pulmonologiya va uyqu tibbiyoti",
+    "detail": [
+      "Nafas olish kasalliklari, shu jumladan astma, surunkali obstruktiv o'pka kasalligi (KOAH) va o'pka infektsiyalari diagnostikasi va davolashga ixtisoslashgan",
+      "Uyqu buzilishlari, shu jumladan uyqu apneasi, uyqusizlik va bezovta oyoq sindromi uchun keng qamrovli baholashlarni taqdim etadi",
+      "Vaziyatlarni aniq aniqlash uchun o'pka funktsiyasi testlari, bronkoskopiya va uyquni o'rganish kabi ilg'or diagnostika vositalaridan foydalanadi",
+      "U turli xil davolash usullarini, jumladan, dori-darmonlarni, inhalatsiyani davolashni, o'pka reabilitatsiyasini va turmush tarzini o'zgartirish dasturlarini taklif qiladi",
+      "Odamlarga nafas olish va uyqu salomatligini samarali boshqarishga yordam berish uchun bemorlarni o'qitish va boshqarish strategiyalariga e'tibor qaratiladi"
+    ],
+    "done": [
+      "Hindiston nafas olish va uyqu tibbiyotiga ixtisoslashgan, tajribali pulmonologlar va uyqu bo'yicha mutaxassislardan iborat akkreditatsiyalangan shifoxona va klinikalarning keng tarmog'iga ega",
+      "Ko'pgina G'arb mamlakatlari bilan taqqoslaganda, ilg'or diagnostika va davolash texnologiyalaridan arzon narxlarda foydalanish",
+      "Nafas olish va uyqu buzilishlarini samarali boshqarishni ta'minlaydigan individual ehtiyojlarga moslashtirilgan kompleks davolash rejalarining mavjudligi",
+      "Ko'pincha xalqaro miqyosda o'qitilgan va o'z sohalaridagi so'nggi yutuqlardan xabardor bo'lgan tibbiyot mutaxassislari tomonidan yuqori sifatli yordam",
+      "Uzoq muddatli salomatlik va farovonlikni qo'llab-quvvatlaydigan turmush tarzi va xulq-atvor bo'yicha maslahatlarni o'z ichiga olgan holda, bemorni yaxlit parvarish qilishga e'tibor qaratish"
+    ]
+  },
+  "twentyfive": {
+    "name": "Bosh va bo'yin jarrohligi",
+    "detail": [
+      "Bosh va bo'yin mintaqasiga ta'sir qiluvchi kasalliklarni, shu jumladan o'smalar, infektsiyalar va tug'ma anomaliyalarni tashxislash va davolashga e'tibor qaratadi",
+      "Qayta tiklash vaqtlarini qisqartirish va natijalarni yaxshilash uchun minimal invaziv jarrohlik usullari, shu jumladan endoskopik muolajalar bo'yicha ixtisoslashgan",
+      "Og'iz bo'shlig'i, tomoq va laringeal saraton bilan og'rigan bemorlarga keng qamrovli yordam, shu jumladan ilg'or tasvirlash va rekonstruktiv variantlarni taklif qiladi",
+      "Kompleks davolash rejalari uchun onkologlar, radiologlar va nutq terapevtlarini o'z ichiga olgan multidisipliner yondashuvlarni taqdim etadi",
+      "Bemorlarni o'qitish va reabilitatsiya qilishga urg'u beradi, odamlarga davolanishdan keyin funksionallik va hayot sifatini tiklashga yordam beradi"
+    ],
+    "done": [
+      "Hindistonda bosh va bo'yin jarrohligini taklif qiluvchi ko'plab ixtisoslashgan shifoxona va klinikalar mavjud bo'lib, ular eng zamonaviy texnologiya va jihozlar bilan jihozlangan",
+      "Bosh va bo'yin kasalliklari uchun jarrohlik va jarrohlik bo'lmagan aralashuvlar bo'yicha katta tayyorgarlik va tajribaga ega yuqori malakali jarrohlar",
+      "Muolajalar uchun raqobatbardosh narxlar, sifatga putur etkazmasdan ilg'or sog'liqni saqlashdan foydalanish imkoniyatini yaratish",
+      "Ko'p tarmoqli tibbiy yordam guruhlari, yaxlit davolash rejalarini ta'minlaydi, tiklanish jarayonida har tomonlama yordam beradi",
+      "Davolanmoqchi bo'lgan xalqaro bemorlar uchun uzluksiz sayohat va turar joyni osonlashtiradigan rivojlanayotgan tibbiy turizm sanoatining mavjudligi"
+    ]
+  }
 }

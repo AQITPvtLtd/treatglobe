@@ -106,38 +106,40 @@ const Header = () => {
           </div>
         </div>
       </div>
-      <div className="bg-white lg:hidden flex justify-between text-lg text-white">
+      <div className="bg-white lg:hidden flex justify-between pt-1 text-lg text-white">
         <div className="lg:hidden flex items-center mx-2 mb-2">
           <Link
             href="/contact"
-            className="bg-primary hover:bg-primary/80 shadow-md text-white py-2 px-3 col-start-3 rounded-md flex justify-end"
+            className="bg-primary hover:bg-primary/80 shadow-md text-white py-1 text-sm px-3 col-start-3 rounded-md flex justify-end"
           >
             <div>Get Free Quote</div>
           </Link>
         </div>
-        <button
-          onClick={() => setNavbarOpen(!navbarOpen)}
-          aria-label="Mobile Menu"
-          className="flex justify-end right-4 items-center rounded-lg px-3 py-[6px] lg:hidden"
-        >
-          <div>
-            <span
-              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                navbarOpen ? " top-[7px] rotate-45" : ""
-              }`}
-            />
-            <span
-              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                navbarOpen ? "opacity-0" : ""
-              }`}
-            />
-            <span
-              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                navbarOpen ? " top-[-8px] -rotate-45" : ""
-              }`}
-            />
-          </div>
-        </button>
+        <div className="">
+          <button
+            onClick={() => setNavbarOpen(!navbarOpen)}
+            aria-label="Mobile Menu"
+            className="flex justify-end right-4 rounded-lg px-3 lg:hidden"
+          >
+            <div>
+              <span
+                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                  navbarOpen ? " top-[7px] rotate-45" : ""
+                }`}
+              />
+              <span
+                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                  navbarOpen ? "opacity-0" : ""
+                }`}
+              />
+              <span
+                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                  navbarOpen ? " top-[-8px] -rotate-45" : ""
+                }`}
+              />
+            </div>
+          </button>
+        </div>
 
         <div className="lg:flex hidden col-span-3 col-start-3 mx-5 items-center">
           <SearchBar />
