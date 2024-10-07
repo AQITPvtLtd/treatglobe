@@ -8,45 +8,18 @@ import UserContext from "@/context/UserContext";
 import LanguageChanger from "@/components/LanguageChanger";
 import { useTranslation } from "react-i18next";
 import SearchBar from "../SearchBar";
-import {
-  FaFacebook,
-  FaInstagram,
-  FaLinkedin,
-  FaPhoneAlt,
-  FaYoutube,
-  FaTelegramPlane,
-} from "react-icons/fa";
-import { MdEmail } from "react-icons/md";
 import { IoMdArrowDropdown } from "react-icons/io";
 import { menu } from "./menudata";
 
 const Header = () => {
   const { t } = useTranslation();
-
   const context = useContext(UserContext);
   const [navbarOpen, setNavbarOpen] = useState(false);
   const [sticky, setSticky] = useState(false);
   const [openIndex, setOpenIndex] = useState(-1); // For the main menu
-  const [openSubIndex, setSubOpenIndex] = useState(-1); // For the sub-menu
 
   const handleStickyNavbar = () => {
     setSticky(window.scrollY >= 80);
-  };
-
-  const handleMouseEnter = (index) => {
-    setOpenIndex(index); // Open the hovered submenu
-  };
-
-  const handleMouseLeave = () => {
-    setOpenIndex(-1); // Close the submenu when mouse leaves
-  };
-
-  const handleSubMouseEnter = (index) => {
-    setSubOpenIndex(index); // Open the sub-submenu on hover
-  };
-
-  const handleSubMouseLeave = () => {
-    setSubOpenIndex(-1); // Close the sub-submenu on mouse leave
   };
 
   useEffect(() => {
@@ -62,6 +35,10 @@ const Header = () => {
     setNavbarOpen(false);
   };
 
+  const toggleSubMenu = (index) => {
+    setOpenIndex((prevIndex) => (prevIndex === index ? -1 : index)); // Toggle submenu
+  };
+
   return (
     <div
       className={`overflow-x-clip header left-0 z-40 top-0 w-full items-center backdrop-sm bg-white font-semibold ${
@@ -70,7 +47,7 @@ const Header = () => {
           : " bg-transparent"
       }`}
     >
-      <div className="bg-white  grid gap-x-5 lg:grid-cols-6 grid-cols-2 justify-evenly text-lg text-white">
+      <div className="bg-white grid gap-x-5 lg:grid-cols-6 grid-cols-2 justify-evenly text-lg text-white">
         <div className="lg:w-[480px] lg:mx-10">
           <Link
             href="/"
@@ -179,8 +156,6 @@ const Header = () => {
                       ? "bg-secondary"
                       : "text-dark hover:bg-secondary"
                   }`}
-                  onMouseEnter={() => handleMouseEnter(menuItem.id)} // Open on hover
-                  onMouseLeave={handleMouseLeave} // Close on mouse leave
                 >
                   {menuItem.path ? (
                     <Link
@@ -192,7 +167,10 @@ const Header = () => {
                     </Link>
                   ) : (
                     <>
-                      <p className="px-2 flex cursor-pointer items-center justify-between py-2 text-dark group-hover:bg-secondary lg:mr-0 lg:inline-flex lg:px-0 lg:py-3">
+                      <p
+                        className="px-2 flex cursor-pointer items-center justify-between py-2 text-dark group-hover:bg-secondary lg:mr-0 lg:inline-flex lg:px-0 lg:py-3"
+                        onClick={() => toggleSubMenu(menuItem.id)}
+                      >
                         {t(menuItem.title)}
                         <IoMdArrowDropdown />
                       </p>
@@ -201,27 +179,25 @@ const Header = () => {
                           openIndex === menuItem.id ? "block" : "hidden"
                         }`}
                       >
-                        {menuItem.submenu.map((submenuItem, index) => (
+                        {menuItem.submenu.map((submenuItem, subIndex) => (
                           <div
-                            key={index}
+                            key={subIndex}
                             className="group text-left relative bg-primary"
-                            onMouseEnter={() =>
-                              handleSubMouseEnter(submenuItem.id)
-                            } // Handle sub-submenu on hover
-                            onMouseLeave={handleSubMouseLeave} // Close sub-submenu on mouse leave
                           >
                             {submenuItem.path ? (
                               <Link
                                 href={submenuItem.path}
                                 onClick={handleCloseNavbar}
-                                key={index}
                                 className="block rounded py-2 text-sm text-dark hover:bg-secondary lg:px-3"
                               >
                                 {t(submenuItem.title)}
                               </Link>
                             ) : (
                               <>
-                                <p className="rounded py-2 text-sm lg:px-3 flex cursor-pointer justify-between text-dark hover:bg-secondary">
+                                <p
+                                  className="rounded py-2 text-sm lg:px-3 flex cursor-pointer justify-between text-dark hover:bg-secondary"
+                                  onClick={() => toggleSubMenu(submenuItem.id)}
+                                >
                                   {submenuItem.title}
                                   <span className="pl-3">
                                     <IoMdArrowDropdown />
@@ -229,18 +205,18 @@ const Header = () => {
                                 </p>
                                 <div
                                   className={`relative grid pl-4 lg:absolute top-full left-full w-[150px] bg-primary lg:p-4 ${
-                                    openSubIndex === submenuItem.id
+                                    openIndex === submenuItem.id
                                       ? "block"
                                       : "hidden"
                                   }`}
                                 >
                                   {submenuItem.submenu.map(
-                                    (subSubmenuItem, index) => (
+                                    (subSubmenuItem, subSubIndex) => (
                                       <Link
                                         href={subSubmenuItem.path}
                                         onClick={handleCloseNavbar}
-                                        key={index}
-                                        className={`block rounded py-2 text-sm text-dark hover:bg-secondary lg:px-3`}
+                                        key={subSubIndex}
+                                        className="block rounded py-2 text-sm text-dark hover:bg-secondary lg:px-3"
                                       >
                                         {t(subSubmenuItem.title)}
                                       </Link>
@@ -259,7 +235,6 @@ const Header = () => {
             </ul>
           </nav>
 
-          {/* Add LanguageChanger beside the header elements */}
           <div className="lg:flex hidden items-center">
             <LanguageChanger />
           </div>
