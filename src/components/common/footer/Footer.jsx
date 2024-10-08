@@ -181,25 +181,13 @@ const Footer = () => {
                   </li>
                   <li className="mt-3 leading-normal">
                     <Link
-                      href="mailto:treatglobeofficial@gmail.com"
+                      href="mailto:info@treatglobe.com"
                       className="hover:text-primary hover:font-bold"
                     >
                       <h5 className="mb-2.5 font-bold uppercase">
                         {t("footer:heading5")}
                       </h5>
-                      <div className="hover:text-blue">
-                        treatglobeofficial@gmail.com
-                      </div>
-                    </Link>
-                  </li>
-                  <li className="mt-3 leading-normal">
-                    <Link
-                      href="mailto:treatglobeinfo@gmail.com"
-                      className="hover:text-primary hover:font-bold"
-                    >
-                      <div className="hover:text-blue">
-                        treatglobeinfo@gmail.com
-                      </div>
+                      <div className="hover:text-blue">info@treatglobe.com</div>
                     </Link>
                   </li>
                 </ul>

@@ -3,58 +3,17 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState, useContext } from "react";
-import UserContext from "@/context/UserContext";
+import { useState } from "react";
 import LanguageChanger from "@/components/LanguageChanger";
 import { useTranslation } from "react-i18next";
 import SearchBar from "../SearchBar";
-import {
-  FaFacebook,
-  FaInstagram,
-  FaLinkedin,
-  FaPhoneAlt,
-  FaYoutube,
-  FaTelegramPlane,
-} from "react-icons/fa";
-import { MdEmail } from "react-icons/md";
 import { IoMdArrowDropdown } from "react-icons/io";
 import { menu } from "./menudata";
 
 const Header = () => {
   const { t } = useTranslation();
-
-  const context = useContext(UserContext);
   const [navbarOpen, setNavbarOpen] = useState(false);
-  const [sticky, setSticky] = useState(false);
   const [openIndex, setOpenIndex] = useState(-1); // For the main menu
-  const [openSubIndex, setSubOpenIndex] = useState(-1); // For the sub-menu
-
-  const handleStickyNavbar = () => {
-    setSticky(window.scrollY >= 80);
-  };
-
-  const handleMouseEnter = (index) => {
-    setOpenIndex(index); // Open the hovered submenu
-  };
-
-  const handleMouseLeave = () => {
-    setOpenIndex(-1); // Close the submenu when mouse leaves
-  };
-
-  const handleSubMouseEnter = (index) => {
-    setSubOpenIndex(index); // Open the sub-submenu on hover
-  };
-
-  const handleSubMouseLeave = () => {
-    setSubOpenIndex(-1); // Close the sub-submenu on mouse leave
-  };
-
-  useEffect(() => {
-    window.addEventListener("scroll", handleStickyNavbar);
-    return () => {
-      window.removeEventListener("scroll", handleStickyNavbar);
-    };
-  }, []);
 
   const usePathName = usePathname();
 
@@ -62,22 +21,29 @@ const Header = () => {
     setNavbarOpen(false);
   };
 
+  const toggleSubMenu = (index) => {
+    setOpenIndex((prevIndex) => (prevIndex === index ? -1 : index)); // Toggle submenu for mobile
+  };
+
+  const handleMouseEnter = (index) => {
+    if (window.innerWidth >= 1024) {
+      setOpenIndex(index); // Open submenu on hover in desktop view
+    }
+  };
+
+  const handleMouseLeave = () => {
+    if (window.innerWidth >= 1024) {
+      setOpenIndex(-1); // Close submenu on mouse leave in desktop view
+    }
+  };
+
   return (
     <div
-      className={`overflow-x-clip header left-0 z-40 top-0 w-full items-center backdrop-sm bg-white font-semibold ${
-        sticky
-          ? "fixed z-[999] bg-white !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
-          : " bg-transparent"
-      }`}
+      className={`overflow-x-clip header left-0 z-40 top-0 w-full items-center backdrop-sm bg-white font-semibold `}
     >
-      <div className="bg-white lg:grid flex gap-x-2 grid-cols-6 justify-evenly text-lg text-white">
+      <div className="bg-white grid gap-x-5 lg:grid-cols-6 grid-cols-2 justify-evenly text-lg text-white">
         <div className="lg:w-[480px] lg:mx-10">
-          <Link
-            href="/"
-            className={`header-logo block w-full ${
-              sticky ? "py-5 lg:py-2" : "py-2"
-            }`}
-          >
+          <Link href="/" className={`header-logo block w-full`}>
             <Image
               src="/logo/logo_new.png"
               alt="logo"
@@ -91,30 +57,6 @@ const Header = () => {
           <LanguageChanger />
         </div>
 
-        <button
-          onClick={() => setNavbarOpen(!navbarOpen)}
-          aria-label="Mobile Menu"
-          className="flex justify-end right-4 items-center rounded-lg px-3 py-[6px] lg:hidden"
-        >
-          <div>
-            <span
-              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                navbarOpen ? " top-[7px] rotate-45" : ""
-              }`}
-            />
-            <span
-              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                navbarOpen ? "opacity-0" : ""
-              }`}
-            />
-            <span
-              className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
-                navbarOpen ? " top-[-8px] -rotate-45" : ""
-              }`}
-            />
-          </div>
-        </button>
-
         <div className="lg:flex hidden col-span-3 col-start-3 mx-5 items-center">
           <SearchBar />
         </div>
@@ -125,11 +67,47 @@ const Header = () => {
               href="/contact"
               className="bg-primary hover:bg-primary/80 shadow-md text-white py-2 px-3 col-start-3 rounded-md flex justify-end"
             >
-              <div>Get Quote</div>
+              <div>Get Free Quote</div>
             </Link>
           </div>
         </div>
       </div>
+      <div className="bg-white lg:hidden flex justify-between pt-1 text-lg text-white">
+        <div className="lg:hidden flex items-center mx-2 mb-2">
+          <Link
+            href="/contact"
+            className="bg-primary hover:bg-primary/80 shadow-md text-white py-1 text-sm px-3 col-start-3 rounded-md flex justify-end"
+          >
+            <div>Get Free Quote</div>
+          </Link>
+        </div>
+        <div className="">
+          <button
+            onClick={() => setNavbarOpen(!navbarOpen)}
+            aria-label="Mobile Menu"
+            className={`flex justify-end right-4 rounded-lg px-3 lg:hidden`}
+          >
+            <div>
+              <span
+                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                  navbarOpen ? " top-[7px] rotate-45" : ""
+                }`}
+              />
+              <span
+                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                  navbarOpen ? "opacity-0" : ""
+                }`}
+              />
+              <span
+                className={`relative my-1.5 block h-0.5 w-[30px] bg-black transition-all duration-300 ${
+                  navbarOpen ? " top-[-8px] -rotate-45" : ""
+                }`}
+              />
+            </div>
+          </button>
+        </div>
+      </div>
+
       <div className="lg:hidden w-full bg-primary col-span-3 col-start-3 items-center">
         <SearchBar />
       </div>
@@ -139,9 +117,9 @@ const Header = () => {
           <nav
             className={`navbar absolute right-0 z-30 rounded px-6 duration-300 dark:border-body-color/20 lg:visible lg:static w-full lg:border-none lg:!bg-transparent lg:p-0 lg:opacity-100 ${
               navbarOpen
-                ? "visibility top-[10%] opacity-100"
+                ? "visibility top-[20%] opacity-100"
                 : "invisible top-[120%] opacity-0"
-            } ${sticky && "top-[45%]"}`}
+            }`}
           >
             <ul className="block lg:grid grid-cols-8 items-center gap-2 relative bg-primary">
               {menu.map((menuItem, index) => (
@@ -152,8 +130,8 @@ const Header = () => {
                       ? "bg-secondary"
                       : "text-dark hover:bg-secondary"
                   }`}
-                  onMouseEnter={() => handleMouseEnter(menuItem.id)} // Open on hover
-                  onMouseLeave={handleMouseLeave} // Close on mouse leave
+                  onMouseEnter={() => handleMouseEnter(menuItem.id)}
+                  onMouseLeave={handleMouseLeave}
                 >
                   {menuItem.path ? (
                     <Link
@@ -165,7 +143,10 @@ const Header = () => {
                     </Link>
                   ) : (
                     <>
-                      <p className="px-2 flex cursor-pointer items-center justify-between py-2 text-dark group-hover:bg-secondary lg:mr-0 lg:inline-flex lg:px-0 lg:py-3">
+                      <p
+                        className="px-2 flex cursor-pointer items-center justify-between py-2 text-dark group-hover:bg-secondary lg:mr-0 lg:inline-flex lg:px-0 lg:py-3"
+                        onClick={() => toggleSubMenu(menuItem.id)}
+                      >
                         {t(menuItem.title)}
                         <IoMdArrowDropdown />
                       </p>
@@ -174,27 +155,25 @@ const Header = () => {
                           openIndex === menuItem.id ? "block" : "hidden"
                         }`}
                       >
-                        {menuItem.submenu.map((submenuItem, index) => (
+                        {menuItem.submenu.map((submenuItem, subIndex) => (
                           <div
-                            key={index}
+                            key={subIndex}
                             className="group text-left relative bg-primary"
-                            onMouseEnter={() =>
-                              handleSubMouseEnter(submenuItem.id)
-                            } // Handle sub-submenu on hover
-                            onMouseLeave={handleSubMouseLeave} // Close sub-submenu on mouse leave
                           >
                             {submenuItem.path ? (
                               <Link
                                 href={submenuItem.path}
                                 onClick={handleCloseNavbar}
-                                key={index}
                                 className="block rounded py-2 text-sm text-dark hover:bg-secondary lg:px-3"
                               >
                                 {t(submenuItem.title)}
                               </Link>
                             ) : (
                               <>
-                                <p className="rounded py-2 text-sm lg:px-3 flex cursor-pointer justify-between text-dark hover:bg-secondary">
+                                <p
+                                  className="rounded py-2 text-sm lg:px-3 flex cursor-pointer justify-between text-dark hover:bg-secondary"
+                                  onClick={() => toggleSubMenu(submenuItem.id)}
+                                >
                                   {submenuItem.title}
                                   <span className="pl-3">
                                     <IoMdArrowDropdown />
@@ -202,18 +181,18 @@ const Header = () => {
                                 </p>
                                 <div
                                   className={`relative grid pl-4 lg:absolute top-full left-full w-[150px] bg-primary lg:p-4 ${
-                                    openSubIndex === submenuItem.id
+                                    openIndex === submenuItem.id
                                       ? "block"
                                       : "hidden"
                                   }`}
                                 >
                                   {submenuItem.submenu.map(
-                                    (subSubmenuItem, index) => (
+                                    (subSubmenuItem, subSubIndex) => (
                                       <Link
                                         href={subSubmenuItem.path}
                                         onClick={handleCloseNavbar}
-                                        key={index}
-                                        className={`block rounded py-2 text-sm text-dark hover:bg-secondary lg:px-3`}
+                                        key={subSubIndex}
+                                        className="block rounded py-2 text-sm text-dark hover:bg-secondary lg:px-3"
                                       >
                                         {t(subSubmenuItem.title)}
                                       </Link>
@@ -232,7 +211,6 @@ const Header = () => {
             </ul>
           </nav>
 
-          {/* Add LanguageChanger beside the header elements */}
           <div className="lg:flex hidden items-center">
             <LanguageChanger />
           </div>

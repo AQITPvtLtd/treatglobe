@@ -26,7 +26,6 @@ const Office = () => {
                   <Link
                     target="__blank"
                     href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
-                    className="text-neutral-500 dark:text-neutral-200"
                   >
                     Office no. 371 Sec 38 Gurgaon
                   </Link>
@@ -45,7 +44,7 @@ const Office = () => {
                   </p>
                   <Link
                     href="tel:+91 9818-647-557"
-                    className="text-neutral-500 dark:text-neutral-200 hover:text-primary"
+                    className="hover:text-primary"
                   >
                     +91 9818-647-557
                   </Link>
@@ -64,7 +63,7 @@ const Office = () => {
                   </p>
                   <Link
                     href="mailto: info@treatglobe.com"
-                    className="text-neutral-500 dark:text-neutral-200 hover:text-primary"
+                    className="hover:text-primary"
                   >
                     info@treatglobe.com
                   </Link>
