@@ -1,7 +1,427 @@
 {
-  "header": "Traitement avancé et spécialité",
-  "one": "Oncologie",
-  "two": "Chirurgie orthopédique",
-  "three": "Neurochirurgie et Cyberknife",
-  "four": "Chirurgie de transplantation"
+  "header": "Traitement avancé et spécialisé",
+  "heading2": "Pourquoi choisir l’Inde pour ce traitement",
+  "one": {
+    "name": "Cardiologie",
+    "detail": [
+      "La cardiologie est une spécialité médicale axée sur les troubles du cœur et des vaisseaux sanguins au sein du système cardiovasculaire. ",
+      "Elle implique l'étude, le diagnostic et le traitement de diverses affections cardiaques. ",
+      "Maladie coronarienne : une affection dans laquelle les artères qui alimentent le cœur en sang se rétrécissent, ce qui peut entraîner des crises cardiaques. ",
+      "Arythmies : battements cardiaques irréguliers qui peuvent être trop rapides, trop lents ou erratiques.",
+      "Insuffisance cardiaque : une affection dans laquelle le cœur a du mal à pomper le sang efficacement pour répondre aux besoins du corps."
+    ],
+    "done": [
+      "L'Inde est devenue une destination de premier plan pour les traitements liés à la cardiologie.",
+      "Le pays dispose de cardiologues hautement qualifiés dotés d'une expertise mondiale, dont beaucoup ont été formés dans les meilleures institutions médicales internationales.",
+      "Les hôpitaux indiens sont équipés de technologies de pointe, offrant des outils de diagnostic et des options de traitement avancés.",
+      "Les traitements disponibles comprennent les chirurgies assistées par robot, l'angioplastie et les transplantations cardiaques.",
+      "Les patients internationaux sont attirés par le caractère abordable des soins de santé en Inde.",
+      "Le coût des traitements de cardiologie en Inde est nettement inférieur à celui des pays occidentaux, sans compromettre la qualité des soins."
+    ]
+  },
+  "two": {
+    "name": "Orthopédie et remplacement articulaire",
+    "detail": [
+      "Domaine médical spécialisé axé sur le système musculo-squelettique et les articulations",
+      "Les affections courantes traitées comprennent l’arthrose, la polyarthrite rhumatoïde, les douleurs articulaires et les fractures.",
+      "Les méthodes chirurgicales comprennent le remplacement articulaire total et le remplacement articulaire partiel",
+      "Chirurgie mini-invasive pour une récupération plus rapide",
+      "Utilisation de la chirurgie assistée par robot pour la précision",
+      "Impression 3D pour prothèses sur mesure"
+    ],
+    "done": [
+      "Des soins de santé de classe mondiale avec des hôpitaux accrédités à l'échelle internationale",
+      "Traitement rentable, permettant d'économiser 50 à 70 % par rapport aux pays occidentaux",
+      "Des technologies de pointe comme la chirurgie assistée par robot et l'impression 3D",
+      "Chirurgiens orthopédistes hautement qualifiés et expérimentés",
+      "Temps d'attente minimal pour les interventions chirurgicales et les traitements",
+      "Des environnements culturellement familiers avec un personnel multilingue pour les patients internationaux"
+    ]
+  },
+  "three": {
+    "name": "Neurologie",
+    "detail": [
+      "Branche de la médecine traitant des troubles du système nerveux.",
+      "Focus sur le système nerveux central (SNC) et le système nerveux périphérique (SNP).",
+      "Étude des maladies cérébrovasculaires telles que l'accident vasculaire cérébral et l'accident ischémique transitoire (AIT).",
+      "Prise en charge de l'épilepsie et des troubles convulsifs.",
+      "Exploration of neurodegenerative diseases like Alzheimer’s and Parkinson’s.",
+      "Traitement des maux de tête, y compris les migraines et les céphalées de tension.",
+      "Traitement des troubles neuromusculaires comme la myasthénie grave et les dystrophies musculaires."
+    ],
+    "done": [
+      "Soins rentables : l’Inde offre un traitement neurologique de haute qualité à une fraction du coût par rapport aux pays occidentaux, ce qui en fait une option abordable pour les patients.",
+      "Technologie médicale avancée : de nombreux hôpitaux en Inde sont équipés des dernières technologies et installations pour un diagnostic précis et un traitement efficace des troubles neurologiques",
+      "Spécialistes hautement qualifiés : l'Inde compte un nombre croissant de neurologues et de neurochirurgiens formés dans des institutions reconnues au niveau international, garantissant des soins spécialisés",
+      "Options de traitement complètes : les patients peuvent accéder à une large gamme de traitements, notamment des médicaments, une intervention chirurgicale, une réadaptation et des thérapies innovantes adaptées aux besoins individuels."
+    ]
+  },
+  "four": {
+    "name": "Hématologie",
+    "detail": [
+      "L'hématologie se concentre sur le diagnostic, le traitement et la prévention des troubles sanguins tels que l'anémie, la leucémie, le lymphome et les troubles de la coagulation.",
+      "Elle englobe une gamme de procédures, notamment les transfusions sanguines, les biopsies de moelle osseuse et les greffes de cellules souches",
+      "Les hématologues collaborent étroitement avec les oncologues pour traiter les cancers liés au sang, tels que la leucémie et le myélome multiple",
+      "Les traitements hématologiques modernes peuvent impliquer une immunothérapie, une thérapie ciblée et des protocoles de chimiothérapie avancés",
+      "Des laboratoires spécialisés sont utilisés pour analyser les échantillons de sang, identifier les anomalies et surveiller l'efficacité du traitement"
+    ],
+    "done": [
+      "L'Inde dispose d'hématologues et d'oncologues formés à l'étranger et dotés d'une vaste expérience dans le traitement des troubles sanguins complexes",
+      "Les hôpitaux proposent des traitements avancés comme l'immunothérapie, les greffes de cellules souches et les thérapies ciblées, offrant ainsi un accès à des soins de pointe",
+      "Les laboratoires et technologies modernes des hôpitaux indiens garantissent un diagnostic précis et des services d'hématologie complets",
+      "Les coûts de traitement sont nettement inférieurs en Inde par rapport aux pays occidentaux, ce qui permet de maintenir des soins de haute qualité à des tarifs abordables.",
+      "De nombreux hôpitaux en Inde sont accrédités par des organismes mondiaux comme JCI et NABH, garantissant des normes élevées de soins et de sécurité aux patients."
+    ]
+  },
+  "five": {
+    "name": "Oncologie",
+    "detail": [
+      "Se concentre sur le diagnostic, le traitement et la gestion du cancer.",
+      "Comprend diverses spécialités : oncologie médicale, oncologie chirurgicale, radio-oncologie et oncologie pédiatrique.",
+      "L'oncologie médicale implique l'utilisation de la chimiothérapie, de l'immunothérapie et de la thérapie ciblée pour traiter le cancer.",
+      "L'oncologie chirurgicale se spécialise dans l'ablation chirurgicale des tumeurs et des tissus environnants.",
+      "La radio-oncologie utilise des rayonnements à haute énergie pour tuer ou réduire les cellules cancéreuses."
+    ],
+    "done": [
+      "La participation aux essais cliniques donne accès à des thérapies et à des options de traitement de pointe.",
+      "Une réputation croissante pour les normes élevées de soins aux patients et les résultats positifs des traitements en oncologie.",
+      "Des systèmes de soutien robustes pour les patients internationaux, notamment des services dédiés au voyage, à l’hébergement et au suivi.",
+      "La diversité culturelle et l’hospitalité aident les patients à se sentir chez eux tout au long de leur parcours de traitement.",
+      "L’accent est mis sur les plans de traitement personnalisés adaptés aux besoins et aux conditions de chaque patient."
+    ]
+  },
+  "six": {
+    "name": "Chirurgie esthétique et plastique",
+    "detail": [
+      "Gamme complète de procédures comprenant le rajeunissement du visage, le remodelage du corps et les chirurgies reconstructives.",
+      "Techniques avancées telles que la chirurgie mini-invasive, les procédures endoscopiques et les traitements au laser.",
+      "Chirurgiens hautement qualifiés avec une formation et une expérience internationales en chirurgie esthétique et plastique.",
+      "Des installations à la pointe de la technologie, équipées des dernières normes de technologie et de sécurité.",
+      "L’accent est mis sur la sécurité et le confort des patients tout au long des processus chirurgicaux et de récupération."
+    ],
+    "done": [
+      "Des soins médicaux de haute qualité à des prix compétitifs, rendant la chirurgie esthétique et plastique accessible à un plus large éventail de patients.",
+      "Chirurgiens de renommée mondiale formés dans les meilleures institutions mondiales, garantissant une expertise et des compétences dans les procédures avancées.",
+      "Infrastructure médicale de pointe avec technologie de pointe et installations répondant aux normes internationales.",
+      "Soins complets comprenant une consultation préopératoire, des interventions chirurgicales et un soutien postopératoire complet."
+    ]
+  },
+  "seven": {
+    "name": "Urologie",
+    "detail": [
+      "Soins complets : les traitements couvrent un large éventail de troubles urologiques, notamment les calculs rénaux, l’hypertrophie de la prostate, les infections des voies urinaires (IVU), les problèmes de vessie et les cancers urologiques.",
+      "Technologie de pointe : Des équipements de pointe tels que des systèmes de chirurgie robotisée, la technologie laser pour l’élimination des calculs et des techniques mini-invasives sont largement utilisés.",
+      "Urologues experts : Des spécialistes expérimentés, dont beaucoup ont reçu une formation internationale, offrent une expertise dans les chirurgies et procédures urologiques complexes.",
+      "Procédures mini-invasives : des techniques telles que les chirurgies laparoscopiques et les traitements au laser entraînent des temps de récupération plus rapides et moins d’inconfort postopératoire."
+    ],
+    "done": [
+      "Installations médicales de classe mondiale : l’Inde abrite des hôpitaux dotés d’une technologie de pointe, fournissant des outils de diagnostic avancés et des procédures mini-invasives pour de meilleurs résultats.",
+      "Chirurgie robotique et laparoscopique avancée : l’Inde est un leader dans l’utilisation de techniques robotiques et laparoscopiques pour l’urologie, réduisant les temps de récupération et minimisant les risques chirurgicaux.",
+      "Excellents soins postopératoires : l’Inde fournit des services de suivi robustes, axés sur le rétablissement des patients, la gestion de la douleur et la réadaptation.",
+      "Taux de réussite élevés : les centres d'urologie indiens ont des taux de réussite élevés pour des procédures telles que l'élimination des calculs rénaux, les chirurgies de la prostate et les greffes de rein, attirant des patients du monde entier."
+    ]
+  },
+  "eight": {
+    "name": "Chirurgie cardiaque, thoracique et vasculaire",
+    "detail": [
+      "Les chirurgiens pratiquent souvent des interventions complexes en plusieurs parties qui impliquent à la fois des interventions cardiaques et vasculaires, en particulier pour des pathologies comme les anévrismes de l’aorte qui touchent à la fois le cœur et les principaux vaisseaux sanguins.",
+      "L’utilisation de techniques d’imagerie avancées, de robotique et d’outils mini-invasifs contribue à améliorer les résultats et à réduire les temps de récupération.",
+      "Les chirurgies cardiaques, thoraciques et vasculaires nécessitent souvent des soins postopératoires importants, notamment une surveillance dans des unités spécialisées comme l’USI, l’accent étant mis sur la réadaptation cardiaque."
+    ],
+    "done": [
+      "L’accès à des soins de suivi complets et à des services de réadaptation après une intervention chirurgicale améliore les résultats de rétablissement des patients.",
+      "L’Inde offre des délais d’attente plus courts pour les interventions chirurgicales par rapport à de nombreux pays occidentaux, ce qui permet une intervention rapide.",
+      "De nombreux hôpitaux disposent de services dédiés aux patients internationaux pour les aider dans leurs déplacements, leur hébergement et leurs soins post-traitement.",
+      "La diversité culturelle et l’hospitalité de l’Inde contribuent à créer un environnement favorable et confortable pour les patients et leurs familles."
+    ]
+  },
+  "nine": {
+    "name": "Néphrologie",
+    "detail": [
+      "Spécialisé dans le diagnostic et le traitement des maladies et troubles rénaux.",
+      "Traite l'insuffisance rénale chronique (IRC), les calculs rénaux, l'hypertension et les lésions rénales aiguës (LRA)",
+      "Experts dans la gestion de la dialyse pour les patients atteints d'insuffisance rénale terminale (IRT)",
+      "Impliqué dans l'évaluation et les soins postopératoires des patients transplantés rénaux",
+      "Collabore avec d'autres spécialistes pour fournir des soins complets pour les maladies systémiques et rénales"
+    ],
+    "done": [
+      "Des installations médicales de classe mondiale dotées d'une technologie et d'une infrastructure de pointe",
+      "Néphrologues hautement expérimentés et formés à l'international",
+      "Options de traitement abordables par rapport à d’autres pays",
+      "Soins complets incluant la dialyse, les transplantations et les procédures spécialisées",
+      "Disponibilité de recherches de pointe et de traitements innovants en néphrologie"
+    ]
+  },
+  "ten": {
+    "name": "ORL",
+    "detail": [
+      "Évaluation et diagnostic complets des troubles de l’oreille, du nez et de la gorge, y compris la perte auditive et les problèmes d’équilibre.",
+      "Expertise dans les interventions chirurgicales avancées, telles que les implants cochléaires pour les déficiences auditives sévères.",
+      "Utilisation d’une technologie de pointe pour les tests diagnostiques, y compris l’audiométrie, les études d’imagerie et l’endoscopie.",
+      "Approche multidisciplinaire impliquant des oto-rhino-laryngologistes, des audiologistes et des orthophonistes pour une prise en charge holistique des patients.",
+      "Se concentrer sur les techniques mini-invasives qui réduisent le temps de récupération et améliorent les résultats des patients."
+    ],
+    "done": [
+      "L’Inde offre des établissements de santé de classe mondiale dotés d’une technologie et d’une infrastructure de pointe pour les traitements ORL et les implants cochléaires.",
+      "Le coût du traitement en Inde est nettement inférieur à celui des pays occidentaux, ce qui en fait une option abordable pour les patients internationaux.",
+      "Spécialistes et chirurgiens ORL qualifiés possédant une vaste expérience dans la réalisation d'interventions chirurgicales complexes et d'implants cochléaires.",
+      "De nombreux hôpitaux disposent de services dédiés aux patients internationaux, garantissant une expérience fluide aux patients étrangers, notamment une assistance pour les voyages et l'hébergement.",
+      "L’accès à une variété de prestataires de soins de santé et de spécialistes permet des soins personnalisés et complets adaptés aux besoins individuels."
+    ]
+  },
+  "eleven": {
+    "name": "Chirurgie générale et mini-invasive",
+    "detail": [
+      "Spécialisé dans la réalisation d'interventions chirurgicales avec des incisions minimales.",
+      "Se concentre sur la réduction du temps de récupération et de la douleur postopératoire.",
+      "Les procédures comprennent les chirurgies laparoscopiques, endoscopiques et robotiques.",
+      "Traite des affections telles que les hernies, les maladies de la vésicule biliaire, l’appendicite et les problèmes gastro-intestinaux.",
+      "Utilise des outils avancés pour un diagnostic et un traitement précis."
+    ],
+    "done": [
+      "Chirurgiens hautement qualifiés et expérimentés dans les techniques mini-invasives.",
+      "Accès à des établissements de santé de classe mondiale dotés d’une technologie de pointe.",
+      "Traitement rentable par rapport à de nombreux autres pays.",
+      "Des délais d’attente plus courts pour les interventions chirurgicales et médicales.",
+      "Hôpitaux dotés d'infrastructures et d'équipements modernes."
+    ]
+  },
+  "twelve": {
+    "name": "Gastroentérologie",
+    "detail": [
+      "Spécialisé dans le diagnostic et le traitement des troubles du système digestif.",
+      "Gère les affections affectant l’œsophage, l’estomac, les intestins, le foie et le pancréas.",
+      "Propose des traitements pour le reflux acide, le syndrome du côlon irritable (SCI), les ulcères et la maladie de Crohn.",
+      "Expertise dans des procédures telles que l'endoscopie, la coloscopie et la CPRE.",
+      "Se concentre à la fois sur les soins préventifs et sur le traitement des maladies complexes."
+    ],
+    "done": [
+      "Expertise dans le traitement d'une large gamme de troubles gastro-intestinaux.",
+      "Accès à des technologies diagnostiques et thérapeutiques avancées.",
+      "Gastroentérologues expérimentés formés dans les meilleures institutions mondiales.",
+      "Options de traitement rentables par rapport aux pays occidentaux.",
+      "Taux de réussite élevés dans les procédures complexes comme l’endoscopie et la coloscopie."
+    ]
+  },
+  "thirteen": {
+    "name": "Obstétrique et gynécologie",
+    "detail": [
+      "Spécialisée dans la santé reproductive des femmes et l'accouchement.",
+      "Gère la grossesse, les soins prénatals et l'accouchement (normal et par césarienne).",
+      "Fournit un traitement pour les troubles menstruels, les fibromes et les kystes ovariens.",
+      "Expertise dans le diagnostic et le traitement de conditions telles que le SOPK, l’endométriose et l’infertilité.",
+      "Se concentre sur les soins préventifs par le biais d’examens gynécologiques de routine et de tests Pap."
+    ],
+    "done": [
+      "Obstétriciens et gynécologues hautement qualifiés avec une expertise mondiale.",
+      "Soins complets pour les grossesses courantes et à haut risque.",
+      "Accès à une technologie de pointe pour le dépistage prénatal et la surveillance fœtale.",
+      "Options de traitement rentables par rapport à de nombreux autres pays.",
+      "Expertise en chirurgies gynécologiques mini-invasives."
+    ]
+  },
+  "fourteen": {
+    "name": "Pédiatrie",
+    "detail": [
+      "Spécialisée dans les soins médicaux des nourrissons, des enfants et des adolescents",
+      "Se concentre à la fois sur la santé préventive et sur le traitement des maladies infantiles",
+      "Gère des conditions telles que les infections, les troubles congénitaux et les problèmes de développement",
+      "Assure la vaccination et surveille les étapes de croissance et de développement",
+      "Travaille en étroite collaboration avec les familles pour assurer le bien-être physique et mental général des enfants"
+    ],
+    "done": [
+      "Spécialistes pédiatriques renommés avec une expertise mondiale",
+      "Des services de santé abordables avec des soins de haute qualité",
+      "Accès à des traitements pédiatriques avancés et à une technologie de pointe",
+      "Hôpitaux multispécialités offrant des soins pédiatriques complets",
+      "Excellents taux de réussite dans le traitement des pathologies et interventions chirurgicales pédiatriques complexes"
+    ]
+  },
+  "fifteen": {
+    "name": "Rhumatologie",
+    "detail": [
+      "Spécialisé dans le diagnostic et le traitement des maladies rhumatismales, notamment l’arthrite, le lupus et la goutte.",
+      "Gère les troubles auto-immuns et inflammatoires qui affectent les articulations, les muscles et les tissus conjonctifs.",
+      "Propose des plans de traitement personnalisés impliquant des médicaments comme des immunosuppresseurs, des produits biologiques et des anti-inflammatoires.",
+      "Fournit des traitements non chirurgicaux pour les maladies chroniques telles que la polyarthrite rhumatoïde et l’arthrose.",
+      "Se concentre sur la détection et l’intervention précoces pour prévenir la progression de la maladie."
+    ],
+    "done": [
+      "Rhumatologues hautement qualifiés avec une expertise dans la gestion des maladies rhumatismales complexes.",
+      "Accès à des outils de diagnostic et à des thérapies avancés pour un diagnostic et un traitement précis.",
+      "Options de traitement rentables par rapport à de nombreux pays occidentaux.",
+      "Plans de soins personnalisés axés à la fois sur la gestion médicale et les ajustements du mode de vie.",
+      "Disponibilité des médicaments les plus récents, y compris les produits biologiques et les immunosuppresseurs."
+    ]
+  },
+  "sixteen": {
+    "name": "Radiologie interventionnelle",
+    "detail": [
+      "Procédures mini-invasives utilisant un guidage par imagerie tel que les rayons X, les tomodensitogrammes et les IRM",
+      "Utilisé pour diagnostiquer et traiter des affections telles que les tumeurs, les caillots sanguins et les maladies vasculaires",
+      "Réduit le besoin de chirurgies ouvertes, ce qui entraîne des temps de récupération plus rapides",
+      "Common procedures include angioplasty, embolization, and biopsies",
+      "Fournit des traitements ciblés avec moins de risques et des séjours hospitaliers plus courts"
+    ],
+    "done": [
+      "Expertise en procédures avancées de radiologie interventionnelle mini-invasive",
+      "Des hôpitaux de classe mondiale dotés d'une technologie d'imagerie de pointe",
+      "Des coûts de traitement nettement inférieurs à ceux de nombreux autres pays",
+      "Radiologues interventionnels hautement qualifiés avec formation et certifications internationales",
+      "Soins complets avec une récupération plus rapide et des séjours hospitaliers plus courts"
+    ]
+  },
+  "seventeen": {
+    "name": "Traumatisme et urgences",
+    "detail": [
+      "Se concentre sur le traitement médical immédiat des blessures aiguës et des conditions potentiellement mortelles",
+      "Fournit des soins intensifs aux patients traumatisés, y compris des interventions chirurgicales si nécessaire",
+      "Equipé de centres de traumatologie spécialisés et de services d'urgence pour une réponse rapide",
+      "Des équipes multidisciplinaires comprenant des chirurgiens, des infirmières et des spécialistes pour des soins complets",
+      "Met l'accent sur une évaluation et une stabilisation rapides pour améliorer les résultats des patients en cas d'urgence"
+    ],
+    "done": [
+      "Accès à des installations de soins de traumatologie avancées avec des équipements de pointe",
+      "Des professionnels médicaux d'urgence hautement qualifiés et expérimentés dans la gestion des cas critiques",
+      "Des options de traitement rentables sans compromettre la qualité des soins",
+      "Disponibilité de centres de traumatologie spécialisés offrant des services d'urgence 24h/24 et 7j/7",
+      "Expérience avérée en matière de résultats positifs dans la gestion des traumatismes et les interventions d'urgence"
+    ]
+  },
+  "eighteen": {
+    "name": "Chirurgie hépatobiliaire",
+    "detail": [
+      "Spécialisé dans le traitement chirurgical des maladies affectant le foie, les voies biliaires et la vésicule biliaire",
+      "Les procédures courantes comprennent les résections hépatiques, les transplantations hépatiques et la cholécystectomie laparoscopique.",
+      "Traite des affections telles que le cancer du foie, la cirrhose et les obstructions biliaires",
+      "Utilise des techniques avancées pour minimiser le temps de récupération et améliorer les résultats des patients",
+      "Travaille en collaboration avec des gastroentérologues et des oncologues pour une prise en charge globale des patients"
+    ],
+    "done": [
+      "Disponibilité de chirurgiens hépatobiliaires hautement qualifiés avec une formation et une expérience internationales",
+      "Accès à des installations chirurgicales avancées et à une technologie de pointe pour des procédures complexes",
+      "Des options de traitement rentables par rapport aux pays occidentaux, sans compromis sur la qualité",
+      "Soins complets incluant l'évaluation préopératoire, la chirurgie et le soutien postopératoire",
+      "Taux de réussite élevés dans les chirurgies et transplantations du foie grâce à l'expertise et aux protocoles bien établis"
+    ]
+  },
+  "nineteen": {
+    "name": "Chirurgie robotique",
+    "detail": [
+      "Technique chirurgicale mini-invasive qui utilise des systèmes robotiques pour la précision et le contrôle",
+      "Offre une visualisation améliorée grâce à l'imagerie 3D et au grossissement, conduisant à des procédures plus précises",
+      "Réduit le temps de récupération du patient, les cicatrices et la douleur par rapport à la chirurgie ouverte traditionnelle",
+      "Couramment utilisé dans des procédures telles que la prostatectomie, l'hystérectomie et la chirurgie bariatrique",
+      "Permet aux chirurgiens d'effectuer des interventions chirurgicales complexes avec une dextérité et une flexibilité améliorées"
+    ],
+    "done": [
+      "Accès à des hôpitaux de classe mondiale équipés de la dernière technologie de chirurgie robotique",
+      "Chirurgiens hautement expérimentés et formés, spécialisés dans les procédures assistées par robot",
+      "Des options de traitement rentables, nettement inférieures à celles de nombreux pays occidentaux",
+      "Soins complets, incluant des plans de traitement personnalisés et un soutien postopératoire",
+      "Taux de réussite élevés et satisfaction des patients grâce à des techniques et protocoles chirurgicaux avancés"
+    ]
+  },
+  "twenty": {
+    "name": "Soins intensifs",
+    "detail": [
+      "Fournit des soins médicaux spécialisés aux patients souffrant de maladies graves ou potentiellement mortelles",
+      "Équipé d'équipements de surveillance avancés et de systèmes de survie pour une évaluation continue des patients",
+      "Implique une équipe multidisciplinaire de professionnels de la santé, notamment des intensivistes, des infirmières et des inhalothérapeutes",
+      "Se concentre sur la stabilisation des patients grâce à des interventions rapides et à des protocoles de traitement avancés",
+      "Joue un rôle crucial dans la gestion des cas complexes, notamment ceux nécessitant une intervention chirurgicale, un soutien organique ou une surveillance intensive"
+    ],
+    "done": [
+      "Disponibilité d'unités de soins intensifs de premier ordre dotées d'une technologie et d'installations de pointe",
+      "Intensivistes hautement qualifiés et professionnels de la santé expérimentés dans la gestion de cas complexes",
+      "Des options de traitement rentables, offrant des soins de haute qualité à une fraction du prix dans de nombreux pays occidentaux",
+      "Accès à des systèmes avancés de maintien des fonctions vitales et à des équipes d'intervention rapide pour des interventions rapides",
+      "Soins complets post-USI et services de réadaptation pour garantir de meilleurs résultats pour les patients"
+    ]
+  },
+  "twentyone": {
+    "name": "Transplantation pulmonaire",
+    "detail": [
+      "Intervention chirurgicale visant à remplacer un poumon malade par un poumon sain provenant d'un donneur",
+      "Offre de l'espoir aux patients atteints de maladies pulmonaires en phase terminale telles que la BPCO, la fibrose pulmonaire ou la fibrose kystique",
+      "Implique un processus d’évaluation approfondi pour déterminer l’éligibilité et l’aptitude à la transplantation",
+      "Nécessite un traitement immunosuppresseur à vie pour prévenir le rejet d'organe après la transplantation",
+      "Une équipe multidisciplinaire, composée de pneumologues, de chirurgiens et de coordinateurs de transplantation, assure des soins complets tout au long du processus de transplantation"
+    ],
+    "done": [
+      "Accès à des chirurgiens et à des équipes médicales hautement qualifiés en transplantation pulmonaire, dotés d'une formation et d'une expertise internationales",
+      "Hôpitaux de classe mondiale équipés de technologies et d'installations de pointe pour la transplantation pulmonaire",
+      "Des options de traitement rentables par rapport aux pays occidentaux, ce qui les rend plus accessibles aux patients",
+      "Comprehensive pre- and post-operative care, including personalized treatment plans and rehabilitation services",
+      "Taux de réussite élevés et résultats améliorés pour les patients grâce à des protocoles bien établis et à une vaste expérience en matière de transplantation d'organes"
+    ]
+  },
+  "twentytwo": {
+    "name": "Médecine de la douleur et soins palliatifs",
+    "detail": [
+      "Se concentre sur la gestion de la douleur chronique et l'amélioration de la qualité de vie des patients atteints de maladies graves",
+      "Utilise une approche multidisciplinaire, impliquant des spécialistes de la douleur, des psychologues, des physiothérapeutes et des travailleurs sociaux",
+      "Utilise diverses modalités de traitement, notamment des médicaments, des blocs nerveux, une thérapie physique et un soutien psychologique",
+      "Fournit des soins holistiques qui répondent aux besoins physiques, émotionnels et spirituels des patients et de leurs familles",
+      "Vise à soulager la souffrance, à améliorer le confort et à aider les patients à prendre des décisions éclairées concernant leurs soins"
+    ],
+    "done": [
+      "Disponibilité de spécialistes expérimentés en gestion de la douleur et d'équipes de soins palliatifs avec une approche compatissante",
+      "Accès à des options de traitement avancées, y compris des techniques et des thérapies innovantes de gestion de la douleur",
+      "Des soins rentables, offrant des services de haute qualité à un prix nettement inférieur à celui de nombreux pays occidentaux",
+      "Services de soutien complets, y compris des conseils et un soutien social pour les patients et les familles",
+      "L'accent est mis sur les soins centrés sur le patient, garantissant des plans de traitement personnalisés qui répondent aux besoins et aux préférences de chacun"
+    ]
+  },
+  "twentythree": {
+    "name": "Médecine de la reproduction",
+    "detail": [
+      "Se concentre sur le diagnostic et le traitement des problèmes de fertilité et des problèmes de santé reproductive chez les individus et les couples",
+      "Propose une gamme de technologies de procréation assistée (ART) telles que la fécondation in vitro (FIV), l'insémination intra-utérine (IIU) et le don d'ovules/de sperme",
+      "Fournit des évaluations complètes pour identifier les causes sous-jacentes de l'infertilité, notamment les déséquilibres hormonaux, les problèmes structurels et les facteurs génétiques",
+      "Utilise des techniques avancées telles que les tests génétiques préimplantatoires (PGT) pour améliorer les taux de réussite et réduire les risques de troubles génétiques",
+      "Offre des services de soutien émotionnel et de conseil pour aider les patients à surmonter les défis des traitements de fertilité et à prendre des décisions éclairées"
+    ],
+    "done": [
+      "Accès à des spécialistes en médecine de la reproduction hautement qualifiés et à des cliniques de fertilité avec une accréditation et une expérience internationales",
+      "Des technologies de reproduction avancées et des options de traitement innovantes disponibles à des prix compétitifs par rapport aux pays occidentaux",
+      "Taux de réussite élevés dans les techniques de procréation assistée, soutenus par des protocoles bien établis et une technologie de pointe",
+      "Soins complets comprenant un soutien émotionnel et psychologique pour les personnes et les couples confrontés à des problèmes de fertilité",
+      "Une large gamme de programmes de don d'ovules et de sperme, garantissant des options diverses pour les patients d'horizons et de préférences différents"
+    ]
+  },
+  "twentyfour": {
+    "name": "Pneumologie et médecine du sommeil",
+    "detail": [
+      "Spécialisé dans le diagnostic et le traitement des affections respiratoires, notamment l'asthme, la bronchopneumopathie chronique obstructive (BPCO) et les infections pulmonaires",
+      "Fournit des évaluations complètes des troubles du sommeil, notamment l'apnée du sommeil, l'insomnie et le syndrome des jambes sans repos",
+      "Utilise des outils de diagnostic avancés tels que des tests de fonction pulmonaire, une bronchoscopie et des études du sommeil pour identifier les conditions avec précision",
+      "Offre une variété d'options de traitement, y compris des médicaments, des thérapies par inhalation, une réadaptation pulmonaire et des programmes de modification du mode de vie",
+      "Se concentre sur l'éducation des patients et les stratégies de gestion pour aider les individus à gérer efficacement leur santé respiratoire et leur sommeil"
+    ],
+    "done": [
+      "L'Inde dispose d'un vaste réseau d'hôpitaux et de cliniques accrédités spécialisés en médecine respiratoire et du sommeil, dotés de pneumologues et de spécialistes du sommeil expérimentés.",
+      "Accès à des technologies diagnostiques et thérapeutiques avancées à une fraction du coût par rapport à de nombreux pays occidentaux",
+      "Disponibilité de plans de traitement complets adaptés aux besoins individuels, garantissant une gestion efficace des troubles respiratoires et du sommeil",
+      "Des soins de haute qualité dispensés par des professionnels de la santé souvent formés à l'étranger et informés des dernières avancées dans leur domaine",
+      "L'accent est mis sur les soins holistiques aux patients, y compris les conseils sur le mode de vie et le comportement, qui favorisent la santé et le bien-être à long terme"
+    ]
+  },
+  "twentyfive": {
+    "name": "Chirurgie de la tête et du cou",
+    "detail": [
+      "Se concentre sur le diagnostic et le traitement des affections affectant la région de la tête et du cou, notamment les tumeurs, les infections et les anomalies congénitales",
+      "Spécialisé dans les techniques chirurgicales mini-invasives, y compris les procédures endoscopiques, pour réduire les temps de récupération et améliorer les résultats",
+      "Offre des soins complets aux patients atteints de cancers de la bouche, de la gorge et du larynx, y compris des options d'imagerie et de reconstruction avancées",
+      "Propose des approches multidisciplinaires impliquant des oncologues, des radiologues et des orthophonistes pour des plans de traitement complets",
+      "Met l'accent sur l'éducation et la réadaptation des patients, aidant les individus à retrouver leur fonctionnalité et leur qualité de vie après le traitement"
+    ],
+    "done": [
+      "L'Inde dispose de nombreux hôpitaux et cliniques spécialisés proposant des interventions chirurgicales de la tête et du cou, équipés de technologies et d'installations de pointe.",
+      "Chirurgiens hautement qualifiés avec une formation et une expérience approfondies dans les interventions chirurgicales et non chirurgicales pour les affections de la tête et du cou",
+      "Des prix compétitifs pour les traitements, rendant les soins de santé avancés accessibles sans compromettre la qualité",
+      "Des équipes de soins multidisciplinaires qui proposent des plans de traitement holistiques, garantissant un soutien complet tout au long du processus de rétablissement",
+      "La présence d'une industrie du tourisme médical en pleine croissance, qui facilite les déplacements et l'hébergement des patients internationaux en quête de traitement"
+    ]
+  }
 }
