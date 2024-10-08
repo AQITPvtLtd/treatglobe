@@ -41,11 +41,7 @@ const Header = () => {
 
   return (
     <div
-      className={`overflow-x-clip header left-0 z-40 top-0 w-full items-center backdrop-sm bg-white font-semibold ${
-        sticky
-          ? "fixed z-[999] bg-white !bg-opacity-80 shadow-sticky backdrop-blur-sm transition"
-          : " bg-transparent"
-      }`}
+      className={`overflow-x-clip header left-0 z-40 top-0 w-full items-center backdrop-sm bg-white font-semibold `}
     >
       <div className="bg-white grid gap-x-5 lg:grid-cols-6 grid-cols-2 justify-evenly text-lg text-white">
         <div className="lg:w-[480px] lg:mx-10">
@@ -96,7 +92,7 @@ const Header = () => {
           <button
             onClick={() => setNavbarOpen(!navbarOpen)}
             aria-label="Mobile Menu"
-            className="flex justify-end right-4 rounded-lg px-3 lg:hidden"
+            className={`flex justify-end right-4 rounded-lg px-3 lg:hidden`}
           >
             <div>
               <span
@@ -145,7 +141,7 @@ const Header = () => {
               navbarOpen
                 ? "visibility top-[20%] opacity-100"
                 : "invisible top-[120%] opacity-0"
-            } ${sticky && "top-[80%]"}`}
+            }`}
           >
             <ul className="block lg:grid grid-cols-8 items-center gap-2 relative bg-primary">
               {menu.map((menuItem, index) => (
