@@ -3,8 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState, useContext } from "react";
-import UserContext from "@/context/UserContext";
+import { useState } from "react";
 import LanguageChanger from "@/components/LanguageChanger";
 import { useTranslation } from "react-i18next";
 import SearchBar from "../SearchBar";
@@ -13,21 +12,8 @@ import { menu } from "./menudata";
 
 const Header = () => {
   const { t } = useTranslation();
-  const context = useContext(UserContext);
   const [navbarOpen, setNavbarOpen] = useState(false);
-  const [sticky, setSticky] = useState(false);
   const [openIndex, setOpenIndex] = useState(-1); // For the main menu
-
-  const handleStickyNavbar = () => {
-    setSticky(window.scrollY >= 80);
-  };
-
-  useEffect(() => {
-    window.addEventListener("scroll", handleStickyNavbar);
-    return () => {
-      window.removeEventListener("scroll", handleStickyNavbar);
-    };
-  }, []);
 
   const usePathName = usePathname();
 
@@ -36,7 +22,19 @@ const Header = () => {
   };
 
   const toggleSubMenu = (index) => {
-    setOpenIndex((prevIndex) => (prevIndex === index ? -1 : index)); // Toggle submenu
+    setOpenIndex((prevIndex) => (prevIndex === index ? -1 : index)); // Toggle submenu for mobile
+  };
+
+  const handleMouseEnter = (index) => {
+    if (window.innerWidth >= 1024) {
+      setOpenIndex(index); // Open submenu on hover in desktop view
+    }
+  };
+
+  const handleMouseLeave = () => {
+    if (window.innerWidth >= 1024) {
+      setOpenIndex(-1); // Close submenu on mouse leave in desktop view
+    }
   };
 
   return (
@@ -45,12 +43,7 @@ const Header = () => {
     >
       <div className="bg-white grid gap-x-5 lg:grid-cols-6 grid-cols-2 justify-evenly text-lg text-white">
         <div className="lg:w-[480px] lg:mx-10">
-          <Link
-            href="/"
-            className={`header-logo block w-full ${
-              sticky ? "py-2 lg:py-2" : "py-1"
-            }`}
-          >
+          <Link href="/" className={`header-logo block w-full`}>
             <Image
               src="/logo/logo_new.png"
               alt="logo"
@@ -113,21 +106,6 @@ const Header = () => {
             </div>
           </button>
         </div>
-
-        <div className="lg:flex hidden col-span-3 col-start-3 mx-5 items-center">
-          <SearchBar />
-        </div>
-
-        <div className="lg:mx-0 text-primary mx-14 lg:flex lg:mt-0 mt-2 items-center justify-center hidden">
-          <div>
-            <Link
-              href="/contact"
-              className="bg-primary hover:bg-primary/80 shadow-md text-white py-2 px-3 col-start-3 rounded-md flex justify-end"
-            >
-              <div>Get Quote</div>
-            </Link>
-          </div>
-        </div>
       </div>
 
       <div className="lg:hidden w-full bg-primary col-span-3 col-start-3 items-center">
@@ -152,6 +130,8 @@ const Header = () => {
                       ? "bg-secondary"
                       : "text-dark hover:bg-secondary"
                   }`}
+                  onMouseEnter={() => handleMouseEnter(menuItem.id)}
+                  onMouseLeave={handleMouseLeave}
                 >
                   {menuItem.path ? (
                     <Link
