@@ -224,4 +224,22 @@ export const treatment = [
     detail: "treatments:twentyfive.detail",
     done: "treatments:twentyfive.done",
   },
+  {
+    id: 26,
+    idname: "twentysix",
+    name: "treatments:twentysix.name",
+    image: "liver-transplant.png",
+    url: "liver-transplant",
+    detail: "treatments:twentysix.detail",
+    done: "treatments:twentysix.done",
+  },
+  {
+    id: 27,
+    idname: "twentyseven",
+    name: "treatments:twentyseven.name",
+    image: "kidney-transplant.png",
+    url: "kidney-transplant",
+    detail: "treatments:twentyseven.detail",
+    done: "treatments:twentyseven.done",
+  },
 ];

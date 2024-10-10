@@ -423,5 +423,39 @@
       "Des équipes de soins multidisciplinaires qui proposent des plans de traitement holistiques, garantissant un soutien complet tout au long du processus de rétablissement",
       "La présence d'une industrie du tourisme médical en pleine croissance, qui facilite les déplacements et l'hébergement des patients internationaux en quête de traitement"
     ]
+  },
+  "twentysix": {
+    "name": "Transplantation du foie",
+    "detail": [
+      "La transplantation hépatique est une intervention chirurgicale visant à remplacer un foie malade par un foie sain provenant d'un donneur.",
+      "Elle est souvent recommandée aux patients atteints d'une maladie hépatique en phase terminale, comme une cirrhose ou une insuffisance hépatique.",
+      "Les donneurs peuvent être décédés ou vivants, les donneurs vivants faisant don d'une partie de leur foie.",
+      "Les patients transplantés ont besoin de médicaments immunosuppresseurs à vie pour éviter le rejet d'organe.",
+      "La convalescence après une transplantation hépatique implique généralement plusieurs mois de surveillance et de rééducation."
+    ],
+    "done": [
+      "L'Inde offre des installations médicales de classe mondiale avec des chirurgiens hautement qualifiés et une technologie de pointe pour les transplantations hépatiques.",
+      "Le coût d'une transplantation hépatique en Inde est nettement inférieur à celui de nombreux pays occidentaux, tout en maintenant des normes de soins élevées.",
+      "Des professionnels de la santé expérimentés, dont beaucoup ont suivi une formation internationale, fournissent d'excellents soins avec des taux de réussite élevés pour les transplantations hépatiques.",
+      "L'Inde a des délais d'attente plus courts pour les transplantations d'organes par rapport à d'autres pays, en raison de la disponibilité de donneurs décédés et vivants.",
+      "Des forfaits de soins complets pour les patients internationaux, comprenant des soins pré- et postopératoires, un soutien linguistique et une assistance pour le voyage et l'hébergement, en font une option pratique pour le tourisme médical."
+    ]
+  },
+  "twentyseven": {
+    "name": "Greffe du rein",
+    "detail": [
+      "Une greffe de rein est une procédure au cours de laquelle un rein sain provenant d'un donneur est placé chirurgicalement chez un patient souffrant d'insuffisance rénale.",
+      "Elle est recommandée pour les patients atteints d'une maladie rénale terminale ou d'une insuffisance rénale chronique sévère.",
+      "Les donneurs peuvent être décédés ou vivants, les donneurs vivants étant souvent un membre de la famille ou un donneur proche.",
+      "Les soins post-transplantation nécessitent un traitement immunosuppresseur à vie pour prévenir le rejet d'organe.",
+      "La période de récupération implique généralement plusieurs semaines de surveillance étroite et de contrôles réguliers."
+    ],
+    "done": [
+      "Traitement abordable : les coûts de transplantation rénale en Inde sont nettement inférieurs à ceux de nombreux autres pays, tout en maintenant des soins de haute qualité.",
+      "Chirurgiens hautement qualifiés : l'Inde dispose de néphrologues et de chirurgiens formés à l'étranger et possédant une vaste expérience dans la réalisation de transplantations rénales réussies.",
+      "Installations de pointe : de nombreux hôpitaux en Inde sont équipés de technologies et d'infrastructures de pointe, garantissant des soins de classe mondiale.",
+      "Périodes d'attente plus courtes : en raison de la disponibilité de donneurs vivants et décédés, les délais d'attente pour les transplantations rénales en Inde ont tendance à être plus courts.",
+      "Soutien complet au tourisme médical : l'Inde offre des services sur mesure aux patients internationaux, notamment une assistance pour le voyage, l'hébergement et le soutien linguistique, ce qui en fait une destination pratique et accessible pour le traitement."
+    ]
   }
 }

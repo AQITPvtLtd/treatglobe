@@ -423,5 +423,39 @@
       "Multidisciplinary care teams that provide holistic treatment plans, ensuring comprehensive support throughout the recovery process",
       "The presence of a growing medical tourism industry, which facilitates seamless travel and accommodation for international patients seeking treatment"
     ]
+  },
+  "twentysix": {
+    "name": "Liver Transplant",
+    "detail": [
+      "Liver transplant is a surgical procedure to replace a diseased liver with a healthy one from a donor.",
+      "It is often recommended for patients with end-stage liver disease, such as cirrhosis or liver failure.",
+      "Donors can be deceased or living, with living donors donating a portion of their liver.",
+      "Post-transplant patients require lifelong immunosuppressive medications to prevent organ rejection.",
+      "Recovery from liver transplantation typically involves several months of monitoring and rehabilitation."
+    ],
+    "done": [
+      "India offers world-class medical facilities with highly skilled surgeons and advanced technology for liver transplants.",
+      "The cost of liver transplant in India is significantly lower compared to many Western countries, while maintaining high standards of care.",
+      "Experienced medical professionals, many of whom have international training, provide excellent care with high success rates for liver transplants.",
+      "India has shorter waiting times for organ transplants compared to other countries, due to the availability of both deceased and living donors.",
+      "Comprehensive care packages for international patients, including pre- and post-operative care, language support, and assistance with travel and accommodation, make it a convenient option for medical tourism."
+    ]
+  },
+  "twentyseven": {
+    "name": "Kidney Transplant",
+    "detail": [
+      "A kidney transplant is a procedure where a healthy kidney from a donor is surgically placed into a patient with kidney failure.",
+      "It is recommended for patients with end-stage kidney disease or severe chronic kidney failure.",
+      "Donors can be deceased or living, with living donors often being a family member or close match.",
+      "Post-transplant care requires lifelong immunosuppressive medication to prevent organ rejection.",
+      "The recovery period typically involves several weeks of close monitoring and regular check-ups."
+    ],
+    "done": [
+      "Affordable treatment: Kidney transplant costs in India are significantly lower than in many other countries, while maintaining high-quality care.",
+      "Highly skilled surgeons: India has internationally trained nephrologists and surgeons with extensive experience in performing successful kidney transplants.",
+      "State-of-the-art facilities: Many hospitals in India are equipped with advanced technology and infrastructure, ensuring world-class care.",
+      "Shorter waiting periods: Due to the availability of both living and deceased donors, waiting times for kidney transplants in India tend to be shorter.",
+      "Comprehensive medical tourism support: India offers tailored services for international patients, including assistance with travel, accommodation, and language support, making it a convenient and accessible destination for treatment."
+    ]
   }
 }

@@ -374,7 +374,7 @@ export const doctordata = [
     education: "doctorDetailed:d25.education",
     work: "doctorDetailed:d25.work",
     description: "doctorDetailed:d25.description",
-    treatment: ["eighteen"],
+    treatment: ["eighteen","twentysix"],
   },
   {
     id: 26,
@@ -1050,7 +1050,7 @@ export const doctordata = [
     education: "doctorDetailed:d70.education",
     work: "doctorDetailed:d70.work",
     description: "doctorDetailed:d70.description",
-    treatment: ["nine"],
+    treatment: ["nine", "twentyseven"],
   },
   {
     id: 71,
@@ -1065,7 +1065,7 @@ export const doctordata = [
     education: "doctorDetailed:d71.education",
     work: "doctorDetailed:d71.work",
     description: "doctorDetailed:d71.description",
-    treatment: ["five", "seven", "nineteen"],
+    treatment: ["five", "seven", "nineteen", "twentyseven"],
   },
   {
     id: 72,
@@ -1548,7 +1548,7 @@ export const doctordata = [
     education: "doctorDetailed:d103.education",
     work: "doctorDetailed:d103.work",
     description: "doctorDetailed:d103.description",
-    treatment: ["eighteen"],
+    treatment: ["eighteen", "twentysix"],
   },
 
   {
@@ -1564,7 +1564,7 @@ export const doctordata = [
     education: "doctorDetailed:d104.education",
     work: "doctorDetailed:d104.work",
     description: "doctorDetailed:d104.description",
-    treatment: ["eighteen"],
+    treatment: ["eighteen", "twentysix"],
   },
 
   {
@@ -1626,5 +1626,20 @@ export const doctordata = [
     work: "doctorDetailed:d108.work",
     description: "doctorDetailed:d108.description",
     treatment: ["eight"],
+  },
+  {
+    id: 109,
+    hid: 8,
+    name: "Dr. Anant Kumar",
+    post: "doctorDetailed:d109.post",
+    image: "doc23.jpg",
+    experience: "36+",
+    top: true,
+    speciality: "doctorDetailed:d109.speciality",
+    training: "doctorDetailed:d109.training",
+    education: "doctorDetailed:d109.education",
+    work: "doctorDetailed:d109.work",
+    description: "doctorDetailed:d109.description",
+    treatment: ["twentyseven"],
   },
 ];

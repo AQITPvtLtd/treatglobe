@@ -4076,5 +4076,43 @@
       "Он имеет опыт выполнения сложных врожденных кардиохирургических операций и использует инновационные методы и передовые технологии.",
       "Доктор Дагар прошел обучение в GB Pant Hospital, Нью-Дели, и отличился в Great Ormond Street Hospital for Sick Children в Лондоне, где он обучался методам экстракорпоральной жизнеобеспечивающей поддержки и трансплантации сердца."
     ]
+  },"d109": {
+    "id": 109,
+    "hid": 8,
+    "name": "Dr. Anant Kumar",
+    "post": "Chairman - Urology Renal Transplant and Robotics of Max Saket Complex and Uro-Oncology of MSSH Saket",
+    "image": "d3.jpg",
+    "experience": "36+",
+    "top": false,
+    "speciality": [
+      "Kidney Transplantation and Renovascular Hypertension",
+      "Robotic and Laparoscopic Urology",
+      "Stricture Urethra",
+      "Uro - Oncology",
+      "Laser Prostate Surgery"
+    ],
+    "training": [
+      "Extensive experience in laser urological surgery, particularly using Thulium, green light, Holmium laser, and HOLEP techniques for prostate removal.",
+      "Skilled in reconstructive urological procedures of the kidney, bladder, and urethra, with over 700 urethral stricture surgeries performed.",
+      "Proficient in endourological techniques like PCNL, URS, TURP, flexible ureteroscopy, and more.",
+      "Developed expertise in performing nearly all laparoscopic urological surgeries, including radical prostatectomy, cystectomy, and partial nephrectomy."
+    ],
+    "education": "DNB (Urology), PGIMER, Chandigarh, India; M.Ch(Urology), PGIMER, Chandigarh, India; M.S(General Surgery), PGIMER, Chandigarh India; M.B.B.S King George Medical University, Lucknow, India",
+    "work": [
+      "Dr. Anant Kumar is currently working at Max Healthcare",
+      "Professor and Head, Department of Urology & Renal Transplantation, Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow",
+      "Director , Department of Urology, Robotic and Kidney Transplantation, Fortis Group of Hospitals, Delhi and NCR",
+      "Senior Consultant, Urology and Transplantation, Indraprastha Apollo Hospital, New Delhi",
+      "Consultant Urologist, Addenbrooke's NHS foundation, Cambridge, UK"
+    ],
+    "description": [
+      "35 years of experience in teaching and clinical practice in urology and renal transplantation.",
+      "Specialized in robotic-assisted laparoscopic urology with over 500 robotic surgeries performed in the last 5 years.",
+      "Over 3500 kidney transplants performed, with expertise in laparoscopic kidney retrieval and 2200 lap donor nephrectomies.",
+      "Extensive experience in laser urological surgery, particularly using Thulium, green light, Holmium laser, and HOLEP techniques for prostate removal.",
+      "Skilled in reconstructive urological procedures of the kidney, bladder, and urethra, with over 700 urethral stricture surgeries performed.",
+      "Proficient in endourological techniques like PCNL, URS, TURP, flexible ureteroscopy, and more.",
+      "Developed expertise in performing nearly all laparoscopic urological surgeries, including radical prostatectomy, cystectomy, and partial nephrectomy."
+    ]
   }
 }

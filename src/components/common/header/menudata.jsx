@@ -148,6 +148,16 @@ export const menu = [
         title: "treatments:twentyfive.name",
         path: "/treatments/head-and-neck-surgery",
       },
+      {
+        id: 86,
+        title: "treatments:twentysix.name",
+        path: "/treatments/liver-transplant",
+      },
+      {
+        id: 87,
+        title: "treatments:twentyseven.name",
+        path: "/treatments/kidney-transplant",
+      },
     ],
   },
   {

@@ -423,5 +423,39 @@
       "Ko'p tarmoqli tibbiy yordam guruhlari, yaxlit davolash rejalarini ta'minlaydi, tiklanish jarayonida har tomonlama yordam beradi",
       "Davolanmoqchi bo'lgan xalqaro bemorlar uchun uzluksiz sayohat va turar joyni osonlashtiradigan rivojlanayotgan tibbiy turizm sanoatining mavjudligi"
     ]
+  },
+  "twentysix": {
+    "name": "Jigar transplantatsiyasi",
+    "detail": [
+      "Jigar transplantatsiyasi kasal jigarni donordan sog'lom jigar bilan almashtirish uchun jarrohlik muolajadir",
+      "Ko'pincha jigar sirrozi yoki jigar etishmovchiligi kabi oxirgi bosqichli jigar kasalligi bo'lgan bemorlarga tavsiya etiladi.",
+      "Donorlar o'lgan yoki tirik bo'lishi mumkin, tirik donorlar o'z jigarining bir qismini berishadi.",
+      "Tranplantatsiyadan keyingi bemorlar organlarni rad etishning oldini olish uchun umrbod immunosupressiv dori-darmonlarni talab qiladilar.",
+      "Jigar transplantatsiyasidan tiklanish odatda bir necha oylik monitoring va reabilitatsiyani o'z ichiga oladi."
+    ],
+    "done": [
+      "Hindiston yuqori malakali jarrohlar va jigar transplantatsiyasi uchun ilg'or texnologiyalarga ega bo'lgan jahon darajasidagi tibbiy muassasalarni taklif etadi.",
+      "Hindistonda jigar transplantatsiyasi narxi ko'plab G'arb mamlakatlariga qaraganda ancha past, shu bilan birga parvarishning yuqori standartlari saqlanib qolgan.",
+      "Ko'pchilik xalqaro ta'limga ega bo'lgan tajribali tibbiyot mutaxassislari jigar transplantatsiyasi uchun yuqori muvaffaqiyat ko'rsatkichlari bilan mukammal yordam ko'rsatadilar.",
+      "Hindistonda organ transplantatsiyasini kutish vaqti boshqa mamlakatlarga qaraganda qisqaroq, chunki o'lganlar va tirik donorlar mavjud.",
+      "Xalqaro bemorlar uchun kompleks tibbiy yordam paketlari, jumladan, operatsiyadan oldingi va keyingi yordam, tilni qo'llab-quvvatlash, sayohat va turar joy bilan yordam berish uni tibbiy turizm uchun qulay variantga aylantiradi."
+    ]
+  },
+  "twentyseven": {
+    "name": "Buyrak transplantatsiyasi",
+    "detail": [
+      "Buyrak transplantatsiyasi - bu donorning sog'lom buyragi buyrak etishmovchiligi bo'lgan bemorga jarrohlik yo'li bilan joylashtiriladigan protsedura.",
+      "Buyrak kasalligining oxirgi bosqichi yoki og'ir surunkali buyrak etishmovchiligi bo'lgan bemorlarga tavsiya etiladi.",
+      "Donorlar o'lgan yoki tirik bo'lishi mumkin, tirik donorlar ko'pincha oila a'zosi yoki yaqin o'xshashdir.",
+      "Tranplantatsiyadan keyingi parvarish organni rad etishning oldini olish uchun umrbod immunosupressiv dori-darmonlarni talab qiladi.",
+      "Qayta tiklash davri odatda bir necha haftalik yaqin monitoring va muntazam tekshiruvlarni o'z ichiga oladi."
+    ],
+    "done": [
+      "Imkoniyatli davolanish: Hindistonda buyrak ko'chirib o'tkazish xarajatlari boshqa ko'plab mamlakatlarga qaraganda ancha past, shu bilan birga yuqori sifatli parvarish.",
+      "Yuqori malakali jarrohlar: Hindistonda muvaffaqiyatli buyrak transplantatsiyasini amalga oshirishda katta tajribaga ega xalqaro miqyosda o'qitilgan nefrolog va jarrohlar mavjud.",
+      "Zamonaviy muassasalar: Hindistondagi ko'plab shifoxonalar ilg'or texnologiyalar va infratuzilma bilan jihozlangan bo'lib, jahon darajasidagi yordamni ta'minlaydi.",
+      "Qisqaroq kutish muddatlari: Tirik va vafot etgan donorlar mavjudligi sababli, Hindistonda buyrak transplantatsiyasini kutish vaqtlari qisqaroq bo'ladi.",
+      "Tibbiy turizmni har tomonlama qo'llab-quvvatlash: Hindiston xalqaro bemorlar uchun moslashtirilgan xizmatlarni taklif qiladi, jumladan sayohat, turar joy va tilni qo'llab-quvvatlash, bu uni davolanish uchun qulay va qulay manzilga aylantiradi."
+    ]
   }
 }
