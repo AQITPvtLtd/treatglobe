@@ -55,12 +55,12 @@ const Top = () => {
         </Link>
 
         <Link
-          href="mailto:info@treatglobe.com"
+          href="mailto:treatglobeinfo@gmail.com"
           className="hover:text-secondary"
         >
           <div className="flex gap-3">
             <MdEmail className="mt-1" />
-            <p>info@treatglobe.com</p>
+            <p>treatglobeinfo@gmail.com</p>
           </div>
         </Link>
       </div>

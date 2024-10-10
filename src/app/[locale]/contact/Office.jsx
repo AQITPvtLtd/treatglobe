@@ -62,10 +62,10 @@ const Office = () => {
                     {t("contact:email")}
                   </p>
                   <Link
-                    href="mailto: info@treatglobe.com"
+                    href="mailto: treatglobeinfo@gmail.com"
                     className="hover:text-primary"
                   >
-                    info@treatglobe.com
+                    treatglobeinfo@gmail.com
                   </Link>
                 </div>
               </div>

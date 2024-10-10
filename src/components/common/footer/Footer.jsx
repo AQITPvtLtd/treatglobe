@@ -181,13 +181,13 @@ const Footer = () => {
                   </li>
                   <li className="mt-3 leading-normal">
                     <Link
-                      href="mailto:info@treatglobe.com"
+                      href="mailto:treatglobeinfo@gmail.com"
                       className="hover:text-primary hover:font-bold"
                     >
                       <h5 className="mb-2.5 font-bold uppercase">
                         {t("footer:heading5")}
                       </h5>
-                      <div className="hover:text-blue">info@treatglobe.com</div>
+                      <div className="hover:text-blue">treatglobeinfo@gmail.com</div>
                     </Link>
                   </li>
                 </ul>
