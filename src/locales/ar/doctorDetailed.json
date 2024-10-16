@@ -3503,690 +3503,691 @@
     "id": 92,
     "hid": 7,
     "name": "Dr. Sudhir Tyagi",
-    "post": "Neurosurgeon",
+    "post": "جراح أعصاب",
     "image": "1.jpg",
     "experience": "32+",
     "top": true,
     "speciality": [
-      "Neurosurgery Training - All India Institute of Medical Sciences (AIIMS), New Delhi",
-      "Functional Stereotactic Surgery Program - Apollo Hospital New Delhi"
+      "تدريب جراحة الأعصاب - معهد عموم الهند للعلوم الطبية (AIIMS)، نيودلهي",
+      "برنامج الجراحة الوظيفية التجسيمية - مستشفى أبولو، نيودلهي"
     ],
     "training": [
-      "Anterior Cervical and Lumbar Microsurgical Discectomy",
-      "Craniovertebral Junction Surgeries",
-      "Cerebral Aneurysm Treatment",
-      "Excision of AVM Malformation",
-      "Spinal Tumor Surgeries",
-      "Spinal Instrumentation (Cervico-occipital to Lumbosacral Regions)",
-      "Deep Brain Stimulation Surgeries",
-      "Frameless Stereotactic Navigation for Epilepsy",
-      "Stereotactic Radiosurgery (SRS)"
+      "استئصال القرص الفقري العنقي والقطني الأمامي بالجراحة المجهرية",
+      "جراحات الوصلة الفقرية القحفية",
+      "علاج تمدد الأوعية الدموية الدماغية",
+      "استئصال تشوهات الشرايين الوريدية الدماغية",
+      "جراحات أورام العمود الفقري",
+      "استخدام الأدوات الجراحية في العمود الفقري (من المنطقة العنقية القذالية إلى المنطقة القطنية العجزية)",
+      "جراحات تحفيز الدماغ العميق",
+      "الملاحة التجسيمية بدون إطار لعلاج الصرع",
+      "الجراحة الإشعاعية التجسيمية"
     ],
-    "education": "MBBS (KGMC), MS (KGMC) M.Ch Neurosurgery (AIIMS)",
+    "education": "بكالوريوس الطب والجراحة (KGMC)، ماجستير في العلوم (KGMC) ماجستير في جراحة المخ والأعصاب (AIIMS)",
     "work": [
-      "AIIMS ( Jan 1994 to May 1997)",
-      "Working in neurosurgical field for last 25 years",
-      "Practicing successfully Brain & Spine Surgery at Apollo Hospitals New Delhi",
-      "9000 neurosurgical procedures"
+      "AIIMS (من يناير 1994 إلى مايو 1997)",
+      "العمل في مجال جراحة الأعصاب منذ 25 عامًا",
+      "ممارسة جراحة المخ والعمود الفقري بنجاح في مستشفيات أبولو في نيودلهي",
+      "9000 عملية جراحية عصبية"
     ],
     "description": [
-      "Dr. Sudheer Kumar Tyagi, born on 1st February 1966, is a renowned neurosurgeon with over 32 years of experience.",
-      "Graduated from King George’s Medical University (KGMU), Lucknow, and trained in Neurosurgery at AIIMS, New Delhi.",
-      "Recognized for precise neurosurgical work, including more than 15,000 microscopic brain and spine surgeries.",
-      "Active in neurosurgical training and research at Apollo Hospitals, New Delhi.",
-      "Has provided free medical services in his native village in Muzaffarnagar (UP) for over 32 years.",
-      "Promoter of the Swach Bharat Mission and has financially supported local infrastructure projects including toilets and a girls' hostel in his village.",
-      "Supports the education of an orphan child through a foundation.",
-      "Honored with several awards including the LEGEND award by Times of India in August 2017, the Vishisht Chiktsa Ratna Award by Delhi Medical Association in July 2015, and a Scroll of Honour by the Indian Medical Association (South Delhi)."
+      "الدكتور سودهير كومار تياجي، المولود في الأول من فبراير 1966، هو جراح أعصاب مشهور يتمتع بخبرة تزيد عن 32 عامًا.",
+      "تخرج من جامعة الملك جورج الطبية (KGMU)، لكناو، وتدرب في جراحة الأعصاب في AIIMS، نيودلهي.",
+      "معترف به لعمله الجراحي الدقيق للأعصاب، بما في ذلك أكثر من 15000 جراحة مجهرية في المخ والعمود الفقري.",
+      "ناشط في التدريب والبحث في جراحة الأعصاب في مستشفيات أبولو، نيودلهي.",
+      "قدم خدمات طبية مجانية في قريته الأصلية في مظفر نجار (أوتار براديش) لأكثر من 32 عامًا.",
+      "مروج لبعثة Swach Bharat ودعم ماليًا مشاريع البنية التحتية المحلية بما في ذلك المراحيض ونزل للفتيات في قريته.",
+      "يدعم تعليم طفل يتيم من خلال مؤسسة.",
+      "حصل على العديد من الجوائز بما في ذلك جائزة LEGEND من صحيفة Times of India في أغسطس 2017، وجائزة Vishisht Chiktsa Ratna من جمعية دلهي الطبية في يوليو 2015، ووسام الشرف من الجمعية الطبية الهندية (جنوب دلهي)."
     ]
   },
   "d93": {
     "id": 93,
     "hid": 3,
     "name": "Dr. Manoj Miglani",
-    "post": "PRINCIPAL DIRECTOR ORTHOPAEDICS",
+    "post": "المدير الرئيسي لقسم جراحة العظام",
     "image": "d15.webp",
     "experience": "20+",
     "top": true,
     "speciality": [
-      "Revision Hip Replacement",
-      "Minimally Invasive Hip Replacement",
-      "ACL Reconstruction",
-      "Knee Replacement Surgery",
-      "Revision Single Knee Replacement",
-      "Arthroscopic surgery",
-      "Shoulder Replacement Surgery",
-      "Knee Arthroscopy",
-      "Elbow Replacement Surgery",
-      "Osteotomy",
-      "Limb Lengthening",
-      "Laminoplasty",
-      "Laminotomy",
-      "Micro Discectomy",
-      "Minimally Invasive Spine Surgery",
-      "Total Disc Replacement",
-      "Multiple Sclerosis",
-      "Cervical Spine Surgery",
-      "Spine Tumour Surgery",
-      "Scoliosis Spine Surgery",
-      "Spine Decompression Surgery",
-      "Ankle Arthroscopy",
-      "Shoulder Arthroscopy",
-      "Spondylitis",
-      "Slip DiscAnterior cervical discectomy and fusion (ACDF)",
-      "TLIF surgery"
+      "استبدال الورك التصحيحي",
+      "استبدال الورك بأقل تدخل جراحي",
+      "إعادة بناء الرباط الصليبي الأمامي",
+      "جراحة استبدال الركبة",
+      "استبدال الركبة المفردة التصحيحي",
+      "الجراحة التنظيرية",
+      "جراحة استبدال الكتف",
+      "تنظير الركبة",
+      "جراحة استبدال الكوع",
+      "قطع العظم",
+      "إطالة الأطراف",
+      "تقويم الصفيحة الفقرية",
+      "استئصال الصفيحة الفقرية",
+      "استئصال القرص الدقيق",
+      "جراحة العمود الفقري بأقل تدخل جراحي",
+      "استبدال القرص الكامل",
+      "التصلب المتعدد",
+      "جراحة العمود الفقري العنقي",
+      "جراحة أورام العمود الفقري",
+      "جراحة العمود الفقري للجنف",
+      "جراحة إزالة الضغط عن العمود الفقري",
+      "تنظير الكاحل",
+      "تنظير الكتف",
+      "التهاب الفقار",
+      "استئصال القرص الانزلاقي الأمامي العنقي والاندماج (ACDF)",
+      "جراحة TLIF"
     ],
     "training": [
-      "Orthopedic Surgery",
-      "Spinal Surgery",
-      "Minimally Invasive Spine Surgery",
-      "Endoscopic Procedures",
-      "Joint Replacements"
+      "جراحة العظام",
+      "جراحة العمود الفقري",
+      "جراحة العمود الفقري الأقل تدخلاً",
+      "الإجراءات التنظيرية",
+      "استبدال المفاصل"
     ],
-    "education": "M.S. (Orthopedics), MBBS",
+    "education": "ماجستير في جراحة العظام، بكالوريوس في الطب والجراحة",
     "work": [
-      "Orthopedic and Spine Surgeon at Fortis Hospital, Vasant Kunj, New Delhi.",
-      "Performs a wide range of spine surgeries and joint replacements, including complex cases and routine procedures.",
-      "Specializes in spinal trauma and degeneration cases, including herniated discs, spinal stenosis, and fractures.",
-      "Focuses on minimally invasive spine surgeries, including endoscopic procedures and fixations.",
-      "Keeps updated with the latest advancements in spinal surgery to offer cutting-edge and least invasive treatments."
+      "جراح العظام والعمود الفقري في مستشفى فورتيس، فاسانت كونج، نيودلهي.",
+      "يجري مجموعة واسعة من جراحات العمود الفقري واستبدال المفاصل، بما في ذلك الحالات المعقدة والإجراءات الروتينية.",
+      "يتخصص في حالات الصدمات والتنكس في العمود الفقري، بما في ذلك الانزلاق الغضروفي، وتضيق العمود الفقري، والكسور.",
+      "يركز على جراحات العمود الفقري الأقل تدخلاً، بما في ذلك الإجراءات التنظيرية والتثبيتات.",
+      "يظل على اطلاع بأحدث التطورات في جراحة العمود الفقري لتقديم علاجات متطورة وأقل تدخلاً."
     ],
     "description": [
-      "Dr. Manoj Miglani is a highly regarded orthopedic and spine surgeon known for his compassionate and approachable demeanor.",
-      "He has a distinguished career at Fortis Hospital, Vasant Kunj, New Delhi, and is renowned for his expertise in spinal surgery.",
-      "Dr. Miglani is skilled in treating various spinal conditions such as herniated discs, spinal stenosis, and fractures.",
-      "He is particularly noted for his interest in minimally invasive spine surgeries, which offer benefits like smaller incisions, reduced pain, and quicker recovery.",
-      "His commitment to staying updated with advancements in spinal surgery allows him to provide his patients with the latest and most effective treatments."
+      "الدكتور مانوج ميجلاني هو جراح عظام وعمود فقري يتمتع بتقدير كبير ومعروف بسلوكه الحنون والودود.",
+      "لديه مسيرة مهنية متميزة في مستشفى فورتيس، فاسانت كونج، نيودلهي، وهو مشهور بخبرته في جراحة العمود الفقري.",
+      "الدكتور ميجلاني ماهر في علاج حالات العمود الفقري المختلفة مثل الانزلاق الغضروفي، وتضيق العمود الفقري، والكسور.",
+      "يشتهر بشكل خاص باهتمامه بجراحات العمود الفقري الأقل تدخلاً، والتي تقدم فوائد مثل الشقوق الأصغر، والألم الأقل، والتعافي السريع.",
+      "التزامه بالبقاء على اطلاع بأحدث التطورات في جراحة العمود الفقري يسمح له بتزويد مرضاه بأحدث العلاجات وأكثرها فعالية."
     ]
   },
   "d94": {
     "id": 94,
     "hid": 4,
     "name": "Dr. Ashok Seth",
-    "post": "CHAIRMAN CARDIAC SCIENCE",
+    "post": "رئيس قسم علوم القلب",
     "image": "d1.jpg",
     "experience": "40+",
     "top": true,
     "speciality": [
-      "Transcatheter Aortic Valve Replacement (TAVR)",
-      "MitraClip (TMVR)",
-      "Complex Angioplasties",
-      "Laser Angioplasty",
-      "BioAbsorbable Stents",
-      "Impella Pump Supported Angioplasty",
-      "Rotablator",
-      "Shockwave Lithotripsy",
-      "Aortic Aneurysm Stent Grafts",
-      "Carotid Angioplasties"
+      "استبدال الصمام الأورطي عن طريق القسطرة (TAVR)",
+      "ميتراكليب (TMVR)",
+      "عمليات توسيع الأوعية الدموية المعقدة",
+      "عمليات توسيع الأوعية الدموية بالليزر",
+      "الدعامات القابلة للامتصاص بيولوجيًا",
+      "عمليات توسيع الأوعية الدموية المدعومة بمضخة إمبيلا",
+      "روتابلاتور",
+      "تفتيت حصوات الموجات الصادمة",
+      "دعامات تمدد الأوعية الدموية الأبهرية",
+      "عمليات توسيع الأوعية الدموية السباتية"
     ],
     "training": [
-      "Chairman, Fortis Escorts Heart Institute, New Delhi",
-      "Chairman, Fortis Healthcare Medical Council",
-      "Adjunct Professor of Cardiology, JN Medical College, Aligarh Muslim University",
-      "Adjunct Professor of Cardiology, National Board of Examinations",
-      "Founder/Course Director, Major National & International Angioplasty Teaching Courses",
-      "Associate Director, TCT Scientific Sessions (USA)",
-      "Program Committee Member, Euro PCR"
+      "رئيس معهد فورتيس إسكورتس للقلب، نيودلهي",
+      "رئيس مجلس فورتيس للرعاية الصحية الطبي",
+      "أستاذ مساعد لأمراض القلب، كلية الطب جيه إن، جامعة عليكرة الإسلامية",
+      "أستاذ مساعد لأمراض القلب، المجلس الوطني للامتحانات",
+      "مؤسس/مدير الدورة التدريبية، الدورات التدريبية الوطنية والدولية الرئيسية في مجال قسطرة الشرايين التاجية",
+      "مدير مشارك، جلسات TCT العلمية (الولايات المتحدة الأمريكية)",
+      "عضو لجنة البرنامج، يوروبكر"
     ],
-    "education": "FRCP (Lond, Edin, Irel), FACC, FESC, MSCAI, FAPSIC, FIMSA, FCSI, DSc ( BHU, AMU, Amity U, TMU, Shiv Nadar U ), D Litt ( Jamia Millia U )",
+    "education": "FRCP (لندن، إدين، إيريل)، FACC، FESC، MSCAI، FAPSIC، FIMSA، FCSI، DSc ( BHU، AMU، Amity U، TMU، Shiv Nadar U)، D Litt ( Jamia Millia U )",
     "work": [
-      "Chairman of Fortis Escorts Heart Institute, New Delhi.",
-      "Chairman of Fortis Healthcare Medical Council.",
-      "Adjunct Professor of Cardiology at JN Medical College (Aligarh Muslim University) and the National Board of Examinations.",
-      "Founder/Course Director of major national and international angioplasty teaching courses, including India Live, India Valves, CHIP-CTO India, AICT-Asia PCR, and Imaging & Physiology Council of India.",
-      "Associate Director of TCT Scientific Sessions (USA) and Program Committee Member of Euro PCR.",
-      "Lectured at over 450 national and international meetings and performed live demonstrations of complex angioplasty techniques at more than 100 meetings worldwide.",
-      "Trained over 500 cardiologists in advanced angioplasty techniques.",
-      "Authored over 350 publications and contributed chapters to 30 books on cardiology."
+      "رئيس معهد فورتيس إسكورتس للقلب، نيودلهي",
+      "رئيس مجلس فورتيس الطبي للرعاية الصحية",
+      "أستاذ مساعد لأمراض القلب في كلية الطب جيه إن (جامعة عليكرة الإسلامية) والمجلس الوطني للامتحانات",
+      "مؤسس/مدير دورات تدريبية وطنية ودولية كبرى في مجال قسطرة الشرايين، بما في ذلك India Live وIndia Valves وCHIP-CTO India وAICT-Asia PCR ومجلس التصوير وعلم وظائف الأعضاء في الهند",
+      "مدير مشارك لجلسات TCT العلمية (الولايات المتحدة الأمريكية) وعضو لجنة البرنامج في Euro PCR",
+      "ألقى محاضرات في أكثر من 450 اجتماعًا وطنيًا ودوليًا وأجرى عروضًا حية لتقنيات قسطرة الشرايين المعقدة في أكثر من 100 اجتماع حول العالم",
+      "درب أكثر من 500 طبيب قلب على تقنيات قسطرة الشرايين المتقدمة",
+      "ألف أكثر من 350 منشورًا وساهم بفصول في 30 كتابًا عن أمراض القلب"
     ],
     "description": [
-      "Dr. Ashok Seth has led the field of interventional cardiology for 35 years, contributing extensively to the development and scientific progress in this specialty.",
-      "He has pioneered numerous angioplasty techniques for India and the Asia Pacific region and has received honorary doctorates from six prestigious universities.",
-      "Dr. Seth has been honored with several national and international awards, including the Padma Shri, Padma Bhushan, and B.C. Roy National Award. He is recognized as a Master Interventionalist by the Society for Cardiovascular Angiography & Interventions (USA) and has received the Life Time Achievement in Interventional Cardiology Award by Chien Foundation (Singapore).",
-      "He is acclaimed for his expertise in advanced interventional procedures, including Transcatheter Aortic Valve Replacement (TAVR), MitraClip, complex angioplasties, and more.",
-      "Dr. Seth has been actively involved in teaching and training, with a significant impact on cardiology education both in India and internationally."
+      "لقد قاد الدكتور أشوك سيث مجال طب القلب التدخلي لمدة 35 عامًا، وساهم بشكل كبير في تطوير هذا التخصص والتقدم العلمي فيه.",
+      "لقد كان رائدًا في العديد من تقنيات قسطرة الشرايين في الهند ومنطقة آسيا والمحيط الهادئ وحصل على الدكتوراه الفخرية من ست جامعات مرموقة.",
+      "تم تكريم الدكتور سيث بالعديد من الجوائز الوطنية والدولية، بما في ذلك جائزة بادما شري وبادما بوشان وجائزة بي سي روي الوطنية. وقد تم الاعتراف به كأخصائي تدخل رئيسي من قبل جمعية تصوير الأوعية الدموية والتدخلات القلبية (الولايات المتحدة الأمريكية) وحصل على جائزة الإنجاز مدى الحياة في طب القلب التدخلي من مؤسسة تشين (سنغافورة).",
+      "لقد اشتهر بخبرته في الإجراءات التدخلية المتقدمة، بما في ذلك استبدال الصمام الأورطي عبر القسطرة (TAVR)، وMitraClip، وتوسيع الشرايين المعقدة، والمزيد.",
+      "كان للدكتور سيث دور فعال في التدريس والتدريب، وكان له تأثير كبير على تعليم أمراض القلب في الهند وعلى الصعيد الدولي."
     ]
   },
   "d95": {
     "id": 95,
     "hid": 8,
     "name": "Dr. Subhash Chandra",
-    "post": "Chairman - Interventional Cardiology - Cardiology & Structural Heart Disease",
+    "post": "رئيس قسم أمراض القلب التداخلية وأمراض القلب البنيوية",
     "image": "d23.webp",
     "experience": "39+",
     "top": true,
     "speciality": [
-      "Coronary Interventions",
-      "Structural Heart Diseases",
-      "Endovascular Interventions",
-      "Angioplasties",
-      "Rotablation",
-      "IVC Filter Placement",
-      "EVAR (Endovascular Aneurysm Repair)",
-      "TEVAR (Thoracic Endovascular Aneurysm Repair)",
-      "Permanent Pacemaker Implantation",
-      "Pacemaker Implantation"
+      "التدخلات التاجية",
+      "أمراض القلب البنيوية",
+      "التدخلات الوعائية",
+      "عمليات توسيع الأوعية الدموية",
+      "الاستئصال الدوراني",
+      "وضع مرشح الوريد الأجوف السفلي",
+      "إصلاح تمدد الأوعية الدموية داخل الأوعية الدموية",
+      "إصلاح تمدد الأوعية الدموية داخل الأوعية الدموية في الصدر",
+      "زرع جهاز تنظيم ضربات القلب الدائم",
+      "زرع جهاز تنظيم ضربات القلب"
     ],
     "training": [
-      "United States Medical Licensing Examination (USA)",
-      "PDF (Brussels, Belgium)"
+      "امتحان الترخيص الطبي بالولايات المتحدة (الولايات المتحدة الأمريكية)",
+      "PDF (بروكسل، بلجيكا)"
     ],
-    "education": "MBBS,MD (Internal Medicine),DNB (Cardiology), DM (Cardiology) AIIMS",
+    "education": "بكالوريوس الطب والجراحة، دكتوراه في الطب (الطب الباطني)، دكتوراه في أمراض القلب، دكتوراه في الطب (أمراض القلب) AIIMS",
     "work": [
-      "Presently working as a Chairman in Interventional Cardiology at BLK-Max Super Speciality Hospital, New Delhi",
-      "Director & Senior Consultant, Fortis Escorts Heart Institute, New Delhi",
-      "Director - Narinder Mohan Heart Centre",
-      "Senior Consultant - Indraprastha Apollo Hospital, New Delhi",
-      "Assistant Professor of Cardiology - AIIMS, New Delhi",
-      "Clinical Registrar- JN Medical College, Aligarh"
+      "يعمل حاليًا كرئيس قسم أمراض القلب التداخلية في مستشفى BLK-Max Super Speciality، نيودلهي",
+      "مدير واستشاري أول، معهد فورتيس إسكورتس للقلب، نيودلهي",
+      "مدير - مركز ناريندر موهان للقلب",
+      "استشاري أول - مستشفى إندرابراستا أبولو، نيودلهي",
+      "أستاذ مساعد لأمراض القلب - معهد AIIMS، نيودلهي",
+      "مسجل سريري - كلية الطب JN، عليكرة"
     ],
     "description": [
-      "Dr. Subhash Chandra is a highly experienced interventional cardiologist with 39 years in the field.",
-      "He has performed over 25,000 complex procedures, including TAVR, LA Appendage Occlusion, angioplasties, and rotablation.",
-      "A pioneer in pacemaker implantation, Dr. Chandra has performed over 3,000 pacemaker surgeries.",
-      "He has been trained at top institutions in the USA, Europe, and Japan and has published over 100 national and international publications in indexed journals.",
-      "Dr. Chandra was also the personal physician of former Prime Minister Shri Narasimha Rao.",
-      "His expertise includes coronary interventions, structural heart diseases, endovascular interventions, and various other complex cardiac procedures.",
-      "He is a member of the National Academy of Medical Sciences and the Cardiology Society of India."
+      "الدكتور سوبهاش تشاندرا هو طبيب قلب تدخلي يتمتع بخبرة عالية في هذا المجال حيث عمل لمدة 39 عامًا.",
+      "لقد أجرى أكثر من 25000 عملية معقدة، بما في ذلك استبدال الصمام الأبهري عبر الجلد، وإغلاق الزائدة الدودية، وتوسيع الأوعية الدموية، والاستئصال الدوراني.",
+      "باعتباره رائدًا في زراعة أجهزة تنظيم ضربات القلب، أجرى الدكتور تشاندرا أكثر من 3000 عملية جراحية لأجهزة تنظيم ضربات القلب.",
+      "لقد تلقى تدريبه في مؤسسات عليا في الولايات المتحدة الأمريكية وأوروبا واليابان ونشر أكثر من 100 منشور وطني ودولي في مجلات مفهرسة.",
+      "كان الدكتور تشاندرا أيضًا الطبيب الشخصي لرئيس الوزراء السابق السيد ناراسيمها راو.",
+      "تشمل خبرته التدخلات التاجية وأمراض القلب البنيوية والتدخلات داخل الأوعية الدموية والعديد من الإجراءات القلبية المعقدة الأخرى."،
+      "وهو عضو في الأكاديمية الوطنية للعلوم الطبية وجمعية أمراض القلب في الهند."
     ]
   },
   "d96": {
     "id": 96,
     "hid": 7,
     "name": "Dr. Gaurav Kharya",
-    "post": "Paediatric Haematologist",
+    "post": "طبيب أمراض الدم للأطفال",
     "image": "d2.webp",
     "experience": "15+",
     "top": true,
     "speciality": [
-      "Pediatric Hemato-oncology",
-      "Pediatric Immunology",
-      "Bone Marrow Transplant (BMT)",
-      "Hematopoietic Stem Cell Transplant"
+      "طب الأورام الدموية عند الأطفال",
+      "علم المناعة عند الأطفال",
+      "زراعة نخاع العظم",
+      "زراعة الخلايا الجذعية المكونة للدم"
     ],
     "training": [
-      "Fellow in Pediatric Hematology & Bone Marrow Transplant, St Mary’s Hospital, London, UK. Noted for expertise in BMT for red cell disorders, including thalassemia, sickle cell anemia, and aplastic anemia, with experience in related donor, unrelated donor, haplo-identical, and cord blood transplants.",
-      "Fellowship in Pediatric Hematology-Oncology & Bone Marrow Transplant, The Great North Children’s Hospital, Newcastle upon Tyne, UK. A leading center for pediatric BMT, immunodeficiency, and hematology-oncology, known for comprehensive care, research, and academic excellence.",
-      "Fellowship in Pediatric Hematology-Oncology & Bone Marrow Transplant, Sir Ganga Ram Hospital, New Delhi. Focused on patient workup, care, procedures, interventions, and academic sessions under the guidance of Dr. Anupam Sachdeva and Dr. Satya Prakash Yadav"
+      "زمالة في أمراض الدم لدى الأطفال وزرع نخاع العظم، مستشفى سانت ماري، لندن، المملكة المتحدة. اشتهر بخبرته في زراعة نخاع العظم لعلاج اضطرابات خلايا الدم الحمراء، بما في ذلك الثلاسيميا وفقر الدم المنجلي وفقر الدم اللاتنسجي، مع خبرة في زراعة الدم من متبرعين أقارب ومن متبرعين غير أقارب ودم متطابق ودم الحبل السري.",
+      "زمالة في أمراض الدم لدى الأطفال والأورام وزرع نخاع العظم، مستشفى الأطفال جريت نورث، نيوكاسل أبون تاين، المملكة المتحدة. مركز رائد في زراعة نخاع العظم لدى الأطفال ونقص المناعة وأمراض الدم والأورام، والمعروف بالرعاية الشاملة والبحث والتميز الأكاديمي.",
+      "زمالة في أمراض الدم لدى الأطفال والأورام وزرع نخاع العظم، مستشفى السير جانجا رام، نيودلهي. يركز على فحص المرضى ورعايتهم وإجراءاتهم وتدخلاتهم وجلساتهم الأكاديمية تحت إشراف الدكتور أنوبام ساشديفا والدكتور ساتيا براكاش ياداف"
     ],
-    "education": "MBBS, DCH, DNB",
+    "education": "بكالوريوس الطب والجراحة، دكتوراه في الصحة العامة، دبلومة في علم الأمراض",
     "work": [
-      "Senior Consultant & Head, Pediatric Hematology Oncology & Marrow Transplant, Artemis Hospital, Gurugram",
-      "Senior Consultant, Pediatric Hematology Oncology, Immunology & Bone Marrow Transplant, BLK Super Specialty Hospital, Delhi, India",
-      "Fellow, Pediatric Hematology & Bone Marrow Transplant, St Mary’s Hospital, Imperial NHS Trust, Paddington, London, UK",
-      "International Pediatric BMT Fellow, Pediatric Host Defense Unit, The Great North Children’s Hospital, Newcastle upon Tyne, UK",
-      "Pediatric Hematologist-Oncologist and Bone Marrow Transplant Physician, Dr. B L Kapur Memorial Hospital, Pusa Road, New Delhi",
-      "Fellow, Pediatric Hematology Oncology Unit, Department of Pediatrics, Sir Ganga Ram Hospital, New Delhi",
-      "Senior Registrar in Pediatrics, Chacha Nehru Bal Chikitsalaya, Maulana Azad Medical College, Delhi",
-      "Senior Research Officer, Pediatric Hematology Oncology Unit, Department of Pediatrics, Sir Ganga Ram Hospital, New Delhi",
-      "Post DCH DNB Registrar, Department of Pediatrics, Center for Child Health, Sir Ganga Ram Hospital, New Delhi",
-      "Registrar, Department of Pediatrics, Sunder Lal Jain Memorial Hospital, New Delhi",
-      "Resident (DCH), Department of Pediatrics, Baba Raghav Das Medical College, Gorakhpur, UP",
-      "House Officer, Sagar Heart Care Center, Sagar, MP",
-      "Internship in various disciplines (General Medicine, General Surgery, Obstetrics and Gynecology, Pediatrics, Preventive and Social Medicine) at Netaji Subhash Chandra Bose Medical College, Jabalpur, MP"
+      "استشاري أول ورئيس قسم أورام الدم لدى الأطفال وزراعة نخاع العظم، مستشفى أرتميس، جوروجرام",
+      "استشاري أول قسم أورام الدم لدى الأطفال وعلم المناعة وزراعة نخاع العظم، مستشفى بي إل كيه سوبر سبيشالتي، دلهي، الهند",
+      "زميل قسم أمراض الدم لدى الأطفال وزراعة نخاع العظم، مستشفى سانت ماري، إمبريال إن إتش إس تراست، بادينجتون، لندن، المملكة المتحدة",
+      "زميل زراعة نخاع العظم لدى الأطفال الدولي، وحدة الدفاع عن المضيف لدى الأطفال، مستشفى جريت نورث للأطفال، نيوكاسل أبون تاين، المملكة المتحدة",
+      "طبيب أورام الدم لدى الأطفال وطبيب زراعة نخاع العظم، مستشفى الدكتور بي إل كابور التذكاري، طريق بوسا، نيودلهي",
+      "زميل وحدة أورام الدم لدى الأطفال، قسم طب الأطفال، مستشفى السير جانجا رام، نيودلهي",
+      "مسجل أول في طب الأطفال، Chacha Nehru Bal Chikitsalaya، كلية مولانا آزاد الطبية، دلهي",
+      "مسؤول أبحاث أول، وحدة أورام الدم لدى الأطفال، قسم طب الأطفال، مستشفى السير جانجا رام، نيودلهي",
+      "مسجل ما بعد DCH DNB، قسم طب الأطفال، مركز صحة الطفل، مستشفى السير جانجا رام، نيودلهي",
+      "مسجل، قسم طب الأطفال، مستشفى سوندر لال جين التذكاري، نيودلهي",
+      "طبيب مقيم (DCH)، قسم طب الأطفال، كلية الطب بابا راجاف داس، جورخبور، أوتار براديش",
+      "طبيب مقيم، مركز ساجار للعناية بالقلب، ساجار، ماهاراشترا",
+      "تدريب داخلي في تخصصات مختلفة (الطب العام، الجراحة العامة، أمراض النساء والتوليد، طب الأطفال، الطب الوقائي والاجتماعي) في كلية الطب نيتاجي سوبهاش تشاندرا بوس، جابالبور، ماهاراشترا"
     ],
     "description": [
-      "Focused on the diagnosis and treatment of cancers in children, including leukemia, lymphomas, and solid tumors.",
-      "Expertise in the diagnosis and management of immune system disorders in children.",
-      "Specializes in hematopoietic stem cell transplants, including alternative donor transplants such as haploidentical and unrelated donor transplants.",
-      "Experience in transplanting stem cells to treat various blood disorders and immunological diseases. Dr. Kharya has done more than 600 bone marrow transplants and is noted for pioneering procedures such as the first haploidentical bone marrow transplant for sickle cell disease in India."
+      "يركز على تشخيص وعلاج السرطانات لدى الأطفال، بما في ذلك سرطان الدم والليمفوما والأورام الصلبة.",
+      "خبرة في تشخيص وإدارة اضطرابات الجهاز المناعي لدى الأطفال.",
+      "متخصص في عمليات زرع الخلايا الجذعية المكونة للدم، بما في ذلك عمليات زرع المتبرعين البديلين مثل عمليات زرع المتبرعين المتطابقين وغير المتطابقين.",
+      "خبرة في زرع الخلايا الجذعية لعلاج اضطرابات الدم المختلفة والأمراض المناعية. أجرى الدكتور خاريا أكثر من 600 عملية زرع نخاع العظم وهو معروف بإجراءات رائدة مثل أول عملية زرع نخاع عظم متطابقة لمرض فقر الدم المنجلي في الهند."
     ]
   },
   "d97": {
     "id": 97,
     "hid": 4,
     "name": "Dr. K S Iyer",
-    "post": "EXECUTIVE DIRECTOR PAEDIATRIC CARDIO THORACIC VASCULAR SURGERY",
+    "post": "المدير التنفيذي لجراحة القلب والأوعية الدموية والصدر للأطفال",
     "image": "d2.1.webp",
     "experience": "40+",
     "top": true,
     "speciality": [
-      "Pediatric Cardiac Surgery",
-      "Arterial Switch Procedure",
-      "Double Switch Operation",
-      "TAPVC Repairs",
-      "Fontan and Fontan-Type Procedures",
-      "Tetralogy of Fallot Correction",
-      "DORV Correction",
-      "Truncus Arteriosus Repair",
-      "Senning Operation",
-      "Conduit Repairs",
-      "Complex Congenital Heart Disease Corrections"
+      "جراحة القلب عند الأطفال",
+      "عملية تبديل الشرايين",
+      "عملية التبديل المزدوج",
+      "إصلاحات TAPVC",
+      "فونتان وإجراءات نوع فونتان",
+      "تصحيح رباعية فالو",
+      "تصحيح دورف",
+      "إصلاح الجذع الشرياني",
+      "عملية سنينغ",
+      "إصلاح القنوات",
+      "تصحيح أمراض القلب الخلقية المعقدة"
     ],
     "training": [
-      "Trained in pediatric and infant cardiac surgery under the guidance of Dr. R.B.B. Mee as a Senior Fellow at the Department of Pediatric Cardiac Surgery at Royal Children's Hospital, Melbourne, Australia, in 1989.",
-      "Basic training in cardiothoracic and vascular surgery at AIIMS, where he held the position of Additional Professor before moving to Escorts Heart Institute."
+      "تدرب في جراحة القلب للأطفال والرضع تحت إشراف الدكتور آر. بي. بي. مي كزميل أول في قسم جراحة القلب للأطفال في مستشفى الأطفال الملكي، ملبورن، أستراليا، في عام 1989.",
+      "تلقى تدريبًا أساسيًا في جراحة القلب والصدر والأوعية الدموية في AIIMS، حيث شغل منصب أستاذ إضافي قبل الانتقال إلى معهد إسكورتس للقلب."
     ],
-    "education": "MBBS, MS, M.Ch (AIIMS)",
+    "education": "بكالوريوس الطب والجراحة، ماجستير العلوم، ماجستير الجراحة (AIIMS)",
     "work": [
-      "Initiated and developed the first dedicated pediatric cardiac care program in Northern India at Escorts Heart Institute Research Centre (now Fortis-Escorts Heart Institute).",
-      "Has performed over 10,000 surgeries on babies, children, and adults with congenital heart diseases, including complex procedures.",
-      "Performed the first successful rapid two-stage arterial switch and double-switch operation in India.",
-      "Worked as Additional Professor in the Department of Cardiothoracic and Vascular Surgery at AIIMS before moving to Escorts Heart Institute.",
-      "Currently involved in perfecting complex neonatal cardiac surgery, cardiac surgery in malnourished infants and children, salvaging late presenters of congenital heart disease, and developing cost-effective cardiac care for developing countries.",
-      "Engaged in charitable activities, notably with the 'Gift of Life' program of Rotary International."
+      "بدأ وطور أول برنامج متخصص لرعاية القلب للأطفال في شمال الهند في مركز أبحاث معهد إسكورتس للقلب (معهد فورتيس-إسكورتس للقلب الآن).",
+      "أجرى أكثر من 10000 عملية جراحية على الأطفال والرضع والبالغين المصابين بأمراض القلب الخلقية، بما في ذلك الإجراءات المعقدة.",
+      "أجرى أول عملية ناجحة لتبديل الشرايين السريع على مرحلتين وعملية التبديل المزدوج في الهند.",
+      "عمل كأستاذ إضافي في قسم جراحة القلب والأوعية الدموية في معهد آي آي آي إم إس قبل الانتقال إلى معهد إسكورتس للقلب.",
+      "يشارك حاليًا في إتقان جراحة القلب المعقدة لحديثي الولادة، وجراحة القلب لدى الرضع والأطفال الذين يعانون من سوء التغذية، وإنقاذ المتأخرين من أمراض القلب الخلقية، وتطوير رعاية قلبية فعالة من حيث التكلفة للدول النامية.",
+      "شارك في أنشطة خيرية، ولا سيما مع برنامج "هدية الحياة" التابع للروتاري الدولي."
     ],
     "description": [
-      "Dr. Krishna Iyer is a leading pediatric cardiac surgeon in India, known for his extensive experience and contributions to cardiac care for children.",
-      "He initiated the first dedicated pediatric cardiac care program in Northern India at Escorts Heart Institute Research Centre (now Fortis-Escorts Heart Institute), which has become a benchmark for cardiac care in India and Southeast Asia.",
-      "Dr. Iyer has performed over 10,000 surgeries on babies, children, and adults with congenital heart diseases, including complex procedures such as arterial switch procedures, double switch operations, TAPVC repairs, and Fontan procedures.",
-      "He is noted for his pioneering work on the rapid two-stage arterial switch procedure and performed the first successful rapid two-stage arterial switch and double-switch operation in India.",
-      "His current interests include perfecting complex neonatal cardiac surgery, addressing cardiac surgery in malnourished infants and children, salvaging late presenters of congenital heart disease, and developing cost-effective cardiac care solutions for developing countries.",
-      "Dr. Iyer trained in pediatric and infant cardiac surgery under Dr. R.B.B. Mee at the Royal Children's Hospital, Melbourne, Australia, and has held positions including Additional Professor at AIIMS before establishing the pediatric cardiac care division at Escorts Heart Institute.",
-      "He is also involved in charitable activities, notably the 'Gift of Life' program of Rotary International."
+      "الدكتور كريشنا آير هو جراح قلب أطفال رائد في الهند، ومعروف بخبرته الواسعة ومساهماته في رعاية القلب للأطفال.",
+      "بدأ أول برنامج مخصص لرعاية القلب للأطفال في شمال الهند في مركز أبحاث معهد إسكورتس للقلب (معهد فورتيس-إسكورتس للقلب الآن)، والذي أصبح معيارًا لرعاية القلب في الهند وجنوب شرق آسيا.",
+      "أجرى الدكتور آير أكثر من 10000 عملية جراحية على الأطفال والرضع والبالغين المصابين بأمراض القلب الخلقية، بما في ذلك الإجراءات المعقدة مثل إجراءات تبديل الشرايين، وعمليات التبديل المزدوج، وإصلاحات TAPVC، وإجراءات Fontan.",
+      "يشتهر بعمله الرائد في إجراء تبديل الشرايين السريع على مرحلتين وأجرى أول عملية تبديل شرياني سريع على مرحلتين وعملية تبديل مزدوج ناجحة في الهند.",
+      "تشمل اهتماماته الحالية إتقان جراحة القلب المعقدة لحديثي الولادة، ومعالجة جراحة القلب لدى الرضع والأطفال الذين يعانون من سوء التغذية، وإنقاذ المتأخرين في الإصابة بأمراض القلب الخلقية، وتطوير حلول فعالة من حيث التكلفة لرعاية القلب في البلدان النامية.",
+      "تدرب الدكتور آير في جراحة القلب للأطفال والرضع تحت إشراف الدكتور آر. بي. بي. مي في مستشفى الأطفال الملكي في ملبورن بأستراليا، وشغل مناصب بما في ذلك أستاذ إضافي في معهد AIIMS قبل إنشاء قسم رعاية القلب للأطفال في معهد إسكورتس للقلب.",
+      "كما يشارك في الأنشطة الخيرية، ولا سيما برنامج "هدية الحياة" التابع للروتاري الدولي."
     ]
   },
   "d98": {
     "id": 98,
     "hid": 4,
     "name": "Dr. Z S Meharwal",
-    "post": "CHAIRMAN & HEAD - ADULT CARDIAC SURGERY",
+    "post": "رئيس قسم جراحة القلب للبالغين",
     "image": "d3.webp",
     "experience": "35+",
     "top": true,
     "speciality": [
-      "Minimally Invasive Cardiac Surgery",
-      "Off-pump coronary artery bypass surgery",
-      "Heart Transplant ",
-      "Surgery of ascending aortic aneurysms and dissections",
-      "Valve repair and replacement",
-      "Carotid endarterectomy",
-      "CABG in patients with poor ventricular function",
-      "Major Vascular surgery"
+      "جراحة القلب الأقل تدخلاً",
+      "جراحة مجازة الشريان التاجي بدون مضخة",
+      "زراعة القلب",
+      "جراحة تمدد الأوعية الدموية الأبهري الصاعد والتشريح",
+      "إصلاح واستبدال الصمامات",
+      "استئصال بطانة الشريان السباتي",
+      "جراحة مجازة الشريان التاجي في المرضى الذين يعانون من ضعف وظيفة البطين",
+      "جراحة الأوعية الدموية الكبرى"
     ],
     "training": [
-      "Executive Director and Head - Cardiac Surgery, Heart Transplantation and VAD Program, Fortis Escorts Heart Institute",
-      "Programme Director of DNB Cardiothoracic Surgery, Fortis Escorts Heart Institute",
-      "Extensive Training in Cardiac Surgery",
-      "Teaching and Training in Cardiac Surgery",
-      "National and International Meetings as Faculty"
+      "المدير التنفيذي ورئيس قسم جراحة القلب وزرع القلب وبرنامج زراعة الأعضاء المساعدة، معهد فورتيس إسكورتس للقلب",
+      "مدير برنامج جراحة القلب والصدر، معهد فورتيس إسكورتس للقلب",
+      "التدريب المكثف في جراحة القلب",
+      "التدريس والتدريب في جراحة القلب",
+      "اللقاءات الوطنية والدولية كعضو هيئة تدريس"
     ],
-    "education": "MBBS, MS, M.Ch, MNAMS",
+    "education": "بكالوريوس الطب والجراحة، ماجستير في العلوم، ماجستير في الجراحة، ماجستير في الجراحة العامة",
     "work": [
-      "King George Medical College, Lucknow",
-      "G B Pant Hospital, Delhi",
-      "Consultant Cardiac Surgeon, King College Hospital, London, UK"
+      "كلية الطب كينج جورج، لكناو",
+      "مستشفى جي بي بانت، دلهي",
+      "جراح قلب استشاري، مستشفى كينج كوليدج، لندن، المملكة المتحدة"
     ],
     "description": [
-      "Dr. Z.S. Meharwal is the Executive Director and Head of Cardiac Surgery, Heart Transplantation, and the LVAD program at Fortis Escorts Heart Institute.",
-      "With over 30 years of experience, he has performed more than 30,000 cardiac surgeries, including complex procedures and LVAD placements.",
-      "He is a pioneer in several new cardiac operations in India and actively involved in teaching and training, serving as the Programme Director of DNB Cardiothoracic Surgery.",
-      "Dr. Meharwal has trained many cardiac surgeons both in India and abroad, and has been invited as a faculty member at national and international meetings.",
-      "He has published extensively in peer-reviewed journals and received numerous awards, including the President’s Award for his contributions to cardiac surgery.",
-      "Notable achievements include receiving a Citation Award from the President of India, Saharanpur Aditya Samman, and entering the Limca Book of Records for performing CABG on the oldest patient, a 94-year-old man."
+      "الدكتور ز.س. ميهاروال هو المدير التنفيذي ورئيس قسم جراحة القلب وزرع القلب وبرنامج LVAD في معهد فورتيس إسكورتس للقلب.",
+      "بخبرة تزيد عن 30 عامًا، أجرى أكثر من 30000 جراحة قلب، بما في ذلك الإجراءات المعقدة وتركيب LVAD.",
+      "إنه رائد في العديد من عمليات القلب الجديدة في الهند ويشارك بنشاط في التدريس والتدريب، ويعمل كمدير برنامج جراحة القلب والصدر في DNB.",
+      "لقد درب الدكتور ميهاروال العديد من جراحي القلب في الهند والخارج، وتمت دعوته كعضو هيئة تدريس في اجتماعات وطنية ودولية.",
+      "لقد نشر على نطاق واسع في المجلات المحكمة وحصل على العديد من الجوائز، بما في ذلك جائزة الرئيس لمساهماته في جراحة القلب.",
+      "تشمل الإنجازات البارزة الحصول على جائزة Citation Award من رئيس الهند، ساهارنبور أديتيا سامان، ودخول كتاب Limca للأرقام القياسية لإجراء عملية CABG لأكبر مريض سنًا، وهو رجل يبلغ من العمر 94 عامًا."
     ]
   },
   "d99": {
     "id": 99,
     "hid": 7,
     "name": "Dr. Bhaba Nanda Das",
-    "post": "Chief - Cardiothoracic & Vascular Surgery",
+    "post": "رئيس قسم جراحة القلب والصدر والأوعية الدموية",
     "image": "d3.webp",
     "experience": "30+",
     "top": true,
     "speciality": [
-      "Aortic Valve Disease",
-      "Atrial Fibrillation",
-      "Cardiomyopathy",
-      "Coronary Artery Disease",
-      "Myocarditis",
-      "Pulmonary Hypertension",
-      "Long QT Syndrome",
-      "Sick Sinus Syndrome",
-      "Congenital Heart Defects",
-      "Tricuspid Atresia",
-      "Truncus Arteriosus",
-      "Tetralogy Of Fallot",
-      "Hole In The Heart",
-      "Kawasaki Disease"
+      "مرض الصمام الأورطي",
+      "الرجفان الأذيني",
+      "اعتلال عضلة القلب",
+      "مرض الشريان التاجي",
+      "التهاب عضلة القلب",
+      "ارتفاع ضغط الدم الرئوي",
+      "متلازمة كيو تي الطويلة",
+      "متلازمة الجيب الأنفي المريض",
+      "عيوب القلب الخلقية",
+      "تضيق الصمام ثلاثي الشرفات",
+      "الجذع الشرياني",
+      "رباعية فالو",
+      "ثقب في القلب",
+      "مرض كاواساكي"
     ],
     "training": [
-      "Chief Cardiac Surgeon (CTVS)",
-      "Senior Consultant, Department of Cardio Thoracic Vascular Surgery (CTVS), All India Institute of Medical Sciences, New Delhi (1984 - 1996)"
+      "جراح القلب الرئيسي (CTVS)",
+      "استشاري أول، قسم جراحة القلب والصدر والأوعية الدموية (CTVS)، معهد عموم الهند للعلوم الطبية، نيودلهي (1984 - 1996)"
     ],
-    "education": "MBBS, MS, MCh",
+    "education": "بكالوريوس الطب والجراحة، ماجستير العلوم، ماجستير في الطب",
     "work": [
-      "CABG on Beating Heart",
-      "Aortic Aneurysm Surgery",
-      "Double Valve Replacement",
-      "Mitral Valve Replacement",
-      "Aortic Valve Replacement",
-      "All Types of Congenital Anomalies & Intra Cardiac Repair"
+      "جراحة مجازة الشريان التاجي على القلب النابض",
+      "جراحة تمدد الأوعية الدموية الأبهري",
+      "استبدال الصمام المزدوج",
+      "استبدال الصمام التاجي",
+      "استبدال الصمام الأبهري",
+      "جميع أنواع التشوهات الخلقية وإصلاح داخل القلب"
     ],
     "description": [
-      "Dr. Das is a highly experienced cardiac surgeon with approximately 30 years in the field.",
-      "He has previously served as a Senior Consultant in the Department of Cardio Thoracic Vascular Surgery (CTVS) at All India Institute of Medical Sciences, New Delhi.",
-      "His expertise includes performing CABG on beating heart, aortic aneurysm surgeries, and valve replacements.",
-      "He is skilled in managing all types of congenital heart anomalies and intra-cardiac repairs.",
-      "Dr. Das has performed over 20,000 heart surgeries and currently handles around 800 cases annually."
+      "الدكتور داس هو جراح قلب يتمتع بخبرة كبيرة تمتد لنحو 30 عامًا في هذا المجال.",
+      "لقد عمل سابقًا كمستشار أول في قسم جراحة القلب والأوعية الدموية الصدرية (CTVS) في معهد عموم الهند للعلوم الطبية، نيودلهي.",
+      "تشمل خبرته إجراء جراحات مجازة الشريان التاجي على القلب النابض، وجراحات تمدد الأوعية الدموية الأبهرية، واستبدال الصمامات.",
+      "إنه ماهر في إدارة جميع أنواع التشوهات الخلقية في القلب وإصلاحات القلب.",
+      "أجرى الدكتور داس أكثر من 20000 جراحة قلب ويتعامل حاليًا مع حوالي 800 حالة سنويًا."
     ]
   },
   "d100": {
     "id": 100,
     "hid": 6,
     "name": "Dr. Arun Saroha",
-    "post": "Principal Director & Unit Head Neurosciences, Neurosurgery, Spine Surgery",
+    "post": "المدير الرئيسي ورئيس وحدة علوم الأعصاب وجراحة الأعصاب وجراحة العمود الفقري",
     "image": "d1.webp",
     "experience": "27+",
     "top": true,
     "speciality": [
-      "Brain & Spine Tumors",
-      "Degenerative Spine Disorders",
-      "Functional & Image Guided  Neurosurgery",
-      "Minimally Invasive Spine Surgery",
-      "Complex Spine Fixations",
-      "Paediatric Neurosurgery"
+      "أورام المخ والعمود الفقري",
+      "اضطرابات العمود الفقري التنكسية",
+      "جراحة الأعصاب الوظيفية والموجهة بالصور",
+      "جراحة العمود الفقري الأقل تدخلاً",
+      "تثبيتات العمود الفقري المعقدة",
+      "جراحة الأعصاب عند الأطفال"
     ],
     "training": [
-      "Visiting Fellow - Singapore General Hospital, Singapore"
+      "زميل زائر - مستشفى سنغافورة العام، سنغافورة"
     ],
-    "education": "M.B.B.S., Rajasthan University, MS (General Surgery) Rajasthan University, M Ch ((Neurosurgery) PGIMER, Chandigarh",
+    "education": "بكالوريوس الطب والجراحة، جامعة راجستان، ماجستير (جراحة عامة) جامعة راجستان، ماجستير (جراحة أعصاب) برنامج الدراسات العليا في الطب، تشانديغار",
     "work": [
-      "Dr. Arun Saroha is currently working at Max Healthcare",
-      "Over 20 years of experience in the field of Neurosurgery and Spine Surgery",
-      "Performed more than 8000 surgeries successfully",
-      "Trained many Indian/International surgeons",
-      "Visiting Consultant to Kenya, Nigeria, Iraq, Uzbekistan and Sudan"
+      "يعمل الدكتور أرون ساروها حاليًا في Max Healthcare",
+      "أكثر من 20 عامًا من الخبرة في مجال جراحة الأعصاب وجراحة العمود الفقري",
+      "أجرى أكثر من 8000 عملية جراحية بنجاح",
+      "درب العديد من الجراحين الهنود/الدوليين",
+      "مستشار زائر إلى كينيا ونيجيريا والعراق وأوزبكستان والسودان"
     ],
     "description": [
-      "Over 20 years of experience in Neurosurgery.",
-      "Expertise in treating brain and spine disorders, including Degenerative Spine Disorders, Brain Tumors, Disc Replacements, and Pediatric Neurosurgeries.",
-      "Previously served as Head of Neurosurgery at Artemis Hospital, Gurgaon.",
-      "Performed more than 8,000 successful surgeries."
+      "أكثر من 20 عامًا من الخبرة في جراحة المخ والأعصاب.",
+      "الخبرة في علاج اضطرابات المخ والعمود الفقري، بما في ذلك اضطرابات العمود الفقري التنكسية، وأورام المخ، واستبدال الأقراص، وجراحات المخ والأعصاب للأطفال.",
+      "شغل سابقًا منصب رئيس قسم جراحة المخ والأعصاب في مستشفى أرتميس، جورجاون.",
+      "أجرى أكثر من 8000 عملية جراحية ناجحة."
     ]
   },
   "d101": {
     "id": 101,
     "hid": 2,
     "name": "Dr. Hemant Sharma",
-    "post": "Chairman - Dept. of Trauma & Orthopedics & Joint Replacement",
+    "post": "رئيس قسم جراحة العظام واستبدال المفاصل",
     "image": "d1.webp",
     "experience": "29+",
     "top": true,
     "speciality": [
-      "Emergency & Trauma",
-      "Orthopaedics & Joint Replacement",
-      "Robotic Surgery"
+      "الطوارئ والصدمات",
+      "جراحة العظام واستبدال المفاصل",
+      "الجراحة الروبوتية"
     ],
     "training": [
-      "Higher orthopedic and trauma training in India and England.",
-      "Specialist training accumulated through fellowships in the UK.",
-      "Regular attendance as both delegate and faculty member at national and international meetings."
+      "التدريب العالي في جراحة العظام والإصابات في الهند وإنجلترا.",
+      "التدريب التخصصي المتراكم من خلال الزمالات في المملكة المتحدة.",
+      "الحضور المنتظم كمندوب وعضو هيئة تدريس في الاجتماعات الوطنية والدولية."
     ],
-    "education": "MBBS from PGIMS Rohtak, 1994, FRCS (England), MRCS (England), DNB (Orthopedics)",
+    "education": "بكالوريوس الطب والجراحة من كلية الطب بجامعة روهتاك، 1994، زميل الكلية الملكية للجراحين (إنجلترا)، زميل الكلية الملكية للجراحين (إنجلترا)، دكتوراه في جراحة العظام",
     "work": [
-      "Director and Head of the Department of Trauma and Orthopaedics at Marengo Asia Hospitals, Gurugram (formerly W Pratiksha Hospital, Gurugram).",
-      "Significantly contributed to the hospital's recognition as a center of excellence for robotic orthopedic surgery and sports injury treatment."
+      "مدير ورئيس قسم الإصابات وجراحة العظام في مستشفيات مارينغو آسيا، جوروجرام (مستشفى دبليو براتيكشا، جوروجرام سابقًا).",
+      "ساهم بشكل كبير في الاعتراف بالمستشفى كمركز للتميز في جراحة العظام الروبوتية وعلاج الإصابات الرياضية."
     ],
     "description": [
-      "Over 26 years of experience in orthopedics (11 years in India and 11 years in England).",
-      "Certified Fellow by the Royal College of Surgeons of England.",
-      "Specializes in robotic, hip, and knee surgery.",
-      "Expert in complex trauma and elective orthopedic surgeries.",
-      "Renowned for proficiency in revision trauma and revision arthroplasty surgery.",
-      "Special interest in young adult hips, developmental dysplasia of the hip (DDH), sickle cell disease, joint preservation surgery for the knee, and sports injuries of the hip and knee."
+      "أكثر من 26 عامًا من الخبرة في جراحة العظام (11 عامًا في الهند و11 عامًا في إنجلترا).",
+      "زميل معتمد من الكلية الملكية للجراحين في إنجلترا.",
+      "متخصص في جراحة الروبوتات وجراحة الورك والركبة.",
+      "خبير في جراحات الصدمات المعقدة والجراحات التقويمية الاختيارية.",
+      "مشهور بكفاءته في جراحة الصدمات التصحيحية وجراحة استبدال المفصل التصحيحية.",
+      "اهتمام خاص بفخذي الشباب، وخلل التنسج النمائي للورك (DDH)، ومرض الخلايا المنجلية، وجراحة الحفاظ على المفاصل للركبة، وإصابات الورك والركبة الرياضية."
     ]
   },
   "d102": {
     "id": 102,
     "hid": 2,
     "name": "Dr. Rajesh Verma",
-    "post": "Associate Director - Orthopedic Spine Surgery",
+    "post": "المدير المساعد - جراحة العمود الفقري العظمي",
     "image": "d2.webp",
     "experience": "19+",
     "top": true,
     "speciality": [
-      "Emergency & Trauma",
-      "Orthopaedics & Joint Replacement",
-      "Robotic Surgery",
-      "Spine Surgery"
+      "الطوارئ والصدمات",
+      "جراحة العظام واستبدال المفاصل",
+      "الجراحة الروبوتية",
+      "جراحة العمود الفقري"
     ],
     "training": [
-      "AO Fellowship Trauma, Denver, USA",
-      "Fellowship Spine Surgery Seoul, South Korea"
+      "زمالة AO Trauma، دنفر، الولايات المتحدة الأمريكية",
+      "زمالة جراحة العمود الفقري في سيول، كوريا الجنوبية"
     ],
-    "education": "MS (Ortho), FRSH, FIAO (USA)",
+    "education": "ماجستير في جراحة العظام، زميل الكلية الملكية البريطانية لجراحي العظام، زميل الكلية الأمريكية لجراحي العظام (الولايات المتحدة الأمريكية)",
     "work": [
-      "Performs a high volume of complex spine surgeries and innovative procedures.",
-      "Active in teaching and delivering lectures at national and international platforms."
+      "يقوم بإجراء عدد كبير من جراحات العمود الفقري المعقدة والإجراءات المبتكرة.",
+      "نشط في التدريس وإلقاء المحاضرات على المنصات الوطنية والدولية."
     ],
     "description": [
-      "29 years of experience in treating spinal disorders.",
-      "Recognized for dedication and commitment to complex bone, joint, and spine disorders.",
-      "Specializes in percutaneous spine surgeries including Kyphoplasty, Disc Excisions using Joimax TESSY system, Nucleoplasty, SpineJet Hydrodiscectomy, and pain management with radiofrequency techniques.",
-      "Has performed over 15,000 surgeries out of more than 24,000 surgical cases, including spine surgeries, joint replacements, pediatric orthopedics, and complex trauma surgeries.",
-      "One of the leading spine experts in India, performing approximately 50 surgeries per month.",
-      "Specializes in motion preservation and dynamic spine surgeries as alternatives to spine fusions.",
-      "Teaching faculty for postgraduate students and has delivered lectures on national and international platforms."
+      "29 عامًا من الخبرة في علاج اضطرابات العمود الفقري.",
+      "معترف به لتفانيه والتزامه باضطرابات العظام والمفاصل والعمود الفقري المعقدة.",
+      "متخصص في جراحات العمود الفقري عن طريق الجلد بما في ذلك رأب الفقرات بالبالون، واستئصال القرص باستخدام نظام Joimax TESSY، وتقويم النواة، واستئصال القرص المائي باستخدام SpineJet، وإدارة الألم باستخدام تقنيات الترددات الراديوية.",
+      "أجرى أكثر من 15000 عملية جراحية من أكثر من 24000 حالة جراحية، بما في ذلك جراحات العمود الفقري، واستبدال المفاصل، وجراحة العظام للأطفال، وجراحات الصدمات المعقدة.",
+      "أحد خبراء العمود الفقري الرائدين في الهند، حيث يجري حوالي 50 عملية جراحية شهريًا.",
+      "متخصص في الحفاظ على الحركة وجراحات العمود الفقري الديناميكية كبدائل لعمليات دمج العمود الفقري.",
+      "هيئة تدريس لطلاب الدراسات العليا وألقى محاضرات على منصات وطنية ودولية."
     ]
   },
   "d103": {
     "id": 103,
     "hid": 1,
     "name": "Dr. Giriraj Singh Bora",
-    "post": "Head of the Department of HPB Surgery and Liver Transplantation at Artemis Hospital",
+    "post": "رئيس قسم جراحة الكبد والكلى وزراعة الكبد في مستشفى أرتميس",
     "image": "d42.webp",
     "experience": "28+",
     "top": true,
     "speciality": [
-      "Liver Transplantation",
-      "Liver resections for Hepatocellular cancers",
-      "combined liver kidney transplantation",
-      "Pancreatic Surgery (Whipple’s pancreaticoduodenal resections and surgery for chronic pancreatitis)",
-      "Advanced Gastrointestinal operations."
+      "زراعة الكبد",
+      "استئصال الكبد لعلاج سرطانات الخلايا الكبدية",
+      "زرع الكبد والكلى معًا",
+      "جراحة البنكرياس (استئصال البنكرياس والاثني عشر بطريقة ويبل والجراحة لعلاج التهاب البنكرياس المزمن)",
+      "الجراحات المتقدمة للجهاز الهضمي"
     ],
     "training": [
       ""
     ],
-    "education": "MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery",
+    "education": "بكالوريوس الطب والجراحة، ماجستير في الجراحة العامة، ماجستير في جراحة الجهاز الهضمي/جراحة الجهاز الهضمي",
     "work": [
-      "Currently working with Artemis Hospital as an Additional Director in GI and HPB surgery department.",
-      "2012 - 2015 Consultant - Liver transplant and HPB Surgery at Indraprastha Apollo Hospitals",
-      "2015 - 2016 Chief Liver Trasplant and HPB Surgeon at Mahatma Gandhi Hospital"
+      "أعمل حاليًا مع مستشفى أرتميس كمدير إضافي في قسم جراحة الجهاز الهضمي وجراحة الكبد والكلى.",
+      "استشاري زراعة الكبد وجراحة الكبد والكلى في مستشفيات إندرابراستا أبولو من 2012 إلى 2015",
+      "رئيس جراحة زراعة الكبد وجراحة الكبد والكلى في مستشفى مهاتما غاندي من 2015 إلى 2016"
     ],
     "description": [
-      "Dr. Giriraj Singh Bora is a Gastroenterologist, Gastrointestinal Surgeon, and General Surgeon with 22 years of experience.",
-      "He specializes in HPB (Hepato-Pancreato-Biliary) Surgery, Liver Disease Treatment, Liver Transplantation, and GI Surgery procedures.",
-      "He has extensive experience in managing complex gastrointestinal conditions and performing advanced surgical interventions."
+      "الدكتور جيريراج سينغ بورا هو طبيب متخصص في أمراض الجهاز الهضمي وجراحة الجهاز الهضمي وجراحة عامة ولديه خبرة 22 عامًا.",
+      "يتخصص في جراحة الكبد والبنكرياس والقنوات الصفراوية، وعلاج أمراض الكبد، وزرع الكبد، وإجراءات جراحة الجهاز الهضمي.",
+      "لديه خبرة واسعة في إدارة الحالات المعوية المعقدة وإجراء التدخلات الجراحية المتقدمة."
     ]
   },
   "d104": {
     "id": 104,
     "hid": 6,
     "name": "Dr Subhash Gupta",
-    "post": "Chairman - Centre for Liver & Biliary Sciences",
+    "post": "رئيس مركز علوم الكبد والقنوات الصفراوية",
     "image": "d2.webp",
     "experience": "43+",
     "top": true,
     "speciality": [
-      "Liver Transplant and Biliary Sciences",
-      "Liver and Biliary Sciences"
+      "زراعة الكبد وعلوم القناة الصفراوية",
+      "علوم الكبد والقناة الصفراوية"
     ],
     "training": [
       ""
     ],
-    "education": "All India Institute of Medical Sciences, New Delhi",
+    "education": "معهد عموم الهند للعلوم الطبية، نيودلهي",
     "work": [
-      "Prof (Dr.) Subhash Gupta is currently working at Max Healthcare",
-      "Indraprastha Apollo Hospitals, New Delhi, 2006 till 2016",
-      "Sir Ganga Ram Hospital, New Delhi, 1998 - 2006",
-      "St. James’s University Hospital, Leeds, 1995 to 1998",
-      "Queen’s Elizabeth Medical Centre, Birmingham, 1993 to 1995",
-      "All India Institute of Medical Sciences, 1981 to  1993"
+      "يعمل البروفيسور (الدكتور) سوبهاش جوبتا حاليًا في Max Healthcare",
+      "مستشفيات إندرابراستا أبولو، نيودلهي، من 2006 حتى 2016",
+      "مستشفى السير جانجا رام، نيودلهي، من 1998 إلى 2006",
+      "مستشفى جامعة سانت جيمس، ليدز، من 1995 إلى 1998",
+      "مركز الملكة إليزابيث الطبي، برمنغهام، من 1993 إلى 1995",
+      "معهد عموم الهند للعلوم الطبية، من 1981 إلى 1993"
     ],
     "description": [
-      "Dr. Subhash Gupta is the Chairman of the Max Centre for Liver and Biliary Sciences, one of the largest liver transplant centers globally.",
-      "The Centre, under his leadership, has conducted over 3000 transplants and performs more than 200 transplants annually, along with numerous complex HPB cases.",
-      "Dr. Gupta is responsible for ensuring safety protocols across all divisions of the Centre, including Hepatology, Anaesthesia, and Critical Care.",
-      "He joined Max Healthcare in January 2017 and brings over 30 years of expertise in Surgical Gastroenterology, Liver Transplantation, and Hepatopancreaticobiliary Oncology."
+      "الدكتور سوبهاش جوبتا هو رئيس مركز ماكس لعلوم الكبد والقنوات الصفراوية، أحد أكبر مراكز زراعة الكبد على مستوى العالم.",
+      "أجرى المركز تحت قيادته أكثر من 3000 عملية زرع ويقوم بأكثر من 200 عملية زرع سنويًا، إلى جانب العديد من حالات HPB المعقدة.",
+      "الدكتور جوبتا مسؤول عن ضمان بروتوكولات السلامة في جميع أقسام المركز، بما في ذلك أمراض الكبد والتخدير والعناية المركزة.",
+      "انضم إلى ماكس هيلث كير في يناير 2017 ويحمل معه أكثر من 30 عامًا من الخبرة في جراحة الجهاز الهضمي وزراعة الكبد وأورام الكبد والقنوات الصفراوية."
     ]
   },
   "d105": {
     "id": 105,
     "hid": 3,
     "name": "Dr. (Col) Manjinder Sandhu",
-    "post": "CONSULTANT CARDIOLOGY",
+    "post": "استشاري امراض القلب",
     "image": "d16.webp",
     "experience": "35+",
     "top": true,
     "speciality": [
-      "Interventional Cardiology",
-      "Complex Angioplasty"
+      "طب القلب التداخلي",
+      "قسطرة الشرايين المعقدة"
     ],
     "training": [
-      "MBBS from Armed Forces Medical College, 1986",
-      "MD (Medicine) from Pune University, Gold Medalist, 1993",
-      "DNB (Medicine), 1993",
-      "DM (Cardiology) from PGIMER, Chandigarh, 2001"
+      "بكالوريوس الطب والجراحة من كلية الطب للقوات المسلحة، 1986",
+      "دكتوراه في الطب من جامعة بوني، حائزة على الميدالية الذهبية، 1993",
+      "دكتوراه في الطب من جامعة بوني، 1993",
+      "دكتوراه في الطب من جامعة بوني، 1993",
+      "دكتوراه في أمراض القلب من معهد PGIMER، تشانديغار، 2001"
     ],
-    "education": "MBBS, MD - General Medicine, DNB - General Medicine, DM - Cardiology",
+    "education": "بكالوريوس الطب والجراحة، دكتوراه في الطب - الطب العام، دكتوراه في الطب الوطني - الطب العام، دكتوراه في الطب - أمراض القلب",
     "work": [
-      "Director-Cardiology and Medical Director at Artemis Hospital since July 2011",
-      "Former Senior Adviser (Medicine and Cardiology) at Base Hospital, Delhi Cantt",
-      "Former Additional Professor of Medicine and Cardiology at Army College of Medical Sciences, Delhi Cantt",
-      "Mentor for medical informatics and medical services with the Executive Director at Artemis Hospital"
+      "مدير قسم أمراض القلب والمدير الطبي في مستشفى أرتميس منذ يوليو 2011",
+      "مستشار أول سابق (الطب وأمراض القلب) في المستشفى الأساسي، دلهي كانت",
+      "أستاذ إضافي سابق في الطب وأمراض القلب في كلية العلوم الطبية للجيش، دلهي كانت",
+      "مرشد في مجال المعلوماتية الطبية والخدمات الطبية مع المدير التنفيذي في مستشفى أرتميس"
     ],
     "description": [
-      "Dr. (Col) Manjinder Sandhu is a renowned interventional cardiologist with over 35 years of experience.",
-      "He has independently performed over 20,000 procedures, specializing in complex coronary interventions such as primary angioplasty, bifurcation lesions, chronic total occlusions, and left main lesions.",
-      "Dr. Sandhu is proficient in using adjunctive devices like cutting balloons, angiosculpt, IVUS, and Rotablation, primarily performing procedures via the radial route.",
-      "He had a distinguished career in the Indian Army Medical Corps and was honored as the accompanying cardiologist to the President of India on tours.",
-      "He is a fellow of the American College of Cardiology and the Society for Cardiac Angiography and Interventions.",
-      "Dr. Sandhu has authored numerous academic papers, presented at national and international conferences, and is a recipient of many national awards.",
-      "He has recently completed his Masters in Health Administration from Walden University, USA."
+      "الدكتور (العقيد) مانجيندر ساندهو هو طبيب قلب تدخلي مشهور يتمتع بخبرة تزيد عن 35 عامًا.",
+      "لقد أجرى بشكل مستقل أكثر من 20000 عملية، وتخصص في التدخلات التاجية المعقدة مثل قسطرة الشرايين الأولية، وآفات التفرع، والانسدادات الكلية المزمنة، وآفات الشريان الرئيسي الأيسر.",
+      "الدكتور ساندهو بارع في استخدام الأجهزة المساعدة مثل قطع البالونات، ونحت الأوعية الدموية، والموجات فوق الصوتية داخل الأوعية الدموية، والتدوير، وإجراء العمليات بشكل أساسي عبر الطريق الشعاعي.",
+      "كان له مسيرة مهنية متميزة في فيلق الطب بالجيش الهندي وتم تكريمه كطبيب قلب مرافق لرئيس الهند في الجولات.",
+      "إنه زميل في الكلية الأمريكية لأمراض القلب وجمعية تصوير الأوعية الدموية والتدخلات القلبية.",
+      "لقد ألف الدكتور ساندهو العديد من الأوراق الأكاديمية، وقدمها في المؤتمرات الوطنية والدولية، وحصل على العديد من الجوائز الوطنية.",
+      "لقد أكمل مؤخرًا درجة الماجستير في إدارة الصحة من جامعة والدن، الولايات المتحدة الأمريكية."
     ]
   },
   "d106": {
     "id": 106,
     "hid": 10,
     "name": "Dr. Sanjay Gogoi",
-    "post": "Principal Director - Urology, Kidney Transplant & Uro Oncology",
+    "post": "المدير الرئيسي - قسم جراحة المسالك البولية وزراعة الكلى وأورام المسالك البولية",
     "image": "2.webp",
     "experience": "33+",
     "top": true,
     "speciality": [
-      "Kidney Transplant",
-      "Uro-Oncology",
-      "Robotic Urological Procedures",
-      "Reconstructive Urology",
-      "Pediatric Urology"
+      "زراعة الكلى",
+      "أورام المسالك البولية",
+      "إجراءات المسالك البولية الروبوتية",
+      "جراحة المسالك البولية الترميمية",
+      "جراحة المسالك البولية عند الأطفال"
     ],
     "training": [
       ""
     ],
-    "education": "MBBS, MS General Surgery, DNB Genito Urinary Surgery, MCH Urology",
+    "education": "بكالوريوس الطب والجراحة، ماجستير في الجراحة العامة، دكتوراه في جراحة المسالك البولية التناسلية، ماجستير في جراحة المسالك البولية",
     "work": [
-      "Dr. Sanjay Gogoi is currently working at Max Healthcare",
-      "Consultant & Head, Urology & Renal Transplant, Manipal Hospital- May 2018-March 2024",
-      "Director, Urology & Renal Transplantation, Fmri, Gurgaon -June 2013 – April 2018",
-      "Associate Director, Medanta -The Medicity, Gurgaon- Jan 2010 Till May 2013",
-      "Consultant Urologist, Apollo Gleneagles Hospital, Kolkata Jan 2008 To Dec 2009",
-      "Consultant And Head, Apollo Lanka, Colombo, Sri Lanka- 2002 - 2007"
+      "يعمل الدكتور سانجاي جوجوي حاليًا في Max Healthcare",
+      "استشاري ورئيس قسم جراحة المسالك البولية وزراعة الكلى، مستشفى مانيبال- مايو 2018-مارس 2024",
+      "مدير قسم جراحة المسالك البولية وزراعة الكلى، Fmri، جورجاون- يونيو 2013-أبريل 2018",
+      "مدير مشارك، Medanta -The Medicity، جورجاون- يناير 2010 حتى مايو 2013",
+      "استشاري جراحة المسالك البولية، مستشفى Apollo Gleneagles، كولكاتا من يناير 2008 إلى ديسمبر 2009",
+      "استشاري ورئيس، Apollo Lanka، كولومبو، سريلانكا- 2002-2007"
     ],
     "description": [
-      "Dr. Sanjay Gogoi has over 25 years of experience in Comprehensive Urology Practice.",
-      "He specializes in complex and challenging Urological procedures, including Renal Transplant, Uro-Oncology, and Reconstructive Surgeries.",
-      "Dr. Gogoi is committed to providing ethical, evidence-based medicine.",
-      "His dedication to tackling difficult cases and delivering optimal outcomes has earned recognition from both peers and patients."
+      "يتمتع الدكتور سانجاي جوجوي بخبرة تزيد عن 25 عامًا في ممارسة طب المسالك البولية الشامل.",
+      "يتخصص في الإجراءات البولية المعقدة والصعبة، بما في ذلك زراعة الكلى، وطب الأورام البولية، والجراحات الترميمية.",
+      "يلتزم الدكتور جوجوي بتقديم الطب الأخلاقي القائم على الأدلة.",
+      "لقد نال تقديرًا من أقرانه والمرضى بسبب تفانيه في معالجة الحالات الصعبة وتقديم نتائج مثالية."
     ]
   },
   "d107": {
     "id": 107,
     "hid": 9,
     "name": "Dr. Sudhir Dubey",
-    "post": "Chairman - Neurosurgery, Neurosciences",
+    "post": "رئيس قسم جراحة المخ والأعصاب وعلوم الأعصاب",
     "image": "d17.webp",
     "experience": "36+",
     "top": true,
     "speciality": [
-      "Endoportal Brain Surgery",
-      "Endoscopic Endonasal Skull base Surgery",
-      "Minimally Invasive Surgery of the Spine",
-      "Percutaneous spine procedures"
+      "جراحة الدماغ عبر البوابة",
+      "جراحة قاعدة الجمجمة بالمنظار عبر الأنف",
+      "جراحة العمود الفقري الأقل توغلاً",
+      "إجراءات العمود الفقري عبر الجلد"
     ],
     "training": [
-      "Graduated from King George's Medical College with Sir Rupkishan Das Gold Medal in final year MBBS.",
-      "Trained in Neurosurgery at National Institute of Mental Health and Neurosciences, awarded the Silver Jubilee Award.",
-      "Received international recognition for work on brain tumors at Sydney, Australia in 2001."
+      "تخرج من كلية الطب بجامعة الملك جورج وحصل على الميدالية الذهبية من السير روبكيشان داس في السنة النهائية من بكالوريوس الطب والجراحة.",
+      "تدرب في جراحة المخ والأعصاب في المعهد الوطني للصحة العقلية وعلوم الأعصاب، وحصل على جائزة اليوبيل الفضي.",
+      "حصل على تقدير دولي لعمله على أورام المخ في سيدني، أستراليا في عام 2001."
     ],
-    "education": "M.Ch (Neurosurgery) , M.B.B.S.",
+    "education": "ماجستير في جراحة المخ والأعصاب، بكالوريوس في الجراحة",
     "work": [
-      "Performed more than 10,000 neurosurgical operations, including Pituitary Surgery.",
-      "Pioneered Endoscopic and Minimally Invasive Surgery for Brain, Skull Base, and Spine Surgery."
+      "أجرى أكثر من 10000 عملية جراحية عصبية، بما في ذلك جراحة الغدة النخامية.",
+      "كان رائدًا في مجال الجراحة التنظيرية والجراحية قليلة التدخل في الدماغ وقاعدة الجمجمة والعمود الفقري."
     ],
     "description": [
-      "Dr. Sudhir Dubey is recognized for his extensive experience in neurosurgery and pioneering minimally invasive techniques.",
-      "He has been awarded the 'Young Neurosurgeon's Award' by the World Federation of Neurosurgical Societies, a distinction unique to India.",
-      "His innovative work in brain tumor surgery has gained international acclaim."
+      "يُعرف الدكتور سودهير دوبي بخبرته الواسعة في جراحة الأعصاب وتقنياته الرائدة التي لا تتطلب تدخلاً جراحيًا يذكر.",
+      "حصل على جائزة "جراح الأعصاب الشاب" من الاتحاد العالمي لجمعيات جراحة الأعصاب، وهي جائزة فريدة من نوعها في الهند.",
+      "لقد نال عمله المبتكر في جراحة أورام المخ شهرة دولية."
     ]
   },
   "d108": {
     "id": 108,
     "hid": 6,
     "name": "Dr. Kulbhushan Singh Dagar",
-    "post": "Principal Director, Chief Surgeon & Head - Neonatal & Congenital Heart Surgery",
+    "post": "المدير الرئيسي ورئيس الجراحين ورئيس قسم جراحة القلب للأطفال حديثي الولادة والعيوب الخلقية",
     "image": "d3.jpg",
     "experience": "29+",
     "top": true,
     "speciality": [
-      "Paediatric (PED) Cardiac Surgery",
-      "Complex Congenital Heart Defects in newborns and Valve Repairs in children"
+      "جراحة القلب عند الأطفال",
+      "عيوب القلب الخلقية المعقدة عند الأطفال حديثي الولادة وإصلاح الصمامات عند الأطفال"
     ],
     "training": [
-      "M.Ch (Cardio-Thoracic and Vascular Surgery), GB Pant Hospital, University of Delhi, (August 1994)",
-      "MS (General Surgery), S N Medical College & Hospital, Agra University, (May 1991)",
-      "MBBS, S N Medical College & Hospital, Agra University (January 1987)"
+      "ماجستير في جراحة القلب والصدر والأوعية الدموية، مستشفى جي بي بانت، جامعة دلهي، (أغسطس 1994)",
+      "ماجستير في الجراحة العامة، كلية الطب ومستشفى إس إن، جامعة أغرا، (مايو 1991)",
+      "بكالوريوس الطب والجراحة، كلية الطب ومستشفى إس إن، جامعة أغرا (يناير 1987)"
     ],
-    "education": "M.Ch (Cardio-Thoracic and Vascular Surgery), MS (General Surgery), MBBS",
+    "education": "ماجستير في جراحة القلب والصدر والأوعية الدموية، ماجستير في الجراحة العامة، بكالوريوس في الطب والجراحة",
     "work": [
-      "Dr. Kulbhushan Singh Dagar is currently working at Max Healthcare",
-      "Specialist Registrar, Great Ormond Street Hospital for Children, London",
-      "Director Paediatric Cardiac Programme at Lotus Children's Hospital, Hyderabad ",
-      "Director Paediatric Cardiac Programme at Escorts Heart Institute and Research Centre (EHIRC), New Delhi"
+      "يعمل الدكتور كولبوشان سينغ داجار حاليًا في Max Healthcare",
+      "مسجل متخصص، مستشفى Great Ormond Street للأطفال، لندن",
+      "مدير برنامج أمراض القلب للأطفال في مستشفى Lotus للأطفال، حيدر أباد",
+      "مدير برنامج أمراض القلب للأطفال في معهد Escorts للقلب ومركز الأبحاث (EHIRC)، نيودلهي"
     ],
     "description": [
-      "Dr. Kulbhushan S. Dagar has over 21 years of experience in cardiac surgery, with the last 15 years focusing on congenital heart defects in infants and children.",
-      "He is skilled in performing complex congenital cardiac surgeries and uses innovative techniques and cutting-edge technologies.",
-      "Dr. Dagar has received formal training at GB Pant Hospital, New Delhi, and distinguished himself at Great Ormond Street Hospital for Sick Children in London, where he was trained in Extra Corporeal Life Support and Heart Transplant techniques."
+      "يتمتع الدكتور كولبوشان س. داجار بخبرة تزيد عن 21 عامًا في جراحة القلب، حيث ركز خلال السنوات الخمس عشرة الماضية على عيوب القلب الخلقية لدى الرضع والأطفال.",
+      "إنه ماهر في إجراء جراحات القلب الخلقية المعقدة ويستخدم تقنيات مبتكرة وتقنيات متطورة.",
+      "تلقى الدكتور داجار تدريبًا رسميًا في مستشفى جي بي بانت، نيودلهي، وتميز في مستشفى جريت أورموند ستريت للأطفال المرضى في لندن، حيث تدرب على تقنيات دعم الحياة خارج الجسم وزرع القلب."
     ]
   },
   "d109": {
     "id": 109,
     "hid": 8,
     "name": "Dr. Anant Kumar",
-    "post": "Chairman - Urology Renal Transplant and Robotics of Max Saket Complex and Uro-Oncology of MSSH Saket",
+    "post": "رئيس قسم جراحة المسالك البولية وزراعة الكلى والروبوتات في مجمع ماكس ساكيت وقسم أورام المسالك البولية في مستشفى ماكس ساكيت",
     "image": "d3.jpg",
     "experience": "36+",
     "top": false,
     "speciality": [
-      "Kidney Transplantation and Renovascular Hypertension",
-      "Robotic and Laparoscopic Urology",
-      "Stricture Urethra",
-      "Uro - Oncology",
-      "Laser Prostate Surgery"
+      "زراعة الكلى وارتفاع ضغط الدم الكلوي",
+      "جراحة المسالك البولية بالروبوت والمنظار",
+      "تضيق مجرى البول",
+      "أورام المسالك البولية",
+      "جراحة البروستاتا بالليزر"
     ],
     "training": [
-      "Extensive experience in laser urological surgery, particularly using Thulium, green light, Holmium laser, and HOLEP techniques for prostate removal.",
-      "Skilled in reconstructive urological procedures of the kidney, bladder, and urethra, with over 700 urethral stricture surgeries performed.",
-      "Proficient in endourological techniques like PCNL, URS, TURP, flexible ureteroscopy, and more.",
-      "Developed expertise in performing nearly all laparoscopic urological surgeries, including radical prostatectomy, cystectomy, and partial nephrectomy."
+      "خبرة واسعة في جراحة المسالك البولية بالليزر، وخاصة باستخدام الثوليوم والضوء الأخضر وليزر الهولميوم وتقنيات HOLEP لإزالة البروستاتا.",
+      "ماهر في إجراءات المسالك البولية الترميمية للكلى والمثانة والإحليل، مع إجراء أكثر من 700 عملية جراحية لتضييق مجرى البول.",
+      "متمكن في تقنيات المسالك البولية الداخلية مثل PCNL وURS وTURP والتنظير المرن للحالب والمزيد.",
+      "اكتسب خبرة في إجراء جميع جراحات المسالك البولية بالمنظار تقريبًا، بما في ذلك استئصال البروستاتا الجذري واستئصال الكيس واستئصال الكلية الجزئي."
     ],
-    "education": "DNB (Urology), PGIMER, Chandigarh, India; M.Ch(Urology), PGIMER, Chandigarh, India; M.S(General Surgery), PGIMER, Chandigarh India; M.B.B.S King George Medical University, Lucknow, India",
+    "education": "دكتوراه في الطب (طب المسالك البولية)، برنامج الدراسات العليا في الطب، تشانديغار، الهند؛ ماجستير في الجراحة (طب المسالك البولية)، برنامج الدراسات العليا في الطب، تشانديغار، الهند؛ ماجستير في الجراحة العامة، برنامج الدراسات العليا في الطب، تشانديغار، الهند؛ بكالوريوس في الطب والجراحة، جامعة الملك جورج الطبية، لكناو، الهند",
     "work": [
-      "Dr. Anant Kumar is currently working at Max Healthcare",
-      "Professor and Head, Department of Urology & Renal Transplantation, Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow",
-      "Director , Department of Urology, Robotic and Kidney Transplantation, Fortis Group of Hospitals, Delhi and NCR",
-      "Senior Consultant, Urology and Transplantation, Indraprastha Apollo Hospital, New Delhi",
-      "Consultant Urologist, Addenbrooke's NHS foundation, Cambridge, UK"
+      "يعمل الدكتور أنانت كومار حاليًا في Max Healthcare",
+      "أستاذ ورئيس قسم أمراض المسالك البولية وزراعة الكلى، معهد سانجاي غاندي للدراسات العليا في العلوم الطبية، لكناو",
+      "مدير قسم أمراض المسالك البولية وزراعة الكلى بالروبوت، مجموعة مستشفيات فورتيس، دلهي وNCR",
+      "استشاري أول في أمراض المسالك البولية وزراعة الأعضاء، مستشفى إندرابراستا أبولو، نيودلهي",
+      "استشاري أمراض المسالك البولية، مؤسسة Addenbrooke's NHS، كامبريدج، المملكة المتحدة"
     ],
     "description": [
-      "35 years of experience in teaching and clinical practice in urology and renal transplantation.",
-      "Specialized in robotic-assisted laparoscopic urology with over 500 robotic surgeries performed in the last 5 years.",
-      "Over 3500 kidney transplants performed, with expertise in laparoscopic kidney retrieval and 2200 lap donor nephrectomies.",
-      "Extensive experience in laser urological surgery, particularly using Thulium, green light, Holmium laser, and HOLEP techniques for prostate removal.",
-      "Skilled in reconstructive urological procedures of the kidney, bladder, and urethra, with over 700 urethral stricture surgeries performed.",
-      "Proficient in endourological techniques like PCNL, URS, TURP, flexible ureteroscopy, and more.",
-      "Developed expertise in performing nearly all laparoscopic urological surgeries, including radical prostatectomy, cystectomy, and partial nephrectomy."
+      "35 عامًا من الخبرة في التدريس والممارسة السريرية في جراحة المسالك البولية وزراعة الكلى.",
+      "متخصص في جراحة المسالك البولية بالمنظار بمساعدة الروبوت مع إجراء أكثر من 500 جراحة روبوتية في السنوات الخمس الماضية.",
+      "أجرى أكثر من 3500 عملية زرع كلى، مع خبرة في استرجاع الكلى بالمنظار و2200 عملية استئصال كلى من متبرع بالمنظار.",
+      "خبرة واسعة في جراحة المسالك البولية بالليزر، وخاصة باستخدام الثوليوم والضوء الأخضر وليزر الهولميوم وتقنيات HOLEP لإزالة البروستاتا.",
+      "ماهر في إجراءات المسالك البولية الترميمية للكلى والمثانة والإحليل، مع إجراء أكثر من 700 عملية جراحية لتضييق مجرى البول.",
+      "متمكن من تقنيات جراحة المسالك البولية الداخلية مثل PCNL وURS وTURP والتنظير المرن للحالب والمزيد.",
+      "اكتسب خبرة في إجراء جميع جراحات المسالك البولية بالمنظار تقريبًا، بما في ذلك استئصال البروستاتا الجذري واستئصال الكيس واستئصال الكلية الجزئي."
     ]
   }
 }
