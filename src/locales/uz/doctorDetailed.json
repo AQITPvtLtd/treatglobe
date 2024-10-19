@@ -1746,1553 +1746,1553 @@
     "id": 49,
     "hid": 9,
     "name": "Dr VP Singh",
-    "post": "Chairman - Neurosurgery, Neurosciences",
+    "post": "Rais - Neyroxirurgiya, Neyrologiya",
     "image": "d14.png",
     "experience": "30+",
     "top": false,
-    "education": "DNB Neurosurgery , MCh Neurosurgery , MBBS",
+    "education": "DNB Neyroxirurgiya, MCh Neyroxirurgiya, MBBS",
     "speciality": [
-      "Cosmetic Surgery",
-      "Reconstructive Surgery",
-      "Vascular Malformations",
-      "Brachial Plexus Surgery"
+      "Kosmetik jarrohlik",
+      "Rekonstruktiv jarrohlik",
+      "Tomirlarning malformatsiyasi",
+      "Brakiyal pleksus jarrohligi"
     ],
     "description": [
-      "Dr. V. P. Singh has around 30 years of experience in neurosurgery, covering cranial, spinal, and peripheral nerves.",
-      "His specialties include brain tumor surgery, cerebrovascular surgery, epilepsy surgery, and radiosurgery.",
-      "He has published over 70 papers in journals and books, reflecting his active involvement in the field."
+      "Doktor V. P. Singx kranial, orqa miya va periferik nervlarni qamrab oluvchi neyroxirurgiyada 30 yillik tajribaga ega.",
+      "Uning mutaxassisliklari miya shishi jarrohligi, serebrovaskulyar jarrohlik, epilepsiya jarrohligi va radioxirurgiyani o'z ichiga oladi.",
+      "Jurnal va kitoblarda 70 dan ortiq maqolalari chop etilgan bo'lib, bu sohadagi faol ishtirokini aks ettiradi."
     ],
     "training": [
-      "Operated over 400 intracranial aneurysm cases.",
-      "Started Gamma Knife Surgery and Epilepsy Surgery at AIIMS, New Delhi."
+      "400 dan ortiq intrakranial anevrizma holatlarida operatsiya qilingan.",
+      "AIIMS, Nyu-Dehlida Gamma pichoq jarrohligi va epilepsiya jarrohligi boshlandi."
     ],
     "work": [
-      "Started Gamma Knife Surgery and Epilepsy Surgery at AIIMS, New Delhi.",
-      "Operated over 400 intracranial aneurysms.",
-      "Worked at VIMHANS, New Delhi, and Apollo Hospital, New Delhi.",
-      "Senior Consultant Neurosurgeon at Apollo Hospital, New Delhi."
+      "AIIMS, Nyu-Dehlida Gamma pichoq jarrohligi va epilepsiya jarrohligi boshlandi.",
+      "400 dan ortiq intrakranial anevrizmalarni operatsiya qilgan.",
+      "VIMHANS, Nyu-Dehli va Apollon kasalxonasi, Nyu-Dehlida ishlagan.",
+      "Apollon kasalxonasida katta maslahatchi neyroxirurg, Nyu-Dehli."
     ]
   },
   "d50": {
     "id": 50,
     "hid": 9,
     "name": "Dr Vijay Vohra",
-    "post": "Chairman - Critical Care",
+    "post": "Rais - Jiddiy yordam",
     "image": "d15.png",
     "experience": "35+",
     "education": "",
     "top": false,
     "speciality": [
-      "Liver Transplantation",
-      "GI Surgery",
-      "Laparoscopic Surgery",
-      "Bariatric Surgery"
+      "Jigar transplantatsiyasi",
+      "GI jarrohlik",
+      "Laparoskopik jarrohlik",
+      "Bariatrik jarrohlik"
     ],
     "description": [
-      "Dr. Vijay Vohra has over 35 years of experience in Anesthesiology.",
-      "He has experience of over 1500 liver transplants.",
-      "He was the first in India to develop and introduce a hemodynamic and coagulation monitoring protocol for bloodless liver transplants."
+      "Doktor Vijay Vohra anesteziologiya sohasida 35 yildan ortiq tajribaga ega.",
+      "U 1500 dan ortiq jigar transplantatsiyasi tajribasiga ega.",
+      "U Hindistonda birinchi bo'lib qonsiz jigar transplantatsiyasi uchun gemodinamik va koagulyatsiya monitoringi protokolini ishlab chiqdi va joriy qildi."
     ],
     "training": [
-      "Trained anaesthetists and intensivists from India and abroad in Transplant Anaesthesia.",
-      "Developed and introduced hemodynamic and coagulation monitoring protocol for bloodless liver transplant."
+      "Tranplant anesteziyasi bo'yicha Hindiston va chet eldan o'qitilgan anestezist va intensiv shifokorlar.",
+      "Qonsiz jigar transplantatsiyasi uchun gemodinamik va koagulyatsiya monitoringi protokoli ishlab chiqildi va joriy etildi."
     ],
     "work": [
-      "Headed the anaesthesia team for liver transplantation at Sir Ganga Ram Hospital and Medanta- The Medicity.",
-      "Established Liver Transplant Anaesthesia and Critical Care at major centres in India.",
-      "Vice-Chairperson in policy making and running a large department of 40 anaesthetists at Sir Ganga Ram Hospital.",
-      "Participated in all the firsts of liver transplantation in India.",
-      "Reviewer for Journal of Clinical Anaesthesia, Journal of Anaesthesiology and Clinical Pharmacology, Journal of Clinical & Experimental Hepatology."
+      "Ser Ganga Ram kasalxonasida jigar transplantatsiyasi uchun behushlik guruhini va Medanta- The Medicityni boshqargan.",
+      "Hindistonning yirik markazlarida jigar transplantatsiyasi anesteziyasi va jiddiy tibbiy yordam o'rnatildi.",
+      "Sir Ganga Ram kasalxonasida 40 nafar anestezistdan iborat katta bo'limni boshqarish va siyosatni ishlab chiqish bo'yicha rais o'rinbosari.",
+      "Hindistonda jigar transplantatsiyasining barcha birinchilarida qatnashgan.",
+      "Klinik anesteziya jurnali, Anesteziologiya va klinik farmakologiya jurnali, Klinik va eksperimental gepatologiya jurnali sharhlovchisi."
     ]
   },
   "d51": {
     "id": 51,
     "hid": 9,
     "name": "Dr Deepak sarin",
-    "post": "Vice Chairman - Head & Neck Cancer Thyroid & Parathyroid Surgery, Cancer Care",
+    "post": "Rais o'rinbosari - bosh va bo'yin saratoni qalqonsimon bez va paratiroid jarrohligi, saraton kasalligini davolash",
     "image": "d16.png",
     "experience": "28+",
     "education": "",
     "top": false,
     "speciality": [
-      "Oral Cancer Surgery",
-      "Thyroid and Parathyroid Surgery",
-      "Complex Reconstruction of head and neck defects",
-      "Robotic and Laser Surgery"
+      "Og'iz saratoni jarrohligi",
+      "Qalqonsimon bez va paratiroid jarrohligi",
+      "Bosh va bo'yin nuqsonlarini kompleks rekonstruksiya qilish",
+      "Robot va lazerli jarrohlik"
     ],
     "description": [
-      "Specializes in Head & Neck Oncology Surgery, Reconstructive Surgery, and Skull Base Surgery.",
-      "Has more than 20 years of experience in the field.",
-      "Awardee of Chandler Society & Mukut Sahariya awards.",
-      "Expertise includes Oral Cancer, Throat Cancer, Thyroid surgery (including robotic surgery), Parathyroid surgery (including minimally invasive techniques), Parotid surgery, Tracheal reconstruction, and Laser and Robotic surgery for head & neck cancer.",
-      "Intimately involved in clinical and translational research and has a passion for education."
+      "Bosh va bo'yin onkologiyasi jarrohligi, rekonstruktiv jarrohlik va bosh suyagi bazasi jarrohligi bo'yicha ixtisoslashgan.",
+      "Sohada 20 yildan ortiq tajribaga ega.",
+      "Chandler jamiyati va Mukut Sahariya mukofotlari sovrindori.",
+      "Mutaxassislikka og'iz bo'shlig'i saratoni, tomoq saratoni, qalqonsimon bez jarrohligi (shu jumladan robotlashtirilgan jarrohlik), paratiroid jarrohligi (shu jumladan minimal invaziv usullar), parotid jarrohligi, traxeyani rekonstruksiya qilish, bosh va bo'yin saratoni uchun lazer va robot jarrohlik kiradi.",
+      "Klinik va tarjima tadqiqotlari bilan yaqindan shug'ullanadi va ta'limga ishtiyoqi bor."
     ],
     "training": [
-      "Clinical Fellow in Head & Neck Ablative Surgery at Sylvester Comprehensive Cancer Center, University of Miami, United States."
+      "Sylvester keng qamrovli saraton markazida bosh va bo'yin ablativ jarrohlik bo'yicha klinik xodim, Mayami universiteti, Qo'shma Shtatlar."
     ],
     "work": [
-      "Established the Department of Head and Neck Surgery at Sir Ganga Ram Hospital in 2005.",
-      "Established the Department of Otolaryngology Head and Neck Surgery at Artemis Health Institute in 2007.",
-      "Established the Department of Head & Neck Surgery at Medanta in 2011."
+      "2005 yilda Ser Ganga Ram kasalxonasida bosh va bo'yin jarrohligi bo'limi tashkil etilgan.",
+      "2007 yilda Artemis sog'liqni saqlash institutida Otolaringologiya bosh va bo'yin jarrohligi bo'limi tashkil etilgan.",
+      "2011 yilda Medantada bosh va bo'yin jarrohligi bo'limi tashkil etilgan."
     ]
   },
   "d52": {
     "id": 52,
     "hid": 1,
     "name": "Dr. Aditya Gupta",
-    "post": "Chairperson - Neurosurgery & CNS Radiosurgery & Co-Chief - Cyberknife Centre",
+    "post": "Rais - Neyroxirurgiya va CNS radioxirurgiyasi va hamraisi - Cyberknife Center",
     "image": "d1.jpg",
     "experience": "29+",
     "top": true,
     "speciality": [
-      "Brain Tumor Surgery",
-      "Radiosurgery (Cyberknife, Gamma Knife)",
-      "Spine Surgery",
-      "Surgery for Epilepsy",
-      "DBS Surgery for Parkinsons Disease",
-      "Brachial Plexus and Nerve surgery",
-      "Cerebrovascular Surgery (Aneurysms, AVMs)"
+      "Miya shishi jarrohligi",
+      "Radiojarrohlik (kiber pichoq, gamma pichoq)",
+      "Omurga jarrohligi",
+      "Epilepsiya uchun jarrohlik",
+      "DBS Parkinson kasalligi uchun jarrohlik",
+      "Brakiyal pleksus va asab jarrohligi",
+      "Miya qon tomirlari jarrohligi (anevrizmalar, AVMlar)"
     ],
     "training": [
-      "Advanced Trainings: University of Amsterdam; Hopital Pitie-Salpetriere, Paris; University of Marseilles; Wake Forest University, United States; University of Kiel, Germany",
-      "Fellowship: CJW Medical Center, Richmond, Virginia, United States"
+      "Ilg'or treninglar: Amsterdam universiteti; Hopital Pitie-Salpetriere, Parij; Marsel universiteti; Wake Forest universiteti, AQSh; Kil universiteti, Germaniya",
+      "Stipendiya: CJW tibbiyot markazi, Richmond, Virjiniya, Amerika Qo'shma Shtatlari"
     ],
-    "education": "MBBS: All India Institute of Medical Sciences, New Delhi, 1994 , M.Ch. (Neurosurgery): All India Institute of Medical Sciences, New Delhi, 1999",
+    "education": "MBBS: Butun Hindiston tibbiyot fanlari instituti, Nyu-Dehli, 1994 yil, M.Ch. (neyroxirurgiya): Butun Hindiston tibbiyot fanlari instituti, Nyu-Dehli, 1999 yil",
     "work": [
-      "Associate Professor of Neurosurgery at All India Institute of Medical Sciences, New Delhi (until 2009).",
-      "Additional Director, Neurosurgery at Institute of Neurosciences, Medanta (until mid-2016)."
+      "Butun Hindiston tibbiyot fanlari instituti neyroxirurgiya dotsenti, Nyu-Dehli (2009 yilgacha).",
+      "Medanta Neyrologiya institutida neyroxirurgiya qo'shimcha direktori (2016 yil o'rtalarigacha)."
     ],
     "description": [
-      "Dr. Aditya Gupta is an accomplished Neurosurgeon.",
-      "He has developed excellent surgical techniques for a wide variety of brain tumors, emphasizing microsurgery and radiosurgery.",
-      "Dr. Gupta has special skills in managing Movement Disorders with Deep Brain Stimulation (DBS), Surgery for Epilepsy, Nerve and Brachial Plexus Surgery, Brain aneurysms, and AVMs.",
-      "He is an expert in all kinds of spine surgery.",
-      "Dr. Gupta has over 40 scientific publications and chapters in books.",
-      "He is an invited speaker at national and international meetings.",
-      "Dr. Gupta has featured on national television on several occasions.",
-      "He is recognized as one of the best neurosurgeons in the country."
+      "Doktor Aditya Gupta - mohir neyroxirurg.",
+      "U mikrojarrohlik va radiojarrohlikni ta'kidlab, turli xil miya o'smalari uchun ajoyib jarrohlik usullarini ishlab chiqdi.",
+      "Doktor Gupta miyani chuqur stimulyatsiya qilish (DBS), epilepsiya jarrohligi, asab va brakiyal pleksus jarrohligi, miya anevrizmalari va AVMlar bilan harakatlanish buzilishlarini boshqarish bo'yicha maxsus ko'nikmalarga ega.",
+      "U umurtqa pog'onasi jarrohlikning barcha turlari bo'yicha mutaxassis.",
+      "Doktor Guptaning 40 dan ortiq ilmiy nashrlari va kitoblarda bo'limlari bor.",
+      "U milliy va xalqaro uchrashuvlarda taklif etilgan ma'ruzachi.",
+      "Doktor Gupta bir necha bor milliy televideniyeda chiqish qilgan.",
+      "– U mamlakatdagi eng yaxshi neyroxirurglardan biri sifatida tan olingan."
     ]
   },
   "d53": {
     "id": 53,
     "hid": 1,
     "name": "Dr Hitesh Garg",
-    "post": "Head - Ortho Spine Surgery",
+    "post": "Bosh - Orto umurtqa pog'onasi jarrohligi",
     "image": "d2.jpg",
     "experience": "17+",
     "top": true,
     "speciality": [
-      "Spinal Fusions (TLIF, ALIF, DLIF, Axial-LIF, PLIF, PLF)",
-      "Spinal deformity (Scoliosis and Kyphosis) correction",
-      "Artificial Disc Replacements (Cervical and Lumbar)",
-      "Minimally Invasive Spine Surgeries",
-      "Cervical Spine Surgery",
-      "Occipito-cervical and C1-C2 surgeries",
-      "Spinal tumours",
-      "Kyphoplasty and Vertebroplasty",
-      "Motion preserving surgeries for degenerative spine and scoliosis",
-      "Growing rod for scoliosis",
-      "Spinal Trauma surgeries",
-      "Pain Procedures: Epidural Blocks, radiofrequency Ablation, Spinal cord stimulator, Baclofen and Morphine Pumps, Percutaneous discectomy"
+      "O'murtqa birikmalar (TLIF, ALIF, DLIF, Axial-LIF, PLIF, PLF)",
+      "Omurilik deformatsiyasini (skolioz va kifoz) tuzatish",
+      "Sun'iy disklarni almashtirish (bachadon bo'yni va bel)",
+      "Minimal invaziv umurtqa pog'onasi operatsiyalari",
+      "Bachadon bo'yni umurtqa pog'onasi jarrohligi",
+      "Oksipito-servikal va C1-C2 operatsiyalari",
+      "O'murtqa o'smalari",
+      "Kifoplastika va vertebroplastika",
+      "Degenerativ umurtqa pog'onasi va skolioz uchun harakatni saqlash operatsiyalari",
+      "Skolioz uchun o'sadigan tayoq",
+      "O'murtqa travma operatsiyalari",
+      "Og'riq protseduralari: epidural bloklar, radiochastota ablasyonu, orqa miya stimulyatori, baklofen va morfin nasoslari, perkutan diskektomiya"
     ],
     "training": [
-      "Fellowship in Spine Surgery: Yale University, USA",
-      "Fellowship in Paediatric Spine: Shriners Hospitals for Children, USA",
-      "Joint Replacement Fellowship: All India Institute of Medical Sciences, New Delhi"
+      "Omurga jarrohligi bo'yicha stipendiya: Yel universiteti, AQSh",
+      "Pediatrik umurtqa pog'onasi bo'yicha stipendiya: Shriners bolalar kasalxonasi, AQSh",
+      "Qo'shma almashtirish stipendiyasi: Butun Hindiston tibbiyot fanlari instituti, Nyu-Dehli"
     ],
-    "education": "MBBS: All India Institute of Medical Sciences, New Delhi, MS (Ortho): KEM Hospital and Seth G. S. Medical College, Mumbai",
+    "education": "MBBS: Butun Hindiston tibbiyot fanlari instituti, Nyu-Dehli, MS (Orto): KEM kasalxonasi va Set G. S. Tibbiyot kolleji, Mumbay",
     "work": [
-      "Head of Ortho-Spine surgery unit at Artemis Hospital, Gurgaon, India.",
-      "Worked at Yale University, USA.",
-      "Worked at Shriners Hospital for Children, Philadelphia, USA."
+      "Artemis kasalxonasida Orto-umurtqa jarrohlik bo'limi boshlig'i, Gurgaon, Hindiston.",
+      "AQSh, Yel universitetida ishlagan.",
+      "Shriners bolalar kasalxonasida ishlagan, Filadelfiya, AQSh."
     ],
     "description": [
-      "Dr. Hitesh Garg has more than 15 years of experience in spine surgery.",
-      "He graduated from AIIMS, New Delhi, and completed his post-graduation from KEM Hospital, Mumbai.",
-      "Despite being offered a faculty position in the USA, he returned to India to establish an advanced spine center of international repute.",
-      "He has performed over 5000 spine surgeries, including more than 2500 spinal fusions, 1000 deformity correction procedures, 300 lumbar and cervical artificial disc replacements, 500 fracture treatments, and 500 other complex surgeries.",
-      "He uses cutting-edge technology such as Neuromonitoring, O-arm, Navigation, modular operation theaters, and microscopes, achieving a success rate of almost 98 percent.",
-      "Dr. Garg has operated on patients from over 50 countries, including prominent national and international personalities.",
-      "His special interests include minimally invasive spine surgeries, motion-preserving spine surgeries, cranio-vertebral and cervical spine surgeries, and deformity correction procedures for scoliosis and kyphosis.",
-      "He combines leading-edge techniques with proven traditional methods to provide patients with the best care possible."
+      "Doktor Xitesh Garg umurtqa pog'onasi jarrohligida 15 yildan ortiq tajribaga ega.",
+      "U AIIMS, Nyu-Dehlini tamomlagan va Mumbaydagi KEM kasalxonasini tugatgan.",
+      "AQShda fakultet lavozimiga taklif qilinganiga qaramay, u xalqaro obro'ga ega bo'lgan ilg'or umurtqa pog'onasi markazini yaratish uchun Hindistonga qaytib keldi.",
+      "U umurtqa pog'onasi bo'yicha 5000 dan ortiq operatsiyalarni amalga oshirdi, shu jumladan 2500 dan ortiq o'murtqa birikmalar, 1000 deformatsiyalarni tuzatish protseduralari, 300 ta lomber va bachadon bo'yni disklarini sun'iy ravishda almashtirish, 500 ta sinishlarni davolash va 500 ta boshqa murakkab operatsiyalar.",
+      "U Neyromonitoring, O-arm, Navigatsiya, modulli operatsiya teatrlari va mikroskoplar kabi ilg'or texnologiyalardan foydalanadi va deyarli 98 foiz muvaffaqiyatga erishadi.",
+      "Doktor Garg 50 dan ortiq mamlakatlardan kelgan bemorlarni, jumladan, taniqli milliy va xalqaro shaxslarni operatsiya qilgan.",
+      "Uning maxsus qiziqishlari orasida umurtqa pog'onasining minimal invaziv operatsiyalari, harakatni saqlaydigan umurtqa pog'onasi operatsiyalari, kranio-vertebral va bachadon bo'yni umurtqa pog'onasi operatsiyalari, skolioz va kifoz uchun deformatsiyani tuzatish muolajalari kiradi.",
+      "U bemorlarga eng yaxshi yordam ko'rsatish uchun ilg'or texnikani tasdiqlangan an'anaviy usullar bilan birlashtiradi."
     ]
   },
   "d54": {
     "id": 54,
     "hid": 1,
     "name": "Dr. SK Rajan",
-    "post": "Chief - Neuro Spine Surgery & Additional Director - Neurosurgery",
+    "post": "Bosh - Neyro-umurtqa jarrohligi va qo'shimcha direktor - Neyroxirurgiya",
     "image": "d3.jpg",
     "experience": "24+",
     "top": true,
     "speciality": [
-      "Minimally Invasive (Keyhole) Spine Surgery (for slipped discs, canal stenosis)",
-      "Craniovertebral Junction (CVJ) Anomalies like Atlantoaxial Dislocations/fractures",
-      "Spinal Fractures – including cementing (Kyphoplasty and Vertebroplasty)",
-      "Endoscopic Spine Surgery (for slipped discs and tumors)",
-      "Spinal Deformity correction (Kyphosis and Scoliosis)",
-      "Spinal Tumors – including keyhole tumor removal",
-      "Disc replacement (Artifical Disc Placements)",
-      "Spinal Tuberculosis & Discitis"
+      "Minimal invaziv (kalit teshigi) umurtqa pog'onasi jarrohligi (siljib ketgan disklar, kanal stenozi uchun)",
+      "Kraniovertebral birikma (CVJ) anomaliyalari, masalan, Atlantoaksiyal dislokatsiyalar / sinishlar",
+      "O'murtqa sinishlar - shu jumladan sementlash (Kifoplastika va Vertebroplastika)",
+      "Endoskopik umurtqa pog'onasi jarrohligi (sirgan disklar va o'smalar uchun)",
+      "O'murtqa deformatsiyani tuzatish (kifoz va skolioz)",
+      "O'murtqa o'smalari, shu jumladan kalit teshigi o'simtasini olib tashlash",
+      "Diskni almashtirish (sun'iy disklarni joylashtirish)",
+      "O'murtqa tuberkulyozi va diskit"
     ],
     "training": [
-      "Fellow Spine Surgeon (Cleveland Clinic Spine Institute, USA)",
-      "Spine Surgery Fellowship (Royal National Orthopaedic Hospital, UK)",
-      "Spine Surgery Fellowship (Nat. Hosp. for Neurology & Neurosurgery, UK)",
-      "Fellowship in Spine Surgery (KEM Hospital & Lilavati Hospital, Mumbai, India)"
+      "O'murtqa jarroh hamkasbi (Klivlend Klinikasi Orqa miya instituti, AQSh)",
+      "Omurga jarrohligi bo'yicha stipendiya (Qirollik milliy ortopediya kasalxonasi, Buyuk Britaniya)",
+      "Omurga jarrohligi bo'yicha stipendiya (Nat. Hosp. Nevrologiya va Neyroxirurgiya, Buyuk Britaniya)",
+      "Omurga jarrohligi bo'yicha stipendiya (KEM kasalxonasi va Lilavati kasalxonasi, Mumbay, Hindiston)"
     ],
-    "education": "MBBS (GMCH, Patiala), MS (Surgery) (PGI, Chandigarh), MCh (Neurosurgery) (GB Pant, New Delhi)",
+    "education": "MBBS (GMCH, Patiala), MS (jarrohlik) (PGI, Chandigarh), MCh (neyroxirurgiya) (GB Pant, Nyu-Dehli)",
     "work": [
-      "Head of Spine Surgery and Associate Director of Neurosurgery at Artemis Hospital, Gurgaon, India.",
-      "Assistant Professor of Neurosurgery, Chief Spine Surgeon & Head of Neurosurgery at various Central Government and large Private Hospitals of Delhi.",
-      "Worked with Prof. Edward Benzel at the Cleveland Clinic, USA.",
-      "Worked with Mr. Adrian Casey in London, UK."
+      "Artemis kasalxonasida orqa miya jarrohligi boshlig'i va neyroxirurgiya direktori o'rinbosari, Gurgaon, Hindiston.",
+      "Neyroxirurgiya assistenti, bosh orqa miya jarrohi va turli markaziy hukumat va Dehlining yirik xususiy shifoxonalarida neyroxirurgiya bo'limi boshlig'i.",
+      "AQSh, Klivlend klinikasida professor Edvard Benzel bilan ishlagan.",
+      "Janob Adrian Keysi bilan London, Buyuk Britaniyada ishlagan."
     ],
     "description": [
-      "Dr. SK Rajan is an ‘AO International’ Certified Spine Surgeon with over 15 years of experience in the surgical arena.",
-      "He received his surgical training from premier institutions such as PGI Chandigarh and GB Pant Hospital, New Delhi.",
-      "He has performed over 3000 surgeries, including some of the most complex spine cases and cases complicated by other surgeons.",
-      "Dr. Rajan specializes in both open and minimally invasive spine surgeries on a variety of congenital, degenerative, scoliotic (deformity), traumatic, and infective problems of the spine.",
-      "He has been recognized for utilizing Minimally Invasive Key Hole Spine Surgery Techniques for conditions like slipped disc, Lumbar Canal Stenosis, and Spinal Tumors.",
-      "Dr. Rajan is regularly invited to speak at regional and international scientific meetings and live operative teaching courses.",
-      "He has authored and co-authored numerous publications in national and international journals as well as book chapters."
+      "Doktor SK Rajan jarrohlik sohasida 15 yildan ortiq tajribaga ega bo'lgan 'AO International' sertifikatlangan umurtqa pog'onasi jarrohidir.",
+      "U jarrohlik ta'limini PGI Chandigarh va GB Pant kasalxonasi, Nyu-Dehli kabi eng yaxshi muassasalarda olgan.",
+      "U 3000 dan ortiq operatsiyalarni amalga oshirdi, jumladan, eng murakkab umurtqa pog'onasi va boshqa jarrohlar tomonidan murakkablashtirilgan holatlar.",
+      "Doktor Rajan umurtqa pog'onasining turli xil tug'ma, degenerativ, skoliotik (deformatsiya), travmatik va yuqumli muammolari bo'yicha ochiq va minimal invaziv operatsiyalarga ixtisoslashgan.",
+      "U diskning siljishi, bel kanali stenozi va o'murtqa o'smalari kabi holatlarda minimal invaziv kalit teshikli umurtqa pog'onasi jarrohlik usullaridan foydalangani uchun tan olingan.",
+      "Doktor Rajan muntazam ravishda mintaqaviy va xalqaro ilmiy uchrashuvlarda va jonli operativ o'qitish kurslarida nutq so'zlash uchun taklif qilinadi.",
+      "U milliy va xalqaro jurnallarda ko'plab nashrlar, shuningdek, kitob bo'limlari muallifi va hammuallifi."
     ]
   },
   "d55": {
     "id": 55,
     "hid": 1,
     "name": "Dr. Sumit Singh",
-    "post": "Chief - Neurology",
+    "post": "Bosh - Nevrologiya",
     "image": "d4.jpg",
     "experience": "28+",
     "top": false,
     "speciality": [
-      "Parkinson’s disease",
-      "Writer’s Cramp",
-      "Spasmodic Torticollis",
-      "Blepharospasm",
-      "Hemifacial Spasm",
-      "Spasticity",
-      "Multiple sclerosis",
-      "Myasthenia Gravis",
-      "Neuropathies",
-      "Headache",
-      "Botox for Headache",
-      "Movement Disorders",
-      "Spasticity Plasma Exchange",
-      "Injections for Carpal Tunnel Syndrome"
+      "Parkinson kasalligi",
+      "Yozuvchining krampi",
+      "Spazmodik tortikollis",
+      "Blefarospazm",
+      "Yemifasial spazm",
+      "Spastiklik",
+      "Ko'p skleroz",
+      "Myasteniya Gravis",
+      "Neyropatiyalar",
+      "Bosh og'rig'i",
+      "Botoks bosh og'rig'i uchun",
+      "Harakatning buzilishi",
+      "Spastisite plazma almashinuvi",
+      "Karpal tunnel sindromi uchun in'ektsiya"
     ],
     "training": [
-      "Headache Disorders Training (AIIMS, India)",
-      "Botulinum Toxin Usage for Headaches (India, 2002)",
-      "Deep Brain Stimulation Surgery Patient Planning and Programming",
-      "Research on Myasthenia Gravis and Multiple Sclerosis Plasma Exchange Protocols"
+      "Bosh og'rig'i kasalliklari bo'yicha trening (AIIMS, Hindiston)",
+      "Botulinum toksinidan bosh og'rig'i uchun foydalanish (Hindiston, 2002)",
+      "Miyani chuqur stimulyatsiya qilish jarrohlik bemorlarni rejalashtirish va dasturlash",
+      "Myasteniya Gravis va ko'p skleroz plazma almashinuvi protokollari bo'yicha tadqiqotlar"
     ],
-    "education": "MBBS-MLB Medical College, Jhansi, MD (Medicine) - LLRM Medical College, Meerut, DM (Neurology) - All India Institute Of Medical Sciences, Delhi",
+    "education": "MBBS-MLB tibbiyot kolleji, Jansi, MD (tibbiyot) - LLRM tibbiyot kolleji, Meerut, DM (nevrologiya) - Butun Hindiston tibbiyot fanlari instituti, Dehli",
     "work": [
-      "Additional Director of Neurology at Medanta the Medicity (2009-2016)",
-      "Leader of the Movement Disorders and Headache Program at Medanta the Medicity",
-      "Faculty at All India Institute of Medical Sciences (AIIMS) since 2000",
-      "Established the first Headache Clinic in the government sector in India at AIIMS in 2002"
+      "Medanta Medicity nevrologiya bo'yicha qo'shimcha direktor (2009-2016)",
+      "Medanta the Medicity da Harakat buzilishi va bosh og'rig'i dasturi rahbari",
+      "2000 yildan beri Butun Hindiston Tibbiyot fanlari instituti (AIIMS) fakulteti",
+      "2002 yilda AIIMSda Hindistonning davlat sektorida birinchi bosh og'rig'i klinikasi tashkil etilgan."
     ],
     "description": [
-      "Dr. Sumit Singh is a topper at AIIMS and a BL SONI Gold Medal Awardee.",
-      "He is a known expert in headache disorders and co-authored the headache management guidelines for the Indian subcontinent.",
-      "Introduced the usage of Botulinum toxin for headaches and trigeminal neuralgia in India in 2002.",
-      "Specializes in Parkinson's disease and Deep Brain Stimulation Surgery patient planning and programming.",
-      "Has significant expertise in movement disorders and is one of the few Botox injectors in the country for various conditions.",
-      "Conducted research on Myasthenia Gravis and Multiple Sclerosis, modifying plasma exchange protocols.",
-      "Authored 104 publications in peer-reviewed journals and 14 chapters in books."
+      "Doktor Sumit Singx - AIIMSning eng yaxshisi va BL SONI Oltin medali sovrindori.",
+      "U bosh og'rig'i kasalliklari bo'yicha taniqli mutaxassis va Hindiston subkontinenti uchun bosh og'rig'ini boshqarish bo'yicha ko'rsatmalarning hammuallifi.",
+      "2002 yilda Hindistonda bosh og'rig'i va trigeminal nevralgiya uchun botulinum toksinidan foydalanish joriy etilgan.",
+      "Parkinson kasalligi va chuqur miya stimulyatsiyasi jarrohligi bo'yicha bemorlarni rejalashtirish va dasturlash bo'yicha ixtisoslashgan.",
+      "Harakat buzilishlari bo'yicha katta tajribaga ega va mamlakatdagi turli xil sharoitlarda botoks injektorlaridan biri hisoblanadi.",
+      "Miasteniya Gravis va Ko'p skleroz bo'yicha tadqiqotlar o'tkazdi, plazma almashinuvi protokollarini o'zgartirdi.",
+      "Reksenziyalangan jurnallarda 104 ta nashr va kitoblarda 14 ta bo'lim muallifi."
     ]
   },
   "d56": {
     "id": 56,
     "hid": 1,
     "name": "Dr Sumeet Agrawal",
-    "post": "Chief - Rheumatology",
+    "post": "Bosh - revmatologiya",
     "image": "d5.jpg",
     "experience": "13+",
     "top": false,
     "speciality": [
-      "Diseases like SLE (Lupus)",
-      "Arthritis",
-      "Vasculitis",
-      "Scleroderma",
-      "Myositis",
-      "Retroperitoneal fibrosis",
-      "Anti-Phospholipid syndrome",
-      "Sarcoidosis",
-      "Osteoporosis",
-      "Sjogren’s syndrome",
-      "Juvenile arthritis",
-      "Gout",
-      "Behcet’s disease",
-      "various other diseases related to the immune system dysfunction",
-      "Intra-articular injections",
-      "Soft-tissue injections",
-      "Skin Biopsy",
-      "Muscle & Nerve biopsy",
-      "Minor Salivary Gland Biopsy",
-      "All Biologic agents including Infliximab",
+      "SLE (Lupus) kabi kasalliklar",
+      "artrit",
+      "Vaskulit",
+      "Skleroderma",
+      "Miozit",
+      "Retroperitoneal fibroz",
+      "Anti-fosfolipid sindromi",
+      "Sarkoidoz",
+      "Osteoporoz",
+      "Sjogren sindromi",
+      "Yuvenil artrit",
+      "Podagra",
+      "Behchet kasalligi",
+      "immun tizimining disfunktsiyasi bilan bog'liq boshqa turli kasalliklar",
+      "Intraartikulyar in'ektsiya",
+      "Yumshoq to'qimalarga in'ektsiya",
+      "Teri biopsiyasi",
+      "Mushak va asab biopsiyasi",
+      "Kichik tuprik bezining biopsiyasi",
+      "Barcha biologik vositalar, shu jumladan Infliximab",
       "Rituximab",
-      "Etanercept",
-      "Tociluzimab"
+      "Etanersept",
+      "Tosiluzimab"
     ],
     "training": [
-      "APLAR Fellowship (UK)"
+      "APLAR stipendiyasi (Buyuk Britaniya)"
     ],
-    "education": "DM (Clinical Immunology), MD (Gold Medal), Medical School - Sanjay Gandhi Post-Graduate Institute of Medical Sciences",
+    "education": "DM (Klinik immunologiya), MD (Oltin medal), Tibbiyot fakulteti - Sanjay Gandi Tibbiyot fanlari aspiranturasi instituti",
     "work": [
-      "Dr. Sumeet Aggarwal is a cancer specialist and have an experience of more than 10 years in field of oncology."
+      "Doktor Sumeet Aggarval saraton bo'yicha mutaxassis bo'lib, onkologiya sohasida 10 yildan ortiq tajribaga ega."
     ],
     "description": [
-      "Dr. Sumit Aggarwal received a grant from the International Osteoporosis Federation (IOF) World Wide Conference of Osteoporosis Patient Societies in Beijing, China, in 2009.",
-      "He was awarded the Asia-Pacific League of Associations for Rheumatology (APLAR 2007) Fellowship.",
-      "He received the Gaslini International Grant 2.",
-      "His clinical focus includes diseases such as SLE (Lupus), Arthritis, Vasculitis, Scleroderma, Myositis, Retroperitoneal fibrosis, Anti-Phospholipid syndrome, Sarcoidosis, Osteoporosis, Sjogren’s syndrome, Juvenile arthritis, Gout, Behcet’s disease, and various other diseases related to immune system dysfunction."
+      "Doktor Sumit Aggarval 2009 yilda Xitoyning Pekin shahrida Xalqaro osteoporoz federatsiyasi (IOF) Osteoporoz bemorlar jamiyatlarining Butunjahon konferentsiyasidan grant oldi.",
+      "U Osiyo-Tinch okeani revmatologiya uyushmalari ligasi (APLAR 2007) stipendiyasi bilan taqdirlangan.",
+      "U Gaslini xalqaro granti 2-ni oldi.",
+      "Uning klinik yo'nalishi SLE (lupus), artrit, vaskulit, skleroderma, miyozit, retroperitoneal fibroz, antifosfolipid sindromi, sarkoidoz, osteoporoz, Sjogren sindromi, balog'atga etmagan artrit, podagra, behcet va boshqa kasalliklar kabi kasalliklarni o'z ichiga oladi. immun tizimining disfunktsiyasi."
     ]
   },
   "d57": {
     "id": 57,
     "hid": 1,
     "name": "Dr Ramkinkar Jha",
-    "post": "Chief and Unit Head - Orthopaedics (Unit III)",
+    "post": "Bosh va bo'lim boshlig'i - ortopediya (III bo'lim)",
     "image": "d6.jpg",
     "experience": "20+",
     "top": false,
     "speciality": [
-      "Total Knee Replacement (TKR)",
-      "Total Hip Replacement (THR)",
-      "Complex Trauma",
-      "Pelvic & Acetabular Surgery",
-      " Foot & Ankle Surgeries",
-      "Sports Injuries",
-      "Orthopedic oncology"
+      "Tizzalarni umumiy almashtirish (TKR)",
+      "To'liq kestirib almashtirish (THR)",
+      "Murakkab travma",
+      "Pelvis va atsetabulyar jarrohlik",
+      "Oyoq va oyoq Bilagi zo'r operatsiyalari",
+      "Sport jarohatlari",
+      "Ortopedik onkologiya"
     ],
     "training": [
-      "Orthopedics & Joints",
-      "Queen Elizabeth Hospital",
-      "Hong Kong(Asian Association for Dynamic Osteosynthesis",
-      "Spine AIIMS",
-      "New Delhi and other hospitals(Delhi Spine Society)"
+      "Ortopediya va bo'g'imlar",
+      "Qirolicha Yelizaveta kasalxonasi",
+      "Gonkong (Osiyo Dinamik Osteosintez Assotsiatsiyasi)",
+      "Omurga AIIMS",
+      "Yangi Dehli va boshqa kasalxonalar (Dehli o'murtqa jamiyati)"
     ],
-    "education": "MBBS(Hons.) Gold Medalist, M.S.(Orthopedics) AIIMS New Delhi , MBA(Hospital &Healthcare Management) BITS,Pilani CExecutive Leadership(Cornell university, New York), Advance , Strategic Management for Business Excellence (IIM, Lucknow , Diploma in Sports Medicine (FIFA), Leadership( Ivy League)",
+    "education": "MBBS (Ortopediya) Oltin medali sovrindori, MS (Ortopediya) AIIMS Nyu-Dehli, MBA (Kasalxona va sog'liqni saqlash boshqaruvi) BITS, Pilani CExecutive Leadership (Kornell universiteti, Nyu-York), Advance, Biznes mukammalligi uchun strategik menejment (IIM, Lucknow, Diploma) Sport tibbiyoti (FIFA), etakchilik (Ivy League)",
     "work": [
-      "Orthopaedic Surgeon with over two decades of experience.",
-      "Worked at Medanta – The Medicity, Narayana Health, Tata Main Hospital, and AIIMS.",
-      "Graduated from Jawahar Lal Nehru Medical College with a gold medal and the title of Best Outgoing Graduate.",
-      "Completed Master of Surgery (M.S.) in Orthopaedics from AIIMS, New Delhi.",
-      "Completed Senior Residency (Registrarship) at AIIMS, New Delhi.",
-      "Received training from renowned orthopaedic surgeons in Australia, Thailand, and Hong Kong, as well as in India at AIIMS, Ganga Hospital, CMC Vellore, and Bombay Hospital.",
-      "Member of the Royal College of Surgeons (Glasgow).",
-      "Member of various elite international knee replacement and arthroscopy societies."
+      "Yigirma yildan ortiq tajribaga ega bo'lgan ortoped-jarroh.",
+      "Medanta - The Medicity, Narayana Health, Tata Main Hospital va AIIMSda ishlagan.",
+      "Javohar Lal Neru nomidagi tibbiyot kollejini oltin medal va eng yaxshi bitiruvchi unvoni bilan tamomlagan.",
+      "AIIMS, Nyu-Dehli shahridagi ortopediya bo'yicha tugallangan jarrohlik magistri (MS).",
+      "AIIMS, Nyu-Dehlida katta rezidentlik (registratsiya) tugallandi.",
+      "Avstraliya, Tailand va Gonkongda, shuningdek, Hindistonda AIIMS, Ganga kasalxonasi, CMC Vellore va Bombay kasalxonalarida taniqli ortoped-jarrohlardan ta'lim olgan.",
+      "Qirollik jarrohlar kolleji a'zosi (Glazgo).",
+      "Turli elita xalqaro tizza almashtirish va artroskopiya jamiyatlari a'zosi."
     ],
     "description": [
-      "Dr. Ramkinkar Jha is an accomplished Orthopaedic Surgeon with extensive experience in the field.",
-      "He has worked at some of India’s top medical institutions, including Medanta – The Medicity, Narayana Health, Tata Main Hospital, and AIIMS.",
-      "He graduated with a gold medal from Jawahar Lal Nehru Medical College and was recognized as the Best Outgoing Graduate.",
-      "He completed his M.S. in Orthopaedics from AIIMS, New Delhi, and underwent Senior Residency (Registrarship) at the same institution.",
-      "Dr. Jha has received training from leading orthopaedic surgeons in Australia, Thailand, Hong Kong, and several prestigious Indian institutions, including AIIMS, Ganga Hospital, CMC Vellore, and Bombay Hospital.",
-      "He is a member of the Royal College of Surgeons (Glasgow) and other elite international and professional Orthopaedic organisations.",
-      "He has authored many reputed international and national papers, contributed chapters to books on Joint Replacements, trauma, and Sports Injuries, and has been a prominent speaker at numerous national and international conferences."
+      "Doktor Ramkinkar Ja - bu sohada katta tajribaga ega bo'lgan mohir ortoped-jarroh.",
+      "U Hindistonning ba'zi eng yaxshi tibbiyot muassasalarida, jumladan Medanta - The Medicity, Narayana Health, Tata Main Hospital va AIIMSda ishlagan.",
+      "U Javohar Lal Neru nomidagi tibbiyot kollejini oltin medal bilan tugatdi va eng yaxshi bitiruvchi deb topildi.",
+      "U AIIMS, Nyu-Dehlida ortopediya bo'yicha magistratura darajasini tugatgan va o'sha muassasada katta rezidentlikdan (ro'yxatga olish) o'tgan.",
+      "Doktor Ja Avstraliya, Tailand, Gonkong va Hindistonning bir qancha nufuzli institutlari, jumladan, AIIMS, Ganga kasalxonasi, CMC Vellore va Bombay kasalxonasidagi yetakchi ortoped-jarrohlardan ta'lim olgan.",
+      "U Qirollik jarrohlar kolleji (Glazgo) va boshqa elita xalqaro va professional ortopediya tashkilotlarining a'zosi.",
+      "U ko'plab nufuzli xalqaro va milliy maqolalar muallifi, bo'g'imlarni almashtirish, travma va sport jarohatlari bo'yicha kitoblarga bo'limlar qo'shgan va ko'plab milliy va xalqaro konferentsiyalarda taniqli ma'ruzachi bo'lgan."
     ]
   },
   "d58": {
     "id": 58,
     "hid": 1,
     "name": "Dr. I P S Oberoi",
-    "post": "Chairperson - Orthopaedics Program & Chief – Robotic Joint Replacement & Arthroscopy Surgery",
+    "post": "Rais - Ortopediya dasturi va bosh - Robotik bo'g'inlarni almashtirish va artroskopiya jarrohlik",
     "image": "d7.jpg",
     "experience": "27+",
     "top": false,
     "speciality": [
-      "Primary and Revision Joint Replacement Surgeries of Knee, Hip, Shoulder, Elbow, and Ankle Joints",
-      "Minimally Invasive Reconstructive Surgery (Key Hole Surgery/Arthroscopy) for Shoulder, Elbow, Hip, and Ankle Problems",
-      "Management of Multi-Ligament and Complex Knee Injuries",
-      "Research and Education in Arthroscopy and Sports Injuries"
+      "Tiz, son, elka, tirsak va oyoq Bilagi zo'r bo'g'imlarning birlamchi va revizion bo'g'imlarini almashtirish operatsiyalari",
+      "Elka, tirsak, son va oyoq Bilagi zo'r muammolar uchun minimal invaziv rekonstruktiv jarrohlik (kalit teshik jarrohligi/artroskopiya),",
+      "Ko'p ligamentli va murakkab tizza jarohatlarini boshqarish",
+      "Artroskopiya va sport jarohatlari bo'yicha tadqiqotlar va ta'lim"
     ],
     "training": [
-      "Joint Replacement and Adult Reconstructive Trauma Surgery - Klinik and Poliklinik for Unfall-Hand & Wiederherstellungschirurgie, Universitatsklinikum, Munster, Germany",
-      "Knee Reconstructive Surgery - Henriettenstiftung, Hannover, Germany",
-      "Joint Replacement - Nuffield Hospital, Exeter, U.K.",
-      "Joint Replacement - Joint Replacement Unit, Queen Elizabeth Hospital, Exeter, U.K.",
-      "Knee Arthroscopy and Reconstruction - Sporthopaedicum, Straubing, Germany",
-      "Knee Arthroscopy and Reconstruction - Rosebank Clinic, Johannesburg, South Africa",
-      "Shoulder Surgery - Center Hospitalier, St Gregoire, Rhein, France",
-      "Shoulder Surgery - Cape Shoulder Clinic, Cape Town, South Africa"
+      "Bo'g'imlarni almashtirish va kattalar rekonstruktiv travma jarrohligi - Klinik va qo'l qo'llari va Wiederherstellungschirurgie uchun klinik va poliklinik, Universitatsklinikum, Munster, Germaniya",
+      "Tizza rekonstruktiv jarrohlik - Henriettenstiftung, Hannover, Germaniya",
+      "Qo'shma almashtirish - Nuffild kasalxonasi, Exeter, Buyuk Britaniya",
+      "Qo'shma almashtirish - qo'shma almashtirish bo'limi, Qirolicha Elizabeth kasalxonasi, Exeter, Buyuk Britaniya",
+      "Tizza artroskopiyasi va rekonstruktsiyasi - Sporthopaedicum, Straubing, Germaniya",
+      "Tizza artroskopiyasi va rekonstruktsiyasi - Rosebank klinikasi, Yoxannesburg, Janubiy Afrika",
+      "Elka jarrohligi - Center Hospitalier, Sent-Greguar, Reyn, Frantsiya",
+      "Elka jarrohligi - Cape Shoulder Clinic, Cape Town, Janubiy Afrika"
     ],
-    "education": "MS (Orth.), MCh Orth. (Liverpool, U.K.)",
+    "education": "MS (Orth.), MCh Orth. (Liverpul, Buyuk Britaniya)",
     "work": [
-      "Expert in Primary and Revision Joint Replacement surgeries of the Knee, Hip, Shoulder, Elbow, and Ankle joints.",
-      "One of the first surgeons to start minimally invasive reconstructive surgery (Key Hole surgery or Arthroscopy) for Shoulder, Elbow, Hip, and Ankle problems.",
-      "Has mastered techniques for managing Multi-Ligament and complex knee injuries.",
-      "Visiting surgeon to Al Tawara Medical / Teaching Hospital and Military Hospital, Sanna, Yemen.",
-      "Invited as a surgeon in medical schools and hospitals in Iraq, Iran, Oman, and Syria.",
-      "Has given lectures at various international and national meetings."
+      "Tiz, son, elka, tirsak va oyoq Bilagi zo'r bo'g'imlarning birlamchi va revizion bo'g'imlarini almashtirish operatsiyalari bo'yicha mutaxassis.",
+      "Elka, tirsak, son va oyoq Bilagi zo'r muammolar uchun minimal invaziv rekonstruktiv jarrohlik (Kalit teshik jarrohligi yoki Artroskopiya)ni boshlagan birinchi jarrohlardan biri.",
+      "Ko'p ligamentli va murakkab tizza jarohatlarini davolash usullarini o'zlashtirgan.",
+      "Al-Tavara tibbiy / o'quv kasalxonasi va harbiy gospitaliga tashrif buyuruvchi jarroh, Sanna, Yaman.",
+      "Iroq, Eron, Ummon va Suriyadagi tibbiyot maktablari va shifoxonalariga jarroh sifatida taklif qilingan.",
+      "– Turli xalqaro va respublika anjumanlarida ma’ruzalar o‘qigan."
     ],
     "description": [
-      "Dr. I P S Oberoi is an expert in Primary and Revision Joint Replacement surgeries.",
-      "He was among the pioneers to introduce minimally invasive reconstructive surgery for various joint problems.",
-      "He has published research related to Joint Replacement, Arthroscopy, and Sports injuries in textbooks and journals, and prepared manuscripts for Arthroscopy education.",
-      "He has provided his expertise as a visiting surgeon in Yemen and has been invited to contribute to medical education in several countries.",
-      "Dr. Oberoi has been a prominent speaker at numerous international and national conferences."
+      "Doktor I PS Oberoi - birlamchi va revizion bo'g'inlarni almashtirish operatsiyalari bo'yicha mutaxassis.",
+      "U turli xil qo'shma muammolar uchun minimal invaziv rekonstruktiv jarrohlikni joriy etgan kashshoflar qatorida edi.",
+      "U darslik va jurnallarda bo'g'imlarni almashtirish, artroskopiya va sport jarohatlari bilan bog'liq tadqiqotlarni nashr etdi va artroskopiya ta'limi uchun qo'lyozmalarni tayyorladi.",
+      "U Yamanga tashrif buyurgan jarroh sifatida o'z tajribasini taqdim etdi va bir nechta mamlakatlarda tibbiy ta'limga hissa qo'shish uchun taklif qilindi.",
+      "– Doktor Oberoi ko‘plab xalqaro va milliy konferensiyalarda taniqli ma’ruzachi bo‘lgan."
     ]
   },
   "d59": {
     "id": 59,
     "hid": 1,
     "name": "Dr Parveen Yadav",
-    "post": "Chief & Sr. Consultant - Thoracic Surgery & Surgical Oncology",
+    "post": "Bosh va katta maslahatchi - Torakal jarrohlik va jarrohlik onkologiya",
     "image": "d9.jpg",
     "experience": "13+",
     "top": false,
     "speciality": [
-      "Minimal invasive surgeries for Esophageal diseases(esophageal cancer and benign disease)",
-      "Minimal invasive thoracic surgeries (VATS) for Lung Cancer",
-      "Minimal invasive surgeries (VATS) for benign lung diseases like bronchopleural fistula",
-      "bullous disease",
-      "lung volume reduction surgery(LVRS)",
-      "Pneumothorax",
-      "Complex surgeries for Airway diseases(Tracheal tumor ,Tracheo- Esophageal fistula)",
-      "Minimal invasive surgeries for pleural disease(Empyema , Pleural tumor ,Pleural biopsy )",
-      "Minimal invasive surgeries for mediastinal disease (Mediastinal masses , cyst)",
-      "Complex surgical procedure for  sternum and chest wall resection and reconstruction(chest wall tumor , sternal tumor )",
-      "Mediastinoscopy  (Diagnostic and therapeutic)",
-      "Intervention bronchoscopy(  Stenting ,Therapeutic)"
+      "Qizilo'ngach kasalliklari (qizilo'ngach saratoni va yaxshi xulqli kasalliklar) uchun minimal invaziv operatsiyalar",
+      "O'pka saratoni uchun minimal invaziv torakal operatsiyalar (VATS)",
+      "Bronxoplevral oqma kabi yaxshi o'pka kasalliklari uchun minimal invaziv operatsiyalar (VATS)",
+      "bullyoz kasallik",
+      "o'pka hajmini kamaytirish operatsiyasi (LVRS)",
+      "Pnevmotoraks",
+      "Nafas yo'llari kasalliklari (traxeya shishi, traxeo-qizilo'ngach oqmasi) uchun murakkab operatsiyalar",
+      "Plevra kasalliklari uchun minimal invaziv operatsiyalar (empiema, plevra o'smasi, plevra biopsiyasi)",
+      "Mediastinal kasalliklar uchun minimal invaziv operatsiyalar (mediastin massalari, kistlar)",
+      "To'sh suyagi va ko'krak qafasi devorini rezektsiya qilish va rekonstruksiya qilish bo'yicha murakkab jarrohlik amaliyoti (ko'krak devori o'smasi, sternum shishi)",
+      "Mediastinoskopiya (diagnostik va terapevtik)",
+      "Intervension bronkoskopiya (stentlash, terapevtik)"
     ],
     "training": [
-      "HBNI Fellowship in Thoracic Surgery (TATA Memorial Hospital, Mumbai)"
+      "Torakal jarrohlik bo'yicha HBNI stipendiyasi (TATA Memorial kasalxonasi, Mumbay)"
     ],
-    "education": "MBBS, MS (General Surgery), FAIS, FAIGES Surgical Oncology (AIIMS)",
+    "education": "MBBS, MS (Umumiy jarrohlik), FAIS, FAIGES jarrohlik onkologiyasi (AIIMS)",
     "work": [
-      "Currently specializing in Thoracic Surgery with over 17 years of experience in oncology and over 11 years in thoracic surgery.",
-      "Worked at top medical institutions including AIIMS New Delhi, Tata Memorial Hospital Mumbai, Sir Ganga Ram Hospital New Delhi, Artemis Hospital Gurugram, Paras Hospital Gurugram, Fortis Hospital Noida, and Asian Institute Faridabad.",
-      "Expert in Minimal Invasive Thoracic Surgery (VATS), performing most esophageal and lung surgeries using minimally invasive techniques.",
-      "Specializes in Esophageal and Lung Surgery, Mediastinal and Airway diseases, Interventional Bronchoscopy, and Soft Tissue Sarcoma."
+      "Hozirda ko'krak qafasi jarrohligi bo'yicha 17 yildan ortiq onkologiya va 11 yildan ortiq ko'krak jarrohligi bo'yicha tajribaga ega.",
+      "AIIMS Nyu-Dehli, Mumbay Tata Memorial kasalxonasi, Nyu-Dehli Sir Ganga Ram kasalxonasi, Artemis kasalxonasi Gurugrami, Paras kasalxonasi Gurugrami, Fortis kasalxonasi Noida va Faridobod Osiyo instituti kabi eng yaxshi tibbiyot muassasalarida ishlagan.",
+      "Minimal invaziv ko'krak qafasi jarrohligi (VATS) bo'yicha mutaxassis, minimal invaziv usullardan foydalangan holda qizilo'ngach va o'pkaning ko'p operatsiyalarini amalga oshiradi.",
+      "Qizilo'ngach va o'pka jarrohligi, mediastinal va havo yo'llari kasalliklari, interventsion bronkoskopiya va yumshoq to'qimalar sarkomasi bo'yicha ixtisoslashgan"
     ],
     "description": [
-      "Dr. Parveen Yadav is a distinguished Surgical Oncologist specializing in Thoracic Surgery.",
-      "He completed his MBBS and MS General Surgery from Pt BD Sharma Medical College, Rohtak, and received his surgical oncology training from Institute Rotary Cancer Hospital (IRCH) AIIMS, New Delhi.",
-      "Dr. Yadav pursued a 2-year Thoracic Surgery fellowship at Tata Memorial Hospital, Mumbai.",
-      "He has performed over 3000 major thoracic procedures, including over 1000 surgeries for esophageal cancer and diseases, and an equal number for lung cancer and diseases, achieving the best possible outcomes.",
-      "He has a special interest in airway (trachea) surgeries and has successfully treated complicated benign lung and pleural diseases such as empyema, tuberculosis, bronchopleural fistula, bullous disease, mediastinal mass, thymomas, and chest wall tumors."
+      "Doktor Parvin Yadav - ko'krak qafasi jarrohligi bo'yicha ixtisoslashgan taniqli jarrohlik onkolog.",
+      "U Rohtakdagi Pt BD Sharma tibbiyot kollejida MBBS va MS umumiy jarrohlik yo'nalishini tamomladi va Nyu-Dehli, AIIMS Rotary saraton kasalxonasida (IRCH) jarrohlik onkologiya bo'yicha ta'lim oldi.",
+      "Doktor Yadav Mumbaydagi Tata Memorial kasalxonasida 2 yillik ko'krak jarrohligi bo'yicha tahsil oldi.",
+      "U 3000 dan ortiq yirik torakal muolajalarni amalga oshirdi, shu jumladan qizilo'ngach saratoni va kasalliklari uchun 1000 dan ortiq jarrohlik operatsiyalari va o'pka saratoni va kasalliklari uchun teng miqdordagi eng yaxshi natijalarga erishdi.",
+      "U nafas yo'llari (traxeya) operatsiyalariga alohida qiziqish bildiradi va empiema, sil, bronxoplevral oqma, bullyoz kasalligi, mediastinal massa, timomalar va ko'krak devori o'smalari kabi murakkab yaxshi o'pka va plevra kasalliklarini muvaffaqiyatli davolaydi"
     ]
   },
   "d60": {
     "id": 60,
     "hid": 1,
     "name": "Dr Deepak Jha",
-    "post": "Chief - Breast Surgery & Sr. Consultant : Surgical Oncology",
+    "post": "Bosh - Ko'krak jarrohligi va Sr. Maslahatchi: Jarrohlik onkologiyasi",
     "image": "d10.jpg",
     "experience": "21+",
     "top": false,
     "speciality": [
-      "Mastectomy/Lumpectomy",
-      "Nipple Sparing Mastectomy",
-      "Skin sparing mastectomy",
-      "Breast Conservation Surgery",
-      "Breast Oncoplasty",
-      "Breast Reconstruction Service",
-      "DIEP free flap breast reconstruction",
-      "Sentinel Lymph node biopsy",
-      "Radio-Guided Breast Surgery",
-      "Benign breast disease",
-      "Axillary Reverse Mapping",
-      "Contralateral Breast Symmetrisation Procedures",
-      "Mammoplasty and Mammopexy services",
-      "Minimally Invasive procedures for Breast cancers"
+      "Mastektomiya / Lumpektomiya",
+      "Ko'krak qafasidagi mastektomiya",
+      "Teri tejamkor mastektomiya",
+      "Ko'krakni saqlash jarrohligi",
+      "Ko'krak onkoplastikasi",
+      "Ko'krak rekonstruktsiyasi xizmati",
+      "DIEP bepul qopqoqli ko'krak rekonstruktsiyasi",
+      "Sentinel limfa tugunlari biopsiyasi",
+      "Radio-boshqariladigan ko'krak jarrohligi",
+      "Ko'krak bezi kasalligi",
+      "Axillar teskari xaritalash",
+      "Ko'krakni qarama-qarshi simmetriyalash protseduralari",
+      "Mammoplastika va mammopeksiya xizmatlari",
+      "Ko'krak bezi saratoni uchun minimal invaziv muolajalar"
     ],
     "training": [
-      "Surgical Oncology (AIIMS)",
-      "Fellowship in Breast Surgery (European Board of Surgery)",
-      "Breast Surgery & Oncoplasty (ESSO & Barcelona)",
-      "Fellow, Head Neck Oncology (IFHNOS)",
+      "Jarrohlik onkologiyasi (AIIMS)",
+      "Ko'krak jarrohligi bo'yicha stipendiya (Yevropa jarrohlik kengashi)",
+      "Ko'krak jarrohligi va onkoplastika (ESSO va Barselona)",
+      "O'rtoq, bosh bo'yin onkologiyasi (IFHNOS)",
       "GyanBurman Fellow"
     ],
-    "education": "MBBS, MS (Gen Surgery)",
+    "education": "MBBS, MS (Umumiy jarrohlik)",
     "work": [
-      "Currently focusing on advanced breast surgery and breast reconstruction.",
-      "Received Breast Surgery fellowship from the European Board of Surgery.",
-      "Trained in Breast Oncoplasty from the European Society of Surgical Oncology and completed an Observership in Breast Surgery at Vall D'Hebron Hospital, Barcelona, Spain.",
-      "Previously associated with Fortis Hospitals (FMRI, Gurugram and Fortis Hospital Vasant Kunj) and Rajiv Gandhi Cancer Institute."
+      "Hozirda ilg'or ko'krak jarrohligi va ko'krak rekonstruktsiyasiga e'tibor qaratilmoqda.",
+      "Yevropa jarrohlik kengashidan ko'krak jarrohligi bo'yicha stipendiya oldi.",
+      "Yevropa Xirurgik Onkologiya Jamiyatidan ko'krak onkoplastikasi bo'yicha o'qitilgan va Vall D'Xebron kasalxonasida ko'krak jarrohligi bo'yicha kuzatuv kursini tamomlagan, Barselona, ​​Ispaniya.",
+      "Ilgari Fortis kasalxonalari (FMRI, Gurugram va Fortis kasalxonasi Vasant Kunj) va Rajiv Gandi saraton instituti bilan bog'langan."
     ],
     "description": [
-      "Dr. Deepak Jha is an Alumni of Surgical Oncology from AIIMS, specializing in Breast Surgery.",
-      "He has extensive training in advanced breast surgery and breast reconstruction.",
-      "He is among the first in India to receive a Breast Surgery fellowship from the European Board of Surgery.",
-      "His expertise includes Breast Preserving and Reconstructive Surgery, Nipple Sparing Mastectomy, Radioguided Breast Surgery (ROLL), Sentinel Biopsy, Arm Reverse Mapping for Lymphedema Prevention, Breast Conservation & Oncoplasty Surgery, and DIEP Free Flap Reconstruction."
+      "Doktor Dipak Ja - AIIMS jarrohlik onkologiyasi bitiruvchisi, ko'krak jarrohligi bo'yicha ixtisoslashgan.",
+      "U ko'krak jarrohligi va ko'krak rekonstruktsiyasi bo'yicha keng qamrovli tayyorgarlikka ega.",
+      "U Hindistonda birinchilardan bo'lib Evropa jarrohlik kengashidan ko'krak jarrohligi bo'yicha stipendiya olgan.",
+      "Uning tajribasiga ko'krakni saqlash va rekonstruktiv jarrohlik, ko'krak qafasini himoya qiluvchi mastektomiya, radioguidli ko'krak jarrohligi (ROLL), sentinel biopsiya, limfedemaning oldini olish uchun qo'lni teskari xaritalash, ko'krak qafasini saqlash va onkoplastika jarrohlik va DIEP bepul qopqoq rekonstruktsiyasi kiradi."
     ]
   },
   "d61": {
     "id": 61,
     "hid": 1,
     "name": "Dr Tapan Singh Chauhan",
-    "post": "Sr. Consultant - Surgical Oncology, Robotics, GI & HPB, Gynae & Peritoneal Surface Oncology",
+    "post": "Sr. Maslahatchi - Jarrohlik onkologiyasi, robototexnika, GI va HPB, Gynae & Peritoneal Surface oncology",
     "image": "d11.jpg",
     "experience": "16+",
     "top": false,
     "speciality": [
-      "Esophagectomy open and laparoscopic",
-      "Radical Gastrectomy with D2 Dissection",
-      "Radical Cholecystectomy",
-      "Whipples Surgery",
-      "Distal pancreatosplenectomy",
-      "Hepatectomy",
-      "Hemicolectomy, subtotal,total colectomy open and Laparoscopic",
-      "Anterior resection, Low anterior resection, ULAR, APR open and Laparoscopic",
-      "RPLND, Retroperitoneal Sarcoma Excision",
-      "Radical Cystectomy, Radical total and partial Nephrectomy",
-      "Cyotreductive surgeries (CRS)and HIPEC in Ovary, colorectal, Mesothelioma, Pseudomyxoma, Gastric cancer",
-      "Gynecological surgeries for uterine cancer",
-      "carcinoma cervix and ovarian cancer Including, fertility preserving surgeries"
+      "Ochiq va laparoskopik qizilo'ngachni olib tashlash",
+      "D2 diseksiyonu bilan radikal gastrektomiya",
+      "Radikal xoletsistektomiya",
+      "Whipples jarrohligi",
+      "Distal pankreatosplenektomiya",
+      "Gepatektomiya",
+      "Gemikolektomiya, subtotal, umumiy kolektomiya ochiq va laparoskopik",
+      "Anterior rezektsiya, pastki oldingi rezektsiya, ULAR, APR ochiq va laparoskopik",
+      "RPLND, retroperitoneal sarkoma eksiziyasi",
+      "Radikal sistektomiya, radikal umumiy va qisman nefrektomiya",
+      "Tuxumdon, kolorektal, mezotelioma, psevdomiksoma, oshqozon saratonida siyotreduktiv operatsiyalar (CRS) va HIPEC",
+      "Bachadon saratoni uchun ginekologik operatsiyalar",
+      "bachadon bo'yni karsinomasi va tuxumdon saratoni, shu jumladan, tug'ilishni saqlash operatsiyalari"
     ],
     "training": [
-      "Ex. Senior Resident Surgical Oncology (AIIMS Delhi)",
-      "MCh Surgical Oncology (GCRI Ahmedabad)",
-      "Fellow GI & HPB Oncology (Germany)",
-      "Fellow Minimal Access Oncology (Hyderabad)",
-      "ESSO Fellow in Cytoreductive Surgery, HIPEC & PIPAC (France)"
+      "Sobiq katta rezident jarrohlik onkologiyasi (AIIMS Dehli)",
+      "MCh jarrohlik onkologiyasi (GCRI Ahmadabad)",
+      "Fellow GI & HPB Oncology (Germaniya)",
+      "Minimal kirish onkologiyasi (Haydarobod)",
+      "ESSO sitoreduktiv jarrohlik bo'yicha a'zosi, HIPEC & PIPAC (Frantsiya)"
     ],
-    "education": "MBBS, MS (General Surgery), MRCS (UK)",
+    "education": "MBBS, MS (Umumiy jarrohlik), MRCS (Buyuk Britaniya)",
     "work": [
-      "Currently focusing on Gastrointestinal, Hepatopancreaticobiliary Oncology, and Peritoneal Surface Malignancy (HIPEC).",
-      "Completed MS in General Surgery from Pt. B.D. Sharma PGIMS, Rohtak.",
-      "Trained in Surgical Oncology at Dr. B.R.A. IRCH, AIIMS, New Delhi, and Gujarat Cancer Research Institute, Ahmedabad.",
-      "Held fellowship positions under Prof. Marcus Buechler at Heidelberg (HPB oncology) and Dr. T. Subramaneshwar Rao at Indo–American Cancer Institute, Hyderabad (MIS).",
-      "Awarded ESSO Fellowship in Cytoreductive surgery and HIPEC at Lyon, France under Prof. Olivier Glehen, and Fellowship in Minimal Access Surgery (FMAS).",
-      "Published several papers in esteemed journals and presented at various national and international conferences."
+      "Hozirda oshqozon-ichak, gepatopankreatikobiliar onkologiya va qorin bo'shlig'i yuzasining malignitesi (HIPEC) ga e'tibor qaratilmoqda.",
+      "Umumiy jarrohlik bo'yicha magistraturani tugatgan. Pt. BD Sharma PGIMS, Rohtak.",
+      "Doktor B.R.A. IRCH, AIIMS, Nyu-Dehli va Gujarat saraton tadqiqot institutida, Ahmadobodda jarrohlik onkologiyasi bo'yicha ta'lim olgan.",
+      "Heidelbergda (HPB onkologiyasi) prof. Markus Buechler va Haydaroboddagi (MIS) Hindiston-Amerika saraton institutida doktor T. Subramaneshvar Rao ostida stipendiya lavozimlarida ishlagan.",
+      "Sitoreduktiv jarrohlik va HIPEC bo'yicha ESSO stipendiyasi, Frantsiyaning Lion shahrida professor Olivier Glehen boshchiligida va Minimal kirish jarrohligi (FMAS) bo'yicha stipendiya",
+      "Muhtaram jurnallarda bir nechta maqolalar chop etilgan va turli milliy va xalqaro anjumanlarda taqdim etilgan."
     ],
     "description": [
-      "Dr. Tapan Singh Chauhan is an MCh Surgical Oncologist with a special interest in Gastrointestinal, Hepatopancreaticobiliary Oncology, and Peritoneal Surface Malignancy (HIPEC).",
-      "He completed his MS in General Surgery from Pt. B.D. Sharma PGIMS, Rohtak.",
-      "His Surgical Oncology training was conducted at premier institutes like Dr. B.R.A. IRCH, AIIMS, New Delhi, and Gujarat Cancer Research Institute, Ahmedabad.",
-      "He pursued various fellowship positions, including training with Prof. Marcus Buechler at Heidelberg for HPB oncology and Dr. T. Subramaneshwar Rao at Indo–American Cancer Institute, Hyderabad for minimally invasive surgery.",
-      "He received the ESSO Fellowship in Cytoreductive surgery and HIPEC at Lyon, France under Prof. Olivier Glehen, and completed a Fellowship in Minimal Access Surgery (FMAS).",
-      "Dr. Tapan has numerous publications in esteemed journals and has presented papers at various national and international conferences."
+      "Doktor Tapan Singx Chauxan, gastrointestinal, gepatopankreatikobiliar onkologiya va qorin bo'shlig'i yuzasining malignansi (HIPEC) bilan alohida qiziqish bilan shug'ullanadigan MCh jarrohlik onkologidir.",
+      "U Rohtak, Pt. B.D. Sharma PGIMSda umumiy jarrohlik bo'yicha magistratura darajasini tugatgan.",
+      "Uning jarrohlik onkologiya bo'yicha mashg'ulotlari doktor B.R.A. IRCH, AIIMS, Nyu-Dehli va Gujarat saraton tadqiqot instituti, Ahmadobod kabi eng yaxshi institutlarda o'tkazildi.",
+      "U turli stipendiya lavozimlarida ishlagan, jumladan Geydelbergda HPB onkologiyasi bo'yicha professor Markus Buxler va Haydaroboddagi Hind-Amerika saraton institutida doktor T. Subramaneshvar Rao bilan minimal invaziv jarrohlik bo'yicha treninglar olib borgan.",
+      "U Fransiyaning Lion shahrida professor Olivier Glehen boshchiligida Cytoreduktiv jarrohlik va HIPEC boʻyicha ESSO stipendiyasini oldi va Minimal kirish jarrohligi (FMAS) boʻyicha stipendiyani tamomladi",
+      "Doktor Tapanning nufuzli jurnallarda ko'plab nashrlari bor va turli milliy va xalqaro konferentsiyalarda ma'ruzalar bilan qatnashgan"
     ]
   },
   "d62": {
     "id": 62,
     "hid": 1,
     "name": "Dr Priya Tiwari",
-    "post": "Head - Medical Oncology",
+    "post": "Bosh - tibbiy onkologiya",
     "image": "d12.jpg",
     "experience": "16+",
     "top": false,
     "speciality": [
-      "Gynecological malignancies including Breast cancer",
-      "Genitourinary malignancies",
-      "Colorectal malignancies/ hepatobiliary cancerLung cancer",
-      "Brain tumorsSoft tissue sarcoma and bone sarcoma",
-      "Palliative care and end of life care",
-      "Cancer Immunotherapy",
-      "Cancer genetics and precision medicine",
-      "Lymphoproliferative disorder",
-      "Chemotherapy/Immunotherapy/Targeted Drug administration",
-      "Bone Marrow Transplant",
-      "Insertion of central line/PICC line",
-      "Bone Marrow Aspiration and Biopsy",
-      "Pleurodesis",
-      "Lumber Puncture"
+      "Ginekologik kasalliklar, shu jumladan ko'krak saratoni",
+      "Genitoüriner malign o'smalar",
+      "Kolorektal malign o'simtalar / gepatobiliar saraton o'pka saratoni",
+      "Miya o'smalari yumshoq to'qimalar sarkomasi va suyak sarkomasi",
+      "Palliativ yordam va umrni oxirigacha parvarish qilish",
+      "Saraton immunoterapiyasi",
+      "Saraton genetikasi va aniq tibbiyot",
+      "Limfoproliferativ buzilish",
+      "Kimyoterapiya/immunoterapiya/maqsadli dori-darmonlarni qabul qilish",
+      "Suyak iligi transplantatsiyasi",
+      "Markaziy chiziq/PICC liniyasini kiritish",
+      "Suyak iligi aspiratsiyasi va biopsiyasi",
+      "Plevrodez",
+      "Yog'och teshilishi"
     ],
     "training": [
-      "Medical Oncology Training AIIMS",
-      "Internal Medicine Training AIIMS"
+      "Tibbiy onkologiya bo'yicha trening AIIMS",
+      "Ichki kasalliklar bo'yicha trening AIIMS"
     ],
-    "education": "Medical School: DM Medical Oncology AIIMS, Post Graduate Programs: MD Medicine AIIMS , Graduate Programs: MBBS, IMS, BHU",
+    "education": "Tibbiyot maktabi: DM tibbiy onkologiya AIIMS, aspirantura dasturlari: MD tibbiyot AIIMS, magistratura dasturlari: MBBS, IMS, BHU",
     "work": [
-      "Renowned Medical Oncologist from All India Institute of Medical Sciences.",
-      "Trained in all aspects of Medical Oncology and Internal Medicine.",
-      "Provides holistic care to patients."
+      "Hindiston tibbiyot fanlari institutining taniqli tibbiy onkologi.",
+      "Tibbiy onkologiya va ichki kasalliklarning barcha yo'nalishlari bo'yicha o'qitilgan.",
+      "Bemorlarga har tomonlama yordam ko'rsatadi."
     ],
     "description": [
-      "Dr. Priya Tiwari is a renowned Medical Oncologist from the country's premier institute, All India Institute of Medical Sciences.",
-      "She is trained in dealing with all aspects of Medical Oncology and Internal Medicine and believes in providing holistic care to the patient.",
-      "An MBBS gold medalist, she has published numerous papers in many reputed journals.",
-      "Her goal is to develop an oncology care model addressing all important issues concerning cancer patients."
+      "Doktor Priya Tivari - butun Hindiston tibbiyot fanlari instituti mamlakatning birinchi instituti taniqli tibbiy onkolog.",
+      "U tibbiy onkologiya va ichki kasalliklarning barcha jabhalari bilan shug'ullanish bo'yicha o'qitilgan va bemorga har tomonlama yordam ko'rsatishga ishonadi.",
+      "MBBS oltin medali sovrindori, u ko'plab nufuzli jurnallarda ko'plab maqolalarni nashr etgan.",
+      "Uning maqsadi saraton kasalligiga chalingan barcha muhim masalalarni hal qiluvchi onkologik yordam modelini ishlab chiqishdir."
     ]
   },
   "d63": {
     "id": 63,
     "hid": 1,
     "name": "Dr Mukesh Patekar",
-    "post": "Unit Head - Medical Oncology",
+    "post": "Bo‘lim mudiri – Tibbiy onkologiya",
     "image": "d13.jpg",
     "experience": "",
     "top": false,
     "speciality": [
-      "Breast and lung oncology",
-      "Immunotherapy / Precision therapy",
-      "Gastrointetstinal oncolgy/Hepato-pancreatico biliary malignancies",
-      "Gynaecological / Genitourinary malignacies",
-      "Neuro-oncology/ Sarcomas",
-      "Hemato-oncology lymphoma, leukemias/ Stem cell transplantation BMT",
-      "Chemotherapy/Targeted therapy/Immunotherapy",
-      "Bone marrow aspiaration /biopsy",
-      "PICC line/Hickman/Central line insertion",
-      "Lumbar Puncture/Intrathecal Chemotherapy",
-      "Intraarterial Chemotherapy IAC for retinoblastomas",
-      "Pleurodesis",
-      "Stem cell transplatation BMT"
+      "Ko'krak va o'pka onkologiyasi",
+      "Immunoterapiya / Aniq terapiya",
+      "Oshqozon-ichak trakti onkolgiyasi / gepato-pankreatik o't yo'llarining xavfli o'smalari",
+      "Ginekologik / genitouriya kasalliklari",
+      "Neyro-onkologiya / sarkomalar",
+      "Gemato-onkologik limfoma, leykemiya / ildiz hujayralari transplantatsiyasi BMT",
+      "Kimyoterapiya / Maqsadli terapiya / Immunoterapiya",
+      "Suyak iligi aspiratsiyasi / biopsiyasi",
+      "PICC liniyasi/Hikman/Markaziy qatorni kiritish",
+      "Lomber ponksiyon / intratekal kimyoterapiya",
+      "Retinoblastomalar uchun intraarterial kimyoterapiya IAC",
+      "Plevrodez",
+      "Ildiz hujayra transplatatsiyasi BMT"
     ],
     "training": [
-      "Medical Oncology - AIIMS, New Delhi",
-      "Hemato-Oncology - AIIMS, New Delhi",
-      "Pediatric Oncology - AIIMS, New Delhi",
-      "Stem Cell Transplantation - AIIMS, New Delhi",
-      "Precision Therapy - AIIMS, New Delhi",
-      "Pain and Palliative Medicine - AIIMS, New Delhi"
+      "Tibbiy onkologiya - AIIMS, Nyu-Dehli",
+      "Gemato-onkologiya - AIIMS, Nyu-Dehli",
+      "Pediatrik onkologiya - AIIMS, Nyu-Dehli",
+      "Ildiz hujayra transplantatsiyasi - AIIMS, Nyu-Dehli",
+      "Aniq terapiya - AIIMS, Nyu-Dehli",
+      "Og'riq va palliativ tibbiyot - AIIMS, Nyu-Dehli"
     ],
-    "education": "MBBS- MUHS NASHIK, MD MEDICINE  AIIMS, DM MEDICAL ONCOLOGY AIIMS",
+    "education": "MBBS- MUHS NASHIK, MD Medicine AIIMS, DM MEDICAL ONCOLOGY AIIMS",
     "work": [
-      "Renowned medical and hemato oncologist trained from All India Institute of Medical Sciences (AIIMS), New Delhi.",
-      "15 years of vast experience.",
-      "Trained in all aspects of medical oncology, hemato-oncology, pediatric oncology, stem cell transplantation, precision therapy, and pain and palliative medicine."
+      "Mashhur tibbiy va gematoonkolog Butun Hindiston Tibbiyot fanlari instituti (AIIMS), Nyu-Dehlida o'qitilgan.",
+      "15 yillik katta tajriba.",
+      "Tibbiy onkologiya, gemato-onkologiya, bolalar onkologiyasi, ildiz hujayralari transplantatsiyasi, aniq terapiya, og'riq va palliativ tibbiyotning barcha yo'nalishlari bo'yicha o'qitilgan."
     ],
     "description": [
-      "Dr. Mukesh Patekar is a renowned medical and hemato oncologist trained from All India Institute of Medical Sciences (AIIMS), New Delhi with 15 years of vast experience.",
-      "He is trained in all aspects of medical oncology, hemato-oncology, pediatric oncology, stem cell transplantation, precision therapy, as well as pain and palliative medicine.",
-      "His goal is to develop a comprehensive cancer care model that includes psycho-oncology, nutritional aspects, and allied branches while delivering world-class services.",
-      "He believes that early detection and preventive oncology strategies will surely translate to better survival and quality of life.",
-      "He has multiple national and international scientific publications."
+      "Doktor Mukesh Patekar 15 yillik katta tajribaga ega, Nyu-Dehlidagi Butun Hindiston Tibbiyot fanlari institutida (AIIMS) ta'lim olgan taniqli tibbiy va gematoonkologdir.",
+      "U tibbiy onkologiya, gemato-onkologiya, bolalar onkologiyasi, ildiz hujayralari transplantatsiyasi, aniq terapiya, shuningdek, og'riq va palliativ tibbiyotning barcha yo'nalishlari bo'yicha o'qitilgan.",
+      "Uning maqsadi - jahon darajasidagi xizmatlarni taqdim etishda psixo-onkologiya, ovqatlanish jihatlari va ittifoqdosh filiallarni o'z ichiga olgan keng qamrovli saraton kasalligini davolash modelini ishlab chiqish.",
+      "U onkologiyani erta aniqlash va profilaktika strategiyalari, albatta, omon qolish va hayot sifatini yaxshilashga yordam berishiga ishonadi.",
+      "Uning ko'plab milliy va xalqaro ilmiy nashrlari bor."
     ]
   },
   "d64": {
     "id": 64,
     "hid": 1,
     "name": "Dr Vikram Barua Kaushik",
-    "post": "Chief - Urology, Kidney Transplant Program & Robotic Surgery (Unit II)",
+    "post": "Bosh - Urologiya, Buyrak transplantatsiyasi dasturi va Robotik jarrohlik (II bo'lim)",
     "image": "d14.jpg",
     "experience": "30+",
     "top": false,
     "speciality": [
-      "Urinary stone disease, cancers of genitourinary tract, prostatic disease, urinary incontinence, neurogenic bladder dysfunction",
-      "Treatment of stone diseases with minimally invasive and laser techniques – URS, PCNL, RIRS",
-      "Treatment of cancers of kidney, prostate, urinary bladder, penis and testis - Radical prostatectomy, radical cystectomy, Construction of neobladder, Radical nephrectomy, etc",
-      "Treatment of Paediatric urological disorders like PUJ obstruction, VUR, Urethral valves, childhood tumors, etc including surgeries like Pyeloplasty, Ureteric reimplantation, etc"
+      "Siydik yo'llarining tosh kasalligi, genitouriya tizimi saratoni, prostata kasalliklari, siydik o'g'irlab ketish, siydik pufagining neyrogen disfunktsiyasi",
+      "Tosh kasalliklarini minimal invaziv va lazer usullari bilan davolash - URS, PCNL, RIRS",
+      "Buyrak, prostata, siydik pufagi, jinsiy olatni va moyak saratonini davolash - Radikal prostatektomiya, radikal sistektomiya, yangi qovuqni qurish, Radikal nefrektomiya va boshqalar",
+      "Pediatrik urologik kasalliklarni davolash, masalan, PUJ obstruktsiyasi, VUR, Uretra klapanlari, bolalik o'smalari va boshqalar, shu jumladan Pyeloplastika, Ureterik reimplantatsiya va boshqalar"
     ],
     "training": [
-      "Urology Residency",
-      "Endo-Urology - R.G. Stone Urological Institute, Mumbai",
-      "Urology and Renal Transplantation - Indraprastha Apollo Hospital, Delhi",
-      "Laparoscopic Urology - RG Stone Urology & Laparoscopy Hospital, Gurgaon",
-      "Renal Transplant - Artemis Hospital, Gurgaon"
+      "Urologiya ordinaturasi",
+      "Endo-urologiya - R.G. Stone urologiya instituti, Mumbay",
+      "Urologiya va buyrak transplantatsiyasi - Indraprastha Apollon kasalxonasi, Dehli",
+      "Laparoskopik urologiya - RG Stone Urologiya va Laparoskopiya kasalxonasi, Gurgaon",
+      "Buyrak transplantatsiyasi - Artemis kasalxonasi, Gurgaon"
     ],
-    "education": "MBBS, MS, DNB (Urology)",
+    "education": "MBBS, MS, DNB (urologiya)",
     "work": [
-      "Completed Urology residency.",
-      "Joined R.G. Stone Urological Institute, Mumbai as an Associate Urologist in March 2003.",
-      "Shifted to Delhi and joined Indraprastha Apollo Hospital in the Department of Urology and Renal Transplantation in August 2005.",
-      "Joined Fortis Flight Lt. Rajan Dhall Memorial Hospital as a full-time consultant in April 2006.",
-      "Joined RG Stone Urology & Laparoscopy Hospital at Gurgaon as the Chief Urologist in August 2008.",
-      "Associated with Artemis as a consultant in Urology since September 2009."
+      "Urologiya ordinaturasini tugatgan.",
+      "2003 yil mart oyida Mumbaydagi R.G. Stone urologiya institutiga urolog yordamchisi sifatida qo'shildi.",
+      "Dehliga ko'chib o'tdi va 2005 yil avgust oyida Urologiya va buyrak transplantatsiyasi bo'limida Indraprastha Apollon kasalxonasiga qo'shildi.",
+      "2006 yil aprel oyida Fortis Flight leytenant Rajan Dhall memorial kasalxonasiga to'liq vaqtli maslahatchi sifatida qo'shildi.",
+      "2008 yil avgust oyida Gurgaondagi RG Stone Urologiya va Laparoskopiya kasalxonasiga bosh urolog sifatida qo'shildi.",
+      "Artemis bilan 2009 yil sentyabr oyidan beri urologiya bo'yicha maslahatchi sifatida ishlaydi."
     ],
     "description": [
-      "Dr. Vikram completed his Urology residency and joined R.G. Stone Urological Institute, Mumbai in March 2003 as an Associate Urologist.",
-      "Endo-urology has always been an area of great interest to him, and his work in this area provided him with a deep insight into the sub-speciality.",
-      "Besides clinical and operative work, he has also been involved in numerous academic activities, presenting and co-authoring various publications and international peer-reviewed urologic literature.",
-      "He shifted from Mumbai to Delhi in August 2005 and joined Indraprastha Apollo Hospital in the Department of Urology and Renal Transplantation.",
-      "In April 2006, he joined Fortis Flight Lt. Rajan Dhall Memorial Hospital as a full-time consultant.",
-      "In August 2008, he joined RG Stone Urology & Laparoscopy Hospital at Gurgaon as the Chief Urologist.",
-      "Dr. Vikram has been associated with Artemis since September 2009 as a consultant in Urology, with his main areas of interest being Endo-urology, Laparoscopic Urology, and Renal Transplant."
+      "Doktor Vikram urologiya bo'yicha rezidenturani tugatdi va 2003 yil mart oyida Mumbaydagi R.G. Stone Urologiya institutiga urolog yordamchisi sifatida qo'shildi.",
+      "Endo-urologiya har doim u uchun katta qiziqish uyg'otadigan soha bo'lib kelgan va uning bu sohadagi ishi unga kichik mutaxassislik haqida chuqur ma'lumot berdi.",
+      "Klinik va operativ ishlardan tashqari, u ko'plab ilmiy faoliyatlarda ham ishtirok etgan, turli nashrlar va xalqaro urologik adabiyotlarni taqdim etgan va hammualliflik qilgan.",
+      "U 2005 yil avgust oyida Mumbaydan Dehliga ko'chib o'tdi va Indraprastha Apollon kasalxonasida urologiya va buyrak transplantatsiyasi bo'limiga qo'shildi.",
+      "2006 yil aprel oyida u Fortis Flight Lt. Rajan Dhall Memorial Hospitaliga to'liq vaqtli maslahatchi sifatida qo'shildi.",
+      "2008 yil avgust oyida u Gurgaondagi RG Stone Urologiya va Laparoskopiya kasalxonasiga bosh urolog sifatida qo'shildi.",
+      "Doktor Vikram 2009 yil sentyabr oyidan beri Artemis bilan urologiya bo'yicha maslahatchi sifatida ishlaydi, uning asosiy qiziqishlari Endo-urologiya, Laparoskopik urologiya va Buyrak transplantatsiyasidir"
     ]
   },
   "d65": {
     "id": 65,
     "hid": 1,
     "name": "Dr Ashu Jain",
-    "post": "Head - Pain Medicine & Palliative Care",
+    "post": "Bosh - og'riqni davolash va palliativ yordam",
     "image": "d15.jpg",
     "experience": "24+",
     "top": false,
     "speciality": [
-      "Pain Management",
-      "Spinal Cord Stimulator Implantation",
-      "Intrathecal Pump Implantation",
-      "RF Ablation of Trigeminal Ganglion , Stellate Ganglion",
-      "Lumber Sympathectomy",
-      "Coeliac Plexus Block",
-      "Nerve Root Injections",
-      "All other interventional Pain Procedures"
+      "Og'riqni boshqarish",
+      "Omurilik stimulyatori implantatsiyasi",
+      "Intratekal nasos implantatsiyasi",
+      "Trigeminal ganglionning RF ablasyonu, yulduzsimon ganglion",
+      "Yog'och simpatektomiyasi",
+      "Koeliak pleksus bloki",
+      "Nerv ildizi in'ektsiyalari",
+      "Boshqa barcha interventsion og'riq protseduralari"
     ],
     "training": [
-      "Fellowship in Pain Medicine"
+      "Og'riqlar bo'yicha stipendiya"
     ],
-    "education": "MBBS, Medical School - Govt. Medical College, Rohtak, Haryana, MD (Anesthesiology)",
+    "education": "MBBS, Tibbiyot maktabi - Govt. Tibbiyot kolleji, Rohtak, Haryana, MD (anesteziologiya)",
     "work": [
-      "Started practicing pain medicine 14 years ago.",
-      "Gained experience in Cardiac Anaesthesia & Pain Management from AIIMS, New Delhi, and LLRM Medical College, Meerut.",
-      "Established Pain Medicine at Artemis Hospital, Gurgaon."
+      "14 yil oldin og'riqni davolashni boshlagan.",
+      "AIIMS, Nyu-Dehli va LLRM tibbiyot kolleji, Meerutdan yurak anesteziyasi va og'riqni boshqarish bo'yicha tajriba orttirgan.",
+      "Gurgaondagi Artemis kasalxonasida og'riqni davolash yo'lga qo'yilgan."
     ],
     "description": [
-      "Dr. Ashu Jain began practicing pain medicine 14 years ago and has gained experience in Cardiac Anaesthesia & Pain Management from AIIMS, New Delhi, and LLRM Medical College, Meerut.",
-      "He established the Pain Medicine department at Artemis Hospital, Gurgaon, which now performs all Advanced Pain Management Procedures.",
-      "Dr. Jain is well-versed in the medical management of various types of chronic pain, including cancer pain, back pain, joint pain, neck pain, neuropathic pain and neuralgias, facial pain, and headaches."
+      "Doktor Ashu Jain 14 yil oldin og'riqni davolash bilan shug'ullana boshlagan va AIIMS, Nyu-Dehli va LLRM tibbiyot kolleji, Meerutda yurak anesteziyasi va og'riqni boshqarish bo'yicha tajriba orttirgan.",
+      "U Gurgaondagi Artemis kasalxonasida og'riqni davolash bo'limini yaratdi, u hozirda barcha ilg'or og'riqni boshqarish protseduralarini bajaradi.",
+      "Doktor Jeyn turli xil surunkali og'riqlar, jumladan saraton og'rig'i, bel og'rig'i, bo'g'im og'rig'i, bo'yin og'rig'i, nevropatik og'riqlar va nevralgiyalar, yuz og'rig'i va bosh og'rig'ini tibbiy boshqarishni yaxshi biladi."
     ]
   },
   "d66": {
     "id": 66,
     "hid": 1,
     "name": "Dr Biswajyoti Hazarika",
-    "post": " Chief - Head & Neck Surgery",
+    "post": "Bosh va bo'yin jarrohligi",
     "image": "d16.jpg",
     "experience": "18+",
     "top": false,
     "speciality": [
-      "Head & Neck Surgery",
-      "Oral Cavity  Tumor Surgery",
-      "Paranasal Tumor Surgery",
-      "Skull Base Surgery",
-      "Thyroid and Parathyroid gland Surgery",
-      "Salivary Gland Tumor Surgery",
-      "Laryngeal and Pharyngeal laser Surgery",
-      "Endoscopic And Robotic Head & Neck Surgery",
-      "Plastic Reconstruction of Head & Neck Surgical Defect",
-      "Endoscopic Laser Surgery"
+      "Bosh va bo'yin jarrohligi",
+      "Og'iz bo'shlig'i o'smalari jarrohligi",
+      "Paranazal o'sma jarrohligi",
+      "Bosh suyagi jarrohligi",
+      "Qalqonsimon bez va paratiroid bezlari jarrohligi",
+      "So'lak bezlari o'smalari jarrohligi",
+      "Laringeal va faringeal lazer jarrohligi",
+      "Endoskopik va robotli bosh va bo'yin jarrohligi",
+      "Bosh va bo'yin jarrohlik nuqsonini plastik rekonstruksiya qilish",
+      "Endoskopik lazerli jarrohlik"
     ],
     "training": [
-      "Fellowship in Head & Neck Surgery - Kidwai Memorial Institute of Oncology, Bangalore"
+      "Bosh va bo'yin jarrohligi bo'yicha stipendiya - Kidvay memorial onkologiya instituti, Bangalor"
     ],
-    "education": "MBBS - Guwahati Medical College & Hospital, Guwahati, MS (ENT) - Assam Medical College & Hospital, Dibrugarh",
+    "education": "MBBS - Guvahati tibbiyot kolleji va kasalxonasi, Guvahati, MS (ENT) - Assam tibbiyot kolleji va kasalxonasi, Dibrugarh",
     "work": [
-      "Practicing in the specialized field of Head & Neck surgery for the last 20 years.",
-      "Completed fellowship in Head & Neck surgery from Kidwai Memorial Institute of Oncology, Bangalore.",
-      "Completed residency at Dr. B Barooah Cancer Centre, Guwahati.",
-      "Worked at Prince Aly Khan Hospital, Mumbai under Dr. Sultan A Pradhan.",
-      "Joined the Dept of Surgical Oncology at Max Super Specialty Hospital, Saket, New Delhi as a Consultant in 2009.",
-      "Appointed as Head of Dept- Head & Neck Surgery at Max Super Specialty Hospital, Saket, New Delhi in 2013 and continued till August 2016."
+      "So'nggi 20 yil davomida bosh va bo'yin jarrohligi bo'yicha ixtisoslashgan sohada amaliyot.",
+      "Bosh va bo'yin jarrohligi bo'yicha Kidwai Memorial Onkologiya Instituti, Bangalordagi stipendiyani tugatgan.",
+      "Dr. B Barooah saraton markazida rezidenturani tugatgan, Guvahati.",
+      "Mumbaydagi Shahzoda Ali Xon kasalxonasida doktor Sulton A Pradxan qo'l ostida ishlagan.",
+      "2009 yilda Nyu-Dehli, Saket shahridagi Max Super maxsus kasalxonasida jarrohlik onkologiya bo'limiga maslahatchi sifatida qo'shildi.",
+      "2013 yilda Nyu-Dehli, Saket shahridagi Max Super maxsus kasalxonasida bosh va bo'yin jarrohligi bo'limi boshlig'i etib tayinlangan va 2016 yil avgustigacha davom etgan."
     ],
     "description": [
-      "Dr. Biswajyoti Hazarika has been in the specialized field of Head & Neck surgery for the last 20 years.",
-      "His expertise includes surgery for tumors/cancers of the head and neck region, including the oral cavity, nose and para-nasal sinuses, larynx, pharynx, salivary glands, thyroid, and parathyroid glands.",
-      "Dr. Hazarika is skilled in plastic reconstruction of the resected part, endoscopic, and minimal access surgery in the head and neck region. Robotic Head & Neck Surgery is the latest addition to his skills.",
-      "He takes a deep interest in the functional rehabilitation of all head and neck cancer patients.",
-      "Following his fellowship in Head & Neck surgery from Kidwai Memorial Institute of Oncology, Bangalore, Dr. Hazarika completed his residency at Dr. B Barooah Cancer Centre, Guwahati.",
-      "He worked at Prince Aly Khan Hospital, Mumbai under the guidance of Dr. Sultan A Pradhan, gaining tremendous insight into the various gradations of Head and Neck Oncology.",
-      "In 2009, Dr. Hazarika joined the Dept of Surgical Oncology at Max Super Specialty Hospital, Saket, New Delhi as a Consultant. In 2013, he was appointed as Head of Dept- Head & Neck Surgery and continued in that position till August 2016.",
-      "Dr. Hazarika has multiple publications in national and international medical journals and has authored chapters in the Atlas of Otolaryngology and Head & Neck Surgery."
+      "Doktor Biswajyoti Hazarika so'nggi 20 yil davomida bosh va bo'yin jarrohligining ixtisoslashgan sohasida ishlaydi.",
+      "Uning tajribasiga bosh va bo'yin mintaqasidagi o'smalar/saratonlar, shu jumladan og'iz bo'shlig'i, burun va para-burun sinuslari, halqum, farenks, so'lak bezlari, qalqonsimon bez va paratiroid bezlari jarrohlik kiradi.",
+      "Doktor Hazarika rezektsiya qilingan qismni plastik rekonstruksiya qilish, endoskopik va bosh va bo'yin mintaqasida minimal kirish jarrohligi bo'yicha malakali. Robotik bosh va bo'yin jarrohligi uning mahoratiga eng so'nggi qo'shimcha hisoblanadi.",
+      "U bosh va bo'yin saratoni bilan og'rigan barcha bemorlarning funktsional reabilitatsiyasiga chuqur qiziqish bildiradi.",
+      "Bosh va bo'yin jarrohligi bo'yicha Kidvay Memorial onkologiya instituti, Bangalor, doktor Hazarika o'z rezidenturasini Guvahati, Dr. B Barooah saraton markazida tugatdi.",
+      "U Mumbay shahridagi Shahzoda Ali Xon kasalxonasida doktor Sulton A Pradxan rahbarligida ishlagan va bosh va bo'yin onkologiyasining turli darajalari haqida ajoyib ma'lumotga ega bo'lgan.",
+      "2009 yilda doktor Hazarika Nyu-Dehli, Saket shahridagi Max Super maxsus kasalxonasining jarrohlik onkologiya bo'limiga maslahatchi sifatida qo'shildi. 2013 yilda u bosh va bo'yin jarrohligi bo'limi boshlig'i etib tayinlandi va 2016 yil avgustigacha shu lavozimda ishladi. .",
+      "Doktor Hazarika milliy va xalqaro tibbiy jurnallarda bir nechta nashrlarga ega va Otolaringologiya va bosh va bo'yin jarrohligi atlasida bo'limlar muallifi."
     ]
   },
   "d67": {
     "id": 67,
     "hid": 1,
     "name": "Dr. Shashidhar TB",
-    "post": "Head - Surgery (ENT)",
+    "post": "Bosh jarrohligi (KBB)",
     "image": "d17.jpg",
     "experience": "20+",
     "top": false,
     "speciality": [
-      "Pediatric Otolaryngology",
-      "Sleep and Airway Surgery",
-      "Swallowing Disorders",
-      "Sleep Apnea Surgery",
-      "General Otolaryngology",
-      "Head and Neck Oncosurgery",
-      "Phonosurgery",
-      "Laryngology",
-      "Cochlear Implants",
-      "Taking up one of the most challenging cases of Airway reconstruction and using innovative new techniques",
-      "Credited for 1 st pediatric balloon laryngoplasty and LTR with alar grafting in the country",
-      "Fibreoptic endoscopic evaluation of swallowing and drug induced sleep endoscopy",
-      "Routine ent surgeries",
-      "Surgeries for drooling , airway reconstruction etc"
+      "Pediatrik otolaringologiya",
+      "Uyqu va havo yo'llari jarrohligi",
+      "Yutish buzilishi",
+      "Uyqu apnesi jarrohligi",
+      "Umumiy otolaringologiya",
+      "Bosh va bo'yin onkoxirurgiyasi",
+      "fonoxirurgiya",
+      "laringologiya",
+      "Koxlear implantlar",
+      "Havo yo'llarini rekonstruksiya qilishning eng qiyin holatlaridan birini ko'rib chiqish va innovatsion yangi texnikani qo'llash",
+      "Respublikadagi 1-chi bolalar balonli laringoplastika va alar payvandlash bilan LTR uchun kredit",
+      "Yutishni optik tolali endoskopik baholash va uyqu endoskopiyasi",
+      "Odatdagi jarrohlik operatsiyalari",
+      "Toqlash, havo yo'llarini tiklash operatsiyalari va boshqalar"
     ],
     "training": [
-      "Clinical Visiting Fellow, Cincinnati Children's Hospital, USA (2008)",
-      "Pediatric ENT, Cincinnati Children's Hospital, USA (2009)",
-      "USMLE and ECFMG Certification, Chicago, Illinois, USA (2009)",
-      "Robotic Surgery Familiarization Course, Ecole Europeenne de Chirurgie, Paris, France (2011)"
+      "Klinik tashrif buyuruvchi, Cincinnati bolalar kasalxonasi, AQSh (2008)",
+      "Pediatrik LOR, Cincinnati bolalar kasalxonasi, AQSh (2009)",
+      "USMLE va ECFMG sertifikati, Chikago, Illinoys, AQSh (2009)",
+      "Robotik jarrohlik bilan tanishish kursi, Ecole Europeenne de Chirurgie, Parij, Frantsiya (2011)"
     ],
-    "education": "M.B.B.S. , M.S. (ENT) , ECFMG (USA) Medical School - Madras Medical School , Chennai Post Graduate Programs - Lady Hardinge Medical College , New Delhi",
+    "education": "M.B.B.S. , XONIM. (ENT) , ECFMG (AQSh) tibbiyot maktabi - Madras tibbiyot maktabi, Chennai magistratura dasturlari - Lady Hardinge tibbiyot kolleji, Nyu-Dehli",
     "work": [
-      "Clinical Visiting Fellow , 2008 Cincinnati Childrens Hospital, USA",
-      "Pediatric ENT, 2009 Cincinnati Childrens Hospital, USA",
-      "USMLE and ECFMG Certification, 2009 Chicago, Illinois, USA",
-      "Robotic Surgery Familiarization Course, 2011 Ecole Europeenne de Chirurgie, Paris , France"
+      "Klinik tashrif buyuruvchi, 2008 yil Cincinnati bolalar kasalxonasi, AQSh",
+      "Pediatrik LOR, 2009 Cincinnati bolalar kasalxonasi, AQSh",
+      "USMLE va ECFMG sertifikati, 2009 yil Chikago, Illinoys, AQSh",
+      "Robotik jarrohlik bilan tanishish kursi, 2011 Ecole Europeenne de Chirurgie, Parij, Frantsiya"
     ],
     "description": [
-      "Dr. Shashidhar TB is an exceptionally talented, hardworking, and dedicated consultant ENT and Head and Neck surgeon with extensive experience in handling challenging cases.",
-      "His clinical interests include airway reconstruction, treating swallowing disorders, sleep apnea surgery, general ENT, and pediatric ENT.",
-      "With international exposure and training, Dr. Shashidhar is well-equipped to provide top-notch treatment to his patients.",
-      "He is a passionate learner with a strong interest in research, academics, and teaching.",
-      "Dr. Shashidhar has numerous publications in national and international journals.",
-      "He has performed thousands of successful surgeries on infants as a pediatric ENT surgeon.",
-      "Dr. Shashidhar is known for his calm demeanor and positive attitude, often taking on cases that others have turned down."
+      "Doktor Shashidhar TB - juda iste'dodli, mehnatsevar va fidoyi maslahatchi LOR va bosh va bo'yin jarrohi, qiyin vaziyatlarni hal qilishda katta tajribaga ega.",
+      "Uning klinik qiziqishlari havo yo'llarini rekonstruksiya qilish, yutish kasalliklarini davolash, uyqu apnesi jarrohligi, umumiy LOR va pediatrik LORni o'z ichiga oladi.",
+      "Xalqaro ta'sir va ta'lim bilan doktor Shashidhar o'z bemorlariga yuqori darajadagi davolanishni ta'minlash uchun yaxshi jihozlangan.",
+      "U tadqiqotga, akademiklarga va o'qitishga kuchli qiziqish bilan ishtiyoqli o'quvchi.",
+      "Doktor Shashidharning milliy va xalqaro jurnallarda ko'plab nashrlari bor.",
+      "U bolalar LOR jarrohi sifatida chaqaloqlarda minglab muvaffaqiyatli operatsiyalarni amalga oshirdi.",
+      "Doktor Shashidhar o'zining xotirjam xulq-atvori va ijobiy munosabati bilan tanilgan, ko'pincha boshqalar rad etgan ishlarni qabul qiladi"
     ]
   },
   "d68": {
     "id": 68,
     "hid": 1,
     "name": "Dr Dilpreet Bajwa",
-    "post": "Sr. Consultant - ENT",
+    "post": "Katta maslahatchi - KBB",
     "image": "d18.jpg",
     "experience": "12+",
     "top": false,
     "speciality": [
-      "Endoscopic septoplasty",
-      "Endosocpic sinus surgery",
-      "Endoscopic medial maxillectomy",
-      "Endoscopic adenoidectomy",
-      "Tonsillectomy Palatoplasty",
-      "Endoscopic tympanoplasty",
-      "Tympanomastoidectomy Myringotomy",
-      "Thyroidectomy Tracheostomy",
-      "Foreign body removal",
-      "Parotid surgeries",
-      "Laryngeal surgeries",
-      "Pediatric related ENT surgeries Cochlear implantation"
+      "Endoskopik septoplastika",
+      "Endosokpik sinus jarrohligi",
+      "Endoskopik medial maksillektomiya",
+      "Endoskopik adenoidektomiya",
+      "Tonsillektomiya palatoplastika",
+      "Endoskopik timpanoplastika",
+      "Timpanomastoidektomiya Miringotomiya",
+      "Tiroidektomiya traxeostomiyasi",
+      "Chet jismni olib tashlash",
+      "Parotid operatsiyalari",
+      "Laringeal operatsiyalar",
+      "Pediatrik LOR operatsiyalari Koxlear implantatsiya"
     ],
     "training": [
-      "ENT Training - Maulana Azad Medical College and Lok Nayak Hospital, Delhi",
-      "Endoscopic Sinus Surgery",
-      "Tonsillectomy and Adenoidectomy",
-      "Sleep Apnea Surgeries",
-      "Thyroid Surgeries",
-      "Ear Surgeries",
-      "Tracheostomy",
-      "Foreign Body Removal",
-      "Airway Emergencies Management",
-      "Functional Sinus Surgery",
-      "Endoscopic Ear Surgeries",
-      "Complex Airway Surgeries",
-      "Functional Endoscopic Assessment of Swallowing",
-      "Skin Allergy Testing"
+      "KBB treningi - Maulana Azad tibbiyot kolleji va Lok Nayak kasalxonasi, Dehli",
+      "Endoskopik sinus jarrohligi",
+      "Tonzillektomiya va adenoidektomiya",
+      "Uyqu apneasi operatsiyalari",
+      "Qalqonsimon bezdagi operatsiyalar",
+      "Quloq operatsiyalari",
+      "Traxeostomiya",
+      "Chet jismni olib tashlash",
+      "Havo yo'llaridagi favqulodda vaziyatlarni boshqarish",
+      "Funktsional sinus jarrohligi",
+      "Endoskopik quloq operatsiyalari",
+      "Havo yo'llarining murakkab operatsiyalari",
+      "Yutishning funktsional endoskopik bahosi",
+      "Teri allergiyasi testi"
     ],
     "education": "MBBS, MS ENT",
     "work": [
-      "Consultant in the Dept of ENT at Artemis Hospital with over a decade of experience.",
-      "Specializes in management of simple and complex ENT conditions."
+      "Artemis kasalxonasining KBB bo'limida o'n yildan ortiq tajribaga ega maslahatchi.",
+      "Oddiy va murakkab KBB kasalliklarini boshqarishga ixtisoslashgan."
     ],
     "description": [
-      "Dr. Dilpreet Bajwa is a Senior Consultant in the Department of ENT at Artemis Hospital, Gurugram.",
-      "Trained at Maulana Azad Medical College and Lok Nayak Hospital, Delhi, Asia's highest volume surgical ENT center.",
-      "Has over a decade of experience in treating both adult and pediatric ENT conditions including hearing problems, nasal blockage, snoring, sleep apnea, vertigo, tinnitus, and swallowing issues.",
-      "Experienced in both routine and advanced ENT surgeries such as Endoscopic sinus surgery, tonsillectomy, adenoidectomy, sleep apnea surgeries, thyroid surgeries, ear surgeries, tracheostomy, foreign body removal, and airway emergencies.",
-      "Proficient in advanced procedures including advanced Functional Sinus surgery, endoscopic ear surgeries, and complex airway surgeries.",
-      "Trained in Functional Endoscopic Assessment of Swallowing and has expertise in managing allergic conditions with Skin Allergy testing.",
-      "Has multiple publications in national and international journals and has presented at various national forums.",
-      "Mentors fellows in the field of ENT."
+      "Doktor Dilpreet Bajva Artemis kasalxonasida LOR bo'limining katta maslahatchisi, Gurugram.",
+      "Maulana Azad tibbiyot kolleji va Lok Nayak kasalxonasida, Dehli, Osiyodagi eng katta jarrohlik KBB markazida o'qitilgan.",
+      "Eshitish muammolari, burun tiqilishi, horlama, uyqu apneasi, vertigo, tinnitus va yutish muammolari kabi kattalar va bolalar LOR kasalliklarini davolashda o'n yildan ortiq tajribaga ega.",
+      "Endoskopik sinus jarrohligi, tonzillektomiya, adenoidektomiya, uyqu apneasi operatsiyalari, qalqonsimon bez operatsiyalari, quloq operatsiyalari, traxeostomiya, begona jismlarni olib tashlash va havo yo'llaridagi favqulodda vaziyatlar kabi muntazam va ilg'or LOR operatsiyalarida tajribaga ega.",
+      "Ilg'or funktsional sinus jarrohligi, endoskopik quloq operatsiyalari va nafas yo'llarining murakkab operatsiyalari kabi ilg'or muolajalar bo'yicha malakali.",
+      "Yutishni funktsional endoskopik baholash bo'yicha o'qitilgan va teri allergiyasi testi bilan allergik sharoitlarni boshqarish bo'yicha tajribaga ega",
+      "Milliy va xalqaro jurnallarda bir nechta nashrlari bor va turli milliy forumlarda taqdim etilgan.",
+      "LOR sohasidagi stipendiyalar murabbiylari."
     ]
   },
   "d69": {
     "id": 69,
     "hid": 1,
     "name": "Dr Gaurav Dixit",
-    "post": "Unit Head - Haemato Oncology",
+    "post": "Bo'lim boshlig'i - gematoonkologiya",
     "image": "d19.jpg",
     "experience": "14+",
     "top": false,
     "speciality": [
-      "Autologous Stem cell Transplant",
-      "Matched Sibling Allogenic Stem cell Transplant",
-      "Haplo Identical Stem cell Transplant",
-      "Matched Unreletaed Donor Transplant",
-      "Bone Marrow Aspiration & Biopsy",
-      "Lumbar Puncture with Intrathecal Chemo"
+      "Autolog ildiz hujayra transplantatsiyasi",
+      "Mos keladigan aka-uka allogenik ildiz hujayralari transplantatsiyasi",
+      "Haplo bir xil ildiz hujayra transplantatsiyasi",
+      "Mos keladigan donor transplantatsiyasi",
+      "Suyak iligi aspiratsiyasi va biopsiyasi",
+      "Intratekal kimyo bilan lomber ponksiyon"
     ],
     "training": [
-      "Worked for three years at CMC Vellore in one of the top hematology departments in the country.",
-      "Awarded a professional certificate in Multiple Myeloma by Mayo Clinic, U.S.A in 2020."
+      "CMC Vellore'da uch yil davomida mamlakatdagi eng yaxshi gematologiya bo'limlaridan birida ishlagan.",
+      "2020 yilda AQShning Mayo Clinic tomonidan ko'p miyeloma bo'yicha professional sertifikat berilgan."
     ],
-    "education": "MBBS and MD in General Medicine from PGIMS Rohtak in 2008. Completed senior residency in General Medicine and pursued DM in Hematology from CMC Vellore.",
+    "education": "2008 yilda PGIMS Rohtak'dan umumiy tibbiyot bo'yicha MBBS va MD. Umumiy tibbiyot bo'yicha katta rezidenturani tamomlagan va CMC Vellore'dan gematologiya bo'yicha DMni davom ettirgan.",
     "work": [
-      "Joined Artemis Hospital after working for 4 years each at Max Hospital, Shalimar Bagh and Action Cancer Hospital.",
-      "Instrumental in setting up bone marrow transplant programs at both Max Hospital and Action Cancer Hospital.",
-      "Performed the first bone marrow transplant in Kenya in October 2022."
+      "Maks kasalxonasida, Shalimar Bagh va Harakat saraton kasalxonasida 4 yil ishlagandan so'ng Artemis kasalxonasiga qo'shildi.",
+      "Maks Hospital va Harakat saraton kasalxonasida suyak iligi transplantatsiyasi dasturlarini yaratishda instrumental",
+      "2022 yil oktyabr oyida Keniyada birinchi suyak iligi transplantatsiyasini amalga oshirgan."
     ],
     "description": [
-      "Possesses great clinical acumen and scientific insight in the field of hematology.",
-      "Well-versed with the latest developments in hematology and adheres to international guidelines.",
-      "Specializes in leukemia, myeloma, lymphoma, and aplastic anemia.",
-      "Known for exceptional understanding of Hemato-Oncology and teaching skills.",
-      "Active member of various hematology organizations in India and abroad."
+      "Gematologiya sohasida katta klinik bilim va ilmiy tushunchaga ega.",
+      "Gematologiya sohasidagi so'nggi ishlanmalarni yaxshi biladi va xalqaro ko'rsatmalarga amal qiladi.",
+      "Leykemiya, miyeloma, limfoma va aplastik anemiyaga ixtisoslashgan.",
+      "Gemato-onkologiyani mukammal tushunish va o'qitish mahorati bilan tanilgan.",
+      "Hindiston va chet eldagi turli gematologiya tashkilotlarining faol a'zosi."
     ]
   },
   "d70": {
     "id": 70,
     "hid": 1,
     "name": "Dr Manju Aggarwal",
-    "post": "Chief - Medical Services & Chairperson - Nephrology",
+    "post": "Bosh - Tibbiy xizmatlar & Rais - Nefrologiya",
     "image": "d20.jpg",
     "experience": "41+",
     "top": false,
     "speciality": [
-      "Critical Care Nephrology",
-      "Fluids & Acid-base Disorders and Renal Replacement Therapy in ICUs",
-      "Dialysis, including home dialysis",
-      "Kidney Transplantation – specialized in highly sensitized and incompatible transplantations"
+      "Tanqidiy yordam nefrologiyasi",
+      "Suyuqliklar va kislota-asos kasalliklari va renal o'rnini bosuvchi terapiya reanimasiya terapiyasi",
+      "Dializ, shu jumladan uy dializ",
+      "Buyrak transplantatsiyasi - yuqori sezgir va mos kelmaydigan transplantatsiyalarga ixtisoslashgan"
     ],
     "training": [
-      "Fellow in Nephrology, University of Minnesota, Minneapolis, USA (July 1990 – July 1992)"
+      "Minnesota universiteti, Minneapolis, AQSH (1990-yil iyul – 1992-yil iyul) Nefrologiya boʻyicha mutaxassis."
     ],
-    "education": "MBA, Diplomate of National Board, Fellowship in Nephrology, MD, MBBS",
+    "education": "MBA, Milliy kengash diplomati, Nefrologiya bo'yicha stipendiya, MD, MBBS",
     "work": [
-      "Worked at several leading medical institutions, including the University of Minnesota.",
-      "Provides medical care with compassion and perfection."
+      "Bir nechta etakchi tibbiyot muassasalarida, shu jumladan Minnesota universitetida ishlagan.",
+      "Tibbiy yordamni rahm-shafqat va mukammallik bilan ta'minlaydi."
     ],
     "description": [
-      "Accomplished Nephrologist with extensive experience at top medical institutes, including the University of Minnesota.",
-      "Expert in treating critically ill patients with acute and chronic renal failure.",
-      "Skilled in managing patients on dialysis and performing renal transplants.",
-      "Experienced in handling complex and high-risk renal transplants, including those requiring desensitization.",
-      "Provides medical care with compassion and precision.",
-      "Active member of several professional societies, including the American Society of Nephrology, International Society of Nephrology, Indian Society of Nephrology, Indian Society of Organ Transplantation, and Delhi Nephrology Society."
+      "Eng yaxshi tibbiyot institutlarida, shu jumladan Minnesota universitetida katta tajribaga ega bo'lgan nefrolog.",
+      "O'tkir va surunkali buyrak etishmovchiligi bo'lgan og'ir bemorlarni davolash bo'yicha mutaxassis.",
+      "Dializdagi bemorlarni boshqarish va buyrak transplantatsiyasini amalga oshirishda malakali.",
+      "Murakkab va yuqori xavfli buyrak transplantatsiyasini, shu jumladan desensitizatsiyani talab qiladiganlarni davolashda tajribaga ega.",
+      "Tibbiy yordamni rahm-shafqat va aniqlik bilan ta'minlaydi.",
+      "Bir nechta professional jamiyatlarning faol a'zosi, jumladan Amerika Nefrologiya Jamiyati, Xalqaro Nefrologiya Jamiyati, Hindiston Nefrologiya Jamiyati, Hindiston Organ Transplantatsiyasi Jamiyati va Dehli Nefrologiya Jamiyati."
     ]
   },
   "d71": {
     "id": 71,
     "hid": 1,
     "name": "Dr Varun Mittal",
-    "post": "Head - Kidney Transplant & Associate Chief - Uro-Oncology & Robotic Surgery (Unit I)",
+    "post": "Bosh - Buyrak transplantatsiyasi va bosh yordamchi - Uro-onkologiya va robotojarrohlik (I bo'lim)",
     "image": "d21.jpg",
     "experience": "26+",
     "top": false,
     "speciality": [
-      "Kidney Transplant",
-      "ABO incompatible kidney Transplant",
-      "SWAP (Paired kidney Exchange ) Kidney Transplant",
-      "Vascular Access: AV fistula",
-      "CAPD Catheter Insertion",
-      "Robotic Surgery for all Urologic Cancers including radical prostatectomy, Partial Nephrectomy, Cystectomy, Adrenalectomy",
-      "Laparoscopic, Endourologic and open procedures"
+      "Buyrak transplantatsiyasi",
+      "ABO mos kelmaydigan buyrak transplantatsiyasi",
+      "SWAP (juftlashgan buyrak almashinuvi) buyrak transplantatsiyasi",
+      "Tomirlarga kirish: AV oqma",
+      "CAPD kateterini kiritish",
+      "Barcha urologik saratonlar uchun robotli jarrohlik, shu jumladan radikal prostatektomiya, qisman nefrektomiya, sistektomiya, adrenalektomiya",
+      "Laparoskopik, endourologik va ochiq muolajalar"
     ],
     "training": [
-      "Fellowship in Minimal Invasive and Robotic Urology",
-      "Obs. Fellowship in Robotic Urologic Surgery, University of Miami, USA"
+      "Minimal invaziv va robotik urologiya bo'yicha stipendiya",
+      "Robotli Urologik Jarrohlik bo'yicha stipendiyalar, Mayami Universiteti, AQSh"
     ],
-    "education": "MBBS, MS (General surgery), M.Ch. (Urology and Kidney Transplant), SGPGIMS Lucknow, DNB (Genitourinary Surgery)",
+    "education": "MBBS, MS (Umumiy jarrohlik), M.Ch. (Urologiya va buyrak transplantatsiyasi), SGPGIMS Laknow, DNB (Genitouriya jarrohlik)",
     "work": [
-      "Specializes in Kidney Transplant and Advanced Robotic Urologic Cancer Surgery.",
-      "Expert in swap/paired kidney exchange, ABO/HLA incompatible, and deceased organ kidney transplants.",
-      "Key contributor to successful kidney transplant programs at prominent institutes for over a decade.",
-      "Awarded Gold Medal for Best Robotic Surgery Video by AMASI.",
-      "Recipient of the International Travel Fellowship Award by the American Urological Association in 2015.",
-      "Authored numerous book chapters and research articles.",
-      "Presented research papers, posters, and surgical videos at national and international urologic and organ transplant conferences."
+      "Buyrak transplantatsiyasi va ilg'or robotli urologik saraton jarrohligi bo'yicha ixtisoslashgan.",
+      "Almashtiruvchi/juftlashgan buyrak almashinuvi, ABO/HLA mos kelmaydigan va o'lgan organlarning buyrak transplantatsiyasi bo'yicha mutaxassis.",
+      "O'n yildan ortiq vaqt davomida taniqli institutlarda muvaffaqiyatli buyrak transplantatsiyasi dasturlariga asosiy hissa qo'shgan.",
+      "AMASI tomonidan eng yaxshi robotli jarrohlik videosi uchun Oltin medal bilan taqdirlandi.",
+      "2015 yilda Amerika Urologiya Assotsiatsiyasi tomonidan Xalqaro Sayohat stipendiyasi sovrindori.",
+      "Ko'plab kitob bo'limlari va tadqiqot maqolalari muallifi.",
+      "Urologik va organ transplantatsiyasi bo'yicha milliy va xalqaro konferentsiyalarda ilmiy maqolalar, plakatlar va jarrohlik videolarini taqdim etdi."
     ],
     "description": [
-      "Specializes in Kidney Transplant and Advanced Robotic Urologic Cancer Surgery.",
-      "Expert in swap/paired kidney exchange, ABO/HLA incompatible, and deceased organ kidney transplants.",
-      "Key contributor to successful kidney transplant programs at renowned institutes for over a decade.",
-      "Awarded Gold Medal for Best Robotic Surgery Video by AMASI.",
-      "Recipient of the International Travel Fellowship Award by the American Urological Association in 2015.",
-      "Authored numerous book chapters and research articles.",
-      "Presented research papers, posters, and surgical videos at national and international urologic and organ transplant conferences."
+      "Buyrak transplantatsiyasi va ilg'or robotli urologik saraton jarrohligi bo'yicha ixtisoslashgan.",
+      "Almashtiruvchi/juftlashgan buyrak almashinuvi, ABO/HLA mos kelmaydigan va o'lgan organlarning buyrak transplantatsiyasi bo'yicha mutaxassis.",
+      "Mashhur institutlarda o'n yildan ortiq muvaffaqiyatli buyrak transplantatsiyasi dasturlariga asosiy hissa qo'shgan.",
+      "AMASI tomonidan eng yaxshi robotli jarrohlik videosi uchun Oltin medal bilan taqdirlandi.",
+      "2015 yilda Amerika Urologiya Assotsiatsiyasi tomonidan Xalqaro Sayohat stipendiyasi sovrindori.",
+      "Ko'plab kitob bo'limlari va tadqiqot maqolalari muallifi.",
+      "Urologik va organ transplantatsiyasi bo'yicha milliy va xalqaro konferentsiyalarda ilmiy maqolalar, plakatlar va jarrohlik videolarini taqdim etdi."
     ]
   },
   "d72": {
     "id": 72,
     "hid": 1,
     "name": "Dr Paritosh Gupta",
-    "post": "Head - General & Minimally Invasive Surgery",
+    "post": "Bosh - Umumiy va minimal invaziv jarrohlik",
     "image": "d22.jpg",
     "experience": "24+",
     "top": false,
     "speciality": [
-      "Colorectal Surgeries",
-      "Liver Surgery - Lap/Open Liver abscess drainage, Hydatid, Liver Biopsy",
-      "Gastric Surgery - Lap Sleeve Gastrectomy, Lap Fundoplication, Gastrectomy for Ca stomach, Lap Cystogastrostomy Ramsted operation, GJ, Vagotomy etc.",
-      "Colon Surgery - Lap Hemicolectomy, Colostomy, APR, Valvulus Resect. /Anastomosis, Lap Colectomy, lap Anterior Resection with Coloanal Anastomosis",
-      "Pancreatic Surgery - Whipples op., Lap Gastrocystostomy",
-      "Gall Bladder - Open/Laparoscopic/cholecystectomy, Cholesystostomy, Hepatojejunostomy, Lap CBD exploration Laparoscopic Splenectomy Open/Laparoscopic appendectomy, Appendicular Abscess Drainage",
-      "Bariatric Surgery - Gastric Bypass (Laparoscopic) Sleeve Gastrectomy (Laparoscopic) Gastric Banding (Laparoscopic)",
-      "Thyroid Surgery - Sub total, Total, Hemi thyroidectomy"
+      "Kolorektal jarrohlik",
+      "Jigar jarrohligi - Lap/Ochiq jigar xo'ppozini drenajlash, gidatik, jigar biopsiyasi",
+      "Oshqozon jarrohligi - Lap sleeve gastrektomiya, Lap Fundoplikatsiyasi, Ca oshqozon uchun gastrektomiya, Lap Cystogastrostomy Ramsted operatsiyasi, GJ, Vagotomiya va boshqalar",
+      "Yo'g'on ichak jarrohligi - Lap hemikolektomiya, Kolostomiya, APR, Valvulus rezektsiyasi. / Anastomoz, Lap Kolektomiyasi, Yo'g'on ichak anastomozi bilan tizzaning oldingi rezektsiyasi",
+      "Oshqozon osti bezi jarrohligi - Whipples op., Lap Gastrotsistostomiya",
+      "O't pufagi - Ochiq/Laparoskopik/xoletsistektomiya, Xolesistostomiya, Gepatojeyunostomiya, Lap CBD eksploratsiyasi Laparoskopik Splenektomiya Ochiq/Laparoskopik appendektomiya, Appendikulyar xo'ppoz drenaji",
+      "Bariatrik jarrohlik - Gastrik Bypass (Laparoskopik) Gastrektomiya (Laparoskopik) Oshqozonni bog'lash (Laparoskopik)",
+      "Qalqonsimon bez jarrohligi - umumiy, umumiy, hemi tiroidektomiya"
     ],
     "training": [
-      "FELLOW in M.A.S., December 2003 - Sir Ganga Ram Hospital"
+      "M.A.S.dagi FELLOW, 2003 yil dekabr - Ser Ganga Ram kasalxonasi"
     ],
-    "education": "M.S. (Gen. Surg.), D.N.B. (Gen. Surg.), M.B.B.S.",
+    "education": "XONIM. (Gen. Surg.), D.N.B. (Gen. Surg.), M.B.B.S.",
     "work": [
-      "Head of the Department, General, Min Access & Bariatric Surgery at Artemis Hospitals, Sector 51, Gurgaon, India.",
-      "Joined Artemis Hospitals in December 2012 as Senior Consultant, later promoted to Head of Department.",
-      "Previously served as Head of Department of General Surgery & Min Access Surgery at Indian Spinal Injury Centre and Nova Specialty Surgery.",
-      "Worked as Head of Department at Columbia Asia Hospital GBD from 2010 to 2011.",
-      "Served as Senior Consultant in the Department of General Surgery & Minimal Access Surgery at Max Super Specialty Hospital, Saket from 2007 to 2010.",
-      "Worked as Senior Consultant at Fortis Hospital, Vasant Kunj from 2005 to 2007.",
-      "Practicing in Delhi and NCR for the past 17 years.",
-      "Performed over 14,000 successful surgeries, specializing in abdominal and gastrointestinal surgeries.",
-      "Trainer and Faculty at Ethicon Institute of Surgical Education (EISE), New Delhi.",
-      "Teaching Faculty at Artemis Hospitals, involved in training and teaching DNB Postgraduate students in General Surgery.",
-      "Instrumental in getting the National Board's approval to start Super Specialty teaching program in FNB (Minimal Access Surgery) from 2018 onwards.",
-      "Faculty for FIAGES (Fellowship of Indian Association of Gastro-Endoscopic Surgeons)."
+      "Artemis kasalxonalarida umumiy, minimal kirish va bariatrik jarrohlik bo'limi boshlig'i, sektor 51, Gurgaon, Hindiston.",
+      "2012 yil dekabr oyida Artemis kasalxonalariga katta maslahatchi sifatida qo'shildi, keyinchalik bo'lim boshlig'i lavozimiga ko'tarildi.",
+      "Ilgari Hindiston o'murtqa jarohatlar markazi va Nova maxsus jarrohlik markazida umumiy jarrohlik va minus jarrohlik bo'limi boshlig'i lavozimida ishlagan.",
+      "2010 yildan 2011 yilgacha Columbia Asia Hospital GBD da bo'lim boshlig'i sifatida ishlagan.",
+      "2007 yildan 2010 yilgacha Max Super ixtisoslashtirilgan kasalxonasida umumiy jarrohlik va minimal kirish jarrohlik bo'limida katta maslahatchi bo'lib ishlagan.",
+      "2005 yildan 2007 yilgacha Vasant Kunj Fortis kasalxonasida katta maslahatchi bo'lib ishlagan.",
+      "So'nggi 17 yil davomida Dehli va NCRda amaliyot.",
+      "Qorin bo'shlig'i va oshqozon-ichak operatsiyalariga ixtisoslashgan 14 000 dan ortiq muvaffaqiyatli operatsiyalarni amalga oshirdi.",
+      "Etikon Jarrohlik Ta'limi Instituti (EISE), Nyu-Dehli) murabbiyi va o'qituvchisi.",
+      "Artemis kasalxonalarida o'qituvchilik fakulteti, umumiy jarrohlik bo'yicha DNB aspirantlarini tayyorlash va o'qitish bilan shug'ullanadi.",
+      "2018 yildan boshlab FNBda (Minimal kirish jarrohligi) Super Mutaxassislik o'qitish dasturini boshlash uchun Milliy Kengashning roziligini olishda vosita.",
+      "FIAGES fakulteti (Hindiston gastro-endoskopik jarrohlar uyushmasi stipendiyasi)."
     ],
     "description": [
-      "Dr. Paritosh S Gupta is the Head of the Department of General, Minimal Access & Bariatric Surgery at Artemis Hospitals, Gurgaon, India.",
-      "He joined Artemis Hospitals in December 2012 as a Senior Consultant and was later promoted to Head of Department.",
-      "Previously, he has served as Head of the Department of General Surgery & Minimal Access Surgery at Indian Spinal Injury Centre and Nova Specialty Surgery, and as Head of Department at Columbia Asia Hospital GBD.",
-      "He has worked as a Senior Consultant in Department of General Surgery & Minimal Access Surgery at Max Super Specialty Hospital, Saket, and at Fortis Hospital, Vasant Kunj.",
-      "Dr. Gupta has over 17 years of experience practicing in Delhi and NCR.",
-      "He has performed more than 14,000 successful surgeries, showcasing his extensive expertise in abdominal and gastrointestinal surgeries.",
-      "Dr. Gupta is a graduate from Sh. M P Shah Medical College, Jamnagar, Gujarat, and completed his MS (Gen Surgery) there. He is a Board-certified surgeon from the National Board (DNB, Gen Surgery).",
-      "He holds a Membership from the National Academy of Medical Sciences and is an alumnus of IIM Calcutta, where he completed the Leadership & Management Executive Programme in 2016.",
-      "He has been awarded FMAS (Fellow Minimal Access Surgery) by AMASI and FAIS (Fellow Association of Surgeons of India) for his contributions to General Surgery.",
-      "Dr. Gupta is a trainer and faculty at the Ethicon Institute of Surgical Education (EISE) and has trained many surgeons in Solid Organ Laparoscopic Surgery.",
-      "He is also a teaching faculty at Artemis Hospitals, involved in training and teaching DNB Postgraduate students in General Surgery, and has helped establish the FNB (Minimal Access Surgery) program.",
-      "Dr. Gupta is an active member of various committees, including Renal Transplant and Infection Control committees, and has contributed to the efficient running of operation theatres."
+      "Doktor Paritosh S Gupta Artemis kasalxonalarida umumiy, minimal kirish va bariatrik jarrohlik bo'limi boshlig'i, Gurgaon, Hindiston.",
+      "U 2012 yil dekabr oyida Artemis kasalxonalariga katta maslahatchi sifatida qo'shildi va keyinchalik bo'lim boshlig'i lavozimiga ko'tarildi.",
+      "Ilgari u Hindiston o'murtqa jarohatlar markazi va Nova maxsus jarrohligida umumiy jarrohlik va minimal kirish jarrohligi bo'limi boshlig'i va Kolumbiya Osiyo kasalxonasi GBDda bo'lim boshlig'i lavozimlarida ishlagan.",
+      "U Saket Maks Super ixtisoslashtirilgan kasalxonasida va Vasant Kunj Fortis kasalxonasida Umumiy jarrohlik va minimal kirish jarrohlik bo'limida katta maslahatchi bo'lib ishlagan.",
+      "Doktor Gupta Dehli va NCRda 17 yildan ortiq tajribaga ega.",
+      "U 14000 dan ortiq muvaffaqiyatli operatsiyalarni amalga oshirib, qorin bo'shlig'i va oshqozon-ichak operatsiyalari bo'yicha o'zining katta tajribasini namoyish etdi.",
+      "Doktor Gupta Jamnagar, Gujarat shtatidagi Sh.MP Shah tibbiyot kollejini tamomlagan va shu yerda magistratura darajasini (Gen jarrohlik) tamomlagan. U Milliy kengash (DNB, Gen jarrohlik) kengashi tomonidan sertifikatlangan jarrohdir.",
+      "U Milliy Tibbiyot fanlari akademiyasining a'zoligiga ega va IIM Kalkutta bitiruvchisi bo'lib, u erda 2016 yilda Leadership & Management Executive dasturini tamomlagan.",
+      "U umumiy jarrohlik sohasiga qo'shgan hissasi uchun AMASI va FAIS (Hindiston jarrohlar uyushmasi) tomonidan FMAS (Fellow Minimal Access Surgery) bilan taqdirlangan.",
+      "Doktor Gupta Etikon Jarrohlik Ta'limi Institutida (EISE) trener va o'qituvchi bo'lib, qattiq organ laparoskopik jarrohlik bo'yicha ko'plab jarrohlarni tayyorlagan.",
+      "U, shuningdek, Artemis kasalxonalarida o'qituvchi bo'lib, umumiy jarrohlik bo'yicha DNB aspirantura talabalarini tayyorlash va o'qitish bilan shug'ullanadi va FNB (Minimal Access Surgery) dasturini yaratishga yordam berdi.",
+      "Doktor Gupta turli qo'mitalar, jumladan, buyrak transplantatsiyasi va infektsiyani nazorat qilish qo'mitalarining faol a'zosi bo'lib, operatsiya teatrlarining samarali ishlashiga hissa qo'shgan."
     ]
   },
   "d73": {
     "id": 73,
     "hid": 1,
     "name": "Dr Sanjay Sarup",
-    "post": "Head – Othopaedics (Unit-II) and Chief – Paediatric Orthopaedics & Spine Surgery",
+    "post": "Bosh – Ortopediya (II bo‘lim) va bosh – Bolalar ortopediyasi va umurtqa pog‘onasi jarrohligi",
     "image": "d23.jpg",
     "experience": "24+",
     "top": false,
     "speciality": [
-      "Children’s Orthopaedics and Spine Surgery",
-      "Orthopaedics",
-      "Scoliosis Surgery",
-      "Spine Surgery"
+      "Bolalar ortopediyasi va orqa miya jarrohligi",
+      "Ortopediya",
+      "Skolioz jarrohligi",
+      "Omurga jarrohligi"
     ],
     "training": [
-      "24 years of experience in orthopaedic surgery.",
-      "Trained at PGIMER Chandigarh, KEM Hospital, and Nair Hospitals in Mumbai.",
-      "Obtained FRCS & MCh Ortho qualifications in the United Kingdom.",
-      "Awarded a fellowship in Paediatric Orthopaedics and Spine surgery at the Royal Hospital for Sick Children, Glasgow in 1998."
+      "Ortopedik jarrohlik bo'yicha 24 yillik tajriba.",
+      "PGIMER Chandigarh, KEM kasalxonasi va Mumbaydagi Nair kasalxonalarida o'qitilgan.",
+      "Birlashgan Qirollikda FRCS & MCh Ortho malakalarini oldi.",
+      "1998 yilda Glazgodagi kasal bolalar uchun Qirollik kasalxonasida bolalar ortopediyasi va umurtqa pog'onasi jarrohligi bo'yicha stipendiya sovrindori."
     ],
-    "education": "MBBS - University Of Kashmir, MS (Orthopaedics) - PGIMR Chandigarh, MCh (Orthopaedics) - Dundee,UK, FRCS - Glasgow",
+    "education": "MBBS - Kashmir universiteti, MS (Ortopediya) - PGIMR Chandigarh, MCh (Ortopediya) - Dandi, Buyuk Britaniya, FRCS - Glasgow",
     "work": [
-      "First qualified pediatric orthopedic surgeon to set up practice in Delhi.",
-      "Started the Paediatric Orthopaedic Unit at Sir Ganga Ram Hospital in 2004.",
-      "Developed the paediatric orthopaedic and spine division at Medanta Medicity in 2009.",
-      "Specializes in Congenital Hip Dislocations, Club Foot Deformity, and Scoliosis correction."
+      "Dehlida amaliyotni yo'lga qo'ygan birinchi malakali bolalar ortopedi jarrohi.",
+      "2004 yilda Ser Ganga Ram kasalxonasida bolalar ortopediyasi bo'limini ishga tushirgan.",
+      "2009 yilda Medanta Medicitida bolalar ortopediyasi va umurtqa pog'onasi bo'limini ishlab chiqdi.",
+      "Tug'ma kalça dislokatsiyasi, oyoq deformatsiyasi va skoliozni tuzatishga ixtisoslashgan."
     ],
     "description": [
-      "Dr. Sarup brings 24 years of experience in the field of orthopaedic surgery.",
-      "He has trained at renowned centers in India and obtained his FRCS & MCh Ortho qualifications in the United Kingdom.",
-      "He super-specializes in Paediatric Orthopaedics and Spine surgery.",
-      "Dr. Sarup was the first qualified pediatric orthopedic surgeon to set up practice in Delhi.",
-      "He has made significant contributions to the field by establishing and developing pediatric orthopaedic units at Sir Ganga Ram Hospital and Medanta Medicity.",
-      "His special interests include Congenital Hip Dislocations, Club Foot Deformity, and Scoliosis correction."
+      "Doktor Sarup ortopedik jarrohlik sohasida 24 yillik tajribaga ega",
+      "U Hindistondagi taniqli markazlarda o'qigan va Buyuk Britaniyada FRCS & MCh Ortho malakasini olgan.",
+      "U bolalar ortopediyasi va umurtqa pog'onasi jarrohligi bo'yicha juda ixtisoslashgan.",
+      "Doktor Sarup Dehlida amaliyotni yo'lga qo'ygan birinchi malakali bolalar ortopedi jarrohi edi",
+      "U Ser Ganga Ram kasalxonasi va Medanta Medicitida bolalar ortopediya bo'limlarini tashkil etish va rivojlantirish orqali sohaga katta hissa qo'shdi.",
+      "Uning alohida qiziqishlari orasida tug'ma sonlarning dislokatsiyasi, oyoq deformatsiyasi va skoliozni tuzatish kiradi."
     ]
   },
   "d74": {
     "id": 74,
     "hid": 1,
     "name": "Dr Renu Sehgal",
-    "post": "Chairperson - Department of Obstetrics & Gynaecology",
+    "post": "Akusherlik va ginekologiya kafedrasi mudiri",
     "image": "d25.jpg",
     "experience": "",
     "top": false,
     "speciality": [
-      "High Risk Obstetrics / Recurrent Pregnancy Loss ",
-      "Endometriosis",
-      "PCOS ",
-      "Menstrual Disorders",
-      "Abnormal Uterine Bleeding",
-      "Gynaecological Cancers",
-      "Pregnancy Complications",
-      "Pelvic Floor Disorders",
-      "Uterine Fibroids",
-      "Ovarian Cysts",
-      "Adolescent Health",
-      "Menopause",
-      "Infertility"
+      "Yuqori xavfli akusherlik / takroriy homiladorlikni yo'qotish",
+      "Endometrioz",
+      "PCOS",
+      "Hayz davrining buzilishi",
+      "Anormal bachadon qon ketishi",
+      "Ginekologik saraton",
+      "Homiladorlik asoratlari",
+      "Tos bo'shlig'i kasalliklari",
+      "Bachadon miomasi",
+      "tuxumdon kistalari",
+      "O'smirlar salomatligi",
+      "Menopauza",
+      "Bepushtlik"
     ],
     "training": [
-      "Membership of National Academy of Medical Sciences (MNAMS), New Delhi.",
-      "Fellowship Program in Advanced Gynaecological Laparoscopy, Cochin, Kerala",
-      "Fellowship of the Association of Minimal Access Surgeons of India (FMAS)",
-      "Credentialed IMS Menopause Practitioner (CIMP)",
-      "Certified in Da Vinci Robotic Gynae Surgery"
+      "Milliy Tibbiyot fanlari akademiyasining (MNAMS) a'zoligi, Nyu-Dehli.",
+      "Ilg'or ginekologik laparoskopiya bo'yicha stipendiya dasturi, Cochin, Kerala",
+      "Hindiston Minimal kirish jarrohlari uyushmasi (FMAS) stipendiyasi",
+      "Ishonchli IMS menopauza amaliyotchisi (CIMP)",
+      "Da Vinchi robotli ginekologik jarrohlik bo'yicha sertifikatlangan"
     ],
-    "education": "MBBS, Postgraduation (DNB) in Obstetrics & Gynaecology",
+    "education": "MBBS, akusherlik va ginekologiya bo'yicha aspirantura (DNB).",
     "work": [
-      "Currently Chairperson, Department of Obstetrics & Gynaecology at Artemis and Daffodils Hospitals, Gurgaon.",
-      "Previously associated with Max Super Speciality Hospital, Saket, New Delhi and Sir Ganga Ram Hospital, New Delhi.",
-      "Experienced in handling High Risk Obstetrics.",
-      "Skilled in major & minor Laparoscopic, Hysteroscopic & Robotic Surgeries."
+      "Hozirda Artemis va Daffodils kasalxonalarida akusherlik va ginekologiya bo'limi raisi, Gurgaon.",
+      "Ilgari Max Super Specialty Hospital, Saket, New Dehli va Sir Ganga Ram Hospital, New Dehli.",
+      "Yuqori xavfli akusherlik bilan shug'ullanish tajribasi.",
+      "Katta va kichik laparoskopik, histeroskopik va robotli jarrohlik bo'yicha malakaga ega."
     ],
     "description": [
-      "Dr. Renu Raina Sehgal is a well-known Obstetrician and Gynaecologist with over 25 years of extensive experience.",
-      "She currently chairs the Department of Obstetrics & Gynaecology at Artemis and Daffodils Hospitals, Gurgaon.",
-      "Her expertise includes handling High Risk Obstetrics and performing various Laparoscopic, Hysteroscopic, and Robotic Surgeries.",
-      "Dr. Sehgal is a board certified guide and teacher for postgraduate students in Obstetrics & Gynaecology.",
-      "She has been involved in Quality accreditation initiatives (NABH/JCI) of hospitals and is an expert on medico-legal issues.",
-      "She has contributed numerous articles, presentations, and publications in indexed journals and has been invited as a faculty/speaker at various conferences, workshops, and seminars."
+      "Doktor Renu Raina Sehgal 25 yildan ortiq katta tajribaga ega taniqli akusher-ginekolog.",
+      "U hozirda Gurgaondagi Artemis va Daffodils kasalxonalarida akusherlik va ginekologiya bo'limiga rahbarlik qiladi.",
+      "Uning tajribasi yuqori xavfli akusherlik bilan shug'ullanish va turli xil laparoskopik, histeroskopik va robotli operatsiyalarni bajarishni o'z ichiga oladi.",
+      "Doktor Sehgal - akusherlik va ginekologiya bo'yicha aspirantlar uchun sertifikatlangan qo'llanma va o'qituvchi.",
+      "U shifoxonalarning Sifat akkreditatsiyasi tashabbuslarida (NABH/JCI) ishtirok etgan va tibbiy-huquqiy masalalar bo'yicha mutaxassisdir.",
+      "U indekslangan jurnallarda ko'plab maqolalar, taqdimotlar va nashrlar bilan qatnashgan va turli konferentsiyalar, seminarlar va seminarlarda fakultet/ma'ruzachi sifatida taklif qilingan."
     ]
   },
   "d75": {
     "id": 75,
     "hid": 1,
     "name": "Dr Amit Kumar chaurasia",
-    "post": "Chief Cath Lab & TAVI (Unit I) - Cardiology, Interventional Cardiology, TAVI / TAVR & Structural Heart Diseases",
+    "post": "Bosh Cath Laboratoriyasi va TAVI (I bo'lim) - Kardiologiya, Interventsion Kardiologiya, TAVI / TAVR va Strukturaviy yurak kasalliklari",
     "image": "d26.jpg",
     "experience": "13+",
     "top": false,
     "speciality": [
-      "Transcatheter Aortic Valve Implantation (TAVI)",
-      "Transcatheter Pulmonary Valve Implantation (TPVR)",
-      "Mitra Clip",
-      "Transcatheter Tricuspid Valve Therapy",
-      "TEVAR/EVAR Complex Coronary Interventions",
-      "Rotational Atherectomy",
-      "Transradial Interventions",
-      "Peripheral Interventions including Carotid and Renal",
-      "Device Closure of Congenital Heart Defects (ASD, VSD, and PDA)",
-      "Pacemakers, ICD’s and Cardiac",
-      "Resynchronisation Therapy Implants",
-      "Balloon Valvuloplasty Permanent Pacemaker Implantation"
+      "Aorta qopqog'ini transkateter implantatsiyasi (TAVI)",
+      "Pulmoner qopqoqni transkateter implantatsiyasi (TPVR)",
+      "Mitra klipi",
+      "Transkateter triküspidli qopqoq terapiyasi",
+      "TEVAR/EVAR kompleks koronar aralashuvlar",
+      "Rotatsion aterektomiya",
+      "Transradial aralashuvlar",
+      "Periferik aralashuvlar, shu jumladan karotid va buyraklar",
+      "Tug'ma yurak nuqsonlarini qurilma bilan yopish (ASD, VSD va PDA)",
+      "Kardostimulyatorlar, ICD va yurak",
+      "Resinxronizatsiya terapiyasi implantlari",
+      "Balonli valvuloplastika doimiy yurak stimulyatori implantatsiyasi"
     ],
     "training": [
-      "Fellowship in Complex coronary and Structural Heart Disease (Europe)",
-      "Fellow of European Society of Cardiology",
-      "Fellow of Asia Pacific Society of Interventional Cardiology"
+      "Koronar va tizimli yurak kasalliklari bo'yicha stipendiya (Yevropa)",
+      "Yevropa kardiologiya jamiyati a'zosi",
+      "Osiyo Tinch okeani interventional kardiologiya jamiyati a'zosi"
     ],
-    "education": "MBBS,MD, Internal Medicine (AIIMS, New Delhi), DM, Cardiology (SCTIMST, Trivandrum)",
+    "education": "MBBS, MD, ichki kasalliklar (AIIMS, Nyu-Dehli), DM, kardiologiya (SCTIMST, Trivandrum)",
     "work": [
-      "Director TAVI/TAVR and Structural Heart Disease and senior consultant cardiology, Proctor and Consultant for Medtronic CoreValve and Evolut R TAVI, Proctor and Consultant for Medtronic TEVAR/EVAR system - EHCC, Jaipur, India",
-      "Director TAVI/TAVR and Structural Heart Disease and senior consultant cardiology,Proctor and Consultant for Medtronic CoreValve and Evolut R TAVI, Proctor and Consultant for Medtronic TEVAR/EVAR system - Artemis Hospitals, Gurugram",
-      "Consultant Interventional Cardiology, BLK Superspeciality Hospital, Delhi",
-      "Fellow in Complex coronary and Structural Heart Disease (Europe)",
-      "Consultant Interventional Cardiology, Bankers Heart Institute, Surat",
-      "Assistant Prof. Cardiology, RGSH, Delhi",
-      "PDF, Interventional Cardiology, UNMICR, Ahmedabad",
-      "Associate Prof. Cardiology, CMS, Bharatpur, Nepal",
-      "Cardiology Fellowship, SCTIMST, Trivandrum",
-      "Internal Medicine Residency, AIIMS, Delhi"
+      "TAVI/TAVR va tizimli yurak kasalliklari direktori va katta maslahatchi kardiologiya, Medtronic CoreValve va Evolut R TAVI proktori va maslahatchisi, Medtronic TEVAR/EVAR tizimi bo'yicha proktor va maslahatchi - EHCC, Jaypur, Hindiston",
+      "TAVI/TAVR va Strukturaviy yurak kasalliklari direktori va katta maslahatchi kardiologiya, Medtronic CoreValve va Evolut R TAVI proktori va maslahatchisi, Medtronic TEVAR/EVAR tizimi proktori va maslahatchisi - Artemis kasalxonalari, Gurugram",
+      "Interventional kardiologiya maslahatchisi, BLK Superspeciality Hospital, Dehli",
+      "Yurakning murakkab koronar va tizimli kasalliklari bo'yicha ilmiy xodim (Yevropa)",
+      "Interventional kardiologiya maslahatchisi, Bankers Heart Institute, Surat",
+      "Dotsent Kardiologiya, RGSH, Dehli",
+      "PDF, interventsion kardiologiya, UNMICR, Ahmadobod",
+      "Dotsent Kardiologiya, CMS, Bharatpur, Nepal",
+      "Kardiologiya stipendiyasi, SCTIMST, Trivandrum",
+      "Ichki kasalliklar rezidensiyasi, AIIMS, Dehli"
     ],
     "description": [
-      "Dr. Amit Kumar Chaurasia is an interventional cardiologist with extensive training from JIPMER, AIIMS, SCTIMST, and GOKI.",
-      "He specializes in Transcatheter Aortic Valve Implantation/Replacement (TAVI/TAVR), with one of the highest numbers of procedures in India.",
-      "Dr. Chaurasia has also performed Transcatheter Pulmonary Valve Replacement (TPVR) in the smallest conduit in India and has a special interest in TMVR, BMV, Mitra-clip, and left atrial appendage closures.",
-      "He has a strong background in complex coronary interventions, including Left Main and CTO procedures, and performs various congenital heart defect closures.",
-      "His expertise extends to carotid and aortoiliac interventions, including TEVAR and EVAR, and advanced catheter-based hypertension treatments.",
-      "Dr. Chaurasia is involved in training and mentoring doctors in these procedures both nationally and internationally and has performed over 10,000 cardiac procedures."
+      "Doktor Amit Kumar Chaurasia - JIPMER, AIIMS, SCTIMST va GOKIdan keng ta'lim olgan interventsion kardiolog.",
+      "U Hindistondagi eng ko'p protseduralardan biri bo'lgan Transkateter aorta qopqog'ini implantatsiyasi/almashtirish (TAVI/TAVR) bo'yicha ixtisoslashgan.",
+      "Doktor Chaurasia, shuningdek, Hindistondagi eng kichik kanalda Transkateter o'pka qopqog'ini almashtirish (TPVR) ni amalga oshirdi va TMVR, BMV, Mitra-klip va chap atriyal qo'shimchalarning yopilishiga alohida qiziqish bildiradi.",
+      "U murakkab koronar aralashuvlar, shu jumladan Chap asosiy va CTO muolajalarida kuchli ma'lumotga ega va turli xil tug'ma yurak nuqsonlarini yopadi.",
+      "Uning tajribasi karotid va aortoiliak aralashuvlarga, shu jumladan TEVAR va EVARga va ilg'or kateterga asoslangan gipertenziyani davolashga taalluqlidir.",
+      "Doktor Chaurasia milliy va xalqaro miqyosda shifokorlarni ushbu muolajalar bo'yicha o'qitish va maslahat berish bilan shug'ullanadi va 10 000 dan ortiq yurak muolajalarini amalga oshirdi."
     ]
   },
   "d76": {
     "id": 76,
     "hid": 1,
     "name": "Dr Kuldeep Arora",
-    "post": "Unit Head & Chief Cath Lab (Unit II) - Cardiology, Interventional Cardiology",
+    "post": "Bo'lim boshlig'i va bosh katologiya laboratoriyasi (II bo'lim) - kardiologiya, interventsion kardiologiya",
     "image": "d27.jpg",
     "experience": "26+",
     "top": false,
     "speciality": [
-      "Complex Coronary Interventions",
-      "Rotational Atherectomy",
-      "Transradial Interventions",
-      "Peripheral Interventions including Carotid and Renal",
-      "Device Closure of Congenital Heart Defects",
-      "Pacemakers, ICD’s and Cardiac Resynchronisation Therapy Implants",
-      "Balloon Valvuloplasty",
-      "Permanent pacemaker implantation"
+      "Murakkab koronar aralashuvlar",
+      "Rotatsion aterektomiya",
+      "Transradial aralashuvlar",
+      "Periferik aralashuvlar, shu jumladan karotid va buyraklar",
+      "Tug'ma yurak nuqsonlarini yopuvchi qurilma",
+      "Kardiostimulyatorlar, ICD va yurak resinxronizatsiya terapiyasi implantlari",
+      "Balon valvuloplastika",
+      "Doimiy yurak stimulyatori implantatsiyasi"
     ],
     "training": [
-      "D.M. in Cardiology from Sri Jayadeva Institute of Cardiovascular Sciences and Research (SJIC), Bangalore.",
-      "Served as Lecturer and Assistant Professor of Cardiology at SJICR Bangalore."
+      "Shri Jayadeva yurak-qon tomir fanlari va tadqiqot instituti (SJIC), Bangalor) kardiologiya bo'yicha doktor.",
+      "SJICR Bangalorda kardiologiya o'qituvchisi va assistenti sifatida xizmat qilgan."
     ],
-    "education": "MBBS, MD - General Medicine, DM - Cardiology",
+    "education": "MBBS, MD - Umumiy tibbiyot, DM - Kardiologiya",
     "work": [
-      "Associate Director & Senior Consultant-Cardiology- Paras Hospital, Gurgaon",
-      "Consultant- Cardiology - Seven Hills Hospital, Mumbai",
-      "Consultant- Cardiology - Wockhardt Hospitals, Nagpur",
-      "Assistant Professor- Sri Jayadeva Institute of Cardiovascular Sciences and Research, Bangalore"
+      "Direktor o'rinbosari va katta kardiologiya maslahatchisi - Paras kasalxonasi, Gurgaon",
+      "Konsultant - Kardiologiya - Seven Hills kasalxonasi, Mumbay",
+      "Konsultant-kardiologiya - Vockhardt kasalxonalari, Nagpur",
+      "Yordamchi professor - Shri Jayadeva yurak-qon tomir fanlari va tadqiqot instituti, Bangalor"
     ],
     "description": [
-      "Dr. Kuldeep Arora is a Senior Consultant Cardiologist at Artemis Hospital, Gurgaon, with 16 years of experience in interventional cardiology.",
-      "He has performed over 12,000 therapeutic cardiac interventions, including coronary angioplasties, permanent pacemaker implantations, AICDs, biventricular pacemakers, and atrial septal defect device closure procedures.",
-      "Dr. Arora specializes in angiography and angioplasty via the radial route, and has expertise in managing heart attacks, pacemaker implantation, ICDs, CRT implantation, and device closure for atrial septal defects.",
-      "Prior to joining Artemis Hospital, he was Associate Director of Cardiology at Paras Hospitals, Gurgaon, and served as a lecturer and assistant professor at SJICR Bangalore.",
-      "He is also focused on increasing public awareness of heart disease."
+      "Doktor Kuldeep Arora Gurgaondagi Artemis kasalxonasida katta maslahatchi kardiolog, interventsion kardiologiyada 16 yillik tajribaga ega.",
+      "U 12 000 dan ortiq terapevtik yurak muolajalarini amalga oshirdi, jumladan, koronar angioplastikalar, doimiy yurak stimulyatori implantatsiyasi, AICDlar, biventrikulyar yurak stimulyatori va atriyal septal nuqsonli qurilmani yopish protseduralari.",
+      "Doktor Arora radial yo'l orqali angiografiya va angioplastikaga ixtisoslashgan va yurak xurujlarini boshqarish, yurak stimulyatori implantatsiyasi, ICDlar, CRT implantatsiyasi va atriyal septal nuqsonlar uchun qurilmani yopish tajribasiga ega.",
+      "Artemis kasalxonasiga qo'shilishdan oldin u Gurgaondagi Paras kasalxonalarida kardiologiya bo'yicha direktor o'rinbosari bo'lgan va Bangalordagi SJICRda o'qituvchi va dotsent bo'lib ishlagan.",
+      "U shuningdek, yurak xastaliklari haqida aholining xabardorligini oshirishga e'tibor qaratmoqda."
     ]
   },
   "d77": {
     "id": 77,
     "hid": 1,
     "name": "Dr Sameer Mehrotra",
-    "post": "Unit Chief - Interventional Cardiology & Electrophysiology",
+    "post": "Bo'lim boshlig'i - Interventsion kardiologiya va elektrofiziologiya",
     "image": "d28.jpg",
     "experience": "24+",
     "top": false,
     "speciality": [
-      "Complex Angioplasty",
-      "Peripheral Angioplasty",
-      "Device Implantation",
-      "Lead Extraction",
-      "Electrophysiology",
+      "Murakkab angioplastika",
+      "Periferik angioplastika",
+      "Qurilmani implantatsiya qilish",
+      "Qo'rg'oshin qazib olish",
+      "Elektrofiziologiya",
       "BMV"
     ],
     "training": [
-      "Fellowship - The Society for Cardiovascular Angiography & Intervention (SCAI)",
-      "Fellowship - The Heart Rhythm Society (FHRS)",
-      "Fellowship - European Society of Cardiology (FESC)",
-      "Fellowship - Fellow of American College of Cardiology (FACC)"
+      "Fellowship - Yurak-qon tomir angiografiyasi va aralashuvi jamiyati (SCAI)",
+      "Fellowship - Yurak Ritmi Jamiyati (FHRS)",
+      "Fellowship - Evropa Kardiologiya Jamiyati (FESC)",
+      "Fellowship - Amerika Kardiologiya kolleji (FACC) a'zosi"
     ],
-    "education": "MBBS, MD (General Medicine), DM (Cardiology), IBHRE-Certified Cardiac Device Specialist - CCDS Physician.",
+    "education": "MBBS, MD (Umumiy tibbiyot), DM (kardiologiya), IBHRE tomonidan tasdiqlangan yurak apparati mutaxassisi - CCDS shifokori.",
     "work": [
-      "Performs primary and elective angioplasties.",
-      "Specializes in electrophysiology (EP) and ablation procedures for conditions such as VT (Ventricular Tachycardia) and AF (Atrial Fibrillation).",
-      "Certified device specialist with expertise in performing PPI (Permanent Pacemaker Implantation) and CRT-D (Cardiac Resynchronization Therapy with Defibrillator) implantation.",
-      "Previously associated with BLK Super Speciality Hospital, New Delhi."
+      "Birlamchi va elektiv angioplastikani amalga oshiradi.",
+      "VT (Ventrikulyar taxikardiya) va AF (atriyal fibrilatsiya) kabi holatlar uchun elektrofiziologiya (EP) va ablasyon protseduralari bo'yicha ixtisoslashgan.",
+      "PPI (doimiy yurak stimulyatori implantatsiyasi) va CRT-D (defibrillyator bilan yurak resinxronizatsiyasi terapiyasi) implantatsiyasini amalga oshirish bo'yicha tajribaga ega sertifikatlangan qurilma mutaxassisi.",
+      "Ilgari BLK Super Specialty Hospital, Nyu-Dehli bilan bog'langan."
     ],
     "description": [
-      "Dr. Sameer Mehrotra is a dynamic and highly skilled Interventional Cardiologist and Cardiac Electrophysiologist.",
-      "He has extensive experience in performing primary and elective angioplasties, as well as electrophysiology (EP) and ablation procedures for conditions such as VT and AF.",
-      "He is also a certified device specialist, skilled in PPI and CRT-D implantation.",
-      "Dr. Mehrotra is a member of the Cardiological Society of India and the Indian Heart Rhythm Society.",
-      "He has published numerous research papers in national and international journals."
+      "Doktor Sameer Mehrotra - dinamik va yuqori malakali interventsion kardiolog va yurak elektrofiziologi.",
+      "U birlamchi va elektiv angioplastikani, shuningdek, VT va AF kabi holatlar uchun elektrofiziologiya (EP) va ablasyon protseduralarini bajarishda katta tajribaga ega.",
+      "U shuningdek, PPI va CRT-D implantatsiyasi bo'yicha malakali sertifikatlangan qurilma mutaxassisi.",
+      "Doktor Mehrotra Hindiston Kardiologiya Jamiyati va Hindiston yurak ritmi jamiyati a'zosi.",
+      "– U milliy va xalqaro jurnallarda ko‘plab ilmiy maqolalari chop etilgan."
     ]
   },
   "d78": {
     "id": 78,
     "hid": 1,
     "name": "Dr Sushant Srivastava",
-    "post": "Chairperson Heart & Lungs Transplant",
+    "post": "Rais yurak va o'pka transplantatsiyasi",
     "image": "d29.jpg",
     "experience": "30+",
     "top": false,
     "speciality": [
-      "Heart Transplant and Left Ventricular Assiced Device implantation",
-      "Aortic Aneurysm Surgery",
-      "Coronary Artery Bypass Grafting",
-      "Valve Replacement and Repair",
-      "Peripheral Vascular Surgery including Varicose Vein Surgery"
+      "Yurak transplantatsiyasi va chap qorincha bilan biriktirilgan qurilma implantatsiyasi",
+      "Aorta anevrizmasi jarrohligi",
+      "Koronar arteriya bypass payvandlash",
+      "Vanalarni almashtirish va ta'mirlash",
+      "Periferik qon tomir jarrohligi, shu jumladan varikoz tomirlari jarrohligi"
     ],
     "training": [
-      "Completed M.Ch in Cardio-Vascular Surgery at AIIMS, New Delhi, in 1994.",
-      "Served as Assistant Professor at AIIMS, New Delhi until September 1998.",
-      "Received specialized training in Cardio-Vascular Surgery, including Heart Transplant and Ventricular Assist Device Program at AIIMS."
+      "AIIMS, Nyu-Dehli, 1994 yilda yurak-qon tomir jarrohligi bo'yicha M.Ch.",
+      "AIIMS, Nyu-Dehlida 1998 yil sentyabrgacha yordamchi professor bo'lib ishlagan.",
+      "AIIMSda yurak-qon tomir jarrohligi, shu jumladan yurak transplantatsiyasi va qorinchalarni yordamchi qurilma dasturi bo'yicha maxsus treningdan o'tgan."
     ],
-    "education": "M. Ch. In Cardiothoracic and Vascular Surgery, MS  in General Surgery",
+    "education": "M. Ch. Kardiyotorasik va qon tomir jarrohligida, umumiy jarrohlik bo'yicha MS",
     "work": [
-      "Performed successful beating heart bypass surgery on a 96-year-old patient, possibly the oldest reported patient to have undergone this operation.",
-      "Performed the first ‘STITCH-LESS’ valve implantation in India.",
-      "Conducted the first ‘awake’ CABG north of Delhi.",
-      "Specialized in endovascular therapy for Aortic Aneurysms and Aortic Aneurysm Surgery, including Re-Dos and Hybrid Procedures.",
-      "Expertise in complex vascular procedures on the aorta, carotid arteries, and lower limb vessels.",
-      "Experience in surgery for congenital heart defects and re-do valve and bypass surgeries.",
-      "Previous roles include Assistant Professor at AIIMS, Senior Consultant Cardiac Surgeon at Devki Devi Max Heart and Vascular Institute, Chief Cardiac Surgeon at Batra Hospital & Medical Research Centre, and Sr. Director of Cardio Vascular Surgery at BLK Max Hospital."
+      "96 yoshli bemorda muvaffaqiyatli yurak aylanma operatsiyasi amalga oshirildi, ehtimol bu operatsiyani boshdan kechirgan eng keksa bemor.",
+      "Hindistonda birinchi 'STITCH-LESS' klapan implantatsiyasini amalga oshirdi.",
+      "Dehli shimolida birinchi 'uyg'oq' CABG o'tkazildi.",
+      "Aorta anevrizmasi va aorta anevrizmasi jarrohligi, shu jumladan Re-Dos va gibrid protseduralar uchun endovaskulyar terapiya bo'yicha ixtisoslashgan.",
+      "Aorta, uyqu arteriyalari va pastki oyoq-qo'l tomirlarida murakkab qon tomir muolajalari bo'yicha tajriba.",
+      "Tug'ma yurak nuqsonlari bo'yicha jarrohlik amaliyoti va klapan va bypass operatsiyalarini qayta bajarish tajribasi.",
+      "Avvalgi rollar orasida AIIMS dotsenti, Devki Devi Maks yurak va qon tomir institutida katta maslahatchi kardiojarroh, Batra kasalxonasi va tibbiy tadqiqot markazida bosh kardiojarroh va BLK Max kasalxonasida yurak-qon tomir jarrohligi bo'yicha sr direktori bor."
     ],
     "description": [
-      "Dr. Sushant Srivastava is a renowned Cardio-Vascular surgeon with extensive expertise in Beating Heart Bypass Surgery, valve repairs and replacements, and complex vascular procedures.",
-      "He gained national recognition by performing a successful bypass surgery on a 96-year-old patient, and has a total experience of over 10,000 cases.",
-      "His training includes an M.Ch in Cardio-Vascular Surgery from AIIMS, where he also served as Assistant Professor and was involved in the Heart Transplant and Ventricular Assist Device Program.",
-      "Dr. Srivastava has a notable record in pioneering procedures such as stitch-less valve implantation and awake CABG, and has made significant contributions to endovascular therapy and surgery for congenital heart defects."
+      "Doktor Sushant Srivastava yurak-qon tomir jarrohi bo'lib, yurakni aylanib o'tish jarrohligi, klapanlarni ta'mirlash va almashtirish va qon tomirlarini murakkab muolajalar bo'yicha keng tajribaga ega",
+      "U 96 yoshli bemorda muvaffaqiyatli bypass operatsiyasini amalga oshirib, milliy e'tirofga sazovor bo'ldi va 10 000 dan ortiq ish tajribasiga ega.",
+      "Uning mashg'ulotlari AIIMSning yurak-qon tomir jarrohligi bo'yicha M.Chni o'z ichiga oladi, u erda u yordamchi professor bo'lib ishlagan va yurak transplantatsiyasi va qorinchalarga yordam berish dasturida ishtirok etgan.",
+      "Doktor Srivastava tikuvsiz qopqoq implantatsiyasi va uyg'oq CABG kabi kashshof muolajalarda sezilarli rekordga ega va endovaskulyar terapiya va tug'ma yurak nuqsonlari uchun jarrohlik amaliyotiga katta hissa qo'shgan."
     ]
   },
   "d79": {
     "id": 79,
     "hid": 1,
     "name": "Dr Aseem Srivastav",
-    "post": "Chief- Pediatric Cardiac Surgery",
+    "post": "Bosh - Bolalar kardiojarrohligi",
     "image": "d30.jpg",
     "experience": "24+",
     "top": false,
     "speciality": [
-      "Pediatric Cardiac Surgery",
-      "Adult Congenital Heart Surgery",
-      "Minimal Access Cardiac Surgery",
-      "Anomalous Left Coronary Artery from the Pulmonary Artery (ALCAPA)",
-      "Aortic Regurgitation/ Aortic Stenosis",
-      "Atrial Septal Defect",
-      "Atrioventricular Canal Defects",
-      "Coarctation of the Aorta",
-      "Congenitally Corrected Transposition of the Great Arteries",
-      "Double Outlet Right Ventricle",
-      "Ebstein’s Anomaly of the Tricuspid Valve",
-      "Heart Block",
-      "Hypoplastic Left Heart Syndrome (HLHS)",
-      "Interruption of the Aortic Arch",
-      "Mitral Valve Defects",
+      "Bolalar yurak jarrohligi",
+      "Kattalar tug'ma yurak jarrohligi",
+      "Minimal kirish yurak jarrohligi",
+      "O'pka arteriyasidan anomal chap koronar arteriya (ALCAPA)",
+      "Aorta etishmovchiligi / aorta stenozi",
+      "Atrial septal nuqson",
+      "Atrioventrikulyar kanal nuqsonlari",
+      "Aorta koarktatsiyasi",
+      "Katta arteriyalarning tug'ma tuzatilgan transpozitsiyasi",
+      "Ikkita chiqish o'ng qorincha",
+      "Ebshteynning triküspit qopqog'ining anomaliyasi",
+      "Yurak bloki",
+      "Gipoplastik chap yurak sindromi (HLHS)",
+      "Aorta yoyining uzilishi",
+      "Mitral qopqoq nuqsonlari",
       "Patent Ductus Arteriosus (PDA)",
-      "Pulmonary Atresia",
-      "Pulmonary Stenosis",
-      "Single Ventricle Heart Defects",
-      "Tetralogy of Fallot",
-      "Total Anomalous Pulmonary Venous Return (TAPVR)",
-      "Transposition of the Great Arteries",
-      "Tricuspid Atresia",
-      "Truncus Arteriosus",
-      "Vascular Ring",
-      "Ventricular Septal Defect (VSD)"
+      "O'pka atreziyasi",
+      "O'pka stenozi",
+      "Yagona qorincha yurak nuqsonlari",
+      "Fallot tetralogiyasi",
+      "To'liq anomal o'pka venoz qaytishi (TAPVR)",
+      "Katta arteriyalarning transpozitsiyasi",
+      "Triküspid atreziyasi",
+      "Truncus arteriosus",
+      "Tomir halqasi",
+      "Ventrikulyar septal nuqson (VSD)"
     ],
     "training": [
-      "Clinical Instructor- Robotic and Minimally Invasive Cardiac Surgery, East Carolina Heart Institute, Greenville, NC",
-      "Clinical Fellow- Congenital Cardiac Surgery, The Children’s Hospital of Philadelphia, Philadelphia, PA",
-      "Clinical Fellow- Pediatric Cardio Thoracic Surgery, Children’s Hospital of Pittsburgh of UPMC, Pittsburgh, PA 15242"
+      "Klinik o'qituvchi - Robotik va minimal invaziv yurak jarrohligi, Sharqiy Karolina yurak instituti, Greenville, NC",
+      "Klinik hamkor - Tug'ma yurak jarrohligi, Filadelfiya bolalar kasalxonasi, Filadelfiya, Pensilvanya",
+      "Klinik hamkor - pediatrik yurak ko'krak jarrohligi, UPMCning Pitsburg bolalar kasalxonasi, Pitsburg, PA 15242"
     ],
-    "education": "Bachelors of Medicine, Bachelors of Surgery (MBBS), M.Ch- Cardio Vascular and Thoracic Surgery, G B Pant Hospital, Maulana Azad Medical College, New Delhi, M.S- General Surgery",
+    "education": "Tibbiyot bakalavri, Jarrohlik bakalavri (MBBS), M.Ch- Yurak-qon tomir va torakal jarrohligi, GB Pant kasalxonasi, Maulana Azad tibbiyot kolleji, Nyu-Dehli, MS- Umumiy jarrohlik",
     "work": [
-      "Chief Pediatric Cardiac Surgeon in the Department of Pediatric Cardiothoracic Surgery at Artemis Hospital, Gurgaon.",
-      "Worked in prominent Pediatric Cardiac Surgery programs in the USA, including The Children’s Hospital of Philadelphia and Children’s Hospital of Pittsburgh of UPMC.",
-      "Gained extensive experience in Minimal Access Cardiac Surgery and Robotic Cardiac Surgery at East Carolina Heart Institute.",
-      "Expert in reconstructive operations for neonates and infants, with a focus on early corrective repair.",
-      "Specializes in minimally invasive Aortic valve and Mitral valve surgery."
+      "Gurgaon, Artemis kasalxonasining bolalar kardiotorakal jarrohligi bo'limida bosh pediatrik kardiojarroh.",
+      "AQShdagi taniqli bolalar kardiojarrohligi dasturlarida, jumladan Filadelfiya bolalar kasalxonasi va UPMCning Pitsburgdagi bolalar kasalxonasida ishlagan.",
+      "Sharqiy Karolina yurak institutida minimal kirish kardiojarrohligi va robotli yurak jarrohligi bo'yicha katta tajribaga ega bo'ldi.",
+      "Yangi tug'ilgan chaqaloqlar va chaqaloqlar uchun rekonstruktiv operatsiyalar bo'yicha mutaxassis, erta tuzatishga qaratilgan.",
+      "Minimal invaziv aorta qopqog'i va mitral qopqoq jarrohligiga ixtisoslashgan."
     ],
     "description": [
-      "Dr. Aseem R. Srivastava is a distinguished Chief Pediatric Cardiac Surgeon at Artemis Hospital, Gurgaon.",
-      "He completed his MBBS from GSVM Medical College, M.S in General Surgery from King George Medical University, and M.Ch in Cardiothoracic Surgery from GB Pant Hospital.",
-      "Dr. Srivastava furthered his training in Pediatric and Neonatal Cardiac Surgery at leading institutions in the USA and gained expertise in Minimal Access and Robotic Cardiac Surgery.",
-      "He is renowned for his vast experience in reconstructive cardiac operations for neonates and infants and is known for his strong advocacy of early corrective repair techniques."
+      "Doktor Aseem R. Srivastava Gurgaondagi Artemis kasalxonasining taniqli bosh pediatrik kardiojarrohidir",
+      "U MBBSni GSVM tibbiyot kollejida, King Jorj tibbiyot universitetida umumiy jarrohlik bo'yicha magistratura darajasini va GB Pant kasalxonasida yurak-torakal jarrohlik bo'yicha M.Chni tamomlagan.",
+      "Doktor Srivastava AQShning yetakchi institutlarida bolalar va neonatal kardiojarrohlik bo'yicha o'qishni davom ettirdi va Minimal kirish va robotli yurak jarrohligi bo'yicha tajribaga ega bo'ldi.",
+      "U yangi tug'ilgan chaqaloqlar va chaqaloqlar uchun rekonstruktiv yurak operatsiyalari bo'yicha katta tajribasi bilan mashhur va erta tuzatish usullarini kuchli himoya qilish bilan mashhur."
     ]
   },
   "d80": {
     "id": 80,
     "hid": 1,
     "name": "Dr Nidhi Rawal",
-    "post": "Chief - Paediatric Cardiology",
+    "post": "Bosh - bolalar kardiologiyasi",
     "image": "d31.jpg",
     "experience": "19+",
     "top": false,
     "speciality": [
-      "Neonatal and Pediatric Echo",
-      "Adult Congenital Heart Disease Echo",
+      "Neonatal va pediatrik aks-sado",
+      "Katta yoshdagi tug'ma yurak kasalliklari aks-sadosi",
       "TEE",
-      "Pediatric Cath Lab interventions",
-      "Fetal Echo",
-      "ASD, VSD, PDA device closure",
-      "Balloon dilatation of Pulmonary Valve / Aortic valve",
-      "Balloon Dilatation of Coarctation of Aorta",
-      "Balloon Atrial Septostomy",
-      "PDA stenting",
-      "Branch Pulmonary artery stenting",
-      "Coarctation of aorta stenting",
-      "MAPCAs coiling",
-      "Percutaneous closure of Coronary fistulas",
-      "Temporary pacemaker implantation",
-      "Diagnostic cardiac catheterization and Angiography study"
+      "Pediatrik Cath Lab aralashuvi",
+      "Xomilalik aks-sado",
+      "ASD, VSD, PDA qurilmasini yopish",
+      "O'pka qopqog'i / aorta qopqog'ining balonli kengayishi",
+      "Aorta koarktatsiyasining balonli kengayishi",
+      "Balon atriyal septostomiya",
+      "PDA stentlash",
+      "O'pka arteriyasini stentlash",
+      "Aortani stentlash koarktatsiyasi",
+      "MAPCAlar o'ralgan",
+      "Koronar oqmalarning perkutan yopilishi",
+      "Vaqtinchalik yurak stimulyatori implantatsiyasi",
+      "Diagnostik yurak kateterizatsiyasi va angiografiya"
     ],
     "training": [
-      "Fellowship of National Board (FNB) - Pediatric Cardiology from Madras Medical Mission, Chennai 2006"
+      "Milliy kengash stipendiyasi (FNB) - Madras tibbiyot missiyasidan bolalar kardiologiyasi, Chennai 2006 yil"
     ],
-    "education": "MBBS - KGMC, Lucknow in 2000, MD - G.S.V.M. Medical College, Kanpur in 2004",
+    "education": "MBBS - KGMC, Laknow 2000 yilda, MD - G.S.V.M. Tibbiyot kolleji, Kanpur, 2004 yil",
     "work": [
-      "Completed a two-year fellowship in Pediatric Cardiology.",
-      "Joined as a pool officer at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh, working there for three years.",
-      "Gained proficiency in clinical Pediatric Cardiology, Pediatric and neonatal Echo, Trans-esophageal echocardiography, and Cath lab interventions.",
-      "Has been working at Artemis Hospitals since 2010, contributing to advances in Pediatric Cardiology and involved in the teaching program for DNB.",
-      "Actively involved in research, attending national conferences and CMEs, and has numerous national and international publications."
+      "Bolalar kardiologiyasi bo'yicha ikki yillik stipendiyani tamomlagan.",
+      "Chandigarhdagi Tibbiy ta'lim va tadqiqotlar aspirantura institutida (PGIMER) basseyn xodimi sifatida ishlagan va u erda uch yil ishlagan.",
+      "Klinik bolalar kardiologiyasi, bolalar va neonatal echo, trans-qizilo'ngach ekokardiyografiyasi va Cath laboratoriya aralashuvi bo'yicha malakaga ega bo'ldi.",
+      "2010 yildan beri Artemis kasalxonalarida ishlaydi, bolalar kardiologiyasi sohasidagi yutuqlarga hissa qo'shadi va DNB uchun o'qitish dasturida ishtirok etadi.",
+      "Tadqiqotlarda faol ishtirok etadi, milliy konferentsiyalar va CMElarda qatnashadi va ko'plab milliy va xalqaro nashrlarga ega."
     ],
     "description": [
-      "Dr. Nidhi Rawal is a specialist in Pediatric Cardiology with extensive experience in clinical care and advanced procedures.",
-      "She completed a two-year fellowship in Pediatric Cardiology and gained further expertise at PGIMER, Chandigarh, with a focus on Pediatric and neonatal Echo, Trans-esophageal echocardiography, and Cath lab interventions.",
-      "Since 2010, Dr. Rawal has been working at Artemis Hospitals, where she has contributed to departmental advancements and the teaching program for DNB students.",
-      "She has a strong interest in research, regularly attending conferences and CMEs, and has numerous publications in both national and international journals."
+      "Doktor Nidhi Raval - pediatriya kardiologiyasi bo'yicha mutaxassis, klinik yordam va ilg'or protseduralar bo'yicha katta tajribaga ega.",
+      "U bolalar kardiologiyasi bo'yicha ikki yillik stipendiyani tamomladi va PGIMER, Chandigarhda Pediatrik va neonatal Echo, Trans-qizilo'ngach ekokardiyografi va Cath laboratoriya aralashuvlariga e'tibor qaratgan holda qo'shimcha tajribaga ega bo'ldi.",
+      "2010 yildan beri doktor Raval Artemis kasalxonalarida ishlaydi va u erda bo'limning rivojlanishiga va DNB talabalari uchun o'qitish dasturiga hissa qo'shdi.",
+      "U tadqiqotga katta qiziqish bildiradi, muntazam ravishda konferentsiyalar va CMElarda qatnashadi va milliy va xalqaro jurnallarda ko'plab nashrlarga ega."
     ]
   },
   "d81": {
     "id": 81,
     "hid": 1,
     "name": "Dr Rajiv Sharma",
-    "post": "Head – Interventional Radiology",
+    "post": "Bosh - Interventsion radiologiya",
     "image": "d32.jpg",
     "experience": "27+",
     "top": false,
     "speciality": [
-      "Interventional Radiology",
-      "Biopsies",
-      "Teaching",
-      "Fellowship Program",
-      "Additional Services"
+      "Interventsion radiologiya",
+      "Biopsiya",
+      "Ta'lim",
+      "Do'stlik dasturi",
+      "Qo'shimcha xizmatlar"
     ],
     "training": [
-      "MBBS from University of Singapore in 1996.",
-      "MD in Radio Diagnosis/Radiology from Gujarat University, India in 2000.",
-      "DNB in Radiology from National Board of Examinations, Ministry of Health, Government of India in 2001."
+      "1996 yilda Singapur universitetidan MBBS.",
+      "2000 yilda Hindistonning Gujarat universitetidan radio diagnostikasi/radiologiya bo'yicha MD.",
+      "2001 yilda Hindiston hukumati, Sog'liqni saqlash vazirligi, Milliy imtihonlar kengashidan Radiologiya bo'yicha DNB."
     ],
-    "education": "MBBS, MD, DNB (Radio-diagnosis)",
+    "education": "MBBS, MD, DNB (radio diagnostika)",
     "work": [
-      "Jaslok Hospital and Research Centre – Mumbai (2000 – 2006)",
-      "Indraprastha Apollo Hospital - New Delhi ( 2006 – 2013) ",
-      "Artemis Hospital – Gurgaon ( 2013 – Till date)"
+      "Jaslok kasalxonasi va tadqiqot markazi - Mumbay (2000 - 2006)",
+      "Indraprastha Apollon kasalxonasi - Nyu-Dehli (2006 - 2013)",
+      "Artemis kasalxonasi - Gurgaon (2013 - hozirgi kungacha)"
     ],
     "description": [
-      "Head of Interventional Radiology at Artemis Hospitals.",
-      "27 years of experience in diagnostic and interventional radiology.",
-      "Expert in performing vascular, hepato-biliary, and tumor embolization procedures.",
-      "Proficient in ultrasound and CT-guided biopsies, including prostate and breast biopsies.",
-      "Runs a fellowship program in interventional radiology.",
-      "DNB teaching faculty and supervisor of several DNB thesis programs.",
-      "Active in academic research, with numerous publications and conference participations.",
-      "Skilled administrator, having organized several CMEs."
+      "Artemis kasalxonalarida interventsion radiologiya bo'limi boshlig'i.",
+      "Diagnostik va interventsion radiologiyada 27 yillik tajriba.",
+      "Tomir, gepato-biliar va o'sma embolizatsiyasi muolajalarini bajarish bo'yicha mutaxassis.",
+      "Ultratovush va KT bo'yicha biopsiya, shu jumladan prostata va ko'krak biopsiyalari bo'yicha malakali.",
+      "Interventsion radiologiya bo'yicha stipendiya dasturini boshqaradi.",
+      "DNB o'qituvchilari va bir nechta DNB dissertatsiya dasturlari rahbari.",
+      "Akademik tadqiqotlarda faol, ko'plab nashrlar va konferentsiyalarda ishtirok etgan.",
+      "Malakali ma'mur, bir nechta CME tashkil qilgan."
     ]
   },
   "d82": {
     "id": 82,
     "hid": 1,
     "name": "Dr Parul Prakash",
-    "post": "Head - Reproductive Medicine (Unit I)",
+    "post": "Bosh reproduktiv tibbiyot (I bo'lim)",
     "image": "d33.jpg",
     "experience": "24+",
     "top": false,
     "speciality": [
-      "Intra Uterine Insemination(IUI)",
-      "Follicular Monitoring",
-      "Ovum Pick up",
-      "Embryo Transfer",
-      "In Vitro Fertilization (IVF)/Intra Cytoplasmic Sperm Injection (ICSI)",
-      "Third-party reproduction",
-      "Testicular Biopsies",
-      "Deliveries and Caesarean of IVF Pregnancies",
-      "High-risk pregnancy management",
-      "Fertility-enhancing endoscopic surgeries (Laparoscopy and hysteroscopy)"
+      "Bachadon ichidagi urug'lantirish (IUI)",
+      "Follikulyar monitoring",
+      "Ovumni yig'ish",
+      "Embrion transferi",
+      "In vitro urug'lantirish (IVF)/sitoplazmik sperma in'ektsiyasi (ICSI)",
+      "Uchinchi tomon reproduktsiyasi",
+      "Moyak biopsiyalari",
+      "Tug'ilish va IVF homiladorlikning sezaryen",
+      "Yuqori xavfli homiladorlikni boshqarish",
+      "Fertillikni kuchaytiruvchi endoskopik operatsiyalar (laparoskopiya va histeroskopiya)"
     ],
     "training": [
-      "Fellowship in Reproductive Medicine from Sir Ganga Ram Hospital, New Delhi"
+      "Ser Ganga Ram kasalxonasidan reproduktiv tibbiyot bo'yicha stipendiya, Nyu-Dehli"
     ],
-    "education": "MBBS, MD (Obs&Gynae), FNB(Reproductive Medicine),FICMCH, FICOG",
+    "education": "MBBS, MD (Obs & Gynae), FNB (Reproduktiv tibbiyot), FICMCH, FICOG",
     "work": [
-      "Senior Consultant at Artemis Hospital, Gurgaon.",
-      "Senior IVF Consultant at Medicover (Rohini), Delhi IVF (Lajpat Nagar), Sarvodaya Fertility and IVF (Pitampura), Maharaja Agrasen Hospital (West Punjabi Bagh), Max Superspeciality Hospital (Shalimar Bagh)."
+      "Artemis kasalxonasida katta maslahatchi, Gurgaon.",
+      "Medicover (Rohini), Dehli IVF (Lajpat Nagar), Sarvodaya Fertilite va IVF (Pitampura), Maharaja Agrasen kasalxonasi (G'arbiy Panjabi Bagh), Max Superspeciality Hospital (Shalimar Bagh) da katta IVF maslahatchisi."
     ],
     "description": [
-      "Over 13 years of experience in reproductive medicine with 1000+ successful IVF cycles.",
-      "18 years of experience in Obstetrics and Gynaecology.",
-      "Performed over 5000 IVF/ICSI cycles with embryo transfer and multiple cycles of IUI.",
-      "Expert in third-party reproduction, follicular monitoring, and testicular biopsies.",
-      "Performed more than 2500 deliveries and Caesarean sections of high-risk pregnancies.",
-      "Specializes in fertility-enhancing endoscopic surgeries including laparoscopy and hysteroscopy."
+      "1000+ muvaffaqiyatli IVF tsikllari bilan reproduktiv tibbiyotda 13 yildan ortiq tajriba.",
+      "Akusherlik va ginekologiya bo'yicha 18 yillik tajriba.",
+      "5000 dan ortiq IVF/ICSI sikllarini embrion ko'chirish va bir nechta IUI tsikllari bilan amalga oshirdi.",
+      "Uchinchi tomonning ko'payishi, follikulyar monitoring va moyak biopsiyalari bo'yicha mutaxassis.",
+      "2500 dan ortiq tug'ish va yuqori xavfli homiladorlikning sezaryen bo'limlarini amalga oshirdi.",
+      "U tug'ilishni kuchaytiruvchi endoskopik operatsiyalar, shu jumladan laparoskopiya va histeroskopiya bo'yicha ixtisoslashgan."
     ]
   },
   "d83": {
     "id": 83,
     "hid": 1,
     "name": "Dr Rajiv Yadav",
-    "post": "Chairperson Urology & Head, Urologic Oncology & Robotic Surgery",
+    "post": "Rais Urologiya va bosh, Urologik onkologiya va robotli jarrohlik",
     "image": "d34.jpg",
     "experience": "26+",
     "top": false,
     "speciality": [
-      "Evaluation and Management of Urological Cancers",
-      "Robotic Surgery for Urological Cancer",
-      "Robotic Radical prostatectomy – For Prostate Cancer",
-      "Robotic Partial/ Radical Nephrectomy – For Kidney Cancer",
-      "Robotic Radical Cystectomy with Urinary Diversion – For Bladder Cancer",
-      "Robotic Adrenalectomy/ Robotic Pyeloplasty",
-      "MRI-TRUS Fusion Biopsy",
-      "Endoscopic/ Laparoscopic/Open Surgical procedures"
+      "Urologik saratonni baholash va boshqarish",
+      "Urologik saraton uchun robotli jarrohlik",
+      "Robotik radikal prostatektomiya - prostata saratoni uchun",
+      "Robotik qisman/radikal nefrektomiya - buyrak saratoni uchun",
+      "Siydik chiqarish yo'li bilan robotli radikal sistektomiya - Quviq saratoni uchun",
+      "Robotik Adrenalektomiya / Robotik Pyeloplastika",
+      "MRI-TRUS termoyadroviy biopsiya",
+      "Endoskopik/Laparoskopik/Ochiq jarrohlik muolajalari"
     ],
     "training": [
-      "Fellowship in Urologic Oncology & Robotic surgery (USA)",
-      "Fellowship in Endo Urology & Laparoscopy(USA)",
-      "Fellowship in Endo Urology & Laparoscopy (AIIMS, ND)"
+      "Urologik onkologiya va robotli jarrohlik bo'yicha stipendiya (AQSh)",
+      "Endourologiya va laparoskopiya bo'yicha stipendiya (AQSh)",
+      "Endourologiya va laparoskopiya bo'yicha stipendiya (AIIMS, ND)"
     ],
-    "education": "MS (Surgery, AIIMS), Mch (Urology, AIIMS)",
+    "education": "MS (jarrohlik, AIIMS), Mch (urologiya, AIIMS)",
     "work": [
-      "Leads a team specializing in robot-assisted laparoscopic surgery for prostate, kidney, and urinary bladder cancers.",
-      "Performed thousands of complex urological procedures.",
-      "Recipient of numerous awards including ‘Best Clinical Research’ by the American Urological Association in 2008 and 2009, and ‘Gold Medal’ for Best Outgoing Resident in Urology.",
-      "Authored more than 100 scientific and invited articles on Minimally Invasive Urology and Urologic Oncology."
+      "Prostata, buyrak va siydik pufagi saratoni uchun robot yordamida laparoskopik jarrohlik bo'yicha ixtisoslashgan jamoani boshqaradi.",
+      "Minglab murakkab urologik muolajalarni bajargan.",
+      "2008 va 2009 yillarda Amerika Urologiya Assotsiatsiyasi tomonidan 'Eng yaxshi klinik tadqiqot' va 'Urologiya bo'yicha eng yaxshi chiquvchi rezident' uchun 'Oltin medal' kabi ko'plab mukofotlar laureati.",
+      "Minimal invaziv urologiya va urologik onkologiya bo'yicha 100 dan ortiq ilmiy va taklif qilingan maqolalar muallifi."
     ],
     "description": [
-      "Over two decades of experience in treating urological diseases, focusing on robot-assisted laparoscopic surgery for prostate, kidney, and urinary bladder cancers.",
-      "His team is known for performing advanced robotic procedures with results comparable to the best centers globally.",
-      "Recipient of prestigious awards for clinical research and scientific abstracts, including honors from the American Urological Association, International College of Surgeons, and Society of Laparo-endoscopic Surgeons.",
-      "Co-investigator in the R01 research grant by the National Institute of Health, USA."
+      "Urologik kasalliklarni davolash bo'yicha yigirma yildan ortiq tajriba, prostata, buyrak va siydik pufagi saratoni uchun robot yordamida laparoskopik jarrohlik yo'li bilan.",
+      "Uning jamoasi ilg'or robot muolajalarini amalga oshirish bilan mashhur, natijalar dunyo miqyosidagi eng yaxshi markazlar bilan taqqoslangan.",
+      "Klinik tadqiqotlar va ilmiy tezislar uchun nufuzli mukofotlar, shu jumladan Amerika Urologiya Assotsiatsiyasi, Xalqaro Jarrohlar Kolleji va Laparo-endoskopik Jarrohlar Jamiyatining faxriy mukofotlari sovrindori.",
+      "AQSh Milliy Sog'liqni saqlash instituti tomonidan R01 tadqiqot granti bo'yicha tadqiqotchi."
     ]
   },
   "d84": {
     "id": 84,
     "hid": 1,
     "name": "Dr Vipul Nanda",
-    "post": "Chief - Cosmetic & Plastic Surgery",
+    "post": "Bosh - Kosmetik va plastik jarrohlik",
     "image": "d35.jpg",
     "experience": "23+",
     "top": false,
     "speciality": [
       "Facelift",
-      "Neck lift",
-      "Browlift ( Forehead Lift)",
-      "Blepharoplasty (Both upper and lower lid bags removal)",
-      "Neck Lift",
-      "Otoplasty (Ear Surgery)",
-      "Rhinoplasty (Nasal Correction)",
-      "Lip Augmentation / Reduction",
-      "Dimple Creation",
-      "Facial Implant Surgery",
-      "Breast Augmentation (Implant)",
-      "Breast Reduction",
-      "Breast lift for ptosis correction – For sagging breasts",
-      "Gynaecomastia (Male Breast) Correction",
-      "Liposuction – Standard",
-      "Liposuction – Vaser",
-      "Abdominoplasty ( Tummy Tuck)",
-      "Arm Lift (Brachioplasty)",
-      "Thigh Lift",
-      "Hymenoplasty / Revirgination",
-      "Vaginal Tightening / Rejuvenation",
-      "Mommy Makeover",
-      "Gender Reassignment",
-      "Hair Transplantation (FUE / FUT)",
-      "Fat Grafting",
-      "Scar Revision",
-      "Ear Lobe Repair",
-      "Piercing",
-      "Mole Removal",
-      "Vitiligo Treatment",
+      "Bo'yinni ko'tarish",
+      "Qoshni ko'tarish (peshonani ko'tarish)",
+      "Blefaroplastika (yuqori va pastki qovoqlarni olib tashlash)",
+      "Bo'yinni ko'tarish",
+      "Otoplastika (quloq jarrohligi)",
+      "Rinoplastika (burunni tuzatish)",
+      "Labni kattalashtirish / qisqartirish",
+      "Dimple yaratish",
+      "Yuz implantatsiyasi jarrohligi",
+      "Ko'krakni kattalashtirish (implantatsiya)",
+      "Ko'krakni qisqartirish",
+      "Ptozisni tuzatish uchun ko'krakni ko'tarish - ko'krak qafasi uchun",
+      "Ginekomastiya (erkak ko'krak) tuzatish",
+      "Liposaktsiya - standart",
+      "Liposaktsiya - Vaser",
+      "Abdominoplastika (qorinni to'ldirish)",
+      "Qo'lni ko'tarish (Braxioplastika)",
+      "Son ko'tarish",
+      "Himenoplastika / revirginatsiya",
+      "Qinni siqish / yoshartirish",
+      "Onamni pardozlash",
+      "Genderni o'zgartirish",
+      "Soch transplantatsiyasi (FUE / FUT)",
+      "Yog 'payvandlash",
+      "Skarni qayta ko'rib chiqish",
+      "Quloq bo'lagini tuzatish",
+      "Pirsing",
+      "Mole olib tashlash",
+      "Vitiligo davolash",
       "Brun Care",
-      "Skin grafting",
-      "Nose, Ear and Breast reconstruction",
-      "Hand surgery",
-      "Accidental case",
-      "Facial Surgery",
-      "Microsurgery",
-      "Cleft lip with Palate",
-      "Botox",
-      "Filler",
-      "Mesotherapy",
-      "Chemical Peel",
-      "Laser",
-      "Dermabrasion"
+      "Teri payvandlash",
+      "Burun, quloq va ko'krak rekonstruktsiyasi",
+      "Qo'l jarrohlik",
+      "Tasodifiy holat",
+      "Yuz jarrohligi",
+      "Mikrojarrohlik",
+      "Yoruq lablar tanglay",
+      "Botoks",
+      "To'ldiruvchi",
+      "Mezoterapiya",
+      "Kimyoviy peel",
+      "Lazer",
+      "Dermabraziya"
     ],
     "training": [
-      "Fellowship, USA"
+      "Fellowship, AQSh"
     ],
-    "education": "MBBS and MS from AIIMS, MCh, Post Graduate Institute of Medical Education and Research, Chd (PGI), MRCS, UK",
+    "education": "MBBS va MS AIIMS, MCh, Tibbiy ta'lim va tadqiqotlar aspirantura instituti, Chd (PGI), MRCS, Buyuk Britaniya",
     "work": [
-      "Presently Head Cosmetic & Plastic Surgery, Artemis Hospital, Gurgaon, NCR Delhi",
-      "Senior Specialist, Plastic Surgery, Ministry of Health, Oman",
-      "Senior Faculty Plastic Surgery, PGI, Chandigarh",
-      "Fellow Microsurgery & Hand, Japan"
+      "Hozirda kosmetik va plastik jarrohlik bo'limi, Artemis kasalxonasi, Gurgaon, NCR Dehli",
+      "Ummon Sog'liqni saqlash vazirligi plastik jarrohlik bo'limi katta mutaxassisi",
+      "Plastik jarrohlik katta fakulteti, PGI, Chandigarh",
+      "Fellow Microsurgery & Hand, Yaponiya"
     ],
     "description": [
-      "Specializes in cosmetic and plastic surgery with advanced training from globally renowned institutions.",
-      "Notable for his techniques in cleft palate repair and rhinoplasty for cleft patients, presented and published at various national and international forums.",
-      "Active in social initiatives, including cleft camps organized by Rotary Club and Operation Smile.",
-      "Practices with a philosophy of ‘Underpromise and Overdeliver’, focusing on minimizing downtime for cosmetic surgery patients."
+      "Kosmetik va plastik jarrohlik bo'yicha ixtisoslashgan, jahon miqyosidagi taniqli muassasalarda ilg'or ta'lim olgan.",
+      "Turli milliy va xalqaro forumlarda taqdim etilgan va nashr etilgan tanglay yoriqlarini tuzatish va rinoplastika bo'yicha o'zining texnikasi bilan mashhur.",
+      "Ijtimoiy tashabbuslarda, shu jumladan Rotary klubi va Operation Smile tomonidan tashkil etilgan yorliq lagerlarda faol.",
+      "Kosmetik jarrohlik bilan og'rigan bemorlarning ishlamay qolish vaqtini minimallashtirishga e'tibor qaratgan 'Va da bermaslik va ortiqcha etkazib berish' falsafasi bilan amaliyot."
     ]
   },
   "d85": {
     "id": 85,
     "hid": 1,
     "name": "Dr Pawan Rawal",
-    "post": "Gastroenterology",
+    "post": "Gastroenterologiya",
     "image": "d36.jpg",
     "experience": "12+",
     "top": false,
     "speciality": [
-      "Stomach, Intestine, Liver and Pancreaticobiliary diseases",
-      "Management of acidity, ulcers, GI bleeding, constipation, IBS and reflux",
-      "Therapeutic endoscopy and ERCP",
-      "Endoscopic management of obesity (balloon placement)",
-      "Endoscopic ultrasound",
-      "All food allergies and Celiac disease (wheat allergy)",
-      "Chronic Hepatitis B and C, Fatty liver, Alcohol induced liver damage/cirrhosis, Gastro, Biliary, pancreatic and Liver cancers",
-      "Anorectal diseases like piles and fissures",
-      "Pediatric Gastroenterology and Hepatology"
+      "Oshqozon, ichak, jigar va pankreatikobiliar kasalliklar",
+      "Kislotalik, oshqozon yarasi, oshqozon-ichakdan qon ketishi, ich qotishi, IBS va reflyuksni boshqarish",
+      "Terapevtik endoskopiya va ERCP",
+      "Semizlikni endoskopik davolash (balon joylashtirish)",
+      "Endoskopik ultratovush",
+      "Barcha oziq-ovqat allergiyalari va çölyak kasalligi (bug'doy allergiyasi)",
+      "Surunkali gepatit B va C, yog'li jigar, alkogolli jigar shikastlanishi / sirrozi, oshqozon, o't yo'llari, oshqozon osti bezi va jigar saratoni",
+      "Anorektal kasalliklar, masalan, qoziqlar va yoriqlar",
+      "Bolalar gastroenterologiyasi va gepatologiyasi"
     ],
     "training": [
-      "MBBS from Pt BDS PGIMS Rohtak",
-      "DM in Gastroenterology and Hepatology from Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh",
-      "Extensive training in both noninvasive and invasive Gastroenterology and Hepatology"
+      "Pt BDS PGIMS Rohtak'dan MBBS",
+      "Chandigarh Tibbiyot ta'limi va tadqiqot institutidan (PGIMER) gastroenterologiya va gepatologiya bo'yicha DM",
+      "Invaziv bo'lmagan va invaziv gastroenterologiya va gepatologiya bo'yicha keng qamrovli trening"
     ],
     "education": "MBBS-PGIMS - Rohtak, MD-PGIMER - Chandigarh, DM-PGIMER - Chandigarh",
     "work": [
-      "Over 12 years of experience in clinical Gastroenterology and Hepatology.",
-      "Experience with luminal, hepatic, pancreatic, biliary, and systemic diseases.",
-      "Performed numerous adult and pediatric upper GI endoscopies/colonoscopies, ERCPs, capsule endoscopies, push and double balloon enteroscopies.",
-      "Experienced in therapeutic procedures such as variceal banding and scleropathy, balloon and bougie dilatation, glue injection for fundal varices, endoscopic management of ulcers/bleeding, polypectomy, argon plasma coagulation, percutaneous endoscopic gastrostomies (PEG), enteral (naso-jejunal) tube placement, manometry, and therapeutic biliary and pancreatic ERCP and EUS.",
-      "Involved in teaching DM fellows, postgraduate students, nursing staff, and other paramedical personnel.",
-      "Guest faculty at various prestigious meetings in India."
+      "Klinik gastroenterologiya va gepatologiya bo'yicha 12 yildan ortiq tajriba.",
+      "Luminal, jigar, oshqozon osti bezi, o't yo'llari va tizimli kasalliklar bilan tajriba.",
+      "Ko'p sonli kattalar va bolalar yuqori oshqozon-ichak endoskopiyalari / kolonoskopiyalari, ERCPs, kapsula endoskopiyalari, surish va juft balonli enteroskopiyalar.",
+      "Varikoz va skleropatiya, balon va buji kengayishi, tubal varikozlar uchun elim in'ektsiyasi, oshqozon yarasi / qon ketishini endoskopik davolash, polipektomiya, argon plazmasi koagulyatsiyasi, teri orqali endoskopik gastrostomiya (PEG) kabi terapevtik muolajalarda tajribaga ega. joylashtirish, manometriya va terapevtik biliar va oshqozon osti bezi ERCP va EUS.",
+      "DM stipendiyalari, aspirantlar, hamshiralar va boshqa tibbiyot xodimlarini o'qitishda ishtirok etadi.",
+      "Hindistondagi turli nufuzli uchrashuvlarda fakultet mehmoni."
     ],
     "description": [
-      "Specializes in clinical Gastroenterology and Hepatology with expertise in a wide range of procedures and therapeutic interventions.",
-      "Keen interest in research with numerous publications, including original articles, review articles, chapters in books, and case reports.",
-      "Active in national and international conferences, therapeutic endoscopy workshops, and CMEs.",
-      "Committed to teaching and training, contributing significantly to the education of medical and paramedical staff."
+      "Klinik gastroenterologiya va gepatologiya bo'yicha ixtisoslashgan, keng ko'lamli protseduralar va terapevtik aralashuvlar bo'yicha tajribaga ega.",
+      "Ko'plab nashrlar, jumladan, asl maqolalar, sharh maqolalari, kitoblardagi bo'limlar va amaliy hisobotlar bilan tadqiqotga qiziqish.",
+      "Milliy va xalqaro konferentsiyalar, terapevtik endoskopiya seminarlari va CME'larda faol.",
+      "Tibbiyot va o'rta tibbiyot xodimlarining ta'limiga katta hissa qo'shib, o'qitish va o'qitishga sodiqdir"
     ]
   },
   "d86": {
