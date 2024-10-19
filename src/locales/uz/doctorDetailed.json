@@ -189,9 +189,7 @@
       "Yurak etishmovchiligi uchun jarrohlik (ECMO, LVAD, yurak transplantatsiyasi)",
       "Endovaskulyar protseduralar, shu jumladan TAVI / TAVR"
     ],
-    "training": [
-      "Garvard tibbiyot maktabi, Boston, AQSh"
-    ],
+    "training": ["Garvard tibbiyot maktabi, Boston, AQSh"],
     "education": "M.B.B.S. , M.S. (Umumiy jarrohlik), M.Ch. (CTVS), stipendiya (yurak jarrohligi)",
     "work": [
       "Hozirda BLK Super Specialty Hospital, Nyu-Dehlida kardio-torakal va qon tomir jarrohligi (CTVS) bo'limi raisi o'rinbosari va boshlig'i sifatida ishlamoqda.",
@@ -346,10 +344,7 @@
       "Bariatrik jarrohlik bo'yicha ixtisoslashtirilgan ta'lim",
       "GI onkojarrohlik"
     ],
-    "training": [
-      "FRCS (Angliya)",
-      "FACS (AQSh)"
-    ],
+    "training": ["FRCS (Angliya)", "FACS (AQSh)"],
     "education": "MBBS, DNB",
     "work": [
       "Hozirda Nyu-Dehli, BLK-Max Super ixtisoslashtirilgan kasalxonasida jarrohlik gastroenterologiya, ilg'or laparoskopik va bariatrik jarrohlik bo'limida bosh direktor va HOD bo'lib ishlaydi",
@@ -410,10 +405,7 @@
     "image": "d12.jpg",
     "experience": "34+",
     "top": false,
-    "speciality": [
-      "Kosmetik jarrohlik",
-      "Mikrovaskulyar jarrohlik"
-    ],
+    "speciality": ["Kosmetik jarrohlik", "Mikrovaskulyar jarrohlik"],
     "training": [
       "Stipendiya - Xalqaro jarrohlar kolleji Chikago AQSh (plastik jarrohlik)"
     ],
@@ -438,18 +430,8 @@
     "image": "d13.jpg",
     "experience": "42+",
     "top": false,
-    "speciality": [
-      ""
-    ],
-    "training": [
-      "FAAN",
-      "FANA",
-      "FAMS",
-      "FRCP",
-      "FICP",
-      "FIAN",
-      "FIACM"
-    ],
+    "speciality": [""],
+    "training": ["FAAN", "FANA", "FAMS", "FRCP", "FICP", "FIAN", "FIACM"],
     "education": "MBBS, MD (tibbiyot), DNB (tibbiyot), DM (nevrologiya),",
     "work": [
       "Hozirda BLK-Max Super Specialty Hospital, Nyu-Dehli Nevrologiya bo'limida bosh direktor bo'lib ishlamoqda",
@@ -473,13 +455,8 @@
     "image": "d14.jpg",
     "experience": "38+",
     "top": false,
-    "speciality": [
-      ""
-    ],
-    "training": [
-      "FISPD",
-      "F.I.S.N. (AQSh)"
-    ],
+    "speciality": [""],
+    "training": ["FISPD", "F.I.S.N. (AQSh)"],
     "education": "M.B.B.S., M.D. (Ind Med.), D.M. (Nefrologiya)",
     "work": [
       "Hozirda BLK-Max Super Specialty Hospital, Nyu-Dehli Nefrologiya bo'limida bosh direktor va HOD sifatida ishlaydi",
@@ -544,10 +521,7 @@
       "Mikrojarrohlik",
       "Qo'l jarrohligi"
     ],
-    "training": [
-      "Mikrojarrohlik bo'yicha stipendiya",
-      "Kosmetik jarrohlik"
-    ],
+    "training": ["Mikrojarrohlik bo'yicha stipendiya", "Kosmetik jarrohlik"],
     "education": "MBBS, MS (umumiy jarrohlik), M Ch (plastik jarrohlik)",
     "work": [
       "Hozirda Nyu-Dehli shahridagi BLK-Max Super ixtisoslashtirilgan kasalxonasida BLK-Max Plastik, rekonstruktiv, estetik, kuyishlar va yuz-ko'z jarrohligi bo'limida katta direktor bo'lib ishlamoqda",
@@ -578,9 +552,7 @@
       "Profilaktik kardiologiya",
       "Invaziv bo'lmagan kardiologiya"
     ],
-    "training": [
-      ""
-    ],
+    "training": [""],
     "education": "MBBS, MD (tibbiyot), DM (kardiologiya)",
     "work": [
       "Hozirda BLK-Max yurak markazi, BLK-Max Super Specialty Hospital, Nyu-Dehlida katta direktor sifatida ishlamoqda",
@@ -726,9 +698,7 @@
       "Supin PCNL jarrohligi",
       "Bolalar urologiyasi (gipospadias jarrohligi)"
     ],
-    "training": [
-      "MNAMS"
-    ],
+    "training": ["MNAMS"],
     "education": "MBBS, MS (umumiy jarrohlik), DNB (urologiya)",
     "work": [
       "Hozirda BLK-Max Super Specialty Hospital, Nyu-Dehlida urologiya, andrologiya va buyrak transplantatsiyasi direktori lavozimida ishlamoqda",
@@ -760,10 +730,7 @@
     "image": "d22.jpg",
     "experience": "30+",
     "top": false,
-    "speciality": [
-      "Robotik torakal jarrohlik",
-      "O'pka transplantatsiyasi"
-    ],
+    "speciality": ["Robotik torakal jarrohlik", "O'pka transplantatsiyasi"],
     "training": [
       "O'pka transplantatsiyasi bo'yicha trening (Vena, Avstriya)",
       "Ko'krak qafasi jarrohligi va torakal onkojarrohlik bo'yicha stipendiya, NUH (Singapur)"
@@ -801,9 +768,7 @@
       "Bolalar neyroxirurgiyasi",
       "Epilepsiya jarrohligi"
     ],
-    "training": [
-      "Neyroxirurgiya bo'yicha stipendiya (Buyuk Britaniya)"
-    ],
+    "training": ["Neyroxirurgiya bo'yicha stipendiya (Buyuk Britaniya)"],
     "education": "MS (Umumiy jarrohlik), MCh (neyroxirurgiya), Neyroxirurgiya bo'yicha stipendiya (Buyuk Britaniya)",
     "work": [
       "Hozirda Fortis kasalxonasida bosh miya va orqa miya jarrohligi direktori va rahbari, Gurgaon, Hindiston",
@@ -845,9 +810,7 @@
       "U AIIMSda neyroxirurgiya bo'limida professor bo'lib ishlagan.",
       "Doktor Vaishya minimal invaziv va tasvirga asoslangan neyroxirurgiya, bosh suyagi o'smalari, funktsional neyroxirurgiya o'murtqa ,jarrohligi, brakiyal pleksus va periferik nervlar jarrohligi, jumladan, intrakranial o'smalar jarrohligi bo'yicha ixtisoslashgan."
     ],
-    "training": [
-      "AIIMS neyroxirurgiya kafedrasi fakulteti"
-    ],
+    "training": ["AIIMS neyroxirurgiya kafedrasi fakulteti"],
     "work": [
       "Gerbert Krause medali sovrindori",
       "Mayo klinikasidagi Sundt stipendiyasi sovrindori, AQSh",
@@ -1197,9 +1160,7 @@
       "U shuningdek, qalqonsimon bez va laringeal operatsiyalarni amalga oshiradi, koxlear implantatsiya qiladi va allergik nafas olish kasalliklari uchun immunoterapiya beradi.",
       "Doktor Mittal milliy va xalqaro jurnallarda ko'plab nashrlarga ega va konferentsiyalar va CMElarda faol ishtirok etadi."
     ],
-    "training": [
-      "Dehli universitetidan MBBS va MS"
-    ],
+    "training": ["Dehli universitetidan MBBS va MS"],
     "work": [
       "Fortis Memorial Tadqiqot Instituti, Gurugramdagi KBB direktori",
       "Har yili 800 dan ortiq jarrohlik amaliyotini amalga oshiradi",
@@ -1371,9 +1332,7 @@
       "U 1994 yilda Hindistonda birinchi muvaffaqiyatli yurak transplantatsiyasini amalga oshirgan jamoaning asosiy a'zosi edi.",
       "Doktor Bhan Puttaparti (1992), Uaytfild (2001) va Maks yurak va qon tomir instituti Saket (2004) da kardiojarrohlik dasturlarini boshlashda hal qiluvchi rol o'ynadi."
     ],
-    "training": [
-      "Srinagar tibbiyot kolleji bitiruvchisi, oltin medal sohibi"
-    ],
+    "training": ["Srinagar tibbiyot kolleji bitiruvchisi, oltin medal sohibi"],
     "work": [
       "Puttaparti, Uaytfild va Maks yurak va qon tomir instituti Saketda kardiojarrohlik dasturlari boshlandi",
       "50 dan ortiq jarrohlik asboblari ishlab chiqilgan va ishlab chiqilgan",
@@ -1389,10 +1348,7 @@
     "experience": "33+",
     "top": false,
     "education": "D.M. (Nevrologiya) , M.D. (Umumiy tibbiyot) , M.B.B.S.",
-    "speciality": [
-      "Qurilish",
-      "Mehnat terapiyasi"
-    ],
+    "speciality": ["Qurilish", "Mehnat terapiyasi"],
     "description": [
       "Doktor Arun Garg insultga asosiy e'tibor qaratadigan katta nevrolog.",
       "U o'z mintaqasida o'tkir insultda trombolizning roliga kashshof bo'lgan.",
@@ -2038,9 +1994,7 @@
       "Etanersept",
       "Tosiluzimab"
     ],
-    "training": [
-      "APLAR stipendiyasi (Buyuk Britaniya)"
-    ],
+    "training": ["APLAR stipendiyasi (Buyuk Britaniya)"],
     "education": "DM (Klinik immunologiya), MD (Oltin medal), Tibbiyot fakulteti - Sanjay Gandi Tibbiyot fanlari aspiranturasi instituti",
     "work": [
       "Doktor Sumeet Aggarval saraton bo'yicha mutaxassis bo'lib, onkologiya sohasida 10 yildan ortiq tajribaga ega."
@@ -2415,9 +2369,7 @@
       "Nerv ildizi in'ektsiyalari",
       "Boshqa barcha interventsion og'riq protseduralari"
     ],
-    "training": [
-      "Og'riqlar bo'yicha stipendiya"
-    ],
+    "training": ["Og'riqlar bo'yicha stipendiya"],
     "education": "MBBS, Tibbiyot maktabi - Govt. Tibbiyot kolleji, Rohtak, Haryana, MD (anesteziologiya)",
     "work": [
       "14 yil oldin og'riqni davolashni boshlagan.",
@@ -3238,9 +3190,7 @@
       "Lazer",
       "Dermabraziya"
     ],
-    "training": [
-      "Fellowship, AQSh"
-    ],
+    "training": ["Fellowship, AQSh"],
     "education": "MBBS va MS AIIMS, MCh, Tibbiy ta'lim va tadqiqotlar aspirantura instituti, Chd (PGI), MRCS, Buyuk Britaniya",
     "work": [
       "Hozirda kosmetik va plastik jarrohlik bo'limi, Artemis kasalxonasi, Gurgaon, NCR Dehli",
@@ -3299,901 +3249,887 @@
     "id": 86,
     "hid": 1,
     "name": "Dr Kapil Kochar",
-    "post": "Head (Unit II) - General & Minimally Invasive Surgery",
+    "post": "Bosh (II bo'lim) - Umumiy va minimal invaziv jarrohlik",
     "image": "d37.jpg",
     "experience": "28+",
     "top": false,
     "speciality": [
-      "Bariatric (Weight Loss) Surgery",
-      "Advanced Laproscopic Gynae Procedures",
-      "Laser Surgeries For Hemorrhoids, Fistula, Pilonidal Sinus",
-      "Advanced Laparoscopic Gastro Intestinal Surgeries"
+      "Bariatrik (vazn yo'qotish) jarrohlik",
+      "Ilg'or laproskopik ginekologik muolajalar",
+      "Gemorroy, oqma, pilonidal sinus uchun lazer operatsiyalari",
+      "Ilg'or laparoskopik oshqozon-ichak operatsiyalari"
     ],
     "training": [
-      "Extensive experience in Minimal Access Surgery (MAS) and Bariatric Surgery.",
-      "Practical training gained over 28 years in India and abroad."
+      "Minimal kirish jarrohligi (MAS) va Bariatrik jarrohlik bo'yicha katta tajriba.",
+      "Hindistonda va chet elda 28 yil davomida olingan amaliy mashg'ulotlar."
     ],
-    "education": "MBBS - Maulana Azad Medical College, MS (General Surgery) - Maulana Azad Medical College & Associated Lok Nayak Hospitals, Delhi University",
+    "education": "MBBS - Maulana Azad tibbiyot kolleji, MS (umumiy jarrohlik) - Maulana Azad tibbiyot kolleji va bog'langan Lok Nayak kasalxonalari, Dehli universiteti",
     "work": [
-      "28 years of experience with more than 10,000 Laparoscopic Surgeries performed.",
-      "Previously associated with Yatharth Superspecialty Hospital, Noida and Fortis La Femme Hospital, GK 2, New Delhi.",
-      "Practices at Artemis Hospitals, Gurgaon and Artemis Lite, New Delhi.",
-      "Expert in Minimal Invasive Surgery with extensive clinical and teaching experience.",
-      "Instrumental in establishing the first IVF center in Kabul, Afghanistan.",
-      "Organized OPD camps in Nigeria and Malawi.",
-      "Specialist in Laparoscopic Surgery and Laser Surgery.",
-      "Assists young surgeons and gynecologists in establishing laparoscopic units across Bihar, Haryana, Manipur, Uttaranchal, and Uttar Pradesh."
+      "10 000 dan ortiq laparoskopik operatsiyalar bilan 28 yillik tajriba.",
+      "Ilgari Yatharth Superspecialty Hospital, Noida va Fortis La Femme kasalxonalari, GK 2, Nyu-Dehli bilan bog'langan.",
+      "Artemis shifoxonalaridagi amaliyotlar, Gurgaon va Artemis Lite, Yangi Dehli.",
+      "Kichik klinik va o'quv tajribasiga ega bo'lgan minimal invaziv jarrohlik bo'yicha mutaxassis.",
+      "Afg'onistonning Kobul shahrida birinchi IVF markazini tashkil etishda yordamchi.",
+      "Nigeriya va Malavida tashkil etilgan OPD lagerlari.",
+      "Laparoskopik jarrohlik va lazer jarrohligi bo'yicha mutaxassis.",
+      "Yosh jarrohlar va ginekologlarga Bihar, Haryana, Manipur, Uttaranchal va Uttar-Pradeshda laparoskopik bo'limlar yaratishda yordam beradi."
     ],
     "description": [
-      "Highly skilled surgeon specializing in Minimal Access Surgery (MAS) and Bariatric Surgery.",
-      "Notable for performing over 10,000 laparoscopic procedures.",
-      "Significant contributions to the field through establishing IVF centers and organizing international OPD camps.",
-      "Actively involved in mentoring and supporting the development of laparoscopic units in various states in India."
+      "Minimal kirish jarrohligi (MAS) va Bariatrik jarrohlik bo'yicha ixtisoslashgan yuqori malakali jarroh.",
+      "10 000 dan ortiq laparoskopik muolajalarni bajarish bilan mashhur.",
+      "IVF markazlarini tashkil etish va xalqaro OPD lagerlarini tashkil etish orqali sohaga muhim hissa.",
+      "Hindistonning turli shtatlarida laparoskopik bo'linmalarning rivojlanishini qo'llab-quvvatlash va qo'llab-quvvatlashda faol ishtirok etadi."
     ]
   },
   "d87": {
     "id": 87,
     "hid": 1,
     "name": "Dr Kapil jamwal",
-    "post": "Gastroenterology",
+    "post": "Gastroenterologiya",
     "image": "d38.jpg",
     "experience": "19+",
     "top": false,
-    "speciality": [
-      "Gastroenterologist",
-      "Hepatologist"
-    ],
+    "speciality": ["Gastroenterolog", "Gepatolog"],
     "training": [
-      "Formerly Assistant Professor at ILBS, India",
-      "Visiting Fellow (2016), Kyushu University, Fukuoka Japan",
-      "Visiting Clinician (2017), Department of Advanced Endoscopy, Mayo Clinic Rochester Minnesota, USA",
-      "Visiting Fellow (2017), Seoul and Busan University, South Korea"
+      "ILBS, Hindistonning sobiq assistenti",
+      "Tashrif xodimi (2016), Kyushu universiteti, Fukuoka Yaponiya",
+      "Tashrif buyuruvchi klinisyen (2017), Kengaytirilgan endoskopiya bo'limi, Mayo Clinic Rochester Minnesota, AQSh",
+      "Tashrif xodimi (2017), Seul va Pusan ​​universiteti, Janubiy Koreya"
     ],
     "education": "MBBS MD DM FAGIE",
     "work": [
-      "19 years of experience in Gastroenterology.",
-      "Practices at Centre for Digestive Care in Badshahpur, Gurgaon; Centre For Digestive Care in Gurgaon Sector 46; and Artemis Hospital in Gurgaon Sector 51.",
-      "Co-founder and Director of Centre for Digestive Care.",
-      "Specializes in HPB endoscopy, portal hypertension, GI bleeding, third space endoscopy, advanced liver disease management, and innovative endoscopic procedures.",
-      "Has a classification named Jamwal & Sarin for post-EVL ulcers."
+      "Gastroenterologiyada 19 yillik tajriba.",
+      "Gurgaon, Badshahpur shahridagi ovqat hazm qilish markazida amaliyotlar; Gurgaon sektori 46-da ovqat hazm qilish markazida; va Gurgaon sektoridagi Artemis kasalxonasida 51.",
+      "Oshqozonni parvarish qilish markazining asoschisi va direktori",
+      "HPB endoskopiyasi, portal gipertenziya, oshqozon-ichakdan qon ketishi, uchinchi kosmik endoskopiya, ilg'or jigar kasalliklarini boshqarish va innovatsion endoskopik muolajalar bo'yicha ixtisoslashgan.",
+      "Jamval va Sarin EVLdan keyingi yaralar uchun tasnifi mavjud."
     ],
     "description": [
-      "Gastroenterologist with extensive experience in the field.",
-      "Passionate about making Gastroenterology and Liver care affordable through his chain of centers.",
-      "Expert in advanced procedures including HPB endoscopy and management of complex liver diseases.",
-      "Member of the Indian Society of Gastroenterology."
+      "Bu sohada katta tajribaga ega gastroenterolog.",
+      "O'z markazlari tarmog'i orqali gastroenterologiya va jigarni parvarish qilishni arzon qilish ishtiyoqida.",
+      "Ilg'or protseduralar bo'yicha mutaxassis, shu jumladan HPB endoskopiyasi va murakkab jigar kasalliklarini boshqarish.",
+      "Hindiston gastroenterologiya jamiyati a'zosi."
     ]
   },
   "d88": {
     "id": 88,
     "hid": 1,
     "name": "Dr Nitin Goel",
-    "post": "Pediatric surgery",
+    "post": "Bolalar jarrohligi",
     "image": "d39.jpg",
     "experience": "21+",
     "top": false,
     "speciality": [
-      "Paediatric Urology",
-      "Laparoscopic Paediatric Surgery",
-      "Neonatal surgery"
+      "Bolalar urologiyasi",
+      "Laparoskopik bolalar jarrohligi",
+      "Neonatal jarrohlik"
     ],
     "training": [
-      "Assistant Professor of Pediatric Surgery at Grants Medical College & Sir J.J. Group of Hospitals, Mumbai."
+      "Grants tibbiyot kollejining pediatriya jarrohligi kafedrasi assistenti va ser J.J. Kasalxonalar guruhi, Mumbay."
     ],
-    "education": "M. Ch. (Paediatric Surgery), M.S. (Gen Surgery), M.B.B.S. - L.L.R.M Medical College, Meerut",
+    "education": "M. Ch. (Bolalar jarrohligi), M.S. (Umumiy jarrohlik), M.B.B.S. - L.L.R.M tibbiyot kolleji, Meerut",
     "work": [
-      "Assistant Professor of Pediatric Surgery at Grants Medical College & Sir J.J. Group of Hospitals, Mumbai.",
-      "2008 - 2011 Pediatric Surgeon at Grant Medical College",
-      "2011 - 2013 Assistant Professor -Pediatric Surgery at J.J. Hospitals & Grant Medical College",
-      "2013 - 2015 Associate Professor & Head - Department of Pediatric surgery at Government Medical College"
+      "Grants tibbiyot kolleji bolalar jarrohligi kafedrasi assistenti va Ser J.J. kasalxonalar guruhi, Mumbay.",
+      "2008-2011 yillarda Grant tibbiyot kollejida bolalar jarrohi",
+      "2011 - 2013 J.J. Hospitals & Grant tibbiyot kollejida bolalar jarrohligi bo'yicha assistent",
+      "2013-2015 yillarda Davlat tibbiyot kolleji bolalar xirurgiyasi kafedrasi dotsenti va mudiri."
     ],
     "description": [
-      "Experienced Pediatric Surgeon with over a decade of practice in leading hospitals.",
-      "Active in medical outreach and rural health initiatives."
+      "Etakchi shifoxonalarda o'n yildan ortiq tajribaga ega bo'lgan tajribali pediatriya jarrohi.",
+      "Tibbiy targ‘ibot va qishloq sog‘lig‘ini saqlash tashabbuslarida faol"
     ]
   },
   "d89": {
     "id": 89,
     "hid": 1,
     "name": "Dr Sakshi karkara",
-    "post": "Consultant Pediatric Gastroenterologist and Hepatologist",
+    "post": "Bolalar gastroenterologi va gepatologi maslahatchisi",
     "image": "d40.avif",
     "experience": "26+",
     "top": false,
     "speciality": [
-      "Omphalocoele",
-      "Gastroschisis",
-      "Hiatus Hernia",
-      "Imperforate Anus",
-      "Caroli's Disease",
-      "Hepatitis B and C",
-      "Meckel's Diverticulum",
-      "Intestinal Obstruction",
-      "Intestinal Perforation"
+      "Omfaloksel",
+      "gastroshizis",
+      "Hiatus churrasi",
+      "Imperforatsiyalangan anus",
+      "Keroli kasalligi",
+      "Gepatit B va C",
+      "Mekkel divertikulasi",
+      "Ichak tutilishi",
+      "Ichak teshilishi"
     ],
     "training": [
-      "Fellowship in Pediatrics, Gastroenterology, Hepatology, 2009."
+      "Pediatriya, gastroenterologiya, gepatologiya bo'yicha stipendiya, 2009 yil."
     ],
-    "education": "MBBS from SMS Medical College - Jaipur, MD - Pediatrics from Dr. Sampurnanand Medical College - Jodhpur",
+    "education": "SMS tibbiyot kollejidan MBBS - Jaipur, MD - Doktor Sampurnanand tibbiyot kollejidan pediatriya - Jodhpur",
     "work": [
-      "Pediatric Gastroenterologist and Hepatologist at Medanta, Gurgaon.",
-      "Provides OPD services as a Pediatric Gastroenterologist and Hepatologist."
+      "Medanta, Gurgaon shahridagi bolalar gastroenterologi va gepatologi.",
+      "Pediatrik gastroenterolog va gepatolog sifatida OPD xizmatlarini taqdim etadi."
     ],
     "description": [
-      "26 years of experience in Pediatric Gastroenterology and Hepatology.",
-      "Expert in managing various pediatric gastrointestinal and liver disorders including omphalocoele, gastroschisis, hiatus hernia, choledochal cysts, congenital polycystic liver disease, and many more."
+      "Bolalar gastroenterologiyasi va gepatologiyasi bo'yicha 26 yillik tajriba.",
+      "Omfaloksel, gastroshizis, churra churrasi, xoledox kistalari, tug'ma polikistik jigar kasalligi va boshqa ko'plab bolalar oshqozon-ichak va jigar kasalliklarini davolash bo'yicha mutaxassis."
     ]
   },
   "d90": {
     "id": 90,
     "hid": 1,
     "name": "Dr. Shivanshu Raj Goyal",
-    "post": "Sr. Consultant - Respiratory/ Pulmonology & Sleep Medicine",
+    "post": "Sr. Maslahatchi - nafas olish/pulmonologiya va uyqu tibbiyoti",
     "image": "d41.jpg",
     "experience": "",
     "top": false,
     "speciality": [
-      "Pleural Aspirations, Chest Tube Insertion, Thoracoscopic pleural biopsies & adhesiolysis",
-      "Diagnostic & Therapeutic Bronchoscopies - BAL, EBLB, TBLB etc",
-      "CRYO, Cautery & APC procedures - Tumor Debulking",
-      "EBUS - Convex & Radial Probes",
-      "Bronchial Stenting: Silicone & Metallic",
-      "Bronchoscopic Lung Volume Reduction: Stenting & Coiling - For Severe COPD",
-      "Bronchial Thermoplasty: For Uncontrolled Bronchial Asthma",
-      "Central, Arterial, Dialysis Catheter placement",
-      "CPAP & BiPAP Titration: For COPD & Sleep Medicine",
-      "Skin Prick Allergy Testing & Immunotherapy for allergic disorders"
+      "Plevra aspiratsiyalari, ko'krak qafasi trubkasini kiritish, torakoskopik plevra biopsiyalari va adezioliz",
+      "Diagnostik va terapevtik bronkoskopiyalar - BAL, EBLB, TBLB va boshqalar",
+      "CRYO, Cautery & APC protseduralari - o'simtani yo'qotish",
+      "EBUS - Qavariq va Radial zondlar",
+      "Bronxial stentlash: silikon va metall",
+      "Bronkoskopik o'pka hajmini kamaytirish: stentlash va o'rash - og'ir KOAH uchun",
+      "Bronxial termoplastika: nazoratsiz bronxial astma uchun",
+      "Markaziy, arterial, dializ kateterini joylashtirish",
+      "CPAP va BiPAP titrlash: KOAH va uyqu tibbiyoti uchun",
+      "Allergik kasalliklar uchun teri sinovi va immunoterapiya"
     ],
     "training": [
-      "Fellow of Asia Pacific Society of Respirology (FAPSR): Tokyo",
-      "Fellowship in Critical Care Medicine (FCCM): Apollo Medvarsity, India",
-      "Clinical Specialist in Organ Transplantation: NOTTO, New Delhi, India"
+      "Osiyo Tinch okeani Respirologiya Jamiyati a'zosi (FAPSR): Tokio",
+      "Kritik tibbiy yordam bo'yicha stipendiya (FCCM): Apollo Medvarsity, Hindiston",
+      "Organ transplantatsiyasi bo'yicha klinik mutaxassis: NOTTO, Nyu-Dehli, Hindiston"
     ],
-    "education": "MBBS, MD, DNB: TB & Respiratory Diseases",
+    "education": "MBBS, MD, DNB: sil va nafas olish kasalliklari",
     "work": [
-      "Specializes in Respiratory Medicine, Tuberculosis, Immunology, Sleep Medicine & Critical Care.",
-      "Focuses on Interventional Pulmonology and aims to start a Lung Transplantation Programme.",
-      "Previously worked as Associate Consultant at Sir Ganga Ram Hospital, New Delhi."
+      "Nafas olish kasalliklari, sil kasalligi, immunologiya, uyqu tibbiyoti va jiddiy tibbiy yordam bo'yicha ixtisoslashgan.",
+      "Interventsion pulmonologiyaga e'tibor qaratadi va o'pka transplantatsiyasi dasturini boshlashni maqsad qiladi.",
+      "Ilgari Sir Ganga Ram kasalxonasida maslahatchi bo'lib ishlagan, Nyu-Dehli."
     ],
     "description": [
-      "Extensive experience in Respiratory Medicine, Tuberculosis, Immunology, Sleep Medicine & Critical Care.",
-      "Keen interest in Interventional Pulmonology with a goal of initiating a Lung Transplantation Programme.",
-      "Has presented work at various national and international forums, including NAPCON, TESCON, PULMOCON, ICONIC, ISC, and ERS.",
-      "Received specialized training in advanced techniques including EndoBronchial Ultrasound (EBUS) and EndoBronchial Stent placement."
+      "Nafas olish kasalliklari, sil kasalligi, immunologiya, uyqu tibbiyoti va jiddiy tibbiy yordam bo'yicha katta tajriba.",
+      "O'pka transplantatsiyasi dasturini boshlash maqsadida interventsion pulmonologiyaga katta qiziqish.",
+      "Turli milliy va xalqaro forumlarda, jumladan NAPCON, TESCON, PULMOCON, ICONIC, ISC va ERSda o'z ishini taqdim etgan.",
+      "Endobronxial ultratovush (EBUS) va endobronxial stentni joylashtirish kabi ilg'or texnikalar bo'yicha ixtisoslashtirilgan ta'lim oldi."
     ]
   },
   "d91": {
     "id": 91,
     "hid": 10,
     "name": "Dr. Y K Mishra",
-    "post": "Chairman, Manipal Institute of Cardiac Sciences - Minimally Invasive Cardiac Surgery, Robotic Cardiac Surgery",
+    "post": "Manipal yurak fanlari instituti raisi - minimal invaziv yurak jarrohligi, robotli yurak jarrohligi",
     "image": "d1.jpg",
     "experience": "43+",
     "top": true,
     "speciality": [
-      "Minimally Invasive Cardiac Surgery",
-      "Robotic Cardiac Surgery",
-      "Redo Valve and Coronary Surgeries",
-      "Surgery of ascending aortic aneurysms and dissections",
-      "CABG in patients with poor ventricular function",
-      "Valve repair and replacement",
-      "Surgery for heart failure including heart transplantation & ventricular assist devices",
-      "Total Arterial Coronary Bypass",
-      "Carotid Angioplasty And Stenting",
-      "Coronary Angioplasty / Bypass Surgery",
+      "Minimal invaziv yurak jarrohligi",
+      "Robotik yurak jarrohligi",
+      "Qayta klapan va koronar jarrohlik",
+      "Ko'tarilgan aorta anevrizmasi va dissektsiyalari jarrohligi",
+      "Qorincha funktsiyasi yomon bo'lgan bemorlarda CABG",
+      "Vanalarni ta'mirlash va almashtirish",
+      "Yurak etishmovchiligi bo'yicha jarrohlik, shu jumladan yurak transplantatsiyasi va qorinchalarga yordam beradigan asboblar",
+      "Total arterial koronar bypass",
+      "Karotid angioplastika va stentlash",
+      "Koronar angioplastika / bypass jarrohligi",
       "TAVI",
       "TAVR",
-      "Aortic surgery including aortic aneurysm and aortic dissection with open surgical and endovascular stenting"
+      "Aorta jarrohligi, shu jumladan aorta anevrizmasi va ochiq jarrohlik va endovaskulyar stentlash bilan aorta diseksiyasi"
     ],
     "training": [
-      "Fellow Association of Thoracic and Cardiovascular Surgeons of India",
-      "Fellow (Cardiovascular Surgery), Thoracic Centre, University Hospital Uppsala, Sweden",
-      "Fellow, Association of Thoracic and Cardiovascular Surgeons of India"
+      "Hindistonning torakal va yurak-qon tomir jarrohlari uyushmasi",
+      "Yurak-qon tomir jarrohligi bo'limi), Toraks markazi, Uppsala universiteti kasalxonasi, Shvetsiya",
+      "Hindiston torakal va yurak-qon tomir jarrohlari assotsiatsiyasi a'zosi"
     ],
-    "education": "MBBS, S. S. Medical College Rewa, (M.P.) India, 1980 | MS (Surgery), S. S. Medical College Rewa, (M.P.) India, 1984 | Ph.D (Cardiovascular Surgery), Bakulev Institute of Cardio-vascular Surgery, Moscow, Russia, 1991",
+    "education": "MBBS, S. S. Tibbiyot kolleji Rewa, (M.P.) Hindiston, 1980 | MS (jarrohlik), S. S. Tibbiyot kolleji Rewa, (M.P.) Hindiston, 1984 | Ph.D (yurak-qon tomir jarrohligi), Bakulev nomidagi yurak-qon tomir xirurgiyasi instituti, Moskva, Rossiya, 1991 y.",
     "work": [
-      "Specialist in cardiac surgeries with over 29 years of experience.",
-      "Performed more than 19,000 open heart surgeries, including minimally invasive procedures, robotic surgeries, and redo cardiac surgeries.",
-      "Leading member in the development of TAVR at Fortis Escorts Heart Institute and actively involved in heart transplantation and VAD procedures."
+      "29 yildan ortiq tajribaga ega kardiojarrohlik bo'yicha mutaxassis.",
+      "19 000 dan ortiq ochiq yurak operatsiyalari, shu jumladan minimal invaziv muolajalar, robot operatsiyalari va takroriy yurak operatsiyalarini o'tkazdi.",
+      "Fortis Escorts yurak institutida TAVRni rivojlantirish bo'yicha etakchi a'zo va yurak transplantatsiyasi va VAD protseduralarida faol ishtirok etadi."
     ],
     "description": [
-      "Dr. Mishra is a highly experienced cardiac surgeon with over 29 years in the field.",
-      "Has performed over 19,000 open heart surgeries, including minimally invasive cardiac surgeries, port access valve surgeries, ASD closures, carotid artery endarterectomy, aortic aneurysm repairs, ECMO, cardiac arrhythmia surgeries, and total arterial revascularization.",
-      "Notable achievements include more than 500 successful robotic cardiac surgeries and 1,000 redo cardiac surgeries.",
-      "Played a leading role in the development of TAVR (Transcatheter Aortic Valve Replacement) at Fortis Escorts Heart Institute and has been actively involved in heart transplantation and Ventricular Assist Device (VAD) procedures.",
-      "Dr. Mishra holds a keen interest in training, education, and research, with over 150 scientific papers published and regular participation in more than 200 international and national conferences as a speaker.",
-      "His expertise is recognized globally, with patients from countries including the USA, UK, Iraq, UAE, Oman, Bangladesh, Indonesia, Malaysia, Nepal, and several African and Central Asian nations.",
-      "Has demonstrated his surgical skills through live case demonstrations at workshops in Thailand, Bangladesh, and Nepal."
+      "Doktor Mishra bu sohada 29 yildan ortiq tajribaga ega bo'lgan juda tajribali kardiojarrohdir.",
+      "19 000 dan ortiq ochiq yurak operatsiyalarini amalga oshirdi, jumladan, minimal invaziv yurak operatsiyalari, portga kirish klapanlari operatsiyalari, ASD yopilishi, karotid arteriya endarterektomiyasi, aorta anevrizmasini tuzatish, ECMO, yurak aritmiya operatsiyalari va umumiy arterial revaskulyarizatsiya",
+      "E'tiborli yutuqlarga 500 dan ortiq muvaffaqiyatli robotlashtirilgan kardiojarrohlik va 1000 ta takroriy kardiojarrohlik kiradi.",
+      "Fortis Escorts yurak institutida TAVR (Transcatheter aortic valve Replacement) ni ishlab chiqishda etakchi rol o'ynagan va yurak transplantatsiyasi va Ventrikulyar Assist Device (VAD) protseduralarida faol ishtirok etgan.",
+      "Doktor Mishra ta'lim, ta'lim va tadqiqotlarga katta qiziqish bildiradi, 150 dan ortiq ilmiy maqolalari nashr etilgan va 200 dan ortiq xalqaro va milliy konferentsiyalarda ma'ruzachi sifatida muntazam ishtirok etadi.",
+      "Uning tajribasi dunyo miqyosida tan olingan, AQSh, Buyuk Britaniya, Iroq, BAA, Ummon, Bangladesh, Indoneziya, Malayziya, Nepal va Afrika va Markaziy Osiyoning bir qancha davlatlaridan kelgan bemorlar.",
+      "O'zining jarrohlik mahoratini Tailand, Bangladesh va Nepaldagi seminarlarda jonli namoyishlar orqali namoyish etdi."
     ]
   },
   "d92": {
     "id": 92,
     "hid": 7,
     "name": "Dr. Sudhir Tyagi",
-    "post": "Neurosurgeon",
+    "post": "Neyroxirurg",
     "image": "1.jpg",
     "experience": "32+",
     "top": true,
     "speciality": [
-      "Neurosurgery Training - All India Institute of Medical Sciences (AIIMS), New Delhi",
-      "Functional Stereotactic Surgery Program - Apollo Hospital New Delhi"
+      "Neyroxirurgiya bo'yicha trening - Butun Hindiston tibbiyot fanlari instituti (AIIMS), Nyu-Dehli",
+      "Funktsional stereotaktik jarrohlik dasturi - Apollon kasalxonasi Nyu-Dehli"
     ],
     "training": [
-      "Anterior Cervical and Lumbar Microsurgical Discectomy",
-      "Craniovertebral Junction Surgeries",
-      "Cerebral Aneurysm Treatment",
-      "Excision of AVM Malformation",
-      "Spinal Tumor Surgeries",
-      "Spinal Instrumentation (Cervico-occipital to Lumbosacral Regions)",
-      "Deep Brain Stimulation Surgeries",
-      "Frameless Stereotactic Navigation for Epilepsy",
-      "Stereotactic Radiosurgery (SRS)"
+      "Anterior servikal va lomber mikrojarrohlik diskektomiyasi",
+      "Kraniovertebral birikma operatsiyalari",
+      "Miya anevrizmasini davolash",
+      "AVM malformatsiyasini olib tashlash",
+      "O'murtqa o'sma operatsiyalari",
+      "Omurilik asboblari (serviko-oksipitaldan lumbosakral hududlarga)",
+      "Miyani chuqur stimulyatsiya qilish operatsiyalari",
+      "Epilepsiya uchun ramkasiz stereotaktik navigatsiya",
+      "Stereotaktik radiojarrohlik (SRS)"
     ],
-    "education": "MBBS (KGMC), MS (KGMC) M.Ch Neurosurgery (AIIMS)",
+    "education": "MBBS (KGMC), MS (KGMC) M.Ch Neyroxirurgiya (AIIMS)",
     "work": [
-      "AIIMS ( Jan 1994 to May 1997)",
-      "Working in neurosurgical field for last 25 years",
-      "Practicing successfully Brain & Spine Surgery at Apollo Hospitals New Delhi",
-      "9000 neurosurgical procedures"
+      "AIIMS (1994 yil yanvardan 1997 yil maygacha)",
+      "So'nggi 25 yil davomida neyroxirurgiya sohasida ishlagan",
+      "Apollo Hospitals New Dehlida miya va umurtqa pog'onasi jarrohligi bo'yicha muvaffaqiyatli amaliyot o'tkazish",
+      "9000 neyroxirurgik muolajalar"
     ],
     "description": [
-      "Dr. Sudheer Kumar Tyagi, born on 1st February 1966, is a renowned neurosurgeon with over 32 years of experience.",
-      "Graduated from King George’s Medical University (KGMU), Lucknow, and trained in Neurosurgery at AIIMS, New Delhi.",
-      "Recognized for precise neurosurgical work, including more than 15,000 microscopic brain and spine surgeries.",
-      "Active in neurosurgical training and research at Apollo Hospitals, New Delhi.",
-      "Has provided free medical services in his native village in Muzaffarnagar (UP) for over 32 years.",
-      "Promoter of the Swach Bharat Mission and has financially supported local infrastructure projects including toilets and a girls' hostel in his village.",
-      "Supports the education of an orphan child through a foundation.",
-      "Honored with several awards including the LEGEND award by Times of India in August 2017, the Vishisht Chiktsa Ratna Award by Delhi Medical Association in July 2015, and a Scroll of Honour by the Indian Medical Association (South Delhi)."
+      "Doktor Sudheer Kumar Tyagi, 1966 yil 1 fevralda tug'ilgan, 32 yildan ortiq tajribaga ega taniqli neyroxirurg.",
+      "King Jorj tibbiyot universitetini (KGMU) Laknau shahrida tugatgan va AIIMS, Nyu-Dehlida neyroxirurgiya bo'yicha tahsil olgan.",
+      "Aniq neyroxirurgiya ishlari, shu jumladan 15 000 dan ortiq mikroskopik miya va umurtqa pog'onasi operatsiyalari uchun tan olingan.",
+      "Apollon kasalxonalarida neyroxirurgik ta'lim va tadqiqotlarda faol, Nyu-Dehli.",
+      "32 yildan ortiq vaqt davomida o'zining tug'ilgan qishlog'i Muzaffarnagarda (UP) bepul tibbiy xizmat ko'rsatib kelmoqda.",
+      "Swach Bharat missiyasining targ'ibotchisi va o'z qishlog'idagi hojatxonalar va qizlar yotoqxonasi kabi mahalliy infratuzilma loyihalarini moliyaviy qo'llab-quvvatlagan.",
+      "Jamg'arma orqali etim bolaning ta'lim olishini qo'llab-quvvatlaydi",
+      "2017 yil avgust oyida Times of India tomonidan LEGEND mukofoti, 2015 yil iyul oyida Dehli Tibbiyot Assotsiatsiyasi tomonidan Vishisht Chiktsa Ratna mukofoti va Hindiston Tibbiyot Assotsiatsiyasi (Janubiy Dehli) tomonidan \"Faxriy yorliq\" bilan taqdirlangan."
     ]
   },
   "d93": {
     "id": 93,
     "hid": 3,
     "name": "Dr. Manoj Miglani",
-    "post": "PRINCIPAL DIRECTOR ORTHOPAEDICS",
+    "post": "ORTOPEEDIKA BOSH DIREKTOR",
     "image": "d15.webp",
     "experience": "20+",
     "top": true,
     "speciality": [
-      "Revision Hip Replacement",
-      "Minimally Invasive Hip Replacement",
-      "ACL Reconstruction",
-      "Knee Replacement Surgery",
-      "Revision Single Knee Replacement",
-      "Arthroscopic surgery",
-      "Shoulder Replacement Surgery",
-      "Knee Arthroscopy",
-      "Elbow Replacement Surgery",
-      "Osteotomy",
-      "Limb Lengthening",
-      "Laminoplasty",
-      "Laminotomy",
-      "Micro Discectomy",
-      "Minimally Invasive Spine Surgery",
-      "Total Disc Replacement",
-      "Multiple Sclerosis",
-      "Cervical Spine Surgery",
-      "Spine Tumour Surgery",
-      "Scoliosis Spine Surgery",
-      "Spine Decompression Surgery",
-      "Ankle Arthroscopy",
-      "Shoulder Arthroscopy",
-      "Spondylitis",
-      "Slip DiscAnterior cervical discectomy and fusion (ACDF)",
-      "TLIF surgery"
+      "Kaltakni almashtirish reviziyasi",
+      "Minimal invaziv kestirib almashtirish",
+      "ACL rekonstruktsiyasi",
+      "Tizza almashtirish jarrohligi",
+      "Yagona tizzani almashtirish reviziyasi",
+      "Artroskopik jarrohlik",
+      "Elka almashtirish jarrohligi",
+      "Tizza artroskopiyasi",
+      "Tirsaklarni almashtirish jarrohligi",
+      "Osteotomiya",
+      "Oyoq-qo'llarni uzaytirish",
+      "Laminoplastika",
+      "Laminotomiya",
+      "Mikro diskektomiya",
+      "Minimal invaziv umurtqa pog'onasi jarrohligi",
+      "Jami diskni almashtirish",
+      "Ko'p skleroz",
+      "Bachadon bo'yni umurtqa pog'onasi jarrohligi",
+      "Omurga o'smalari jarrohligi",
+      "Skolioz umurtqa pog'onasi jarrohligi",
+      "O'murtqa dekompressiya jarrohligi",
+      "Oyoq Bilagi zo'r artroskopiya",
+      "Elka artroskopiyasi",
+      "Spondilit",
+      "Slip DiscAnterior servikal diskektomiya va termoyadroviy (ACDF)",
+      "TLIF jarrohlik"
     ],
     "training": [
-      "Orthopedic Surgery",
-      "Spinal Surgery",
-      "Minimally Invasive Spine Surgery",
-      "Endoscopic Procedures",
-      "Joint Replacements"
+      "Ortopedik jarrohlik",
+      "Omurilik jarrohligi",
+      "Minimal invaziv umurtqa pog'onasi jarrohligi",
+      "Endoskopik muolajalar",
+      "Bo'g'imlarni almashtirish"
     ],
-    "education": "M.S. (Orthopedics), MBBS",
+    "education": "XONIM. (Ortopediya), MBBS",
     "work": [
-      "Orthopedic and Spine Surgeon at Fortis Hospital, Vasant Kunj, New Delhi.",
-      "Performs a wide range of spine surgeries and joint replacements, including complex cases and routine procedures.",
-      "Specializes in spinal trauma and degeneration cases, including herniated discs, spinal stenosis, and fractures.",
-      "Focuses on minimally invasive spine surgeries, including endoscopic procedures and fixations.",
-      "Keeps updated with the latest advancements in spinal surgery to offer cutting-edge and least invasive treatments."
+      "Fortis kasalxonasida ortopediya va umurtqa pog'onasi jarrohi, Vasant Kunj, Nyu-Dehli.",
+      "Umurtqa pog'onasi bo'yicha keng ko'lamli operatsiyalar va bo'g'imlarni almashtirish, shu jumladan murakkab holatlar va muntazam muolajalarni amalga oshiradi.",
+      "O'murtqa travma va degeneratsiya holatlari, shu jumladan churrali disklar, o'murtqa stenoz va sinishlar bo'yicha ixtisoslashgan.",
+      "Umurtqa pog'onasining minimal invaziv operatsiyalariga, shu jumladan endoskopik muolajalar va fiksatsiyalarga e'tibor qaratiladi.",
+      "Zamonaviy va eng kam invaziv muolajalarni taklif qilish uchun orqa miya jarrohligidagi so'nggi yutuqlar bilan yangilanib turadi."
     ],
     "description": [
-      "Dr. Manoj Miglani is a highly regarded orthopedic and spine surgeon known for his compassionate and approachable demeanor.",
-      "He has a distinguished career at Fortis Hospital, Vasant Kunj, New Delhi, and is renowned for his expertise in spinal surgery.",
-      "Dr. Miglani is skilled in treating various spinal conditions such as herniated discs, spinal stenosis, and fractures.",
-      "He is particularly noted for his interest in minimally invasive spine surgeries, which offer benefits like smaller incisions, reduced pain, and quicker recovery.",
-      "His commitment to staying updated with advancements in spinal surgery allows him to provide his patients with the latest and most effective treatments."
+      "Doktor Manoj Miglani o'zining mehribon va muloyim xulq-atvori bilan mashhur bo'lgan ortoped va umurtqa pog'onasi jarrohidir.",
+      "U Nyu-Dehli, Vasant Kunj shahridagi Fortis kasalxonasida taniqli martabaga ega va o'murtqa jarrohlik bo'yicha tajribasi bilan mashhur.",
+      "Doktor Miglani churrali disklar, o'murtqa stenoz va sinishlar kabi turli xil orqa miya kasalliklarini davolashda malakali.",
+      "U, ayniqsa, kichikroq kesmalar, og'riqni kamaytirish va tezroq tiklanish kabi afzalliklarni taqdim etadigan minimal invaziv umurtqa pog'onasi operatsiyalariga qiziqishi bilan ajralib turadi.",
+      "Uning orqa miya jarrohligidagi yutuqlardan xabardor bo'lish majburiyati o'z bemorlariga eng so'nggi va eng samarali davolash usullarini taqdim etishga imkon beradi."
     ]
   },
   "d94": {
     "id": 94,
     "hid": 4,
     "name": "Dr. Ashok Seth",
-    "post": "CHAIRMAN CARDIAC SCIENCE",
+    "post": "YURAK FANI RAIS",
     "image": "d1.jpg",
     "experience": "40+",
     "top": true,
     "speciality": [
-      "Transcatheter Aortic Valve Replacement (TAVR)",
+      "Aorta qopqog'ini transkateter bilan almashtirish (TAVR)",
       "MitraClip (TMVR)",
-      "Complex Angioplasties",
-      "Laser Angioplasty",
-      "BioAbsorbable Stents",
-      "Impella Pump Supported Angioplasty",
+      "Murakkab angioplastika",
+      "Lazer angioplastika",
+      "Bioabsorbable stentlar",
+      "Impella nasosli angioplastika",
       "Rotablator",
-      "Shockwave Lithotripsy",
-      "Aortic Aneurysm Stent Grafts",
-      "Carotid Angioplasties"
+      "Shok to'lqinli litotripsi",
+      "Aorta anevrizmasi uchun stent transplantatsiyasi",
+      "Karotid angioplastika"
     ],
     "training": [
-      "Chairman, Fortis Escorts Heart Institute, New Delhi",
-      "Chairman, Fortis Healthcare Medical Council",
-      "Adjunct Professor of Cardiology, JN Medical College, Aligarh Muslim University",
-      "Adjunct Professor of Cardiology, National Board of Examinations",
-      "Founder/Course Director, Major National & International Angioplasty Teaching Courses",
-      "Associate Director, TCT Scientific Sessions (USA)",
-      "Program Committee Member, Euro PCR"
+      "Rais, Fortis Escorts Heart Institute, Nyu-Dehli",
+      "Fortis Healthcare tibbiyot kengashi raisi",
+      "Aligarh musulmon universiteti JN tibbiyot kolleji kardiologiya kafedrasi yordamchi professori",
+      "Milliy imtihonlar kengashi, kardiologiya kafedrasi yordamchisi",
+      "Asosiy/kurs direktori, asosiy milliy va xalqaro angioplastika o'qitish kurslari",
+      "TCT Scientific Sessions direktori o'rinbosari (AQSh)",
+      "Dastur qo'mitasi a'zosi, Evro PCR"
     ],
-    "education": "FRCP (Lond, Edin, Irel), FACC, FESC, MSCAI, FAPSIC, FIMSA, FCSI, DSc ( BHU, AMU, Amity U, TMU, Shiv Nadar U ), D Litt ( Jamia Millia U )",
+    "education": "FRCP (Lond, Edin, Irel), FACC, FESC, MSCAI, FAPSIC, FIMSA, FCSI, DSc (BHU, AMU, Amity U, TMU, Shiv Nadar U), D Litt (Jamia Millia U)",
     "work": [
-      "Chairman of Fortis Escorts Heart Institute, New Delhi.",
-      "Chairman of Fortis Healthcare Medical Council.",
-      "Adjunct Professor of Cardiology at JN Medical College (Aligarh Muslim University) and the National Board of Examinations.",
-      "Founder/Course Director of major national and international angioplasty teaching courses, including India Live, India Valves, CHIP-CTO India, AICT-Asia PCR, and Imaging & Physiology Council of India.",
-      "Associate Director of TCT Scientific Sessions (USA) and Program Committee Member of Euro PCR.",
-      "Lectured at over 450 national and international meetings and performed live demonstrations of complex angioplasty techniques at more than 100 meetings worldwide.",
-      "Trained over 500 cardiologists in advanced angioplasty techniques.",
-      "Authored over 350 publications and contributed chapters to 30 books on cardiology."
+      "Fortis Escorts Heart Institute raisi, Nyu-Dehli.",
+      "Fortis Healthcare Tibbiyot Kengashi raisi.",
+      "JN tibbiyot kolleji (Aligarh musulmon universiteti) va Milliy imtihonlar kengashining kardiologiya kafedrasi yordamchisi.",
+      "India Live, India Valves, CHIP-CTO India, AICT-Asia PCR va Hindistonning Imaging & Fiziologiya Kengashi kabi yirik milliy va xalqaro angioplastika o'qitish kurslari asoschisi/kurs direktori.",
+      "TCT Science Sessions (AQSh) direktori o'rinbosari va Euro PCR Dastur qo'mitasi a'zosi.",
+      "450 dan ortiq milliy va xalqaro uchrashuvlarda ma'ruzalar o'qigan va butun dunyo bo'ylab 100 dan ortiq uchrashuvlarda murakkab angioplastika usullarini jonli namoyish qilgan.",
+      "500 dan ortiq kardiologlarga angioplastikaning ilg'or usullari bo'yicha o'qitilgan.",
+      "350 dan ortiq nashrlar muallifi va kardiologiya bo'yicha 30 ta kitobga boblar qo'shgan."
     ],
     "description": [
-      "Dr. Ashok Seth has led the field of interventional cardiology for 35 years, contributing extensively to the development and scientific progress in this specialty.",
-      "He has pioneered numerous angioplasty techniques for India and the Asia Pacific region and has received honorary doctorates from six prestigious universities.",
-      "Dr. Seth has been honored with several national and international awards, including the Padma Shri, Padma Bhushan, and B.C. Roy National Award. He is recognized as a Master Interventionalist by the Society for Cardiovascular Angiography & Interventions (USA) and has received the Life Time Achievement in Interventional Cardiology Award by Chien Foundation (Singapore).",
-      "He is acclaimed for his expertise in advanced interventional procedures, including Transcatheter Aortic Valve Replacement (TAVR), MitraClip, complex angioplasties, and more.",
-      "Dr. Seth has been actively involved in teaching and training, with a significant impact on cardiology education both in India and internationally."
+      "Doktor Ashok Set 35 yil davomida interventsion kardiologiya sohasiga rahbarlik qilib, ushbu mutaxassislikning rivojlanishi va ilmiy taraqqiyotiga katta hissa qo'shgan.",
+      "U Hindiston va Osiyo-Tinch okeani mintaqasi uchun ko'plab angioplastika texnikasini yaratgan va oltita nufuzli universitetning faxriy doktori unvoniga sazovor bo'lgan.",
+      "Doktor Set bir qancha milliy va xalqaro mukofotlar, jumladan Padma Shri, Padma Bhushan va B.C. Roy milliy mukofotlari bilan taqdirlangan. U Kardiovaskulyar Angiografiya va Intervensiyalar Jamiyati (AQSh) tomonidan Master Interventionalist sifatida e'tirof etilgan va mukofot olgan. Chien jamg'armasi (Singapur) tomonidan interventsion kardiologiya bo'yicha hayotdagi muvaffaqiyat mukofoti",
+      "U ilg'or interventsion muolajalar, jumladan Transkateter aorta qopqog'ini almashtirish (TAVR), MitraClip, murakkab angioplastikalar va boshqalar bo'yicha tajribasi bilan mashhur.",
+      "Doktor Set Hindistonda ham, xalqaro miqyosda ham kardiologiya ta'limiga sezilarli ta'sir ko'rsatib, o'qitish va o'qitishda faol ishtirok etdi"
     ]
   },
   "d95": {
     "id": 95,
     "hid": 8,
     "name": "Dr. Subhash Chandra",
-    "post": "Chairman - Interventional Cardiology - Cardiology & Structural Heart Disease",
+    "post": "Rais - Interventsion Kardiologiya - Kardiologiya va Strukturaviy yurak kasalliklari",
     "image": "d23.webp",
     "experience": "39+",
     "top": true,
     "speciality": [
-      "Coronary Interventions",
-      "Structural Heart Diseases",
-      "Endovascular Interventions",
-      "Angioplasties",
-      "Rotablation",
-      "IVC Filter Placement",
-      "EVAR (Endovascular Aneurysm Repair)",
-      "TEVAR (Thoracic Endovascular Aneurysm Repair)",
-      "Permanent Pacemaker Implantation",
-      "Pacemaker Implantation"
+      "Koronar aralashuvlar",
+      "Tuzilishli yurak kasalliklari",
+      "Endovaskulyar aralashuvlar",
+      "Angioplastika",
+      "aylantirish",
+      "IVC filtrini joylashtirish",
+      "EVAR (endovaskulyar anevrizmani tiklash)",
+      "TEVAR (torakal endovaskulyar anevrizmani tuzatish)",
+      "Doimiy yurak stimulyatori implantatsiyasi",
+      "Kardostimulyator implantatsiyasi"
     ],
     "training": [
-      "United States Medical Licensing Examination (USA)",
-      "PDF (Brussels, Belgium)"
+      "Amerika Qo'shma Shtatlari Tibbiy litsenziyalash imtihoni (AQSh)",
+      "PDF (Bryussel, Belgiya)"
     ],
-    "education": "MBBS,MD (Internal Medicine),DNB (Cardiology), DM (Cardiology) AIIMS",
+    "education": "MBBS, MD (ichki kasalliklar), DNB (kardiologiya), DM (kardiologiya) AIIMS",
     "work": [
-      "Presently working as a Chairman in Interventional Cardiology at BLK-Max Super Speciality Hospital, New Delhi",
-      "Director & Senior Consultant, Fortis Escorts Heart Institute, New Delhi",
-      "Director - Narinder Mohan Heart Centre",
-      "Senior Consultant - Indraprastha Apollo Hospital, New Delhi",
-      "Assistant Professor of Cardiology - AIIMS, New Delhi",
-      "Clinical Registrar- JN Medical College, Aligarh"
+      "Hozirda BLK-Max Super Specialty Hospital, Nyu-Dehlida interventsion kardiologiya bo'yicha rais sifatida ishlamoqda",
+      "Fortis Escorts yurak instituti direktori va katta maslahatchisi, Nyu-Dehli",
+      "Direktor - Narinder Mohan yurak markazi",
+      "Katta maslahatchi - Indraprastha Apollon kasalxonasi, Nyu-Dehli",
+      "Kardiologiya kafedrasi assistenti - AIIMS, Nyu-Dehli",
+      "Klinik registrator - JN tibbiyot kolleji, Aligarh"
     ],
     "description": [
-      "Dr. Subhash Chandra is a highly experienced interventional cardiologist with 39 years in the field.",
-      "He has performed over 25,000 complex procedures, including TAVR, LA Appendage Occlusion, angioplasties, and rotablation.",
-      "A pioneer in pacemaker implantation, Dr. Chandra has performed over 3,000 pacemaker surgeries.",
-      "He has been trained at top institutions in the USA, Europe, and Japan and has published over 100 national and international publications in indexed journals.",
-      "Dr. Chandra was also the personal physician of former Prime Minister Shri Narasimha Rao.",
-      "His expertise includes coronary interventions, structural heart diseases, endovascular interventions, and various other complex cardiac procedures.",
-      "He is a member of the National Academy of Medical Sciences and the Cardiology Society of India."
+      "Doktor Subhash Chandra - bu sohada 39 yillik tajribaga ega bo'lgan juda tajribali interventsion kardiolog.",
+      "U 25 000 dan ortiq murakkab muolajalarni amalga oshirdi, jumladan, TAVR, LA appendage okklyuziyasi, angioplastikalar va rotablatsiya.",
+      "Kardostimulyator implantatsiyasi bo'yicha kashshof bo'lgan doktor Chandra 3000 dan ortiq yurak stimulyatori operatsiyalarini amalga oshirgan.",
+      "U AQSh, Evropa va Yaponiyaning eng yaxshi institutlarida ta'lim olgan va indekslangan jurnallarda 100 dan ortiq milliy va xalqaro nashrlarni nashr etgan.",
+      "Doktor Chandra sobiq Bosh vazir Shri Narasimha Raoning shaxsiy shifokori ham edi",
+      "Uning tajribasi koronar aralashuvlar, yurakning tizimli kasalliklari, endovaskulyar aralashuvlar va boshqa turli xil murakkab yurak muolajalarini o'z ichiga oladi.",
+      "U Milliy Tibbiyot fanlari akademiyasi va Hindiston Kardiologiya jamiyati a'zosi."
     ]
   },
   "d96": {
     "id": 96,
     "hid": 7,
     "name": "Dr. Gaurav Kharya",
-    "post": "Paediatric Haematologist",
+    "post": "Bolalar gematologi",
     "image": "d2.webp",
     "experience": "15+",
     "top": true,
     "speciality": [
-      "Pediatric Hemato-oncology",
-      "Pediatric Immunology",
-      "Bone Marrow Transplant (BMT)",
-      "Hematopoietic Stem Cell Transplant"
+      "Bolalar gematoonkologiyasi",
+      "Bolalar immunologiyasi",
+      "Suyak iligi transplantatsiyasi (BMT)",
+      "Gematopoetik ildiz hujayra transplantatsiyasi"
     ],
     "training": [
-      "Fellow in Pediatric Hematology & Bone Marrow Transplant, St Mary’s Hospital, London, UK. Noted for expertise in BMT for red cell disorders, including thalassemia, sickle cell anemia, and aplastic anemia, with experience in related donor, unrelated donor, haplo-identical, and cord blood transplants.",
-      "Fellowship in Pediatric Hematology-Oncology & Bone Marrow Transplant, The Great North Children’s Hospital, Newcastle upon Tyne, UK. A leading center for pediatric BMT, immunodeficiency, and hematology-oncology, known for comprehensive care, research, and academic excellence.",
-      "Fellowship in Pediatric Hematology-Oncology & Bone Marrow Transplant, Sir Ganga Ram Hospital, New Delhi. Focused on patient workup, care, procedures, interventions, and academic sessions under the guidance of Dr. Anupam Sachdeva and Dr. Satya Prakash Yadav"
+      "Pediatrik gematologiya va suyak iligi transplantatsiyasi bo'yicha ilmiy xodim, Sent-Meri kasalxonasi, London, Buyuk Britaniya. Talassemiya, o'roqsimon hujayrali anemiya va aplastik anemiyani o'z ichiga olgan qizil qon tanachalari kasalliklari bo'yicha BMT bo'yicha tajribaga ega, tegishli donor, bog'liq bo'lmagan donor, haplo- bir xil va shnur qon transplantatsiyasi.",
+      "Pediatrik gematologiya-onkologiya va suyak iligi transplantatsiyasi bo'yicha stipendiya, Buyuk Shimoliy bolalar kasalxonasi, Nyukasl-apon Tayn, Buyuk Britaniya. Bolalar BMT, immunitet tanqisligi va gematologiya-onkologiya bo'yicha etakchi markaz, keng qamrovli parvarish, tadqiqot va akademik mukammallik bilan mashhur.",
+      "Bolalar gematologiyasi-onkologiyasi va suyak iligi transplantatsiyasi bo'yicha stipendiya, Sir Ganga Ram kasalxonasi, Nyu-Dehli. Doktor Anupam Sachdeva va doktor Satya Prakash Yadav rahbarligida bemorlarni tekshirish, parvarish qilish, protseduralar, aralashuvlar va akademik seanslarga qaratilgan"
     ],
     "education": "MBBS, DCH, DNB",
     "work": [
-      "Senior Consultant & Head, Pediatric Hematology Oncology & Marrow Transplant, Artemis Hospital, Gurugram",
-      "Senior Consultant, Pediatric Hematology Oncology, Immunology & Bone Marrow Transplant, BLK Super Specialty Hospital, Delhi, India",
-      "Fellow, Pediatric Hematology & Bone Marrow Transplant, St Mary’s Hospital, Imperial NHS Trust, Paddington, London, UK",
-      "International Pediatric BMT Fellow, Pediatric Host Defense Unit, The Great North Children’s Hospital, Newcastle upon Tyne, UK",
-      "Pediatric Hematologist-Oncologist and Bone Marrow Transplant Physician, Dr. B L Kapur Memorial Hospital, Pusa Road, New Delhi",
-      "Fellow, Pediatric Hematology Oncology Unit, Department of Pediatrics, Sir Ganga Ram Hospital, New Delhi",
-      "Senior Registrar in Pediatrics, Chacha Nehru Bal Chikitsalaya, Maulana Azad Medical College, Delhi",
-      "Senior Research Officer, Pediatric Hematology Oncology Unit, Department of Pediatrics, Sir Ganga Ram Hospital, New Delhi",
-      "Post DCH DNB Registrar, Department of Pediatrics, Center for Child Health, Sir Ganga Ram Hospital, New Delhi",
-      "Registrar, Department of Pediatrics, Sunder Lal Jain Memorial Hospital, New Delhi",
-      "Resident (DCH), Department of Pediatrics, Baba Raghav Das Medical College, Gorakhpur, UP",
-      "House Officer, Sagar Heart Care Center, Sagar, MP",
-      "Internship in various disciplines (General Medicine, General Surgery, Obstetrics and Gynecology, Pediatrics, Preventive and Social Medicine) at Netaji Subhash Chandra Bose Medical College, Jabalpur, MP"
+      "Gurugram Artemis kasalxonasida bolalar gematologiyasi onkologiyasi va suyak iligi transplantatsiyasi bo'yicha katta maslahatchi va rahbari",
+      "Katta maslahatchi, bolalar gematologiyasi onkologiyasi, immunologiya va suyak iligi transplantatsiyasi, BLK Super ixtisoslashtirilgan kasalxonasi, Dehli, Hindiston",
+      "Peddington, London, Buyuk Britaniya, Imperial NHS Trust, Sent-Meri kasalxonasi, pediatrik gematologiya va suyak iligi transplantatsiyasi",
+      "Xalqaro pediatriya BMT xodimi, Pediatrik Xost Mudofaa bo'limi, Buyuk Shimoliy bolalar kasalxonasi, Nyukasl-apon Tayn, Buyuk Britaniya",
+      "Pediatrik gematolog-onkolog va suyak iligi transplantatsiyasi shifokori, doktor B L Kapur memorial kasalxonasi, Pusa Road, Nyu-Dehli",
+      "Sir Ganga Ram kasalxonasi, Pediatriya bo'limi, bolalar gematologiyasi onkologiya bo'limi xodimi, Nyu-Dehli",
+      "Pediatriya bo'yicha katta registrator, Chacha Neru Bal Chikitsalaya, Maulana Azad tibbiyot kolleji, Dehli",
+      "Yangi Dehli Sir Ganga Ram kasalxonasi, pediatriya bo'limi, bolalar gematologiyasi onkologiyasi bo'limining katta ilmiy xodimi",
+      "Post DCH DNB registratori, Pediatriya bo'limi, Bolalar salomatligi markazi, Sir Ganga Ram kasalxonasi, Nyu-Dehli",
+      "Registrator, Pediatriya bo'limi, Sunder Lal Jain memorial kasalxonasi, Nyu-Dehli",
+      "Rezident (DCH), Pediatriya bo'limi, Baba Raghav Das tibbiyot kolleji, Goraxpur, UP",
+      "Uy xodimi, Sagar yurakni davolash markazi, Sagar, deputat",
+      "Jabalpur, MP Netaji Subhash Chandra Bose tibbiyot kollejida turli fanlar (umumiy tibbiyot, umumiy jarrohlik, akusherlik va ginekologiya, pediatriya, profilaktika va ijtimoiy tibbiyot) amaliyoti"
     ],
     "description": [
-      "Focused on the diagnosis and treatment of cancers in children, including leukemia, lymphomas, and solid tumors.",
-      "Expertise in the diagnosis and management of immune system disorders in children.",
-      "Specializes in hematopoietic stem cell transplants, including alternative donor transplants such as haploidentical and unrelated donor transplants.",
-      "Experience in transplanting stem cells to treat various blood disorders and immunological diseases. Dr. Kharya has done more than 600 bone marrow transplants and is noted for pioneering procedures such as the first haploidentical bone marrow transplant for sickle cell disease in India."
+      "Bolalardagi saraton kasalliklari, shu jumladan leykemiya, limfomalar va qattiq o'smalarni tashxislash va davolashga qaratilgan.",
+      "Bolalarda immunitet tizimining buzilishlarini tashxislash va boshqarish bo'yicha mutaxassis.",
+      "Gematopoetik ildiz hujayralari transplantatsiyasiga ixtisoslashgan, shu jumladan haploidentsial va bog'liq bo'lmagan donor transplantatsiyasi kabi muqobil donor transplantatsiyasi.",
+      "Turli qon kasalliklari va immunologik kasalliklarni davolash uchun ildiz hujayralarini transplantatsiya qilish tajribasi. Doktor Xarya 600 dan ortiq suyak iligi transplantatsiyasini amalga oshirdi va Hindistonda o'roqsimon hujayrali kasallik uchun birinchi haploidentsial suyak iligi transplantatsiyasi kabi kashshof muolajalar uchun qayd etilgan."
     ]
   },
   "d97": {
     "id": 97,
     "hid": 4,
     "name": "Dr. K S Iyer",
-    "post": "EXECUTIVE DIRECTOR PAEDIATRIC CARDIO THORACIC VASCULAR SURGERY",
+    "post": "BOLALAR KARDIOTORASKULAR JARRORUGASI IJROCHI DIREKTORI",
     "image": "d2.1.webp",
     "experience": "40+",
     "top": true,
     "speciality": [
-      "Pediatric Cardiac Surgery",
-      "Arterial Switch Procedure",
-      "Double Switch Operation",
-      "TAPVC Repairs",
-      "Fontan and Fontan-Type Procedures",
-      "Tetralogy of Fallot Correction",
-      "DORV Correction",
-      "Truncus Arteriosus Repair",
-      "Senning Operation",
-      "Conduit Repairs",
-      "Complex Congenital Heart Disease Corrections"
+      "Bolalar yurak jarrohligi",
+      "Arteriyani almashtirish tartibi",
+      "Ikki marta almashtirish operatsiyasi",
+      "TAPVC ta'mirlash",
+      "Fontan va fontan tipidagi protseduralar",
+      "Fallot tuzatish tetralogiyasi",
+      "DORV tuzatish",
+      "Trunkus arteriozini tuzatish",
+      "Senning operatsiyasi",
+      "Kanallarni ta'mirlash",
+      "Kompleks tug'ma yurak kasalliklarini tuzatish"
     ],
     "training": [
-      "Trained in pediatric and infant cardiac surgery under the guidance of Dr. R.B.B. Mee as a Senior Fellow at the Department of Pediatric Cardiac Surgery at Royal Children's Hospital, Melbourne, Australia, in 1989.",
-      "Basic training in cardiothoracic and vascular surgery at AIIMS, where he held the position of Additional Professor before moving to Escorts Heart Institute."
+      "1989 yilda Melburn, Avstraliya Qirollik bolalar kasalxonasida bolalar yurak jarrohligi bo'limida katta ilmiy xodim sifatida doktor R.B.B. Mee rahbarligida bolalar va chaqaloqlar kardiojarrohligi bo'yicha o'qitilgan.",
+      "AIIMSda yurak-torakal va qon tomir jarrohligi bo'yicha asosiy ta'lim, u erda Escorts yurak institutiga o'tishdan oldin qo'shimcha professor lavozimini egallagan."
     ],
     "education": "MBBS, MS, M.Ch (AIIMS)",
     "work": [
-      "Initiated and developed the first dedicated pediatric cardiac care program in Northern India at Escorts Heart Institute Research Centre (now Fortis-Escorts Heart Institute).",
-      "Has performed over 10,000 surgeries on babies, children, and adults with congenital heart diseases, including complex procedures.",
-      "Performed the first successful rapid two-stage arterial switch and double-switch operation in India.",
-      "Worked as Additional Professor in the Department of Cardiothoracic and Vascular Surgery at AIIMS before moving to Escorts Heart Institute.",
-      "Currently involved in perfecting complex neonatal cardiac surgery, cardiac surgery in malnourished infants and children, salvaging late presenters of congenital heart disease, and developing cost-effective cardiac care for developing countries.",
-      "Engaged in charitable activities, notably with the 'Gift of Life' program of Rotary International."
+      "Shimoliy Hindistonda Escorts Heart Institute tadqiqot markazida (hozirgi Fortis-Escorts Heart Institute) birinchi maxsus bolalar kardiojarrohligi dasturini boshlagan va ishlab chiqqan.",
+      "U tug'ma yurak kasalliklari bilan og'rigan chaqaloqlar, bolalar va kattalar uchun 10 000 dan ortiq operatsiyalarni, shu jumladan murakkab muolajalarni o'tkazdi.",
+      "Hindistonda birinchi muvaffaqiyatli tez ikki bosqichli arterial almashtirish va ikki marta almashtirish operatsiyasini amalga oshirdi.",
+      "Escorts yurak institutiga o'tishdan oldin AIIMSda yurak-torakal va qon tomir jarrohligi kafedrasida qo'shimcha professor sifatida ishlagan.",
+      "Hozirgi vaqtda murakkab neonatal kardiojarrohlik, to'yib ovqatlanmaydigan chaqaloqlar va bolalarda kardiojarrohlik, tug'ma yurak kasalligining kech bemorlarini qutqarish va rivojlanayotgan mamlakatlar uchun tejamkor yurak yordamini ishlab chiqishda ishtirok etmoqda.",
+      "Xayriya faoliyati bilan shug'ullanadi, xususan, Rotary xalqaro tashkilotining \"Hayot sovg'asi\" dasturi bilan."
     ],
     "description": [
-      "Dr. Krishna Iyer is a leading pediatric cardiac surgeon in India, known for his extensive experience and contributions to cardiac care for children.",
-      "He initiated the first dedicated pediatric cardiac care program in Northern India at Escorts Heart Institute Research Centre (now Fortis-Escorts Heart Institute), which has become a benchmark for cardiac care in India and Southeast Asia.",
-      "Dr. Iyer has performed over 10,000 surgeries on babies, children, and adults with congenital heart diseases, including complex procedures such as arterial switch procedures, double switch operations, TAPVC repairs, and Fontan procedures.",
-      "He is noted for his pioneering work on the rapid two-stage arterial switch procedure and performed the first successful rapid two-stage arterial switch and double-switch operation in India.",
-      "His current interests include perfecting complex neonatal cardiac surgery, addressing cardiac surgery in malnourished infants and children, salvaging late presenters of congenital heart disease, and developing cost-effective cardiac care solutions for developing countries.",
-      "Dr. Iyer trained in pediatric and infant cardiac surgery under Dr. R.B.B. Mee at the Royal Children's Hospital, Melbourne, Australia, and has held positions including Additional Professor at AIIMS before establishing the pediatric cardiac care division at Escorts Heart Institute.",
-      "He is also involved in charitable activities, notably the 'Gift of Life' program of Rotary International."
+      "Doktor Krishna Iyer Hindistondagi etakchi pediatrik kardiojarroh bo'lib, o'zining katta tajribasi va bolalarni yurak kasalliklarini davolashga qo'shgan hissasi bilan tanilgan.",
+      "U Hindiston va Janubi-Sharqiy Osiyoda yurak kasalliklarini davolash uchun mezonga aylangan Escorts Heart Institute tadqiqot markazida (hozirgi Fortis-Escorts Heart Institute) Shimoliy Hindistonda birinchi maxsus bolalar kardiojarrohlik dasturini boshladi.",
+      "Doktor Iyer tug'ma yurak nuqsonlari bo'lgan chaqaloqlar, bolalar va kattalar uchun 10 000 dan ortiq operatsiyalarni amalga oshirdi, jumladan, arterial almashtirish protseduralari, ikki marta almashtirish operatsiyalari, TAPVC ta'mirlash va Fontan protseduralari.",
+      "U tez ikki bosqichli arterial almashtirish protsedurasi bo'yicha o'zining kashshof ishi bilan tanilgan va Hindistonda birinchi muvaffaqiyatli ikki bosqichli arterial almashtirish va ikki marta almashtirish operatsiyasini amalga oshirgan.",
+      "Uning hozirgi qiziqishlari murakkab neonatal kardiojarrohlik jarrohligini takomillashtirish, to'yib ovqatlanmaydigan chaqaloqlar va bolalarda kardiojarrohlik, tug'ma yurak kasalliklarini kechiktirish va rivojlanayotgan mamlakatlar uchun tejamkor yurak parvarishi echimlarini ishlab chiqishni o'z ichiga oladi.",
+      "Doktor Iyer Melburn, Avstraliya Qirollik bolalar kasalxonasida doktor R.B.B. Mee qo'l ostida pediatriya va chaqaloqlar kardiojarrohligi bo'yicha ta'lim olgan va Escorts Heart Institutida bolalar kardiojarrohligi bo'limi tashkil etilishidan oldin AIIMSda qo'shimcha professor lavozimlarida ishlagan.",
+      "U shuningdek, xayriya ishlarida, xususan, Xalqaro Rotaryning \"Hayot sovg'asi\" dasturida ishtirok etadi."
     ]
   },
   "d98": {
     "id": 98,
     "hid": 4,
     "name": "Dr. Z S Meharwal",
-    "post": "CHAIRMAN & HEAD - ADULT CARDIAC SURGERY",
+    "post": "RAİS & BOSH - KATTALAR YURAK JARRORIYASI",
     "image": "d3.webp",
     "experience": "35+",
     "top": true,
     "speciality": [
-      "Minimally Invasive Cardiac Surgery",
-      "Off-pump coronary artery bypass surgery",
-      "Heart Transplant ",
-      "Surgery of ascending aortic aneurysms and dissections",
-      "Valve repair and replacement",
-      "Carotid endarterectomy",
-      "CABG in patients with poor ventricular function",
-      "Major Vascular surgery"
+      "Minimal invaziv yurak jarrohligi",
+      "Nasossiz koronar arteriya bypass operatsiyasi",
+      "Yurak transplantatsiyasi",
+      "Ko'tarilgan aorta anevrizmasi va dissektsiyalari jarrohligi",
+      "Vanalarni ta'mirlash va almashtirish",
+      "Karotid endarterektomiya",
+      "Qorincha funktsiyasi yomon bo'lgan bemorlarda CABG",
+      "Yirik qon tomir jarrohligi"
     ],
     "training": [
-      "Executive Director and Head - Cardiac Surgery, Heart Transplantation and VAD Program, Fortis Escorts Heart Institute",
-      "Programme Director of DNB Cardiothoracic Surgery, Fortis Escorts Heart Institute",
-      "Extensive Training in Cardiac Surgery",
-      "Teaching and Training in Cardiac Surgery",
-      "National and International Meetings as Faculty"
+      "Fortis Escorts Heart Institute, yurak jarrohligi, yurak transplantatsiyasi va VAD dasturining ijrochi direktori va rahbari",
+      "Fortis Escorts Heart Institute DNB Kardiotorakal jarrohlik dastur direktori",
+      "Yurak jarrohligi bo'yicha keng qamrovli trening",
+      "Yurak jarrohligi bo'yicha o'qitish va o'qitish",
+      "Fakultet sifatida milliy va xalqaro uchrashuvlar"
     ],
     "education": "MBBS, MS, M.Ch, MNAMS",
     "work": [
-      "King George Medical College, Lucknow",
-      "G B Pant Hospital, Delhi",
-      "Consultant Cardiac Surgeon, King College Hospital, London, UK"
+      "King Jorj tibbiyot kolleji, Laknau",
+      "GB Pant kasalxonasi, Dehli",
+      "King kolleji kasalxonasida maslahatchi kardiojarroh, London, Buyuk Britaniya"
     ],
     "description": [
-      "Dr. Z.S. Meharwal is the Executive Director and Head of Cardiac Surgery, Heart Transplantation, and the LVAD program at Fortis Escorts Heart Institute.",
-      "With over 30 years of experience, he has performed more than 30,000 cardiac surgeries, including complex procedures and LVAD placements.",
-      "He is a pioneer in several new cardiac operations in India and actively involved in teaching and training, serving as the Programme Director of DNB Cardiothoracic Surgery.",
-      "Dr. Meharwal has trained many cardiac surgeons both in India and abroad, and has been invited as a faculty member at national and international meetings.",
-      "He has published extensively in peer-reviewed journals and received numerous awards, including the President’s Award for his contributions to cardiac surgery.",
-      "Notable achievements include receiving a Citation Award from the President of India, Saharanpur Aditya Samman, and entering the Limca Book of Records for performing CABG on the oldest patient, a 94-year-old man."
+      "Doktor Z.S. Meharval Fortis Escorts yurak institutida yurak jarrohligi, yurak transplantatsiyasi va LVAD dasturining ijrochi direktori va rahbari",
+      "30 yildan ortiq tajribaga ega bo'lib, u 30 000 dan ortiq kardiojarrohlik operatsiyalarini, shu jumladan murakkab muolajalar va LVAD joylashtirishni amalga oshirdi.",
+      "U Hindistonda bir nechta yangi yurak operatsiyalarida kashshof bo'lib, o'qitish va o'qitishda faol ishtirok etadi, DNB Kardiotorakal Jarrohlik Dasturi Direktori sifatida xizmat qiladi.",
+      "Doktor Meharval Hindistonda ham, chet elda ham ko'plab kardiojarrohlarni tayyorlagan va milliy va xalqaro uchrashuvlarga o'qituvchi sifatida taklif qilingan",
+      "U ko'rib chiqiladigan jurnallarda ko'p nashr qildi va ko'plab mukofotlarga sazovor bo'ldi, jumladan, yurak jarrohligiga qo'shgan hissasi uchun Prezident mukofoti",
+      "E'tiborga loyiq yutuqlar orasida Hindiston Prezidenti Saharanpur Aditya Sammandan Citation mukofotini olish va eng keksa bemor, 94 yoshli erkakda CABG operatsiyasini bajarish uchun Limca Rekordlar kitobiga kirish kiradi."
     ]
   },
   "d99": {
     "id": 99,
     "hid": 7,
     "name": "Dr. Bhaba Nanda Das",
-    "post": "Chief - Cardiothoracic & Vascular Surgery",
+    "post": "Bosh - yurak-torakal va qon tomir jarrohligi",
     "image": "d3.webp",
     "experience": "30+",
     "top": true,
     "speciality": [
-      "Aortic Valve Disease",
-      "Atrial Fibrillation",
-      "Cardiomyopathy",
-      "Coronary Artery Disease",
-      "Myocarditis",
-      "Pulmonary Hypertension",
-      "Long QT Syndrome",
-      "Sick Sinus Syndrome",
-      "Congenital Heart Defects",
-      "Tricuspid Atresia",
-      "Truncus Arteriosus",
-      "Tetralogy Of Fallot",
-      "Hole In The Heart",
-      "Kawasaki Disease"
+      "Aorta qopqog'i kasalligi",
+      "atriyal fibrilatsiya",
+      "Kardiyomiyopatiya",
+      "Koronar arteriya kasalligi",
+      "Miokardit",
+      "O'pka gipertenziyasi",
+      "Uzoq QT sindromi",
+      "Kasal sinus sindromi",
+      "Tug'ma yurak nuqsonlari",
+      "Triküspid atreziyasi",
+      "Truncus arteriosus",
+      "Fallot tetralogiyasi",
+      "Yurakdagi teshik",
+      "Kawasaki kasalligi"
     ],
     "training": [
-      "Chief Cardiac Surgeon (CTVS)",
-      "Senior Consultant, Department of Cardio Thoracic Vascular Surgery (CTVS), All India Institute of Medical Sciences, New Delhi (1984 - 1996)"
+      "Bosh kardiojarroh (CTVS)",
+      "Yurak-torakal tomir jarrohligi (CTVS) bo'limining katta maslahatchisi, Butun Hindiston tibbiyot fanlari instituti, Nyu-Dehli (1984 - 1996)"
     ],
     "education": "MBBS, MS, MCh",
     "work": [
-      "CABG on Beating Heart",
-      "Aortic Aneurysm Surgery",
-      "Double Valve Replacement",
-      "Mitral Valve Replacement",
-      "Aortic Valve Replacement",
-      "All Types of Congenital Anomalies & Intra Cardiac Repair"
+      "Yurak urishida CABG",
+      "Aorta anevrizmasi jarrohligi",
+      "Ikki valfni almashtirish",
+      "Mitral qopqoqni almashtirish",
+      "Aorta qopqog'ini almashtirish",
+      "Barcha turdagi tug'ma anomaliyalar va yurak ichidagi tuzatish"
     ],
     "description": [
-      "Dr. Das is a highly experienced cardiac surgeon with approximately 30 years in the field.",
-      "He has previously served as a Senior Consultant in the Department of Cardio Thoracic Vascular Surgery (CTVS) at All India Institute of Medical Sciences, New Delhi.",
-      "His expertise includes performing CABG on beating heart, aortic aneurysm surgeries, and valve replacements.",
-      "He is skilled in managing all types of congenital heart anomalies and intra-cardiac repairs.",
-      "Dr. Das has performed over 20,000 heart surgeries and currently handles around 800 cases annually."
+      "Doktor Das bu sohada taxminan 30 yil ishlagan juda tajribali kardiojarrohdir.",
+      "U ilgari Nyu-Dehli, Butun Hindiston tibbiyot fanlari institutida yurak-ko'krak tomirlari jarrohligi (CTVS) bo'limida katta maslahatchi bo'lib ishlagan.",
+      "Uning tajribasi yurak urishi, aorta anevrizmasi operatsiyalari va qopqoqni almashtirish bo'yicha CABGni o'z ichiga oladi.",
+      "U barcha turdagi tug'ma yurak anomaliyalarini va yurak ichidagi tuzatishni boshqarishda mohir.",
+      "Doktor Das 20 000 dan ortiq yurak operatsiyalarini o'tkazdi va hozirda har yili 800 ga yaqin ish bilan shug'ullanadi."
     ]
   },
   "d100": {
     "id": 100,
     "hid": 6,
     "name": "Dr. Arun Saroha",
-    "post": "Principal Director & Unit Head Neurosciences, Neurosurgery, Spine Surgery",
+    "post": "Bosh direktor va Neyrologiya, Neyroxirurgiya, Orqa miya jarrohligi bo'limi rahbari",
     "image": "d1.webp",
     "experience": "27+",
     "top": true,
     "speciality": [
-      "Brain & Spine Tumors",
-      "Degenerative Spine Disorders",
-      "Functional & Image Guided  Neurosurgery",
-      "Minimally Invasive Spine Surgery",
-      "Complex Spine Fixations",
-      "Paediatric Neurosurgery"
+      "Miya va orqa miya shishi",
+      "Omurganing degenerativ kasalliklari",
+      "Funktsional va tasvirga asoslangan neyroxirurgiya",
+      "Minimal invaziv umurtqa pog'onasi jarrohligi",
+      "Murakkab o'murtqa tuzatishlar",
+      "Bolalar neyroxirurgiyasi"
     ],
-    "training": [
-      "Visiting Fellow - Singapore General Hospital, Singapore"
-    ],
-    "education": "M.B.B.S., Rajasthan University, MS (General Surgery) Rajasthan University, M Ch ((Neurosurgery) PGIMER, Chandigarh",
+    "training": ["Tashrif buyuruvchi - Singapur umumiy kasalxonasi, Singapur"],
+    "education": "M.B.B.S., Rajasthan universiteti, MS (umumiy jarrohlik) Rajasthan universiteti, MCh ((neyroxirurgiya) PGIMER, Chandigarh",
     "work": [
-      "Dr. Arun Saroha is currently working at Max Healthcare",
-      "Over 20 years of experience in the field of Neurosurgery and Spine Surgery",
-      "Performed more than 8000 surgeries successfully",
-      "Trained many Indian/International surgeons",
-      "Visiting Consultant to Kenya, Nigeria, Iraq, Uzbekistan and Sudan"
+      "Doktor Arun Saroha hozirda Max Healthcare kompaniyasida ishlaydi",
+      "Neyroxirurgiya va orqa miya jarrohligi sohasida 20 yildan ortiq tajriba",
+      "8000 dan ortiq operatsiyalarni muvaffaqiyatli o'tkazdi",
+      "Ko'plab hind / xalqaro jarrohlarni o'qitgan",
+      "Keniya, Nigeriya, Iroq, O'zbekiston va Sudanga tashrif buyuruvchi maslahatchi"
     ],
     "description": [
-      "Over 20 years of experience in Neurosurgery.",
-      "Expertise in treating brain and spine disorders, including Degenerative Spine Disorders, Brain Tumors, Disc Replacements, and Pediatric Neurosurgeries.",
-      "Previously served as Head of Neurosurgery at Artemis Hospital, Gurgaon.",
-      "Performed more than 8,000 successful surgeries."
+      "Neyroxirurgiya bo'yicha 20 yildan ortiq tajriba.",
+      "Miya va umurtqa pog'onasi kasalliklarini, shu jumladan degenerativ umurtqa pog'onasi kasalliklarini, miya o'smalarini, disklarni almashtirishni va bolalar neyroxirurgiyasini davolash bo'yicha mutaxassis.",
+      "Ilgari Gurgaondagi Artemis kasalxonasida neyroxirurgiya bo'limi boshlig'i lavozimida ishlagan.",
+      "8000 dan ortiq muvaffaqiyatli operatsiyalarni amalga oshirdi."
     ]
   },
   "d101": {
     "id": 101,
     "hid": 2,
     "name": "Dr. Hemant Sharma",
-    "post": "Chairman - Dept. of Trauma & Orthopedics & Joint Replacement",
+    "post": "Rais - Travmatologiya va ortopediya va bo'g'imlarni almashtirish bo'limi",
     "image": "d1.webp",
     "experience": "29+",
     "top": true,
     "speciality": [
-      "Emergency & Trauma",
-      "Orthopaedics & Joint Replacement",
-      "Robotic Surgery"
+      "Favqulodda va travma",
+      "Ortopediya va bo'g'imlarni almashtirish",
+      "Robotik jarrohlik"
     ],
     "training": [
-      "Higher orthopedic and trauma training in India and England.",
-      "Specialist training accumulated through fellowships in the UK.",
-      "Regular attendance as both delegate and faculty member at national and international meetings."
+      "Hindiston va Angliyada oliy ortopediya va travma ta'limi.",
+      "Buyuk Britaniyadagi stipendiyalar orqali to'plangan mutaxassislik.",
+      "Milliy va xalqaro yig'ilishlarda delegat va professor-o'qituvchilar sifatida muntazam qatnashish."
     ],
-    "education": "MBBS from PGIMS Rohtak, 1994, FRCS (England), MRCS (England), DNB (Orthopedics)",
+    "education": "MBBS PGIMS Rohtak, 1994, FRCS (Angliya), MRCS (Angliya), DNB (Ortopediya)",
     "work": [
-      "Director and Head of the Department of Trauma and Orthopaedics at Marengo Asia Hospitals, Gurugram (formerly W Pratiksha Hospital, Gurugram).",
-      "Significantly contributed to the hospital's recognition as a center of excellence for robotic orthopedic surgery and sports injury treatment."
+      "Marengo Asia kasalxonalarida travma va ortopediya bo'limi direktori va boshlig'i, Gurugram (sobiq W Pratiksha kasalxonasi, Gurugram).",
+      "Kasalxonaning robotlashtirilgan ortopedik jarrohlik va sport jarohatlarini davolash bo'yicha mukammallik markazi sifatida tan olinishiga sezilarli hissa qo'shdi."
     ],
     "description": [
-      "Over 26 years of experience in orthopedics (11 years in India and 11 years in England).",
-      "Certified Fellow by the Royal College of Surgeons of England.",
-      "Specializes in robotic, hip, and knee surgery.",
-      "Expert in complex trauma and elective orthopedic surgeries.",
-      "Renowned for proficiency in revision trauma and revision arthroplasty surgery.",
-      "Special interest in young adult hips, developmental dysplasia of the hip (DDH), sickle cell disease, joint preservation surgery for the knee, and sports injuries of the hip and knee."
+      "Ortopediyada 26 yildan ortiq tajriba (Hindistonda 11 yil va Angliyada 11 yil).",
+      "Angliya Qirollik jarrohlar kolleji tomonidan sertifikatlangan.",
+      "Robot, son va tizza jarrohligiga ixtisoslashgan.",
+      "Murakkab travma va elektiv ortopedik jarrohlik bo'yicha mutaxassis.",
+      "Revizion travma va revizion artroplastika jarrohligi bo'yicha mahorat bilan mashhur.",
+      "Yosh kattalar sonlari, sonning rivojlanish displazisi (DDH), o'roqsimon hujayrali kasallik, tizzaning bo'g'imlarini saqlash operatsiyasi va son va tizzaning sport jarohatlariga alohida qiziqish."
     ]
   },
   "d102": {
     "id": 102,
     "hid": 2,
     "name": "Dr. Rajesh Verma",
-    "post": "Associate Director - Orthopedic Spine Surgery",
+    "post": "Direktor o'rinbosari - Ortopedik orqa miya jarrohligi",
     "image": "d2.webp",
     "experience": "19+",
     "top": true,
     "speciality": [
-      "Emergency & Trauma",
-      "Orthopaedics & Joint Replacement",
-      "Robotic Surgery",
-      "Spine Surgery"
+      "Favqulodda va travma",
+      "Ortopediya va bo'g'imlarni almashtirish",
+      "Robotik jarrohlik",
+      "Omurga jarrohligi"
     ],
     "training": [
-      "AO Fellowship Trauma, Denver, USA",
-      "Fellowship Spine Surgery Seoul, South Korea"
+      "AO Fellowship Trauma, Denver, AQSh",
+      "O'murtqa jarrohligi bo'yicha stipendiya Seul, Janubiy Koreya"
     ],
-    "education": "MS (Ortho), FRSH, FIAO (USA)",
+    "education": "MS (Ortho), FRSH, FIAO (AQSh)",
     "work": [
-      "Performs a high volume of complex spine surgeries and innovative procedures.",
-      "Active in teaching and delivering lectures at national and international platforms."
+      "Ko'p hajmli murakkab umurtqa pog'onasi operatsiyalari va innovatsion muolajalarni amalga oshiradi.",
+      "Milliy va xalqaro platformalarda ma'ruzalar o'qitish va o'qishda faol"
     ],
     "description": [
-      "29 years of experience in treating spinal disorders.",
-      "Recognized for dedication and commitment to complex bone, joint, and spine disorders.",
-      "Specializes in percutaneous spine surgeries including Kyphoplasty, Disc Excisions using Joimax TESSY system, Nucleoplasty, SpineJet Hydrodiscectomy, and pain management with radiofrequency techniques.",
-      "Has performed over 15,000 surgeries out of more than 24,000 surgical cases, including spine surgeries, joint replacements, pediatric orthopedics, and complex trauma surgeries.",
-      "One of the leading spine experts in India, performing approximately 50 surgeries per month.",
-      "Specializes in motion preservation and dynamic spine surgeries as alternatives to spine fusions.",
-      "Teaching faculty for postgraduate students and has delivered lectures on national and international platforms."
+      "Omurilik kasalliklarini davolashda 29 yillik tajriba.",
+      "Suyak, bo'g'im va umurtqa pog'onasining murakkab kasalliklariga bag'ishlanishi va sodiqligi uchun tan olingan.",
+      "Kifoplastika, Joimax TESSY tizimidan foydalangan holda diskni kesish, Nukleoplastika, SpineJet Hydrodiscectomy va radiochastota usullari bilan og'riqni boshqarish kabi teri osti operatsiyalari bo'yicha ixtisoslashgan.",
+      "24 000 dan ortiq jarrohlik holatlaridan 15 000 dan ortiq operatsiyalarni amalga oshirdi, jumladan umurtqa pog'onasi operatsiyalari, bo'g'imlarni almashtirish, bolalar ortopediyasi va murakkab travma operatsiyalari.",
+      "Hindistondagi umurtqa pog'onasi bo'yicha etakchi mutaxassislardan biri, oyiga taxminan 50 ta operatsiyani amalga oshiradi.",
+      "O'murtqa birikmalariga alternativa sifatida harakatni saqlash va dinamik umurtqa pog'onasi operatsiyalari bo'yicha ixtisoslashgan.",
+      "Magistratura talabalari uchun o'qituvchilik qilmoqda va milliy va xalqaro platformalarda ma'ruzalar o'qidilar."
     ]
   },
   "d103": {
     "id": 103,
     "hid": 1,
     "name": "Dr. Giriraj Singh Bora",
-    "post": "Head of the Department of HPB Surgery and Liver Transplantation at Artemis Hospital",
+    "post": "Artemis kasalxonasida HPB jarrohligi va jigar transplantatsiyasi bo'limi boshlig'i",
     "image": "d42.webp",
     "experience": "28+",
     "top": true,
     "speciality": [
-      "Liver Transplantation",
-      "Liver resections for Hepatocellular cancers",
-      "combined liver kidney transplantation",
-      "Pancreatic Surgery (Whipple’s pancreaticoduodenal resections and surgery for chronic pancreatitis)",
-      "Advanced Gastrointestinal operations."
+      "Jigar transplantatsiyasi",
+      "Gipatotsellyulyar saraton uchun jigar rezektsiyalari",
+      "jigarning kombinatsiyalangan buyrak transplantatsiyasi",
+      "Oshqozon osti bezi jarrohligi (Uippl pankreatikoduodenal rezektsiyasi va surunkali pankreatit uchun jarrohlik)",
+      "Oshqozon-ichak traktining ilg'or operatsiyalari"
     ],
-    "training": [
-      ""
-    ],
-    "education": "MBBS, MS - General Surgery, MCh - Surgical Gastroenterology/G.I. Surgery",
+    "training": [""],
+    "education": "MBBS, MS - Umumiy jarrohlik, MCh - Jarrohlik gastroenterologiyasi/G.I. Jarrohlik",
     "work": [
-      "Currently working with Artemis Hospital as an Additional Director in GI and HPB surgery department.",
-      "2012 - 2015 Consultant - Liver transplant and HPB Surgery at Indraprastha Apollo Hospitals",
-      "2015 - 2016 Chief Liver Trasplant and HPB Surgeon at Mahatma Gandhi Hospital"
+      "Hozirda Artemis kasalxonasida GI va HPB jarrohlik bo'limida qo'shimcha direktor sifatida ishlamoqda.",
+      "2012 - 2015 maslahatchi - Indraprastha Apollon kasalxonalarida jigar transplantatsiyasi va HPB jarrohligi",
+      "2015 - 2016 Mahatma Gandi kasalxonasida bosh jigar transplantatsiyasi va HPB jarrohi"
     ],
     "description": [
-      "Dr. Giriraj Singh Bora is a Gastroenterologist, Gastrointestinal Surgeon, and General Surgeon with 22 years of experience.",
-      "He specializes in HPB (Hepato-Pancreato-Biliary) Surgery, Liver Disease Treatment, Liver Transplantation, and GI Surgery procedures.",
-      "He has extensive experience in managing complex gastrointestinal conditions and performing advanced surgical interventions."
+      "Doktor Giriraj Singx Bora 22 yillik tajribaga ega gastroenterolog, oshqozon-ichak jarrohi va umumiy jarrohdir.",
+      "U HPB (gepato-pankreato-biliar) jarrohligi, jigar kasalliklarini davolash, jigar transplantatsiyasi va GI jarrohlik muolajalari bo'yicha ixtisoslashgan.",
+      "U murakkab oshqozon-ichak kasalliklarini boshqarish va ilg'or jarrohlik aralashuvlarni amalga oshirishda katta tajribaga ega."
     ]
   },
   "d104": {
     "id": 104,
     "hid": 6,
     "name": "Dr Subhash Gupta",
-    "post": "Chairman - Centre for Liver & Biliary Sciences",
+    "post": "Rais - Jigar va o't yo'llari fanlari markazi",
     "image": "d2.webp",
     "experience": "43+",
     "top": true,
     "speciality": [
-      "Liver Transplant and Biliary Sciences",
-      "Liver and Biliary Sciences"
+      "Jigar transplantatsiyasi va o't yo'llari fanlari",
+      "Jigar va o't yo'llari fanlari"
     ],
-    "training": [
-      ""
-    ],
-    "education": "All India Institute of Medical Sciences, New Delhi",
+    "training": [""],
+    "education": "Butun Hindiston tibbiyot fanlari instituti, Nyu-Dehli",
     "work": [
-      "Prof (Dr.) Subhash Gupta is currently working at Max Healthcare",
-      "Indraprastha Apollo Hospitals, New Delhi, 2006 till 2016",
-      "Sir Ganga Ram Hospital, New Delhi, 1998 - 2006",
-      "St. James’s University Hospital, Leeds, 1995 to 1998",
-      "Queen’s Elizabeth Medical Centre, Birmingham, 1993 to 1995",
-      "All India Institute of Medical Sciences, 1981 to  1993"
+      "Prof (Dr.) Subhash Gupta hozirda Max Healthcare'da ishlaydi",
+      "Indraprastha Apollon kasalxonalari, Yangi Dehli, 2006 yildan 2016 yilgacha",
+      "Sir Ganga Ram kasalxonasi, Yangi Dehli, 1998 - 2006",
+      "Sent Jeyms universiteti kasalxonasi, Lids, 1995-1998 yillar",
+      "Qirolicha Elizabeth tibbiyot markazi, Birmingem, 1993-1995 yillar",
+      "Butun Hindiston tibbiyot fanlari instituti, 1981-1993 yillar"
     ],
     "description": [
-      "Dr. Subhash Gupta is the Chairman of the Max Centre for Liver and Biliary Sciences, one of the largest liver transplant centers globally.",
-      "The Centre, under his leadership, has conducted over 3000 transplants and performs more than 200 transplants annually, along with numerous complex HPB cases.",
-      "Dr. Gupta is responsible for ensuring safety protocols across all divisions of the Centre, including Hepatology, Anaesthesia, and Critical Care.",
-      "He joined Max Healthcare in January 2017 and brings over 30 years of expertise in Surgical Gastroenterology, Liver Transplantation, and Hepatopancreaticobiliary Oncology."
+      "Doktor Subhash Gupta dunyodagi eng yirik jigar transplantatsiyasi markazlaridan biri bo'lgan Maks jigar va o't yo'llari fanlari markazining raisi.",
+      "Markaz, uning rahbarligi ostida, 3000 dan ortiq transplantatsiya o'tkazdi va har yili 200 dan ortiq transplantatsiyani amalga oshirdi, ko'plab murakkab HPB holatlari bilan birga.",
+      "Doktor Gupta Markazning barcha bo'limlari, jumladan gepatologiya, behushlik va jiddiy tibbiy yordam bo'yicha xavfsizlik protokollarini ta'minlash uchun javobgardir.",
+      "U 2017 yil yanvar oyida Max Healthcare kompaniyasiga qo'shildi va jarrohlik gastroenterologiya, jigar transplantatsiyasi va gepatopankreatikobiliar onkologiya bo'yicha 30 yildan ortiq tajribaga ega."
     ]
   },
   "d105": {
     "id": 105,
     "hid": 3,
     "name": "Dr. (Col) Manjinder Sandhu",
-    "post": "CONSULTANT CARDIOLOGY",
+    "post": "KARDIOLOGIYA MASLAHATCHI",
     "image": "d16.webp",
     "experience": "35+",
     "top": true,
-    "speciality": [
-      "Interventional Cardiology",
-      "Complex Angioplasty"
-    ],
+    "speciality": ["Interventional kardiologiya", "Murakkab angioplastika"],
     "training": [
-      "MBBS from Armed Forces Medical College, 1986",
-      "MD (Medicine) from Pune University, Gold Medalist, 1993",
-      "DNB (Medicine), 1993",
-      "DM (Cardiology) from PGIMER, Chandigarh, 2001"
+      "Qurolli Kuchlar tibbiyot kollejidan MBBS, 1986 yil",
+      "Puna universitetining MD (tibbiyot), oltin medal sohibi, 1993 yil",
+      "DNB (tibbiyot), 1993 yil",
+      "PGIMERdan DM (kardiologiya), Chandigarh, 2001 yil"
     ],
-    "education": "MBBS, MD - General Medicine, DNB - General Medicine, DM - Cardiology",
+    "education": "MBBS, MD - Umumiy tibbiyot, DNB - Umumiy tibbiyot, DM - Kardiologiya",
     "work": [
-      "Director-Cardiology and Medical Director at Artemis Hospital since July 2011",
-      "Former Senior Adviser (Medicine and Cardiology) at Base Hospital, Delhi Cantt",
-      "Former Additional Professor of Medicine and Cardiology at Army College of Medical Sciences, Delhi Cantt",
-      "Mentor for medical informatics and medical services with the Executive Director at Artemis Hospital"
+      "2011 yil iyulidan beri Artemis kasalxonasida direktor-kardiologiya va tibbiy direktor",
+      "Dehli Cantt Base kasalxonasining sobiq katta maslahatchisi (tibbiyot va kardiologiya)",
+      "Armiya tibbiyot fanlari kollejining tibbiyot va kardiologiya bo'yicha sobiq qo'shimcha professori, Dehli Kantt",
+      "Artemis kasalxonasining ijrochi direktori bilan tibbiy informatika va tibbiy xizmatlar bo'yicha murabbiy"
     ],
     "description": [
-      "Dr. (Col) Manjinder Sandhu is a renowned interventional cardiologist with over 35 years of experience.",
-      "He has independently performed over 20,000 procedures, specializing in complex coronary interventions such as primary angioplasty, bifurcation lesions, chronic total occlusions, and left main lesions.",
-      "Dr. Sandhu is proficient in using adjunctive devices like cutting balloons, angiosculpt, IVUS, and Rotablation, primarily performing procedures via the radial route.",
-      "He had a distinguished career in the Indian Army Medical Corps and was honored as the accompanying cardiologist to the President of India on tours.",
-      "He is a fellow of the American College of Cardiology and the Society for Cardiac Angiography and Interventions.",
-      "Dr. Sandhu has authored numerous academic papers, presented at national and international conferences, and is a recipient of many national awards.",
-      "He has recently completed his Masters in Health Administration from Walden University, USA."
+      "Doktor (polkovnik) Manjinder Sandhu 35 yildan ortiq tajribaga ega bo'lgan taniqli interventsion kardiologdir.",
+      "U mustaqil ravishda birlamchi angioplastika, bifurkatsion lezyonlar, surunkali total oklyuziyalar va chap asosiy jarohatlar kabi murakkab koronar aralashuvlarga ixtisoslashgan 20 000 dan ortiq protseduralarni amalga oshirdi.",
+      "Doktor Sandhu sharlarni kesish, angioskulpt, IVUS va aylanish kabi qo'shimcha qurilmalardan foydalanishni yaxshi biladi, birinchi navbatda radial yo'l orqali protseduralarni bajaradi.",
+      "U Hindiston armiyasi tibbiyot korpusida ajoyib martaba egallagan va Hindiston Prezidentiga gastrol safarlarida hamrohlik qiluvchi kardiolog sifatida sharaflangan.",
+      "U Amerika Kardiologiya kolleji va Kardiyak angiografiya va aralashuvlar jamiyati a'zosi.",
+      "Doktor Sandxu ko'plab ilmiy maqolalar muallifi bo'lib, milliy va xalqaro konferentsiyalarda taqdim etilgan va ko'plab milliy mukofotlar sovrindori",
+      "U yaqinda AQShning Uolden universitetida Sog'liqni saqlashni boshqarish bo'yicha magistrlik darajasini oldi."
     ]
   },
   "d106": {
     "id": 106,
     "hid": 10,
     "name": "Dr. Sanjay Gogoi",
-    "post": "Principal Director - Urology, Kidney Transplant & Uro Oncology",
+    "post": "Bosh direktor - urologiya, buyrak transplantatsiyasi va uro onkologiyasi",
     "image": "2.webp",
     "experience": "33+",
     "top": true,
     "speciality": [
-      "Kidney Transplant",
-      "Uro-Oncology",
-      "Robotic Urological Procedures",
-      "Reconstructive Urology",
-      "Pediatric Urology"
+      "Buyrak transplantatsiyasi",
+      "Uro-onkologiya",
+      "Robot urologik protseduralar",
+      "Rekonstruktiv urologiya",
+      "Bolalar urologiyasi"
     ],
-    "training": [
-      ""
-    ],
-    "education": "MBBS, MS General Surgery, DNB Genito Urinary Surgery, MCH Urology",
+    "training": [""],
+    "education": "MBBS, MS umumiy jarrohlik, DNB genito siydik jarrohligi, MCH urologiyasi",
     "work": [
-      "Dr. Sanjay Gogoi is currently working at Max Healthcare",
-      "Consultant & Head, Urology & Renal Transplant, Manipal Hospital- May 2018-March 2024",
-      "Director, Urology & Renal Transplantation, Fmri, Gurgaon -June 2013 – April 2018",
-      "Associate Director, Medanta -The Medicity, Gurgaon- Jan 2010 Till May 2013",
-      "Consultant Urologist, Apollo Gleneagles Hospital, Kolkata Jan 2008 To Dec 2009",
-      "Consultant And Head, Apollo Lanka, Colombo, Sri Lanka- 2002 - 2007"
+      "Doktor Sanjay Gogoi hozirda Max Healthcare kompaniyasida ishlaydi",
+      "Manipal shifoxonasi maslahatchisi va rahbari, urologiya va buyrak transplantatsiyasi - 2018 yil may - 2024 yil mart",
+      "Urologiya va buyrak transplantatsiyasi direktori, Fmri, Gurgaon - 2013 yil iyun - 2018 yil aprel",
+      "Medanta - The Medicity, Gurgaon - 2010 yil yanvaridan 2013 yil maygacha direktor o'rinbosari",
+      "Apollon Gleneagles kasalxonasining maslahatchisi urologi, Kolkata 2008 yil yanvardan 2009 yil dekabrgacha",
+      "Maslahatchi va rahbari, Apollo Lanka, Kolombo, Shri-Lanka - 2002 - 2007"
     ],
     "description": [
-      "Dr. Sanjay Gogoi has over 25 years of experience in Comprehensive Urology Practice.",
-      "He specializes in complex and challenging Urological procedures, including Renal Transplant, Uro-Oncology, and Reconstructive Surgeries.",
-      "Dr. Gogoi is committed to providing ethical, evidence-based medicine.",
-      "His dedication to tackling difficult cases and delivering optimal outcomes has earned recognition from both peers and patients."
+      "Doktor Sanjay Gogoi keng qamrovli urologiya amaliyotida 25 yildan ortiq tajribaga ega.",
+      "U murakkab va qiyin urologik muolajalar, jumladan, buyrak transplantatsiyasi, uro-onkologiya va rekonstruktiv operatsiyalarga ixtisoslashgan.",
+      "Doktor Gogoi axloqiy, dalillarga asoslangan tibbiyotni taqdim etishga intiladi.",
+      "Uning qiyin vaziyatlarni hal qilish va maqbul natijalarga erishishga bo'lgan sadoqati ham tengdoshlari, ham bemorlarning e'tirofiga sazovor bo'ldi."
     ]
   },
   "d107": {
     "id": 107,
     "hid": 9,
     "name": "Dr. Sudhir Dubey",
-    "post": "Chairman - Neurosurgery, Neurosciences",
+    "post": "Rais - Neyroxirurgiya, Neyrologiya",
     "image": "d17.webp",
     "experience": "36+",
     "top": true,
     "speciality": [
-      "Endoportal Brain Surgery",
-      "Endoscopic Endonasal Skull base Surgery",
-      "Minimally Invasive Surgery of the Spine",
-      "Percutaneous spine procedures"
+      "Endoportal miya jarrohligi",
+      "Bosh suyagining endoskopik endonazal jarrohligi",
+      "Omurganing minimal invaziv jarrohligi",
+      "Terkutan umurtqa pog'onasi muolajalari"
     ],
     "training": [
-      "Graduated from King George's Medical College with Sir Rupkishan Das Gold Medal in final year MBBS.",
-      "Trained in Neurosurgery at National Institute of Mental Health and Neurosciences, awarded the Silver Jubilee Award.",
-      "Received international recognition for work on brain tumors at Sydney, Australia in 2001."
+      "Qirol Jorj tibbiyot kollejini MBBSning oxirgi yilida Ser Rupkishan Das oltin medali bilan tamomlagan.",
+      "Milliy ruhiy salomatlik va nevrologiya institutida neyroxirurgiya bo'yicha tahsil olgan, kumush yubiley mukofoti bilan taqdirlangan",
+      "2001 yilda Avstraliyaning Sidney shahrida miya shishi bo'yicha ish uchun xalqaro e'tirofga sazovor bo'lgan."
     ],
-    "education": "M.Ch (Neurosurgery) , M.B.B.S.",
+    "education": "M.Ch (neyroxirurgiya) , M.B.B.S.",
     "work": [
-      "Performed more than 10,000 neurosurgical operations, including Pituitary Surgery.",
-      "Pioneered Endoscopic and Minimally Invasive Surgery for Brain, Skull Base, and Spine Surgery."
+      "10 000 dan ortiq neyroxirurgik operatsiyalarni, shu jumladan gipofiz jarrohligini amalga oshirgan.",
+      "Miya, bosh suyagi va umurtqa pog'onasi jarrohligi uchun kashshof endoskopik va minimal invaziv jarrohlik"
     ],
     "description": [
-      "Dr. Sudhir Dubey is recognized for his extensive experience in neurosurgery and pioneering minimally invasive techniques.",
-      "He has been awarded the 'Young Neurosurgeon's Award' by the World Federation of Neurosurgical Societies, a distinction unique to India.",
-      "His innovative work in brain tumor surgery has gained international acclaim."
+      "Doktor Sudhir Dubey neyroxirurgiya bo'yicha katta tajribasi va kashshof minimal invaziv texnikasi uchun tan olingan.",
+      "U Butunjahon neyroxirurgiya jamiyatlari federatsiyasi tomonidan Hindistonga xos bo'lgan \"Yosh neyroxirurg mukofoti\" bilan taqdirlangan.",
+      "Uning miya shishi jarrohligidagi innovatsion ishi xalqaro miqyosda shuhrat qozondi."
     ]
   },
   "d108": {
     "id": 108,
     "hid": 6,
     "name": "Dr. Kulbhushan Singh Dagar",
-    "post": "Principal Director, Chief Surgeon & Head - Neonatal & Congenital Heart Surgery",
+    "post": "Bosh direktor, bosh jarroh va bosh - neonatal va tug'ma yurak jarrohligi",
     "image": "d3.jpg",
     "experience": "29+",
     "top": true,
     "speciality": [
-      "Paediatric (PED) Cardiac Surgery",
-      "Complex Congenital Heart Defects in newborns and Valve Repairs in children"
+      "Pediatrik (PED) yurak jarrohligi",
+      "Yangi tug'ilgan chaqaloqlarda murakkab tug'ma yurak nuqsonlari va bolalarda qopqoqni ta'mirlash"
     ],
     "training": [
-      "M.Ch (Cardio-Thoracic and Vascular Surgery), GB Pant Hospital, University of Delhi, (August 1994)",
-      "MS (General Surgery), S N Medical College & Hospital, Agra University, (May 1991)",
-      "MBBS, S N Medical College & Hospital, Agra University (January 1987)"
+      "M.Ch (kardio-torakal va qon tomir jarrohligi), GB Pant kasalxonasi, Dehli universiteti, (1994 yil avgust)",
+      "MS (Umumiy jarrohlik), SN tibbiyot kolleji va kasalxonasi, Agra universiteti, (1991 yil may)",
+      "MBBS, S N tibbiyot kolleji va kasalxonasi, Agra universiteti (yanvar 1987)"
     ],
-    "education": "M.Ch (Cardio-Thoracic and Vascular Surgery), MS (General Surgery), MBBS",
+    "education": "M.Ch (yurak-torakal va qon tomir jarrohligi), MS (umumiy jarrohlik), MBBS",
     "work": [
-      "Dr. Kulbhushan Singh Dagar is currently working at Max Healthcare",
-      "Specialist Registrar, Great Ormond Street Hospital for Children, London",
-      "Director Paediatric Cardiac Programme at Lotus Children's Hospital, Hyderabad ",
-      "Director Paediatric Cardiac Programme at Escorts Heart Institute and Research Centre (EHIRC), New Delhi"
+      "Doktor Kulbhushan Singx Dagar hozirda Max Healthcare kompaniyasida ishlaydi",
+      "Mutaxassis registrator, Great Ormond Street bolalar kasalxonasi, London",
+      "Lotus bolalar kasalxonasida pediatrik yurak dasturi direktori, Haydarobod",
+      "Escorts Heart Institute va Research Center (EHIRC), Nyu-Dehlidagi pediatrik yurak dasturi direktori"
     ],
     "description": [
-      "Dr. Kulbhushan S. Dagar has over 21 years of experience in cardiac surgery, with the last 15 years focusing on congenital heart defects in infants and children.",
-      "He is skilled in performing complex congenital cardiac surgeries and uses innovative techniques and cutting-edge technologies.",
-      "Dr. Dagar has received formal training at GB Pant Hospital, New Delhi, and distinguished himself at Great Ormond Street Hospital for Sick Children in London, where he was trained in Extra Corporeal Life Support and Heart Transplant techniques."
+      "Doktor Kulbhushan S. Dagar kardiojarrohlik bo'yicha 21 yildan ortiq tajribaga ega bo'lib, so'nggi 15 yil davomida chaqaloqlar va bolalardagi tug'ma yurak nuqsonlariga e'tibor qaratgan",
+      "U murakkab tug‘ma kardiojarrohlik operatsiyalarini bajarishda mohir, innovatsion texnika va ilg‘or texnologiyalardan foydalanadi.",
+      "Doktor Dagar Nyu-Dehlidagi GB Pant kasalxonasida rasmiy ta'lim oldi va Londondagi Great Ormond Street kasal bolalar kasalxonasida o'zini namoyon qildi, u erda qo'shimcha tana hayotini qo'llab-quvvatlash va yurak transplantatsiyasi usullari bo'yicha o'qidi."
     ]
   },
   "d109": {
     "id": 109,
     "hid": 8,
     "name": "Dr. Anant Kumar",
-    "post": "Chairman - Urology Renal Transplant and Robotics of Max Saket Complex and Uro-Oncology of MSSH Saket",
+    "post": "Rais - Maks Saket kompleksi urologiyasi buyrak transplantatsiyasi va robototexnika va MSSH Saket uro-onkologiyasi",
     "image": "d3.jpg",
     "experience": "36+",
     "top": false,
     "speciality": [
-      "Kidney Transplantation and Renovascular Hypertension",
-      "Robotic and Laparoscopic Urology",
-      "Stricture Urethra",
-      "Uro - Oncology",
-      "Laser Prostate Surgery"
+      "Buyrak transplantatsiyasi va renovaskulyar gipertenziya",
+      "Robot va laparoskopik urologiya",
+      "Striktura uretrasi",
+      "Uro - onkologiya",
+      "Lazer prostata jarrohligi"
     ],
     "training": [
-      "Extensive experience in laser urological surgery, particularly using Thulium, green light, Holmium laser, and HOLEP techniques for prostate removal.",
-      "Skilled in reconstructive urological procedures of the kidney, bladder, and urethra, with over 700 urethral stricture surgeries performed.",
-      "Proficient in endourological techniques like PCNL, URS, TURP, flexible ureteroscopy, and more.",
-      "Developed expertise in performing nearly all laparoscopic urological surgeries, including radical prostatectomy, cystectomy, and partial nephrectomy."
+      "Lazerli urologik jarrohlik bo'yicha katta tajriba, xususan, prostata bezini olib tashlash uchun Tulium, yashil yorug'lik, Holmium lazer va HOLEP usullaridan foydalanish.",
+      "Buyrak, siydik pufagi va siydik yo'llarining rekonstruktiv urologik muolajalari bo'yicha malakali, 700 dan ortiq siydik yo'llarining strikturasi bo'yicha operatsiyalar o'tkazildi.",
+      "PCNL, URS, TURP, moslashuvchan ureteroskopiya va boshqalar kabi endourologik usullarda malakali.",
+      "Deyarli barcha laparoskopik urologik operatsiyalarni, shu jumladan radikal prostatektomiya, sistektomiya va qisman nefrektomiyani amalga oshirish bo'yicha rivojlangan tajriba."
     ],
     "education": "DNB (Urology), PGIMER, Chandigarh, India; M.Ch(Urology), PGIMER, Chandigarh, India; M.S(General Surgery), PGIMER, Chandigarh India; M.B.B.S King George Medical University, Lucknow, India",
     "work": [
-      "Dr. Anant Kumar is currently working at Max Healthcare",
-      "Professor and Head, Department of Urology & Renal Transplantation, Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow",
-      "Director , Department of Urology, Robotic and Kidney Transplantation, Fortis Group of Hospitals, Delhi and NCR",
-      "Senior Consultant, Urology and Transplantation, Indraprastha Apollo Hospital, New Delhi",
-      "Consultant Urologist, Addenbrooke's NHS foundation, Cambridge, UK"
+      "Doktor Anant Kumar hozirda Max Healthcare kompaniyasida ishlaydi",
+      "Urologiya va buyrak transplantatsiyasi kafedrasi professori va boshlig'i, Sanjay Gandi tibbiyot fanlari aspiranturasi, Lakxnau",
+      "Fortis kasalxonalar guruhi, Dehli va NCR urologiya, robototexnika va buyrak transplantatsiyasi bo'limi direktori",
+      "Indraprastha Apollon kasalxonasi, urologiya va transplantatsiya bo'yicha katta maslahatchi, Nyu-Dehli",
+      "Maslahatchi urolog, Addenbrooke NHS jamg'armasi, Kembrij, Buyuk Britaniya"
     ],
     "description": [
-      "35 years of experience in teaching and clinical practice in urology and renal transplantation.",
-      "Specialized in robotic-assisted laparoscopic urology with over 500 robotic surgeries performed in the last 5 years.",
-      "Over 3500 kidney transplants performed, with expertise in laparoscopic kidney retrieval and 2200 lap donor nephrectomies.",
-      "Extensive experience in laser urological surgery, particularly using Thulium, green light, Holmium laser, and HOLEP techniques for prostate removal.",
-      "Skilled in reconstructive urological procedures of the kidney, bladder, and urethra, with over 700 urethral stricture surgeries performed.",
-      "Proficient in endourological techniques like PCNL, URS, TURP, flexible ureteroscopy, and more.",
-      "Developed expertise in performing nearly all laparoscopic urological surgeries, including radical prostatectomy, cystectomy, and partial nephrectomy."
+      "Urologiya va buyrak transplantatsiyasi bo'yicha o'qitish va klinik amaliyotda 35 yillik tajriba.",
+      "So'nggi 5 yil ichida amalga oshirilgan 500 dan ortiq robotli operatsiyalar bilan robotlashtirilgan laparoskopik urologiyaga ixtisoslashgan.",
+      "3500 dan ortiq buyrak transplantatsiyasi amalga oshirildi, laparoskopik buyrak olish va 2200 donor nefrektomiya bo'yicha tajribaga ega.",
+      "Lazerli urologik jarrohlik bo'yicha katta tajriba, ayniqsa prostata olib tashlash uchun Tulium, yashil yorug'lik, Holmium lazer va HOLEP usullaridan foydalanish.",
+      "Buyrak, siydik pufagi va siydik yo'llarining rekonstruktiv urologik muolajalari bo'yicha malakali, 700 dan ortiq siydik yo'llarining strikturasi bo'yicha operatsiyalar o'tkazildi.",
+      "PCNL, URS, TURP, moslashuvchan ureteroskopiya va boshqalar kabi endourologik usullarda malakali.",
+      "Deyarli barcha laparoskopik urologik operatsiyalarni, shu jumladan radikal prostatektomiya, sistektomiya va qisman nefrektomiyani amalga oshirish bo'yicha rivojlangan tajriba."
     ]
   }
 }
