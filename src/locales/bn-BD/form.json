@@ -1,1 +1,12 @@
-{"email":"ইমেইল ঠিকানা","firstName":"নামের প্রথম অংশ","header":"সাহায্য দরকার ?","identityProof":"পরিচয় প্রমাণ","lastName":"নামের শেষাংশ","medicalReport":"চিকিৎসা বিবরণ","message":"আমরা কিভাবে সাহায্য করতে পারি ?","phoneNumber":"ফোন নম্বর","sendButton":"পাঠান"}
+{
+    "email": "ইমেইল ঠিকানা",
+    "firstName": "প্রথম নাম",
+    "header": "সাহায্য প্রয়োজন?",
+    "identityProof": "পরিচয় প্রমাণ",
+    "lastName": "পদবি",
+    "medicalReport": "মেডিকেল রিপোর্ট",
+    "message": "আমরা কিভাবে সাহায্য করতে পারি?",
+    "phoneNumber": "ফোন নম্বর",
+    "sendButton": "পাঠান"
+  }
+  
