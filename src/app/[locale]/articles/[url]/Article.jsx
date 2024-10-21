@@ -13,7 +13,7 @@ const Article = ({ url }) => {
   const { t } = useTranslation();
   const filteredArticle = articles.find((a) => a.url === url);
   return (
-    <div>
+    <div className="overflow-x-hidden">
       <div className="lg:grid grid-cols-4">
         <div className="col-span-3 p-4 ">
           <h1 className="text-5xl py-6 font-bold text-center text-primary">
