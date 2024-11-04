@@ -1,1 +1,12 @@
-{"email":"E-pochta manzili","firstName":"Ism","header":"Yordam kerak ?","identityProof":"Shaxsni tasdiqlovchi hujjat","lastName":"Familiya","medicalReport":"Tibbiy hisobot","message":"Biz qanday yordam bera olamiz?","phoneNumber":"Telefon raqami","sendButton":"Yuborish"}
+{
+    "email": "E-pochta manzili",
+    "firstName": "Ism",
+    "header": "Yordam kerakmi?",
+    "identityProof": "Shaxsni tasdiqlovchi hujjat",
+    "lastName": "Familiya",
+    "medicalReport": "Tibbiy hisobot",
+    "message": "Biz qanday yordam bera olamiz?",
+    "phoneNumber": "Telefon raqami",
+    "sendButton": "Yuborish"
+  }
+  

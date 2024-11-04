@@ -1,1 +1,11 @@
-{"email":"عنوان البريد الإلكتروني","firstName":"الاسم الأول","header":"تحتاج مساعدة ؟","identityProof":"إثبات الهوية","lastName":"اسم العائلة","medicalReport":"تقرير طبي","message":"كيف يمكن أن نساعد ؟","phoneNumber":"رقم التليفون","sendButton":"يرسل"}
+{
+  "email": "عنوان البريد الإلكتروني",
+  "firstName": "الاسم الأول",
+  "header": "هل تحتاج إلى مساعدة؟",
+  "identityProof": "إثبات الهوية",
+  "lastName": "اسم العائلة",
+  "medicalReport": "تقرير طبي",
+  "message": "كيف يمكننا المساعدة؟",
+  "phoneNumber": "رقم التليفون",
+  "sendButton": "يرسل"
+}
