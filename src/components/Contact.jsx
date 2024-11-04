@@ -87,149 +87,153 @@ const ContactForm = () => {
   };
 
   return (
-    <div className="p-3">
-      <h1 className="text-2xl text-white text-center font-semibold mb-2">
-        {t("form:header")}
-      </h1>
+    <div>
+      <div className="p-3">
+        <h1 className="text-2xl text-white text-center font-semibold mb-2">
+          {t("form:header")}
+        </h1>
 
-      {loading && (
-        <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-70 z-50">
-          <div className="loader"></div> {/* Loader component */}
-        </div>
-      )}
+        {loading && (
+          <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-70 z-50">
+            <div className="loader"></div> {/* Loader component */}
+          </div>
+        )}
 
-      <form
-        className={`relative ${
-          loading ? "pointer-events-none opacity-50" : ""
-        }`}
-        onSubmit={handleSubmit}
-      >
-        <div className="flex flex-wrap">
-          <div className="w-full lg:w-1/2">
-            <div className="relative w-full mb-3">
-              <input
-                name="firstName"
-                type="text"
-                className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
-                value={formData.firstName}
-                onChange={handleChange}
-                placeholder={t("form:firstName")}
-              />
+        <form
+          className={`relative ${
+            loading ? "pointer-events-none opacity-50" : ""
+          }`}
+          onSubmit={handleSubmit}
+        >
+          <div className="flex flex-wrap">
+            <div className="w-full lg:w-1/2">
+              <div className="relative w-full mb-3">
+                <input
+                  name="firstName"
+                  type="text"
+                  className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                  value={formData.firstName}
+                  onChange={handleChange}
+                  placeholder={t("form:firstName")}
+                />
+              </div>
+            </div>
+            <div className="w-full lg:w-6/12 lg:pl-3">
+              <div className="relative w-full mb-3">
+                <input
+                  name="lastName"
+                  type="text"
+                  className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                  value={formData.lastName}
+                  placeholder={t("form:lastName")}
+                  onChange={handleChange}
+                />
+              </div>
+            </div>
+            <div className="w-full lg:w-6/12">
+              <div className="relative w-full mb-3">
+                <input
+                  type="text"
+                  name="phone"
+                  placeholder={t("form:phoneNumber")}
+                  className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                  value={formData.phone}
+                  onChange={handleChange}
+                  required
+                />
+              </div>
+            </div>
+            <div className="w-full lg:w-6/12 lg:pl-3">
+              <div className="relative w-full mb-3">
+                <input
+                  name="email"
+                  type="email"
+                  placeholder={t("form:email")}
+                  className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                  value={formData.email}
+                  onChange={handleChange}
+                  required
+                />
+              </div>
             </div>
           </div>
-          <div className="w-full lg:w-6/12 lg:pl-3">
-            <div className="relative w-full mb-3">
-              <input
-                name="lastName"
-                type="text"
-                className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
-                value={formData.lastName}
-                placeholder={t("form:lastName")}
-                onChange={handleChange}
-              />
+          {/* reports */}
+          <div className="flex flex-wrap">
+            <div className="w-full lg:w-12/12">
+              <div className="relative w-full mb-3">
+                <label
+                  className="block uppercase text-blueGray-600 text-md font-bold text-white"
+                  htmlFor="medical"
+                >
+                  {t("form:medicalReport")}
+                </label>
+                <input
+                  type="file"
+                  id="medical"
+                  name="medical"
+                  accept="image/*, .pdf"
+                  onChange={({ target }) => {
+                    if (target.files) {
+                      const file = target.files[0];
+                      setFile(file);
+                    }
+                  }}
+                />
+              </div>
             </div>
           </div>
-          <div className="w-full lg:w-6/12">
-            <div className="relative w-full mb-3">
-              <input
-                type="text"
-                name="phone"
-                placeholder={t("form:phoneNumber")}
-                className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
-                value={formData.phone}
-                onChange={handleChange}
-                required
-              />
+          {/* identity proof */}
+          <div className="flex flex-wrap">
+            <div className="w-full lg:w-12/12">
+              <div className="relative w-full mb-3">
+                <label
+                  className="block uppercase text-blueGray-600 text-md font-bold text-white"
+                  htmlFor="identity"
+                >
+                  {t("form:identityProof")}
+                </label>
+                <input
+                  type="file"
+                  id="identity"
+                  name="identity"
+                  accept="image/*, .pdf"
+                  onChange={({ target }) => {
+                    if (target.files) {
+                      const file = target.files[0];
+                      setIndentityFile(file);
+                    }
+                  }}
+                />
+              </div>
             </div>
           </div>
-          <div className="w-full lg:w-6/12 lg:pl-3">
-            <div className="relative w-full mb-3">
-              <input
-                name="email"
-                type="email"
-                placeholder={t("form:email")}
-                className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
-                value={formData.email}
-                onChange={handleChange}
-                required
-              />
+          <div className="flex flex-wrap">
+            <div className="w-full lg:w-12/12">
+              <div className="relative w-full mb-3">
+                <textarea
+                  type="text"
+                  className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
+                  rows="4"
+                  name="message"
+                  value={formData.message}
+                  onChange={handleChange}
+                  placeholder={t("form:message")}
+                ></textarea>
+              </div>
             </div>
           </div>
-        </div>
-        {/* reports */}
-        <div className="flex flex-wrap">
-          <div className="w-full lg:w-12/12">
-            <div className="relative w-full mb-3">
-              <label
-                className="block uppercase text-blueGray-600 text-md font-bold text-white"
-                htmlFor="medical"
-              >
-                {t("form:medicalReport")}
-              </label>
-              <input
-                type="file"
-                id="medical"
-                name="medical"
-                accept="image/*, .pdf"
-                onChange={({ target }) => {
-                  if (target.files) {
-                    const file = target.files[0];
-                    setFile(file);
-                  }
-                }}
-              />
-            </div>
+          <div className="flex justify-end mr-4">
+            <button
+              type="submit"
+              className=" text-white font-bold bg-primary hover:bg-primary/90 p-2 rounded-xl"
+            >
+              {t("form:sendButton")}
+            </button>
           </div>
-        </div>
-        {/* identity proof */}
-        <div className="flex flex-wrap">
-          <div className="w-full lg:w-12/12">
-            <div className="relative w-full mb-3">
-              <label
-                className="block uppercase text-blueGray-600 text-md font-bold text-white"
-                htmlFor="identity"
-              >
-                {t("form:identityProof")}
-              </label>
-              <input
-                type="file"
-                id="identity"
-                name="identity"
-                accept="image/*, .pdf"
-                onChange={({ target }) => {
-                  if (target.files) {
-                    const file = target.files[0];
-                    setIndentityFile(file);
-                  }
-                }}
-              />
-            </div>
-          </div>
-        </div>
-        <div className="flex flex-wrap">
-          <div className="w-full lg:w-12/12">
-            <div className="relative w-full mb-3">
-              <textarea
-                type="text"
-                className="text-black border-0 px-3 py-3 placeholder-blueGray-300 text-blueGray-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
-                rows="4"
-                name="message"
-                value={formData.message}
-                onChange={handleChange}
-                placeholder={t("form:message")}
-              ></textarea>
-            </div>
-          </div>
-        </div>
-        <div className="flex justify-end mr-4">
-          <button
-            type="submit"
-            className=" text-white font-bold bg-primary hover:bg-primary/90 p-2 rounded-xl"
-          >
-            {t("form:sendButton")}
-          </button>
-        </div>
-      </form>
+        </form>
+      </div>
+
+      
     </div>
   );
 };

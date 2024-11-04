@@ -3299,49 +3299,49 @@
     "id": 86,
     "hid": 1,
     "name": "Dr Kapil Kochar",
-    "post": "Head (Unit II) - General & Minimally Invasive Surgery",
+    "post": "Bosh (II bo'lim) - Umumiy va minimal invaziv jarrohlik",
     "image": "d37.jpg",
     "experience": "28+",
     "top": false,
     "speciality": [
-      "Bariatric (Weight Loss) Surgery",
-      "Advanced Laproscopic Gynae Procedures",
-      "Laser Surgeries For Hemorrhoids, Fistula, Pilonidal Sinus",
-      "Advanced Laparoscopic Gastro Intestinal Surgeries"
+      "Bariatrik (vazn yo'qotish) jarrohlik",
+      "Ilg'or laproskopik ginekologik muolajalar",
+      "Gemorroy, oqma, pilonidal sinus uchun lazer operatsiyalari",
+      "Ilg'or laparoskopik oshqozon-ichak operatsiyalari"
     ],
     "training": [
-      "Extensive experience in Minimal Access Surgery (MAS) and Bariatric Surgery.",
-      "Practical training gained over 28 years in India and abroad."
+      "Minimal kirish jarrohligi (MAS) va Bariatrik jarrohlik bo'yicha katta tajriba.",
+      "Hindistonda va chet elda 28 yil davomida olingan amaliy mashg'ulotlar."
     ],
-    "education": "MBBS - Maulana Azad Medical College, MS (General Surgery) - Maulana Azad Medical College & Associated Lok Nayak Hospitals, Delhi University",
+    "education": "MBBS - Maulana Azad tibbiyot kolleji, MS (umumiy jarrohlik) - Maulana Azad tibbiyot kolleji va bog'langan Lok Nayak kasalxonalari, Dehli universiteti",
     "work": [
-      "28 years of experience with more than 10,000 Laparoscopic Surgeries performed.",
-      "Previously associated with Yatharth Superspecialty Hospital, Noida and Fortis La Femme Hospital, GK 2, New Delhi.",
-      "Practices at Artemis Hospitals, Gurgaon and Artemis Lite, New Delhi.",
-      "Expert in Minimal Invasive Surgery with extensive clinical and teaching experience.",
-      "Instrumental in establishing the first IVF center in Kabul, Afghanistan.",
-      "Organized OPD camps in Nigeria and Malawi.",
-      "Specialist in Laparoscopic Surgery and Laser Surgery.",
-      "Assists young surgeons and gynecologists in establishing laparoscopic units across Bihar, Haryana, Manipur, Uttaranchal, and Uttar Pradesh."
+      "10 000 dan ortiq laparoskopik operatsiyalar bilan 28 yillik tajriba.",
+      "Ilgari Yatharth Superspecialty Hospital, Noida va Fortis La Femme kasalxonalari, GK 2, Nyu-Dehli bilan bog'langan.",
+      "Artemis shifoxonalaridagi amaliyotlar, Gurgaon va Artemis Lite, Nyu-Dehli.",
+      "Kichik klinik va o'qitish tajribasiga ega bo'lgan minimal invaziv jarrohlik bo'yicha mutaxassis.",
+      "Afg'onistonning Kobul shahrida birinchi IVF markazini tashkil etishda yordamchi.",
+      "Nigeriya va Malavida tashkil etilgan OPD lagerlari.",
+      "Laparoskopik jarrohlik va lazer jarrohligi bo'yicha mutaxassis.",
+      "Yosh jarrohlar va ginekologlarga Bihar, Haryana, Manipur, Uttaranchal va Uttar-Pradeshda laparoskopik bo'limlar yaratishda yordam beradi."
     ],
     "description": [
-      "Highly skilled surgeon specializing in Minimal Access Surgery (MAS) and Bariatric Surgery.",
-      "Notable for performing over 10,000 laparoscopic procedures.",
-      "Significant contributions to the field through establishing IVF centers and organizing international OPD camps.",
-      "Actively involved in mentoring and supporting the development of laparoscopic units in various states in India."
+      "Minimal kirish jarrohligi (MAS) va Bariatrik jarrohlik bo'yicha ixtisoslashgan yuqori malakali jarroh.",
+      "10 000 dan ortiq laparoskopik muolajalarni amalga oshirish bilan mashhur.",
+      "IVF markazlarini tashkil etish va xalqaro OPD lagerlarini tashkil etish orqali sohaga muhim hissa.",
+      "Hindistonning turli shtatlarida laparoskopik bo'linmalarning rivojlanishini qo'llab-quvvatlash va qo'llab-quvvatlashda faol ishtirok etadi."
     ]
   },
   "d87": {
     "id": 87,
     "hid": 1,
     "name": "Dr Kapil jamwal",
-    "post": "Gastroenterology",
+    "post": "Gastroenterologiya",
     "image": "d38.jpg",
     "experience": "19+",
     "top": false,
     "speciality": [
-      "Gastroenterologist",
-      "Hepatologist"
+      "Gastroenterolog",
+      "Gepatolog"
     ],
     "training": [
       "Formerly Assistant Professor at ILBS, India",
