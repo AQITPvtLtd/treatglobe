@@ -15,4 +15,12 @@ export const articles = [
     content: "articles:blog2.content",
     date: "articles:blog2.date",
   },
+  {
+    id: 3,
+    name: "articles:blog3.name",
+    url: "best-medical-services-provider-in-delhi",
+    image: "blog3.png",
+    content: "articles:blog3.content",
+    date: "articles:blog3.date",
+  },
 ];
