@@ -23,4 +23,22 @@ export const articles = [
     content: "articles:blog3.content",
     date: "articles:blog3.date",
   },
+
+  {
+    id: 4,
+    name: "articles:blog4.name",
+    url: "best-medical-services-provider-in-India",
+    image: "blog4.jpeg",
+    content: "articles:blog4.content",
+    date: "articles:blog4.date",
+  },
+
+  {
+    id: 5,
+    name: "articles:blog5.name",
+    url: "best-cancer-treatment-in-delhi",
+    image: "blog5.jpeg",
+    content: "articles:blog5.content",
+    date: "articles:blog5.date",
+  },
 ];
