@@ -9,9 +9,9 @@ import { FaUser } from "react-icons/fa";
 import { FaArrowCircleRight } from "react-icons/fa";
 import Link from "next/link";
 
-const Article = ({ url }) => {
+const Article = ({ id, url }) => {
   const { t } = useTranslation();
-  const filteredArticle = articles.find((a) => a.url === url);
+  const filteredArticle = articles.find((a) => a.id == id && a.url == url);
   return (
     <div className="overflow-x-hidden">
       <div className="lg:grid grid-cols-4">
@@ -53,7 +53,7 @@ const Article = ({ url }) => {
           <ul className="mt-3">
             {articles.map((a) => (
               <Link
-                href={`/articles/${a.url}`}
+                href={`/articles/${a.id}/${a.url}`}
                 className="flex hover:text-secondary hover:translate-x-2 duration-300"
               >
                 <table className="">
@@ -76,3 +76,4 @@ const Article = ({ url }) => {
 };
 
 export default Article;
+[];

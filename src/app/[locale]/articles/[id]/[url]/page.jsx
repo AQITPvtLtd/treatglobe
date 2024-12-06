@@ -2,10 +2,11 @@ import React from "react";
 import Article from "./Article";
 
 const page = ({ params }) => {
-  const url = params.url;
+  const { url, id } = params;
+  console.log({ url, id });
   return (
     <div>
-      <Article url={url} />
+      <Article id={id} url={url} />
     </div>
   );
 };

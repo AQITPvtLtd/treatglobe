@@ -11,6 +11,10 @@ import {
   FaYoutube,
   FaTelegramPlane,
 } from "react-icons/fa";
+import { FaLocationDot } from "react-icons/fa6";
+import { FaPhoneAlt } from "react-icons/fa";
+import { MdEmail } from "react-icons/md";
+
 const Footer = () => {
   const { t } = useTranslation();
   return (
@@ -160,13 +164,16 @@ const Footer = () => {
                     <h5 className="mb-2.5 font-bold uppercase">
                       {t("footer:heading3")}
                     </h5>
-                    <Link
-                      target="__blank"
-                      href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
-                      className="hover:text-primary hover:font-bold"
-                    >
-                      Office no. 371 Sec 38 Gurgaon
-                    </Link>
+                    <div className="flex gap-1">
+                      <FaLocationDot className="mt-1" />
+                      <Link
+                        target="__blank"
+                        href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
+                        className="hover:text-primary hover:font-bold"
+                      >
+                        Office no. 371 Sec 38 Gurgaon
+                      </Link>
+                    </div>
                   </li>
                   <li className="mt-3 leading-normal">
                     <Link
@@ -176,7 +183,10 @@ const Footer = () => {
                       <h5 className="mb-2.5 font-bold uppercase">
                         {t("footer:heading4")}
                       </h5>
-                      <div className="hover:text-blue">+91 98186 47557</div>
+                      <div className="flex gap-1">
+                        <FaPhoneAlt className="mt-1" />
+                        <div className="hover:text-blue">+91 98186 47557</div>
+                      </div>
                     </Link>
                   </li>
                   <li className="mt-3 leading-normal">
@@ -187,7 +197,12 @@ const Footer = () => {
                       <h5 className="mb-2.5 font-bold uppercase">
                         {t("footer:heading5")}
                       </h5>
-                      <div className="hover:text-blue">treatglobeinfo@gmail.com</div>
+                      <div className="flex gap-1">
+                        <MdEmail className="mt-1" />
+                        <div className="hover:text-blue">
+                          treatglobeinfo@gmail.com
+                        </div>
+                      </div>
                     </Link>
                   </li>
                 </ul>

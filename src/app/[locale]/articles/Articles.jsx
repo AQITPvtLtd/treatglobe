@@ -23,8 +23,10 @@ const Articles = () => {
 const BlogCards = ({ blog }) => {
   const { t } = useTranslation();
   const url = blog?.url;
+  const id = blog?.id;
+
   return (
-    <div className="max-w-sm bg-bg bg-opacity-60 border border-gray-200 rounded-lg shadow">
+    <div className="max-w-sm bg-bg bg-opacity-60 border border-gray-200 rounded-lg shadow *">
       <Image
         className="rounded-t-lg"
         src={`/blog/${blog?.image}`}
@@ -33,14 +35,14 @@ const BlogCards = ({ blog }) => {
         height={400}
       />
       <div className="p-5">
-        <Link href={`/blogs/${url}`}>
+        <Link href={`/blogs/${id}/${url}`}>
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
             <div dangerouslySetInnerHTML={{ __html: t(blog.name) }} />
           </h5>
         </Link>
         <p className="mb-3 font-normal text-gray-700"></p>
         <Link
-          href={`/articles/${url}`}
+          href={`/articles/${id}/${url}`}
           className="inline-flex bg-blue items-center px-3 py-2 text-sm font-medium text-center text-white bg-primary rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300"
         >
           Read more
