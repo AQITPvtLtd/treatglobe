@@ -177,7 +177,7 @@ const Doctor = ({ doctor, url }) => {
       </div>
       {/* drop down section */}
       <div className="relative lg:w-full mx-2 bg-white lg:pt-10 pb-8 mt-8 shadow-xl ring-1 ring-gray-900/5 rounded-md sm:px-10">
-        <div className="">
+        <div className="px-5">
           <div className="mt-8 grid w-full divide-y divide-neutral-200">
             <div className="py-5">
               <details className="group">

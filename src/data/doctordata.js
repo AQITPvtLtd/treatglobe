@@ -374,7 +374,7 @@ export const doctordata = [
     education: "doctorDetailed:d25.education",
     work: "doctorDetailed:d25.work",
     description: "doctorDetailed:d25.description",
-    treatment: ["eighteen","twentysix"],
+    treatment: ["eighteen", "twentysix"],
   },
   {
     id: 26,

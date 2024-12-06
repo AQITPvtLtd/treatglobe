@@ -9,7 +9,7 @@ const Office = () => {
   const { t } = useTranslation();
   return (
     <div className="relative z-10 rounded-sm bg-white p-8 shadow-three dark:bg-gray-dark sm:p-11 lg:p-8 xl:p-11">
-      <h3 className="text-center mb-4 text-2xl font-bold leading-tight text-black dark:text-white">
+      <h3 className="text-center mb-4 text-2xl font-bold leading-tight text-black dark:text-black">
         {t("contact:header2")}
       </h3>
       <div className=" lg:flex justify-center rounded-md p-2 bg-white">
@@ -20,7 +20,7 @@ const Office = () => {
               <div className="flex">
                 <FaLocationDot className="text-primary w-[20px] h-[20px]" />
                 <div className="ml-3">
-                  <p className="mb-2 font-bold dark:text-white">
+                  <p className="mb-2 font-bold dark:text-black">
                     {t("contact:location")}
                   </p>
                   <Link
@@ -39,7 +39,7 @@ const Office = () => {
               <div className="flex">
                 <FaPhoneAlt className="text-primary w-[20px] h-[20px]" />
                 <div className="ml-3">
-                  <p className="mb-2 font-bold dark:text-white">
+                  <p className="mb-2 font-bold dark:text-black">
                     {t("contact:phone")}
                   </p>
                   <Link
@@ -58,7 +58,7 @@ const Office = () => {
               <div className="flex">
                 <IoMdMail className="text-primary w-[20px] h-[20px]" />
                 <div className="ml-3">
-                  <p className="mb-2 font-bold dark:text-white">
+                  <p className="mb-2 font-bold dark:text-black">
                     {t("contact:email")}
                   </p>
                   <Link
