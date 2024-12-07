@@ -3289,10 +3289,7 @@
     "image": "d38.jpg",
     "experience": "19+",
     "top": false,
-    "speciality": [
-      "Gastroenterologist",
-      "Hepatologist"
-    ],
+    "speciality": ["Gastroenterologist", "Hepatologist"],
     "training": [
       "ILBS, Hindistonning sobiq assistenti",
       "Tashrif xodimi (2016), Kyushu universiteti, Fukuoka Yaponiya",
@@ -3778,7 +3775,7 @@
     "hid": 7,
     "name": "Dr. Bhaba Nanda Das",
     "post": "Bosh - yurak-torakal va qon tomir jarrohligi",
-    "image": "d3.webp",
+    "image": "d3.png",
     "experience": "30+",
     "top": true,
     "speciality": [

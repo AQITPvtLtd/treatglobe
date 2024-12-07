@@ -1479,7 +1479,7 @@ export const doctordata = [
     hid: 7,
     name: "Dr. Bhaba Nanda Das",
     post: "doctorDetailed:d99.post",
-    image: "d3.webp",
+    image: "d3.png",
     experience: "30+",
     top: true,
     speciality: "doctorDetailed:d99.speciality",
