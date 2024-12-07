@@ -711,7 +711,7 @@ export const doctordata = [
     hid: 9,
     name: "Dr. Rakesh Kumar Khazanchi",
     post: "doctorDetailed:d48.post",
-    image: "d13.png",
+    image: "d13.jpg",
     experience: "25+",
     top: false,
     speciality: "doctorDetailed:d48.speciality",

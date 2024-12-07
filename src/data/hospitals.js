@@ -3,7 +3,7 @@ export const hospitals = [
   {
     id: 1,
     name: "Artemis Hospital",
-    image: "artemis1.jpg",
+    image: "artemis1_enhanced.png",
     contentKey: "hospitals:h1",
   },
   {
