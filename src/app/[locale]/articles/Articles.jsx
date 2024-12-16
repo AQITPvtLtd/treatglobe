@@ -5,28 +5,33 @@ import { useTranslation } from "react-i18next";
 import { articles } from "@/data/articles";
 import Link from "next/link";
 import Image from "next/image";
+
 const Articles = () => {
   const { t } = useTranslation();
+
+  // Sort articles by id in descending order
+  const sortedArticles = articles?.sort((a, b) => b.id - a.id);
   return (
     <div className="mt-5">
       <h1 className="text-center text-5xl mb-7 font-bold">
         {t("articles:header")}
       </h1>
       <div className="grid mt-9 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mx-10">
-        {articles?.map((b) => (
+        {sortedArticles?.map((b) => (
           <BlogCards key={b?.id} blog={b} />
         ))}
       </div>
     </div>
   );
 };
+
 const BlogCards = ({ blog }) => {
   const { t } = useTranslation();
   const url = blog?.url;
   const id = blog?.id;
 
   return (
-    <div className="max-w-sm bg-bg bg-opacity-60 border border-gray-200 rounded-lg shadow *">
+    <div className="max-w-sm bg-bg bg-opacity-60 border border-gray-200 rounded-lg shadow">
       <Image
         className="rounded-t-lg"
         src={`/blog/${blog?.image}`}
@@ -66,4 +71,5 @@ const BlogCards = ({ blog }) => {
     </div>
   );
 };
+
 export default Articles;
