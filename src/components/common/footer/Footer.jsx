@@ -164,14 +164,17 @@ const Footer = () => {
                     <h5 className="mb-2.5 font-bold uppercase">
                       {t("footer:heading3")}
                     </h5>
-                    <div className="flex gap-1">
-                      <FaLocationDot className="mt-1" />
+                    <div className="flex gap-2">
+                      <div>
+                        <FaLocationDot className="mt-1 text-lg" />
+                      </div>
                       <Link
                         target="__blank"
-                        href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
+                        href="https://maps.app.goo.gl/TBuF3NgCjLSVjJZU8"
                         className="hover:text-primary hover:font-bold"
                       >
-                        Office no. 371 Sec 38 Gurgaon
+                        First Floor, Arcadia, C-148, Market, South City II,
+                        Sector 49, Gurugram, Fatehpur, Haryana 122018
                       </Link>
                     </div>
                   </li>

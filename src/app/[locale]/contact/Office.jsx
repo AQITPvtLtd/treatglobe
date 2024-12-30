@@ -18,16 +18,19 @@ const Office = () => {
           <div className="mb-5 mt-2 w-full">
             <div className="flex items-start">
               <div className="flex">
-                <FaLocationDot className="text-primary w-[20px] h-[20px]" />
+                <div>
+                  <FaLocationDot className="text-primary w-[20px] h-[20px]" />
+                </div>
                 <div className="ml-3">
                   <p className="mb-2 font-bold dark:text-black">
                     {t("contact:location")}
                   </p>
                   <Link
                     target="__blank"
-                    href="https://maps.app.goo.gl/LPTCjhdCZBdtzp8m6"
+                    href="https://maps.app.goo.gl/TBuF3NgCjLSVjJZU8"
                   >
-                    Office no. 371 Sec 38 Gurgaon
+                    First Floor, Arcadia, C-148, Market, South City II, Sector
+                    49, Gurugram, Fatehpur, Haryana 122018
                   </Link>
                 </div>
               </div>

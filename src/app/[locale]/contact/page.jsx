@@ -36,9 +36,9 @@ const page = () => {
         <div className="lg:mx-10 mx-2 rounded-md">
           <div className="w-full h-0 lg:pb-96 pb-16 relative">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14007.589475045972!2d77.2166586!3d28.6328379!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd91628a5411%3A0x978e36fd6c3d6a37!2sTreatglobe!5e0!3m2!1sen!2sin!4v1730694521683!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3509.039939342571!2d77.0523116!3d28.4180517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d23ce89cdc9c3%3A0xbd3f62fc7bc06ed5!2sTreatGlobe%20%7C%20Best%20Treatment%20in%20India%20%7C%20Delhi%20%7C%20Near%20IGI%20Airport%20%7C%20Best%20Surgeons%20in%20India%20%7C%20Top%20Hospitals%20in%20India!5e0!3m2!1sen!2sin!4v1735550834536!5m2!1sen!2sin"
               className="absolute top-0 left-0 w-full lg:h-96"
-              style={{ border: 0}}
+              style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
