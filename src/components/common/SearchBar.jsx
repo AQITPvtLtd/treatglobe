@@ -18,8 +18,13 @@ const SearchBar = () => {
   const searchRef = useRef();
   const { t } = useTranslation();
 
+  // Function to normalize strings: Convert to lowercase and remove dots
+  const normalizeString = (str) => {
+    return str.replace(/\./g, ""); // Remove dots but keep case as is
+  };
+
   const handleSearch = (e) => {
-    const searchQuery = e.target.value.toLowerCase();
+    const searchQuery = normalizeString(e.target.value); // Get the user input
     setQuery(searchQuery);
 
     if (searchQuery === "") {
@@ -30,20 +35,27 @@ const SearchBar = () => {
       return;
     }
 
+    // Perform a case-insensitive search using 'toLowerCase' for comparison
     const filteredDoctors = doctordata.filter((doctor) =>
-      doctor.name.toLowerCase().includes(searchQuery)
+      normalizeString(doctor.name)
+        .toLowerCase()
+        .includes(searchQuery.toLowerCase())
     );
 
     const filteredHospitals = hospitals.filter((hospital) =>
-      hospital.name.toLowerCase().includes(searchQuery)
+      normalizeString(hospital.name)
+        .toLowerCase()
+        .includes(searchQuery.toLowerCase())
     );
 
     const filteredTreatments = treatment
       .map((tr) => ({
         ...tr,
-        translatedName: t(tr.name).toLowerCase(),
+        translatedName: normalizeString(t(tr.name)),
       }))
-      .filter((tr) => tr.translatedName.includes(searchQuery));
+      .filter((tr) =>
+        tr.translatedName.toLowerCase().includes(searchQuery.toLowerCase())
+      );
 
     setFilteredDoctors(filteredDoctors);
     setFilteredHospitals(filteredHospitals);

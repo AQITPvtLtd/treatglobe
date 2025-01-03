@@ -46,13 +46,13 @@ export default function LanguageChanger() {
         <option value="" disabled>
           {t("language:header")}
         </option>
-        <option value="am-ET">{t("language:amharic")}</option>
-        <option value="ar">{t("language:arabic")}</option>
-        <option value="bn-BD">{t("language:bengali")}</option>
-        <option value="en">{t("language:english")}</option>
-        <option value="fr">{t("language:french")}</option>
-        <option value="ru">{t("language:russian")}</option>
-        <option value="uz">{t("language:uzbek")}</option>
+        <option value="am-ET">Amharic</option>
+        <option value="ar">Arabic</option>
+        <option value="bn-BD">Bengali</option>
+        <option value="en">English</option>
+        <option value="fr">French</option>
+        <option value="ru">Russian</option>
+        <option value="uz">Uzbek</option>
       </select>
     </div>
   );
