@@ -40,7 +40,7 @@ const BlogCards = ({ blog }) => {
         height={400}
       />
       <div className="p-5">
-        <Link href={`/blogs/${id}/${url}`}>
+        <Link href={`/articles/${id}/${url}`}>
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">
             <div dangerouslySetInnerHTML={{ __html: t(blog.name) }} />
           </h5>
