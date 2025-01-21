@@ -26,6 +26,35 @@ const ContactForm = () => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
+  const handleFileChange = (e, type) => {
+    if (type === "file") {
+      setFile(e.target.files[0]);
+    } else {
+      setIndentityFile(e.target.files[0]);
+    }
+  };
+
+  const sendFormData = async (fileData) => {
+    try {
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        body: fileData,
+      });
+      return await response.json(); // Return response as JSON
+    } catch (error) {
+      console.error("Error during form submission", error);
+      return {
+        success: false,
+        message: "An error occurred. Please try again.",
+      };
+    }
+  };
+
+  const uploadFiles = async (fileData) => {
+    // You can add logic here for any additional file uploads if needed
+    // For now, we assume the files are uploaded with the form submission
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     const fileData = new FormData();
@@ -56,14 +85,17 @@ const ContactForm = () => {
 
     setLoading(true); // Set loading to true when the query starts
 
-    const response = await sendFormData(fileData);
+    const response = await sendFormData(fileData); // Send the form data to the API
     setLoading(false); // Set loading to false when response is received
+
     if (response.success) {
       swal({
         title: "Success",
         text: "Enquiry Form Sent!",
         icon: "success",
       });
+
+      // Reset form data after submission
       setFormData({
         firstName: "",
         lastName: "",
@@ -74,15 +106,18 @@ const ContactForm = () => {
       setFile(null);
       setIndentityFile(null);
 
+      // Optionally reload the page (remove if unnecessary)
       window.location.reload();
     } else {
       swal({
         title: "Error",
-        text: response.message,
+        text: response.message || "Something went wrong. Please try again.",
         icon: "error",
       });
     }
-    await uploadFiles(fileData);
+
+    // Optionally handle file upload
+    await uploadFiles(fileData); // If needed, you can call the function for file upload here
   };
 
   return (
