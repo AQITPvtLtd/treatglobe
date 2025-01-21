@@ -76,6 +76,7 @@ const ContactForm = () => {
 
       window.location.reload();
     } else {
+      console.log(error.message);
       swal({
         title: "Oops!",
         text: "Can't send enquiry form",
