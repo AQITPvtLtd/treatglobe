@@ -43,8 +43,7 @@
 
 
 
-
-import mysql from "mysql2";
+import mysql from "mysql2/promise";
 
 // Create a connection pool
 const pool = mysql.createPool({
@@ -59,26 +58,19 @@ const pool = mysql.createPool({
 });
 
 // Function to periodically ping the database to keep connections alive
-function keepConnectionAlive() {
-  pool.getConnection((err, connection) => {
-    if (err) {
-      console.error("Error in getting connection for keep-alive:", err.message);
-      return;
-    }
-    // Ping the database
-    connection.ping((pingError) => {
-      if (pingError) {
-        console.error("Error in pinging the database:", pingError.message);
-      } else {
-        console.log("Database connection is alive.");
-      }
-      connection.release(); // Always release the connection back to the pool
-    });
-  });
+async function keepConnectionAlive() {
+  try {
+    const connection = await pool.getConnection(); // Get a connection from the pool
+    await connection.ping();                      // Ping the database
+    console.log("Database connection is alive.");
+    connection.release();                         // Release the connection back to the pool
+  } catch (err) {
+    console.error("Error in keep-alive process:", err.message);
+  }
 }
 
 // Set an interval to run the keep-alive function every 15 minutes
 setInterval(keepConnectionAlive, 15 * 60 * 1000); // 15 minutes
 
-// Export the promise-based pool for use in async/await
-export default pool.promise();
+// Export the pool for use in async/await
+export default pool;
