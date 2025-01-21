@@ -77,8 +77,8 @@ const ContactForm = () => {
       window.location.reload();
     } else {
       swal({
-        title: "Oops!",
-        text: "Can't send enquiry form",
+        title: "Error",
+        text: response.message,
         icon: "error",
       });
     }
