@@ -21,24 +21,30 @@ export const POST = async (req) => {
   const folderPath = path.join(process.cwd(), "public/documents", unique_id);
   fs.mkdirSync(folderPath, { recursive: true });
 
-  // Convert file data to buffer
-  const buffer = Buffer.from(await file.arrayBuffer());
-  const buffer2 = Buffer.from(await identityFile.arrayBuffer());
+  let buffer, buffer2;
+  let medical = "no-file-uploaded", iden = "no-file-uploaded"; // Default values
 
-  // Define filenames with extensions
-  const medical = `${unique_id}medical${path.extname(file.name)}`;
-  const iden = `${unique_id}identity${path.extname(identityFile.name)}`;
+  // Convert file data to buffer only if files exist
+  if (file) {
+    buffer = Buffer.from(await file.arrayBuffer());
+    medical = `${unique_id}medical${path.extname(file.name)}`;
+  }
+
+  if (identityFile) {
+    buffer2 = Buffer.from(await identityFile.arrayBuffer());
+    iden = `${unique_id}identity${path.extname(identityFile.name)}`;
+  }
 
   let connection; // Declare a variable to hold the connection
   try {
-    // Write files to disk
-    await writeFile(path.join(folderPath, medical), buffer);
-    await writeFile(path.join(folderPath, iden), buffer2);
+    // Write files to disk only if they exist
+    if (file) await writeFile(path.join(folderPath, medical), buffer);
+    if (identityFile) await writeFile(path.join(folderPath, iden), buffer2);
 
     // Get a connection from the pool
     connection = await pool.getConnection();
 
-    // Insert data into MySQL database
+    // Insert data into MySQL database, use default values if files are missing
     const [rows] = await connection.query(
       "INSERT INTO contact (id, first_name, last_name, phone, email, medical_report, identity_proof, message) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
       [unique_id, firstName, lastName, phone, email, medical, iden, message]
@@ -55,21 +61,26 @@ export const POST = async (req) => {
       },
     });
 
-    // Send email to admin
+    // Send email to admin with attachments if files exist
+    const emailAttachments = [];
+    if (file) {
+      emailAttachments.push({
+        filename: medical,
+        path: path.join(folderPath, medical),
+      });
+    }
+    if (identityFile) {
+      emailAttachments.push({
+        filename: iden,
+        path: path.join(folderPath, iden),
+      });
+    }
+
     await transporter.sendMail({
       from: process.env.MY_EMAIL,
       to: process.env.MY_EMAIL,
       subject: "TreatGlobe Contact form",
-      attachments: [
-        {
-          filename: medical,
-          path: path.join(folderPath, medical),
-        },
-        {
-          filename: iden,
-          path: path.join(folderPath, iden),
-        },
-      ],
+      attachments: emailAttachments,
       html: `<html>
                 <body>
                   <h3>You've got a new mail from ${firstName} ${lastName}, their email is: ✉️${email}, their phone number is: ${phone}</h3>
@@ -92,10 +103,6 @@ export const POST = async (req) => {
              </html>`,
     });
 
-    // Upload files to Google Drive
-    // const authClient = await authorize();
-    // await uploadFile(authClient, unique_id, file, identityFile);
-
     // Return success response
     return NextResponse.json({ Message: "Success", success: true });
   } catch (error) {
@@ -105,6 +112,8 @@ export const POST = async (req) => {
     if (connection) connection.release(); // Always release the connection back to the pool if it was acquired
   }
 };
+
+
 
 // Scope for Google Drive access
 // const SCOPE = ["https://www.googleapis.com/auth/drive"];

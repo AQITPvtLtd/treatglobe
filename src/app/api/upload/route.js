@@ -16,21 +16,35 @@ export const POST = async (req) => {
   const folderPath = path.join(process.cwd(), "public/documents", unique_id);
   fs.mkdirSync(folderPath, { recursive: true });
 
-  // Convert file data to buffer
-  const buffer = Buffer.from(await file.arrayBuffer());
-  const buffer2 = Buffer.from(await identityFile.arrayBuffer());
+  // Convert file data to buffer only if files exist
+  let buffer, buffer2;
+  let medical, iden;
 
-  // Define filenames with extensions
-  const medical = `${unique_id}medical${path.extname(file.name)}`;
-  const iden = `${unique_id}identity${path.extname(identityFile.name)}`;
+  if (file) {
+    buffer = Buffer.from(await file.arrayBuffer());
+    medical = `${unique_id}medical${path.extname(file.name)}`;
+  }
+
+  if (identityFile) {
+    buffer2 = Buffer.from(await identityFile.arrayBuffer());
+    iden = `${unique_id}identity${path.extname(identityFile.name)}`;
+  }
 
   try {
-    await writeFile(path.join(folderPath, medical), buffer);
-    await writeFile(path.join(folderPath, iden), buffer2);
+    // Write files to the local folder if they exist
+    if (file) await writeFile(path.join(folderPath, medical), buffer);
+    if (identityFile) await writeFile(path.join(folderPath, iden), buffer2);
 
-    // Upload files to Google Drive
+    // Upload files to Google Drive only if they exist
     const authClient = await authorize();
-    await uploadFile(authClient, unique_id, file, identityFile);
+
+    if (file) {
+      await uploadFile(authClient, unique_id, file, null); // Pass null for identityFile if not present
+    }
+
+    if (identityFile) {
+      await uploadFile(authClient, unique_id, null, identityFile); // Pass null for file if not present
+    }
 
     // Return success response
     return NextResponse.json({

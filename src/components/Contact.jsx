@@ -29,26 +29,25 @@ const ContactForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const fileData = new FormData();
-    // if (!file) {
-    //   alert("Medical Report can't be empty!");
-    //   return;
-    // }
-    if (file.size > 500 * 1024) {
-      // Check if file size exceeds 500KB
-      alert("File size must not exceed 500KB!");
-      return;
+
+    // Skip file and identity validation, make them optional
+    if (file) {
+      if (file.size > 500 * 1024) {
+        // Check if file size exceeds 500KB
+        alert("File size must not exceed 500KB!");
+        return;
+      }
+      fileData.append("myFile", file);
     }
-    // if (!identityFile) {
-    //   alert("Passport field can't be empty!");
-    //   return;
-    // }
-    if (identityFile.size > 500 * 1024) {
-      // Check if file size exceeds 500KB
-      alert("File size must not exceed 500KB!");
-      return;
+
+    if (identityFile) {
+      if (identityFile.size > 500 * 1024) {
+        // Check if file size exceeds 500KB
+        alert("File size must not exceed 500KB!");
+        return;
+      }
+      fileData.append("identity", identityFile);
     }
-    fileData.append("myFile", file);
-    fileData.append("identity", identityFile);
 
     // Append other form data fields to fileData
     Object.entries(formData).forEach(([key, value]) => {
