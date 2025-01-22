@@ -9,7 +9,7 @@ import i18nConfig from "@/i18nConfig";
 import { dir } from "i18next";
 import initTranslations from "../i18n";
 import TranslationsProvider from "@/components/TranslationsProvider";
-import Head from "next/head"; // Importing the Head component
+import Script from "next/script"; // Correct Next.js Script import
 import Image from "next/image";
 
 const i18nNamespaces = [
@@ -46,9 +46,13 @@ export default async function RootLayout({ children, params: { locale } }) {
 
   return (
     <html lang={locale} dir={dir(locale)}>
-      <Head>
-        {/* Meta Pixel Code */}
-        <script
+      <head>
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+
+        {/* Adding the Meta Pixel Script */}
+        <Script
+          strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: `
               !function(f,b,e,v,n,t,s)
@@ -70,11 +74,13 @@ export default async function RootLayout({ children, params: { locale } }) {
             width="1"
             style={{ display: "none" }}
             src="https://www.facebook.com/tr?id=926766189586191&ev=PageView&noscript=1"
+            alt="facebook pixel"
           />
         </noscript>
-        {/* End Meta Pixel Code */}
-      </Head>
+      </head>
       <body className={inter.className}>
+
+        {/* Application content */}
         <TranslationsProvider
           namespaces={i18nNamespaces}
           locale={locale}
