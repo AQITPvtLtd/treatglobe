@@ -10,6 +10,7 @@ import { dir } from "i18next";
 import initTranslations from "../i18n";
 import TranslationsProvider from "@/components/TranslationsProvider";
 import Head from "next/head"; // Importing the Head component
+import Image from "next/image";
 
 const i18nNamespaces = [
   "home",
@@ -64,7 +65,7 @@ export default async function RootLayout({ children, params: { locale } }) {
           }}
         />
         <noscript>
-          <img
+          <Image
             height="1"
             width="1"
             style={{ display: "none" }}
