@@ -70,6 +70,13 @@ const Office = () => {
                   >
                     treatglobeinfo@gmail.com
                   </Link>
+                  <br />
+                  <Link
+                    href="mailto: info@treatglobe.com"
+                    className="hover:text-primary"
+                  >
+                    info@treatglobe.com
+                  </Link>
                 </div>
               </div>
             </div>

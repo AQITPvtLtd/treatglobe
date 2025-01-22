@@ -207,6 +207,18 @@ const Footer = () => {
                         </div>
                       </div>
                     </Link>
+
+                    <Link
+                      href="mailto:info@treatglobe.com "
+                      className="hover:text-primary hover:font-bold"
+                    >
+                      <div className="flex gap-1">
+                        <MdEmail className="mt-1" />
+                        <div className="hover:text-blue">
+                          info@treatglobe.com
+                        </div>
+                      </div>
+                    </Link>
                   </li>
                 </ul>
               </div>
