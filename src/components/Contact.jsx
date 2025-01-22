@@ -93,6 +93,8 @@ const ContactForm = () => {
         title: "Success",
         text: "Enquiry Form Sent!",
         icon: "success",
+        buttons: true, // Hide buttons
+        timer: 10000, // Auto-close after 10 seconds
       });
 
       // Reset form data after submission
@@ -106,13 +108,17 @@ const ContactForm = () => {
       setFile(null);
       setIndentityFile(null);
 
-      // Optionally reload the page (remove if unnecessary)
-      window.location.reload();
+      // Optionally reload the page after 10 seconds
+      setTimeout(() => {
+        window.location.reload();
+      }, 10000); // Reload after 10 seconds
     } else {
       swal({
         title: "Error",
         text: response.message || "Something went wrong. Please try again.",
         icon: "error",
+        buttons: false, // Hide buttons
+        timer: 10000, // Auto-close after 10 seconds
       });
     }
 
