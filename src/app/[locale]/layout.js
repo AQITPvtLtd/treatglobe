@@ -46,6 +46,20 @@ export default async function RootLayout({ children, params: { locale } }) {
   return (
     <html lang={locale} dir={dir(locale)}>
       <head>
+
+        {/* Google tag (gtag.js) */}
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-6PT10B466Q"></Script>
+        <Script id="gtag-script">
+          {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-6PT10B466Q'); `}
+
+        </Script>
+
+
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
 
