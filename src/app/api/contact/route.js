@@ -46,7 +46,7 @@ export const POST = async (req) => {
 
     // Insert data into MySQL database, use default values if files are missing
     const [rows] = await connection.query(
-      "INSERT INTO contact (id, first_name, last_name, phone, email, medical_report, identity_proof, message) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+      "INSERT INTO contact (id,date, first_name, last_name, phone, email, medical_report, identity_proof, message) VALUES (?, NOW() ,?, ?, ?, ?, ?, ?, ?)",
       [unique_id, firstName, lastName, phone, email, medical, iden, message]
     );
 
