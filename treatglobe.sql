@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 17, 2025 at 06:20 AM
+-- Generation Time: Feb 17, 2025 at 06:50 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -45,8 +45,8 @@ CREATE TABLE `contact` (
 --
 
 INSERT INTO `contact` (`s.no`, `id`, `date`, `first_name`, `last_name`, `phone`, `email`, `medical_report`, `identity_proof`, `message`) VALUES
-(1, 'b7f58557-cd1b-49d0-ad6d-c60816fe6ef9', '2025-02-17', 'Abhishek ', 'Mathur', '9879879876', 'nitendrapatel259@gmail.com', 'no-file-uploaded', 'no-file-uploaded', 'web testing...'),
-(2, '61d97fb6-6640-479c-b409-3588b55fefa8', '2025-02-17', 'Abhishek ', 'Mathur', '9879879876', 'nitendrapatel259@gmail.com', '61d97fb6-6640-479c-b409-3588b55fefa8medical.pdf', '61d97fb6-6640-479c-b409-3588b55fefa8identity.pdf', 'web testing...');
+(1, 'a9d17dc2-7504-44b7-b748-c5b3475e43e4', '2025-02-17', 'AJEBUSH ', 'ADANE', 'ADANE', 'wondegez@gmail.com', 'no-file-uploaded', 'no-file-uploaded', ''),
+(2, 'ee9196ca-3ac4-4615-ae59-5947674170e2', '2025-02-17', 'Daniel', 'Daniel', '+251909720594', 'danieeelg27@gmail.com', 'no-file-uploaded', 'no-file-uploaded', 'Cardiovascular, nephrology and neurology');
 
 --
 -- Indexes for dumped tables
