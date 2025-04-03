@@ -22,7 +22,7 @@ const Footer = () => {
       <footer className=" items-center text-surface">
         <div className="border text-gray-600 mt-5 mx-5"></div>
 
-        <div className="container py-20 pl-10 pt-6 mt-[50px] lg:mt-[14px]">
+        <div className="container py-10 pl-10 pt-6 mt-[50px] lg:mt-[14px]">
           <div className="lg:grid grid-cols-4">
             {/* logo */}
             <div>
@@ -226,7 +226,7 @@ const Footer = () => {
           </div>
         </div>
         {/* <!-- Copyright section --> */}
-        <div className="w-full bg-primary text-white p-4 text-center">
+        {/* <div className="w-full bg-primary text-white p-4 text-center">
           © 2024 Copyright:
           <Link
             className="text-white font-semibold"
@@ -234,7 +234,7 @@ const Footer = () => {
           >
             TekBooster
           </Link>
-        </div>
+        </div> */}
       </footer>
     </div>
   );
