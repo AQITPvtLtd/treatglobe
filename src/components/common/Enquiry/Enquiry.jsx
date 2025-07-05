@@ -6,7 +6,7 @@ import { useTranslation } from "react-i18next";
 export default function Enquiry() {
   const { t } = useTranslation();
   return (
-    <div className="fixed bottom-28 right-8 z-[99]">
+    <div className="fixed lg:bottom-28 bottom-44 right-8 z-[99]">
       <Link
         title={t("tooltips:enquire")}
         href="/contact"

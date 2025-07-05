@@ -4,7 +4,7 @@ import Link from "next/link";
 import "animate.css";
 export default function Whatsapp() {
   return (
-    <div className="fixed bottom-8 right-8 z-[99]">
+    <div className="fixed lg:bottom-8 bottom-24 right-8 z-[99]">
       <Link
         title="Whatsapp"
         href="https://alvo.chat/4C9O"
