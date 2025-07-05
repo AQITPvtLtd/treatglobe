@@ -226,18 +226,20 @@ const Footer = () => {
           </div>
         </div>
         {/* <!-- Copyright section --> */}
-        <div className="w-full bg-primary text-white p-4 text-center">
-          Copyright © 2024 Treatglobe. All rights reserved.
+        <marquee behavior="scroll" direction="left" scrollamount="6">
           <div>
             Design & Developed By{' '}
             <Link
-              className="text-white font-semibold"
+              className=" font-semibold"
               href="https://www.tekbooster.com"
-              target="__blank"
+              target="_blank"
             >
               Tek Booster (Digital Marketing Company)
             </Link>
           </div>
+        </marquee>
+        <div className="w-full bg-primary text-white p-4 text-center">
+          Copyright © 2024 Treatglobe. All rights reserved.
         </div>
       </footer>
     </div>
