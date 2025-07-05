@@ -227,14 +227,17 @@ const Footer = () => {
         </div>
         {/* <!-- Copyright section --> */}
         <div className="w-full bg-primary text-white p-4 text-center">
-          Design & Developed By{' '}
-          <Link
-            className="text-white font-semibold"
-            href="https://www.tekbooster.com"
-            target="__blank"
-          >
-            Tek Booster (Digital Marketing Company)
-          </Link>
+          Copyright © 2024 Treatglobe. All rights reserved.
+          <div>
+            Design & Developed By{' '}
+            <Link
+              className="text-white font-semibold"
+              href="https://www.tekbooster.com"
+              target="__blank"
+            >
+              Tek Booster (Digital Marketing Company)
+            </Link>
+          </div>
         </div>
       </footer>
     </div>
