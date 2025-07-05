@@ -46,7 +46,7 @@ export default async function RootLayout({ children, params: { locale } }) {
   return (
     <html lang={locale} dir={dir(locale)}>
       <head>
-
+        <meta name="google" content="notranslate" />
         {/* Google tag (gtag.js) */}
         <Script async src="https://www.googletagmanager.com/gtag/js?id=G-6PT10B466Q"></Script>
         <Script id="gtag-script">
